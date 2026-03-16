@@ -2,11 +2,5 @@
   "buildCommand": "pnpm build",
   "devCommand": "pnpm dev",
   "installCommand": "pnpm install",
-  "framework": "nextjs",
-  "regions": ["fra1"],
-  "functions": {
-    "app/api/**/*": {
-      "runtime": "nodejs20.x"
-    }
-  }
+  "framework": "nextjs"
 }
