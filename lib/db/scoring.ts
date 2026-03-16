@@ -26,12 +26,12 @@ export function calculateBuildAttractiveness(scores: {
   const weights = SCORING_WEIGHTS;
   
   const normalizedScores = {
-    strategic_fit: scoreDimension(scores.strategic_fit_score),
-    build_feasibility: scoreDimension(scores.build_feasibility_score),
-    technical_overlap: scoreDimension(scores.technical_overlap_score),
-    regulatory_simplicity: scoreDimension(scores.regulatory_burden_score), // note: should be inverted
-    market_leverage: scoreDimension(scores.market_leverage_score),
-    replicability: scoreDimension(scores.replicability_score),
+    strategic_fit: scoreDimension(scores.strategic_fit_score, 3),
+    build_feasibility: scoreDimension(scores.build_feasibility_score, 3),
+    technical_overlap: scoreDimension(scores.technical_overlap_score, 3),
+    regulatory_simplicity: scoreDimension(scores.regulatory_burden_score, 3), // note: should be inverted
+    market_leverage: scoreDimension(scores.market_leverage_score, 3),
+    replicability: scoreDimension(scores.replicability_score, 3),
   };
   
   return Math.round((
@@ -48,7 +48,7 @@ export function calculateReplicationDifficulty(scores: {
   build_feasibility_score: number | null;
   technical_overlap_score: number | null;
 }): number {
-  const avgScore = (scoreDimension(scores.build_feasibility_score) + scoreDimension(scores.technical_overlap_score)) / 2;
+  const avgScore = (scoreDimension(scores.build_feasibility_score, 3) + scoreDimension(scores.technical_overlap_score, 3)) / 2;
   return Math.round((6 - avgScore) * 10) / 10;
 }
 

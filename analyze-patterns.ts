@@ -12,10 +12,10 @@ async function main() {
     .execute();
   console.log('\nBy Varden Fit:', byFit);
   
-  // Get high-value entries
+  // Get high-value entries (varden_fit >= 7 means high or very_high)
   const highValue = await db.selectFrom('entries')
     .select(['company', 'problem_type', 'solution_type', 'country', 'varden_fit', 'buyer', 'care_setting', 'problem', 'solution'])
-    .where('varden_fit', 'in', ['high', 'very_high'])
+    .where('varden_fit', '>=', 7)
     .limit(30)
     .execute();
   

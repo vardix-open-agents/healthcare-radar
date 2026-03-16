@@ -39,13 +39,48 @@ function sanitizeValue(value: unknown): string | number | null {
   return String(value);
 }
 
+// Type-specific helpers for Kysely strict typing
+function asString(value: unknown): string {
+  if (value === null || value === undefined) return '';
+  if (typeof value === 'string') return value;
+  return String(value);
+}
+
+function asOptionalString(value: unknown): string | undefined {
+  if (value === null || value === undefined) return undefined;
+  if (typeof value === 'string') return value;
+  return String(value);
+}
+
+function asNumber(value: unknown): number {
+  if (typeof value === 'number') return value;
+  if (typeof value === 'string') return parseInt(value, 10) || 0;
+  return 0;
+}
+
+function asOptionalNumber(value: unknown): number | undefined {
+  if (value === null || value === undefined) return undefined;
+  if (typeof value === 'number') return value;
+  if (typeof value === 'string') {
+    const parsed = parseInt(value, 10);
+    return isNaN(parsed) ? undefined : parsed;
+  }
+  return undefined;
+}
+
+function asDate(value: unknown): Date {
+  if (value instanceof Date) return value;
+  if (typeof value === 'string') return new Date(value);
+  return new Date();
+}
+
 // Map varden_fit string to numeric score
 function mapVardenFit(fit: unknown): number | null {
   if (!fit) return null;
   if (typeof fit === 'number') return fit;
   if (typeof fit !== 'string') return null;
 
-  const fitMap: Record<string, number> = {
+  const fitMap: Record<string, number | null> = {
     'very_high': 10,
     'very high': 10,
     'high': 7,
@@ -557,32 +592,32 @@ async function seed() {
             if (existing) {
               await trx.updateTable('themes')
                 .set({
-                  name: sanitizeValue(theme.name),
-                  description: sanitizeValue(theme.description),
-                  evidence_count: sanitizeValue(theme.evidence_count),
-                  growth_signal: sanitizeValue(theme.growth_signal),
-                  varden_fit: sanitizeValue(theme.varden_fit),
-                  opportunity: sanitizeValue(theme.opportunity),
-                  drivers: sanitizeValue(theme.drivers),
-                  evidence: sanitizeValue(theme.evidence),
-                  updated_at: sanitizeValue(new Date().toISOString()),
+                  name: asString(theme.name),
+                  description: asOptionalString(theme.description),
+                  evidence_count: asNumber(theme.evidence_count),
+                  growth_signal: asOptionalString(theme.growth_signal),
+                  varden_fit: asOptionalString(theme.varden_fit),
+                  opportunity: asOptionalString(theme.opportunity),
+                  drivers: asOptionalString(theme.drivers),
+                  evidence: asOptionalString(theme.evidence),
+                  updated_at: asDate(new Date().toISOString()),
                 })
                 .where('slug', '=', slug)
                 .execute();
             } else {
               await trx.insertInto('themes').values({
-                id: sanitizeValue(theme.id),
-                slug: sanitizeValue(theme.slug),
-                name: sanitizeValue(theme.name),
-                description: sanitizeValue(theme.description),
-                evidence_count: sanitizeValue(theme.evidence_count),
-                growth_signal: sanitizeValue(theme.growth_signal),
-                varden_fit: sanitizeValue(theme.varden_fit),
-                opportunity: sanitizeValue(theme.opportunity),
-                drivers: sanitizeValue(theme.drivers),
-                evidence: sanitizeValue(theme.evidence),
-                created_at: sanitizeValue(new Date().toISOString()),
-                updated_at: sanitizeValue(new Date().toISOString()),
+                id: asString(theme.id),
+                slug: asString(theme.slug),
+                name: asString(theme.name),
+                description: asOptionalString(theme.description),
+                evidence_count: asNumber(theme.evidence_count),
+                growth_signal: asOptionalString(theme.growth_signal),
+                varden_fit: asOptionalString(theme.varden_fit),
+                opportunity: asOptionalString(theme.opportunity),
+                drivers: asOptionalString(theme.drivers),
+                evidence: asOptionalString(theme.evidence),
+                created_at: asDate(new Date().toISOString()),
+                updated_at: asDate(new Date().toISOString()),
               }).execute();
               themesInserted++;
             }
@@ -620,17 +655,19 @@ async function seed() {
 
               if (!existing) {
                 await trx.insertInto('opportunities').values({
-                  id: sanitizeValue(opp.id),
-                  rank: sanitizeValue(opp.rank),
-                  company: sanitizeValue(opp.company),
-                  country: sanitizeValue(opp.country),
-                  score: sanitizeValue(opp.score),
-                  action: sanitizeValue(opp.action),
-                  investment_min: sanitizeValue(opp.investment_min),
-                  investment_max: sanitizeValue(opp.investment_max),
-                  rationale: sanitizeValue(opp.rationale),
-                  tier: sanitizeValue(opp.tier),
-                  theme: sanitizeValue(opp.theme),
+                  id: asString(opp.id),
+                  rank: asNumber(opp.rank),
+                  company: asString(opp.company),
+                  country: asString(opp.country),
+                  score: asNumber(opp.score),
+                  action: asString(opp.action),
+                  investment_min: asOptionalNumber(opp.investment_min),
+                  investment_max: asOptionalNumber(opp.investment_max),
+                  rationale: asOptionalString(opp.rationale),
+                  tier: asOptionalNumber(opp.tier),
+                  theme: asOptionalString(opp.theme),
+                  created_at: asDate(new Date().toISOString()),
+                  updated_at: asDate(new Date().toISOString()),
                 }).execute();
                 opportunitiesInserted++;
               }

@@ -56,10 +56,15 @@ export async function up(db: Kysely<any>): Promise<void> {
     .addColumn('updated_at', 'text', col => col.notNull())
     .execute();
 
-  // Rename entries to discovery_instances and add canonical_company_id
+  // Rename entries to discovery_instances
   await db.schema
     .alterTable('entries')
     .renameTo('discovery_instances')
+    .execute();
+
+  // Add canonical_company_id to discovery_instances (the renamed table)
+  await db.schema
+    .alterTable('discovery_instances')
     .addColumn('canonical_company_id', 'text')
     .execute();
 

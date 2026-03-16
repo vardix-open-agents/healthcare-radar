@@ -1,4 +1,4 @@
-import { Kysely, table } from 'kysely';
+import { Kysely } from 'kysely';
 
 // Canonical company table - one record per real company
 export interface CanonicalCompany {

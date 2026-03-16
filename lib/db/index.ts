@@ -1,5 +1,5 @@
 import { Kysely, SqliteDialect } from 'kysely';
-import Database from 'better-sqlite3';
+import BetterSqlite3 from 'better-sqlite3';
 import type { Database } from './schema';
 import path from 'path';
 import fs from 'fs';
@@ -12,7 +12,7 @@ if (!fs.existsSync(dbDir)) {
 
 const dbPath = process.env.DATABASE_URL || path.join(dbDir, 'radar.db');
 
-const sqliteDb = new Database(dbPath);
+const sqliteDb = new BetterSqlite3(dbPath);
 sqliteDb.pragma('journal_mode = WAL');
 
 export const db = new Kysely<Database>({

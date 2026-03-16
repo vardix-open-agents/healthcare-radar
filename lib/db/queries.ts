@@ -49,11 +49,11 @@ export async function getEntries(filters: EntryFilters = {}): Promise<Entry[]> {
   if (filters.search) {
     // Simple full-text search across multiple fields
     const searchTerm = `%${filters.search}%`;
-    query = query.where(({ or, cmpr }) => or([
-      cmpr('title', 'like', searchTerm),
-      cmpr('company', 'like', searchTerm),
-      cmpr('problem', 'like', searchTerm),
-      cmpr('solution', 'like', searchTerm),
+    query = query.where((eb) => eb.or([
+      eb('title', 'like', searchTerm),
+      eb('company', 'like', searchTerm),
+      eb('problem', 'like', searchTerm),
+      eb('solution', 'like', searchTerm),
     ]));
   }
 
@@ -157,12 +157,12 @@ export async function searchEntries(query: string, limit: number = 50): Promise<
   const results = await db
     .selectFrom('entries')
     .selectAll()
-    .where(({ or, cmpr }) => or([
-      cmpr('title', 'like', searchTerm),
-      cmpr('company', 'like', searchTerm),
-      cmpr('problem', 'like', searchTerm),
-      cmpr('solution', 'like', searchTerm),
-      cmpr('notes', 'like', searchTerm),
+    .where((eb) => eb.or([
+      eb('title', 'like', searchTerm),
+      eb('company', 'like', searchTerm),
+      eb('problem', 'like', searchTerm),
+      eb('solution', 'like', searchTerm),
+      eb('notes', 'like', searchTerm),
     ]))
     .orderBy('varden_fit', 'desc')
     .limit(limit)

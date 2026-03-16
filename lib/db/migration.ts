@@ -1,10 +1,11 @@
 #!/usr/bin/env tsx
 import { Kysely, sql, RawBuilder } from 'kysely';
 import { db, closeDb } from './index';
+import type { Database } from './schema';
 
 // Migration: Add missing fields to entries table and ensure canonical_companies has entry_count
 async function addColumnIfNotExists(
-  db: Kysely,
+  db: Kysely<Database>,
   table: string,
   column: string,
   type: string
@@ -22,7 +23,7 @@ async function addColumnIfNotExists(
   }
 }
 
-export async function up(db: Kysely) {
+export async function up(db: Kysely<Database>) {
   console.log('🔄 Adding missing columns to entries table...');
   
   // Add missing columns to entries table (one at a time for SQLite compatibility)
@@ -56,7 +57,7 @@ export async function up(db: Kysely) {
   await addColumnIfNotExists(db, 'company_aliases', 'notes', 'TEXT');
 }
 
-export async function down(db: Kysely) {
+export async function down(db: Kysely<Database>) {
   // No down migration - we don't rollback schema changes
 }
 
@@ -65,7 +66,7 @@ async function main() {
   console.log('🚀 Starting schema migration...\n');
   
   try {
-    await up(db as Kysely);
+    await up(db);
     console.log('\n🎉 Migration completed successfully!');
   } catch (error) {
     console.error('❌ Migration failed:', error);
