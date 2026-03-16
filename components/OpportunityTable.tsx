@@ -46,19 +46,22 @@ export default function OpportunityTable({ entries, onEntryClick }: OpportunityT
     };
 
     result.sort((a, b) => {
-      let aVal = a[sortField];
-      let bVal = b[sortField];
+      const aVal = a[sortField];
+      const bVal = b[sortField];
 
       if (sortField === 'varden_fit') {
-        aVal = fitOrder[aVal as string] || 0;
-        bVal = fitOrder[bVal as string] || 0;
-      } else if (typeof aVal === 'string') {
-        aVal = aVal.toLowerCase();
-        bVal = (bVal as string).toLowerCase();
+        const aScore = fitOrder[aVal as string] || 0;
+        const bScore = fitOrder[bVal as string] || 0;
+        if (aScore < bScore) return sortDirection === 'asc' ? -1 : 1;
+        if (aScore > bScore) return sortDirection === 'asc' ? 1 : -1;
+        return 0;
       }
 
-      if (aVal < bVal) return sortDirection === 'asc' ? -1 : 1;
-      if (aVal > bVal) return sortDirection === 'asc' ? 1 : -1;
+      const aStr = typeof aVal === 'string' ? aVal.toLowerCase() : String(aVal);
+      const bStr = typeof bVal === 'string' ? bVal.toLowerCase() : String(bVal);
+
+      if (aStr < bStr) return sortDirection === 'asc' ? -1 : 1;
+      if (aStr > bStr) return sortDirection === 'asc' ? 1 : -1;
       return 0;
     });
 
