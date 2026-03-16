@@ -464,6 +464,13 @@ function parseOpportunitiesMarkdown(filename: string, content: string) {
 
 async function seed() {
   console.log('🌱 Seeding database...');
+
+  // SQLite-only seeding
+  if (!sqliteDb) {
+    console.log('⚠️  SQLite database not available. Skipping seed (PostgreSQL mode).');
+    return;
+  }
+
   console.log(`📂 Scanning directory: ${RADAR_DIR}`);
 
   try {

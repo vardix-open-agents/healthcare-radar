@@ -12,6 +12,12 @@ import { db, sqliteDb } from './index';
 async function migrate() {
   console.log('🔄 Running database migrations...');
 
+  // SQLite-only migration
+  if (!sqliteDb) {
+    console.log('⚠️  SQLite database not available. Skipping migration (PostgreSQL mode).');
+    return;
+  }
+
   try {
     // Create entries table
     await sql`

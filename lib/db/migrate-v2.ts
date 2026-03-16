@@ -86,6 +86,12 @@ function calculateCompositeScore(scores: {
 async function migrate() {
   console.log('🔄 Starting database migration to v2 schema...\n');
 
+  // This migration script only works with SQLite (local development)
+  if (!sqliteDb) {
+    console.log('⚠️  SQLite database not available. Skipping migration (PostgreSQL mode).');
+    return;
+  }
+
   try {
     // Step 1: Get current state
     console.log('📊 Analyzing current database...');
