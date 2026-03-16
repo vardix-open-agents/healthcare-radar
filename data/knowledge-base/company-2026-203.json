@@ -1,0 +1,32 @@
+{
+  "id": "company-2026-203",
+  "title": "DocPlanner - Healthcare Booking Platform",
+  "company": "DocPlanner",
+  "country": "Poland",
+  "region": "CEE/Europe",
+  "segment": "scheduling",
+  "problem": "European patients struggle to find and book doctor appointments. No unified platform across fragmented healthcare systems.",
+  "solution": "Doctor booking platform operating across 15+ countries. Appointment scheduling, practice management, telemedicine.",
+  "technology": "Marketplace, scheduling, practice management software, telemedicine",
+  "target_customer": "European patients, doctors, clinics",
+  "care_setting": "primary_care",
+  "care_domain": "general",
+  "care_stage": "diagnosis",
+  "automation_level": "partial",
+  "ai_type": null,
+  "traction_signals": [
+    "220K+ doctors on platform",
+    "90M+ patients",
+    "Operating in 15+ countries"
+  ],
+  "funding": "Private, $100M+ revenue",
+  "regulatory_notes": "GDPR, EU healthcare regulations, country-specific requirements",
+  "varden_fit": "HIGH - Doctor discovery and booking platform across Europe. Infrastructure for patient access.",
+  "source": "scout-round7",
+  "url": "https://www.docplanner.com",
+  "date_added": "2026-03-11",
+  "notes": "boring_software=true, contrarian=false. CEE/EU representation. Largest doctor booking platform in Europe.",
+  "problem_type": "booking_scheduling",
+  "boring_software": true,
+  "contrarian": false
+}

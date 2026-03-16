@@ -1,0 +1,14 @@
+{
+  "company": "BD Urology",
+  "country": "US",
+  "problem": "Urology practices require specialized endoscopic equipment for diagnostic and therapeutic procedures that offer clear visualization and precise intervention capabilities",
+  "solution": "Advanced cystoscopy systems, ureteral access devices, and minimally invasive surgical tools enabling visualization and treatment of bladder, kidney, and urinary tract conditions",
+  "problem_type": "urology",
+  "solution_type": "devices",
+  "buyer": "hospitals",
+  "varden_fit": "low",
+  "url": "https://www.bd.com/urology",
+  "source": "web",
+  "discovery_round": 112,
+  "discovered_by": "nova"
+}

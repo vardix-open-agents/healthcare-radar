@@ -1,0 +1,28 @@
+{
+  "company": "Castor (Netherlands)",
+  "country": "Netherlands",
+  "founded_year": 2012,
+  "category": "Healthcare Infrastructure",
+  "subsector": "Clinical Data Platform",
+  "description": "Dutch clinical data platform for medical research. Simplifies clinical data capture, management, and analysis for researchers. EDC (Electronic Data Capture) platform used in clinical trials and research studies globally.",
+  "business_model": "B2B - Research data platform to pharma, CROs, academic medical centers",
+  "target_market": "Pharmaceutical companies, CROs, academic researchers",
+  "funding_stage": "Series B",
+  "funding_amount_eur": 45000000,
+  "key_investors": "Two Sigma, INKEF Capital, Balderton Capital",
+  "employees": "150+",
+  "customers": "1000+ research organizations",
+  "revenue_eur": null,
+  "tech_stack": ["EDC platform", "ePRO", "Randomization", "Data management", "Analytics"],
+  "integration_points": ["EHRs", "Lab systems", "Regulatory systems (FDA, EMA)"],
+  "competitive_advantage": "User-friendly interface, rapid study setup, GDPR compliant",
+  "boring_software": true,
+  "varden_fit": {
+    "threat_level": "low",
+    "opportunity": "monitor",
+    "rationale": "Research infrastructure - could support occupational health research"
+  },
+  "data_quality": "high",
+  "sources": ["castoredc.com", "crunchbase.com"],
+  "last_updated": "2026-03-11"
+}

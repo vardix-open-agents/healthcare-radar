@@ -1,0 +1,29 @@
+{
+  "id": "apostrophe-2026-143",
+  "title": "Apostrophe - Teledermatology Platform",
+  "company": "Apostrophe",
+  "country": "USA",
+  "region": "NA",
+  "segment": "dteledermatology",
+  "problem": "Acne and skin conditions require ongoing treatment, but dermatology visits are inconvenient and costly for patients.",
+  "solution": "Direct-to-consumer teledermatology platform for acne and skin care with AI triage, dermatologist consultations, and prescription treatments.",
+  "technology": "Telemedicine platform, AI skin analysis, e-prescribing, custom formulations",
+  "target_customer": "Consumers",
+  "care_setting": "digital",
+  "care_domain": "dermatology",
+  "care_stage": "treatment",
+  "automation_level": "hybrid",
+  "ai_type": "AI for skin analysis and triage",
+  "traction_signals": [
+    "Growing DTC dermatology brand",
+    "Subscription model",
+    "Founded 2019"
+  ],
+  "funding": "$20M+ raised",
+  "regulatory_notes": "Telemedicine platform, licensed physicians",
+  "varden_fit": "Low-Moderate - DTC consumer model, limited integration with provider networks. Consumer brand, not practice infrastructure.",
+  "source": "Industry knowledge",
+  "url": "https://apostrophe.com",
+  "date_added": "2026-03-11",
+  "notes": "DTC dermatology brand. Limited applicability to B2B practice management."
+}

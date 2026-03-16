@@ -1,0 +1,16 @@
+{
+  "id": "problem-2026-113",
+  "problem": "Per diem nurse pools fragmented across 20+ agencies, hospitals pay premium rates for last-minute coverage",
+  "problem_type": "staffing",
+  "solution_type": "Nurse gig economy platforms, credentialing marketplaces, direct-to-nurse booking",
+  "care_stage": "admin",
+  "automation_type": "workflow_automation",
+  "buyer": "hospital",
+  "care_setting": "primary_care",
+  "companies": ["ShiftKey", "CareRev", "IntelyCare", "Vivian Health"],
+  "signals": ["Travel nurse rates $150-300/hr", "Nurse gig economy growth", "Agency margin compression"],
+  "boring_software": false,
+  "contrarian": false,
+  "url": "https://www.shiftkey.com",
+  "date_added": "2026-03-11"
+}

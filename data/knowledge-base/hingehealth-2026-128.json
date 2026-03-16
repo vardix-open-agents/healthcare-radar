@@ -1,0 +1,31 @@
+{
+  "id": "hingehealth-2026-128",
+  "title": "Hinge Health - Digital MSK Clinic",
+  "company": "Hinge Health",
+  "country": "USA",
+  "region": "NA",
+  "segment": "digital_msk",
+  "problem": "Chronic musculoskeletal conditions require continuous management, but traditional physical therapy is expensive and inconvenient.",
+  "solution": "Digital MSK clinic combining wearable sensors, app-based exercise therapy, health coaching, and educational content.",
+  "technology": "Wearable sensors, computer vision motion tracking, digital health coaching, mobile app",
+  "target_customer": "Employers, health plans",
+  "care_setting": "home_digital",
+  "care_domain": "orthopedics",
+  "care_stage": "chronic_management",
+  "automation_level": "hybrid",
+  "ai_type": "Computer vision, ML for exercise analysis",
+  "traction_signals": [
+    "$500M+ annual revenue (2024)",
+    "Major Fortune 500 employer customers",
+    "3B+ valuation",
+    "Founded 2015, San Francisco",
+    "Proven outcomes in pain reduction"
+  ],
+  "funding": "$1B+ raised, $3B+ valuation",
+  "regulatory_notes": "No FDA clearance needed for wellness/fitness, clinical validation published",
+  "varden_fit": "HIGH - Digital MSK at scale represents specialty care pathway. Model for orthopedic referral-to-digital-treatment.",
+  "source": "Industry knowledge",
+  "url": "https://hingehealth.com",
+  "date_added": "2026-03-11",
+  "notes": "Market leader in digital MSK. IPO candidate. Strong model for specialty digital pathway."
+}

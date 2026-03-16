@@ -1,0 +1,14 @@
+{
+  "company": "Regina Maria",
+  "country": "RO",
+  "problem": "Patients need streamlined access to private healthcare network appointments and services",
+  "solution": "Digital health platform for appointment booking, medical records, e-prescriptions, and telemedicine across Romanian healthcare network",
+  "problem_type": "practice_management",
+  "solution_type": "SaaS",
+  "buyer": "clinics",
+  "varden_fit": "medium",
+  "url": "https://www.reginamaria.ro",
+  "source": "web",
+  "discovery_round": 72,
+  "discovered_by": "sky"
+}

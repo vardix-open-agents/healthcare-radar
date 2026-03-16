@@ -1,0 +1,14 @@
+{
+  "company": "eClinicalWorks",
+  "country": "US",
+  "problem": "Rheumatology practices need integrated EHR, practice management, and patient engagement tools that support chronic disease management and complex treatment protocols including biologics and infusions",
+  "solution": "Comprehensive cloud-based EHR platform with specialty workflows, healow patient engagement suite, integrated telehealth, chronic care management tools, and population health analytics for rheumatology practices",
+  "problem_type": "rheumatology",
+  "solution_type": "SaaS",
+  "buyer": "clinics",
+  "varden_fit": "medium",
+  "url": "https://www.eclinicalworks.com/products/ehr/",
+  "source": "web",
+  "discovery_round": 117,
+  "discovered_by": "nova"
+}

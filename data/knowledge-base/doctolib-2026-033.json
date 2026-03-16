@@ -1,0 +1,31 @@
+{
+  "id": "doctolib-2026-033",
+  "title": "Doctolib - European Healthcare Booking Platform",
+  "company": "Doctolib",
+  "country": "France",
+  "region": "EU",
+  "segment": "scheduling",
+  "problem": "Booking healthcare appointments is fragmented across different systems. Patients struggle to find and book appointments with the right provider.",
+  "solution": "Unified healthcare booking platform connecting patients with doctors, enabling online booking, video consultations, and practice management tools.",
+  "technology": "SaaS booking platform, video conferencing, EHR integrations",
+  "target_customer": "Patients, healthcare providers, clinics",
+  "care_setting": "primary_care",
+  "care_domain": "general",
+  "care_stage": "admin",
+  "automation_level": "partial",
+  "ai_type": null,
+  "traction_signals": [
+    "Founded 2013, France",
+    "300,000+ healthcare providers on platform",
+    "80M+ monthly patient visits",
+    "Operating in France, Germany, Italy",
+    "€500M+ total funding"
+  ],
+  "funding": "€500M+ total funding",
+  "regulatory_notes": "Healthcare data platform, GDPR compliance.",
+  "varden_fit": "High — Doctolib is the European benchmark for healthcare marketplaces. Direct parallel to Varden. Key competitor to study.",
+  "source": "Industry knowledge",
+  "url": "https://www.doctolib.com",
+  "date_added": "2026-03-11",
+  "notes": "Largest healthcare marketplace in Europe. Key competitor/analogue for Varden."
+}

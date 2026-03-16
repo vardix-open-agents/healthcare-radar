@@ -1,0 +1,27 @@
+{
+  "company": "Unmind",
+  "country": "United Kingdom",
+  "founded_year": 2016,
+  "category": "Employee Mental Health",
+  "subsector": "B2B Mental Wellness Platform",
+  "description": "Enterprise mental health platform providing employees with tools, assessments, and resources for psychological wellbeing. Used by major corporations including MLB, Diageo, and Uber.",
+  "business_model": "B2B - SaaS subscription sold to HR departments",
+  "target_market": "Large enterprises (1000+ employees) globally",
+  "funding_stage": "Series C",
+  "funding_amount_usd": 75000000,
+  "key_investors": "EQT Ventures, Felix Capital, SAP.iO",
+  "employees": 300,
+  "customers": "300+ enterprise clients",
+  "revenue_usd": 40000000,
+  "tech_stack": ["Web platform", "Mobile app", "AI-powered assessments", "Content management system"],
+  "integration_points": ["HRIS systems", "Slack", "Microsoft Teams", "SSO providers"],
+  "competitive_advantage": "Science-based approach, strong clinical validation, major enterprise clients",
+  "varden_fit": {
+    "threat_level": "medium",
+    "opportunity": "partner",
+    "rationale": "Could integrate with Varden's occupational health offering for comprehensive employee wellbeing"
+  },
+  "data_quality": "high",
+  "sources": ["unmind.com", "crunchbase.com"],
+  "last_updated": "2026-03-11"
+}

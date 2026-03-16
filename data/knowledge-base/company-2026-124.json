@@ -1,0 +1,27 @@
+{
+  "company": "Mehiläinen (Finland)",
+  "country": "Finland",
+  "founded_year": 1918,
+  "category": "Occupational Health",
+  "subsector": "Private Healthcare Provider",
+  "description": "Second largest private healthcare provider in Finland offering occupational health, primary care, and specialist services. Strong focus on digital health and telemedicine. Also operates in Sweden.",
+  "business_model": "B2B2C - Occupational health contracts; B2C individual services",
+  "target_market": "Finnish and Swedish employers and individuals",
+  "funding_stage": "Private Equity (CVC Capital Partners)",
+  "funding_amount_eur": null,
+  "key_investors": "CVC Capital Partners",
+  "employees": 8000,
+  "customers": "25000+ corporate clients",
+  "revenue_eur": 700000000,
+  "tech_stack": ["Patient portal", "Mobile app", "Digital occupational health platform", "Telemedicine"],
+  "integration_points": ["Finnish Kela", "Swedish healthcare system", "Employer HR systems"],
+  "competitive_advantage": "Long history, Nordic presence, comprehensive services, digital innovation",
+  "varden_fit": {
+    "threat_level": "high",
+    "opportunity": "compete",
+    "rationale": "Major competitor in Finland and Sweden - established player with Nordic reach"
+  },
+  "data_quality": "high",
+  "sources": ["mehilainen.fi", "cvc.com"],
+  "last_updated": "2026-03-11"
+}

@@ -1,0 +1,14 @@
+{
+  "company": "Ambry Genetics",
+  "country": "US",
+  "problem": "Healthcare providers lacked reliable genetic testing solutions to identify hereditary disease risks and inform patient care decisions",
+  "solution": "Comprehensive genetic testing solutions for hereditary cancer, cardiology, neurology, and other conditions, enabling healthcare professionals to make informed care decisions with their patients",
+  "problem_type": "genomics",
+  "solution_type": "SaaS",
+  "buyer": "providers",
+  "varden_fit": "low",
+  "url": "https://www.ambrygen.com",
+  "source": "web",
+  "discovery_round": 133,
+  "discovered_by": "nova"
+}

@@ -1,0 +1,130 @@
+[
+  {
+    "company_name": "Patchwork Health",
+    "hq_location": "London, UK",
+    "website_url": "https://patchwork.health",
+    "problem_solved": "Healthcare organizations struggle with outdated workforce management technology that leaves staff under-equipped and prevents teams from reaching their full potential. Patchwork provides end-to-end workforce planning and management built specifically for healthcare.",
+    "target_buyers": "NHS trusts, hospitals, ICSs (Integrated Care Systems), healthcare providers",
+    "key_features": [
+      "Intelligent rota management and scheduling",
+      "Internal bank and collaborative bank staffing",
+      "Agency manager for controlling contingent workforce costs",
+      "Job planning and appraisals for doctors",
+      "Workforce insights and analytics"
+    ],
+    "business_model": "SaaS subscription platform",
+    "varden_replicability": "HIGH - Clean B2B SaaS model focused on NHS/healthcare specific workflows. Modular product suite (rota, bank, agency manager) allows incremental market entry. NHS compliance requirements create natural moats but also clear product specs for new entrants."
+  },
+  {
+    "company_name": "RLDatix (formerly Allocate Software)",
+    "hq_location": "London, UK",
+    "website_url": "https://www.rldatix.com",
+    "problem_solved": "Healthcare organizations need to ensure the right staff are in the right place delivering care at the right cost while maintaining safety and quality standards. RLDatix provides comprehensive workforce planning, rostering, and temporary staffing solutions.",
+    "target_buyers": "NHS trusts, HSE (Ireland), independent health providers, social care providers",
+    "key_features": [
+      "AI-powered rostering platform (Optima) for all staff groups",
+      "Temporary staffing management with Smart Match AI",
+      "Loop staff app for engagement and shift management",
+      "Safety and quality incident management (DCIQ)",
+      "Workforce intelligence and analytics"
+    ],
+    "business_model": "Enterprise SaaS with professional services",
+    "varden_replicability": "MEDIUM-HIGH - Dominant UK player with 6,500+ organizations and 1.75M+ staff rostered. Complex enterprise solution but clear market validation. Agentic AI integration shows innovation path. Acquisition of Allocate demonstrates consolidation opportunity."
+  },
+  {
+    "company_name": "Locum's Nest",
+    "hq_location": "London, UK",
+    "website_url": "https://www.locumsnest.com",
+    "problem_solved": "NHS trusts spend billions annually on agency staff due to inefficient internal staff banks. Locum's Nest enables trusts to fill shifts with their own staff first, reducing agency dependency and costs while giving clinicians flexible working options.",
+    "target_buyers": "NHS trusts, healthcare providers, staff banks",
+    "key_features": [
+      "Staff bank management and shift booking platform",
+      "Mobile app for clinicians to browse and book shifts",
+      "Automated shift matching and compliance verification",
+      "Multi-trust collaborative bank networks",
+      "Agency rate comparison and cost control"
+    ],
+    "business_model": "SaaS subscription with transaction fees",
+    "varden_replicability": "HIGH - Focused product solving clear pain point (agency spend reduction). Mobile-first approach appeals to clinicians. Collaborative bank model creates network effects. Clear ROI metric (agency savings) makes sales cycle predictable."
+  },
+  {
+    "company_name": "Lantum",
+    "hq_location": "London, UK",
+    "website_url": "https://www.lantum.com",
+    "problem_solved": "Healthcare providers face staffing gaps and high agency costs. Lantum provides a workforce management platform connecting NHS trusts with flexible clinical staff, reducing reliance on expensive agencies.",
+    "target_buyers": "NHS trusts, GP practices, healthcare providers",
+    "key_features": [
+      "Cloud-based workforce management platform",
+      "Direct booking of vetted clinical staff",
+      "Compliance and credential management",
+      "Shift scheduling and rostering tools",
+      "Cost savings vs agency staffing"
+    ],
+    "business_model": "SaaS marketplace with booking fees",
+    "varden_replicability": "HIGH - Marketplace model with SaaS elements. Direct clinician-to-provider connection disrupts traditional agency model. Clear value proposition on cost savings. Platform approach allows expansion into adjacent workforce services."
+  },
+  {
+    "company_name": "Rotageek",
+    "hq_location": "London, UK",
+    "website_url": "https://www.rotageek.com",
+    "problem_solved": "Manual staff scheduling is time-consuming and often results in poor coverage, compliance issues, and staff dissatisfaction. Rotageek uses data science to automate and optimize workforce scheduling for healthcare and retail.",
+    "target_buyers": "NHS trusts, hospitals, healthcare providers, retail organizations",
+    "key_features": [
+      "AI-powered automated scheduling",
+      "Demand forecasting and staffing optimization",
+      "Compliance management and labor law adherence",
+      "Staff preference matching and self-service",
+      "Integration with HR and payroll systems"
+    ],
+    "business_model": "SaaS subscription",
+    "varden_replicability": "HIGH - Strong AI/algorithm focus creates defensible technology moat. Serves multiple industries (healthcare + retail) showing platform versatility. Data science approach differentiates from simple scheduling tools. Clear efficiency gains drive ROI."
+  },
+  {
+    "company_name": "Florence",
+    "hq_location": "London, UK",
+    "website_url": "https://www.florence.co.uk",
+    "problem_solved": "Health and social care organizations struggle with fragmented workforce management tools, leading to inefficient staffing, compliance gaps, and high administrative burden. Florence provides an integrated platform built specifically for the sector.",
+    "target_buyers": "NHS trusts, care homes, social care providers, healthcare organizations",
+    "key_features": [
+      "End-to-end workforce scheduling and rostering",
+      "HR platform designed for health and social care",
+      "Agency management to reduce contingent staffing costs",
+      "Temporary staffing marketplace with 100k+ vetted professionals",
+      "Florence Academy for staff training and compliance"
+    ],
+    "business_model": "SaaS subscription with staffing marketplace fees",
+    "varden_replicability": "HIGH - Founded by NHS doctor with firsthand experience of staffing challenges. Comprehensive platform approach (scheduling + HR + agency + training) creates stickiness. Training platform (Florence Academy) adds revenue stream and user engagement."
+  },
+  {
+    "company_name": "Skillstream",
+    "hq_location": "Warrington, UK",
+    "website_url": "https://www.skillstream.co.uk",
+    "problem_solved": "Organizations lack visibility and control over their contingent workforce, leading to cost overruns, compliance risks, and inefficient processes. Skillstream provides configurable workforce management solutions with strong healthcare/NHS focus.",
+    "target_buyers": "NHS trusts, government services, enterprise organizations across multiple sectors",
+    "key_features": [
+      "VMS (Vendor Management System) for contingent workforce",
+      "Rate card management and framework compliance (NHS frameworks)",
+      "Real-time visibility and reporting dashboards",
+      "Document library for compliance and credential tracking",
+      "Integration with entry/exit systems for automated timesheets"
+    ],
+    "business_model": "SaaS subscription with implementation services",
+    "varden_replicability": "MEDIUM-HIGH - Configurable platform approach allows adaptation to multiple sectors. Strong NHS experience with various trusts. Document compliance tracking addresses regulatory requirements. 10% minimum cost savings claimed provides clear ROI."
+  },
+  {
+    "company_name": "Medical Staffing (Celsus Group)",
+    "hq_location": "Manchester, UK",
+    "website_url": "https://www.medicalstaffing.co.uk",
+    "problem_solved": "GP practices, NHS trusts, and clinics face ongoing staff shortages and need reliable locum and permanent placement services. Medical Staffing provides specialized healthcare recruitment with compliance assurance.",
+    "target_buyers": "GP practices, NHS trusts, private clinics, local authorities",
+    "key_features": [
+      "Locum GP and nurse placement services",
+      "Permanent recruitment for clinical roles",
+      "Compliance verification and credential management",
+      "Specialized in AHPs, ANPs, and advanced clinical practitioners",
+      "International placement capabilities"
+    ],
+    "business_model": "Recruitment/staffing agency with placement fees",
+    "varden_replicability": "MEDIUM - Traditional staffing agency model rather than SaaS. However, strong compliance and credential management processes could be productized. Part of Celsus Group demonstrates scale opportunity in healthcare talent space. 2.1M+ patient consultations in 2024 shows volume."
+  }
+]

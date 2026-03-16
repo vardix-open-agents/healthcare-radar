@@ -1,0 +1,16 @@
+{
+  "id": "problem-2026-023",
+  "problem": "Australian remote communities have 1 GP per 10,000 residents, causing severe access gaps",
+  "problem_type": "navigation",
+  "solution_type": "Telehealth platforms, fly-in-fly-out coordination, remote monitoring",
+  "care_stage": "intake",
+  "automation_type": "workflow_automation",
+  "buyer": "health_system",
+  "care_setting": "telehealth",
+  "companies": ["HealthDirect", "Coviu", "HotDoc"],
+  "signals": ["Rural health funding", "Telehealth Medicare expansion", "Indigenous health initiatives"],
+  "boring_software": false,
+  "contrarian": false,
+  "url": "https://www.healthdirect.gov.au",
+  "date_added": "2026-03-11"
+}

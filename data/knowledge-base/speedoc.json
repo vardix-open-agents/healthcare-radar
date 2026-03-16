@@ -1,0 +1,14 @@
+{
+  "company": "Speedoc",
+  "country": "SG",
+  "problem": "Patients need immediate access to medical care without visiting hospitals, especially for non-emergency situations requiring doctor consultations, nursing care, or medication delivery",
+  "solution": "Virtual hospital platform offering 24/7 telemedicine consultations, house call doctors, nurse visits, and medication delivery. Enables patients to receive hospital-grade care at home through mobile app booking",
+  "problem_type": "practice_management",
+  "solution_type": "SaaS",
+  "buyer": "clinics",
+  "varden_fit": "medium",
+  "url": "https://www.speedoc.com",
+  "source": "web",
+  "discovery_round": 78,
+  "discovered_by": "nova"
+}

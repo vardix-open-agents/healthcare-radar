@@ -1,0 +1,27 @@
+{
+  "company": "Medicare (Portugal)",
+  "country": "Portugal",
+  "founded_year": 1996,
+  "category": "Health Insurance",
+  "subsector": "Private Health Insurance",
+  "description": "Portuguese private health insurance provider offering health plans to individuals and employers. Provides coverage for medical consultations, hospital care, and dental services.",
+  "business_model": "B2B2C - Health insurance sold through employers; B2C individual plans",
+  "target_market": "Portuguese employers and individuals seeking private health coverage",
+  "funding_stage": "Listed (Euronext Lisbon)",
+  "funding_amount_eur": null,
+  "key_investors": "Public company",
+  "employees": 500,
+  "customers": "500000+ insured members",
+  "revenue_eur": 200000000,
+  "tech_stack": ["Member portal", "Mobile app", "Claims processing", "Provider network"],
+  "integration_points": ["Portuguese healthcare providers", "Employer HR systems"],
+  "competitive_advantage": "Established Portuguese insurer, comprehensive coverage, local market knowledge",
+  "varden_fit": {
+    "threat_level": "low",
+    "opportunity": "partner",
+    "rationale": "Major Portuguese insurer - potential partner for occupational health services integration"
+  },
+  "data_quality": "medium",
+  "sources": ["medicare.pt", "linkedin.com"],
+  "last_updated": "2026-03-11"
+}

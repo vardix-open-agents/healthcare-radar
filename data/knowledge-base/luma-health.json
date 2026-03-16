@@ -1,0 +1,14 @@
+{
+  "company": "Luma Health",
+  "country": "US",
+  "problem": "Healthcare providers face fragmented patient engagement with manual intake processes, paper forms, disconnected communication channels, and inefficient patient onboarding that creates poor first impressions and administrative burden.",
+  "solution": "Modern patient engagement platform providing digital intake forms, screening questionnaires, insurance document uploads, zero-contact check-in, telehealth integration, and automated patient communication throughout the healthcare journey.",
+  "problem_type": "patient_intake",
+  "solution_type": "SaaS",
+  "buyer": "providers",
+  "varden_fit": "high",
+  "url": "https://www.lumahealth.io/",
+  "source": "web",
+  "discovery_round": 88,
+  "discovered_by": "sky"
+}

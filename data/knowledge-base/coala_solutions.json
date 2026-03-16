@@ -1,0 +1,14 @@
+{
+  "company": "Coala Solutions",
+  "country": "SE",
+  "problem": "Cardiac patients need continuous ECG monitoring, delayed arrhythmia detection, high cost of traditional cardiac monitoring methods, limited access to cardiac care specialists",
+  "solution": "Digital cardiac monitoring platform with Coala Heart Monitor for remote ECG and heart sound monitoring, AI-based algorithms for automatic P-wave detection and arrhythmia analysis, integrated caregiver portal for remote patient management",
+  "problem_type": "remote_monitoring",
+  "solution_type": "SaaS",
+  "buyer": "providers",
+  "varden_fit": "high",
+  "url": "https://coalasolutions.com/se/",
+  "source": "web",
+  "discovery_round": 76,
+  "discovered_by": "sky"
+}

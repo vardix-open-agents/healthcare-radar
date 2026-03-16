@@ -1,0 +1,33 @@
+{
+  "id": "latam-ambulance-dispatch-2026-224",
+  "title": "LATAM Emergency Services Dispatch Gap",
+  "company": null,
+  "country": "Brazil/Mexico/Colombia/Regional",
+  "region": "LATAM",
+  "segment": "emergency",
+  "problem": "Emergency medical services (ambulance dispatch) in LATAM are inefficient. No GPS tracking of ambulances in real-time. Manual dispatch leads to delays. No integration with hospital emergency departments to alert on incoming patients. Response times exceed international standards (15+ minutes in major cities). No data on ambulance utilization or performance.",
+  "solution": "Smart ambulance dispatch platform. GPS tracking of all ambulances in fleet. Algorithmic dispatch optimization (like Uber for ambulances). Real-time hospital ED capacity visibility. Mobile app for paramedics with patient tracking. Analytics dashboard for fleet management. Integration with 911-equivalent systems.",
+  "technology": "GPS tracking, dispatch optimization algorithms, mobile app, ED capacity monitoring, real-time communication, analytics",
+  "target_customer": "Private ambulance companies, fire departments (public EMS), hospital systems, Ministry of Health",
+  "care_setting": "emergency",
+  "care_domain": "emergency",
+  "care_stage": "treatment",
+  "automation_level": "assistive",
+  "ai_type": "Dispatch optimization algorithms, demand prediction",
+  "traction_signals": [
+    "Urban populations demanding better emergency response",
+    "Private ambulance market growing",
+    "Technology adoption in public safety",
+    "Proven models in UK (NHS ambulance tech), US"
+  ],
+  "funding": null,
+  "regulatory_notes": "Emergency medical services regulations, integration with public safety systems",
+  "varden_fit": "MEDIUM FIT - Operational technology but strong software component. Could start with private ambulance market before expanding to public sector. Infrastructure play.",
+  "source": "Opportunity analysis + market gap identification",
+  "url": null,
+  "date_added": "2026-03-11",
+  "problem_type": "emergency",
+  "contrarian": false,
+  "boring_software": false,
+  "notes": "Ambulance dispatch is niche but critical. Similar to logistics optimization. Private ambulance market is growing faster than public in LATAM."
+}

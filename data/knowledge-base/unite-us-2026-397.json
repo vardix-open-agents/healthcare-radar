@@ -1,0 +1,22 @@
+{
+  "company_name": "Unite Us",
+  "problem_solved": "Healthcare and social services operate in silos, making it impossible to track outcomes from social care referrals and coordinate whole-person care",
+  "solution_description": "End-to-end platform coordinating whole-person care across healthcare, government, and community-based organizations. Closed-loop referral network with real-time coordination, outcome tracking, and data infrastructure for measuring social care impact",
+  "buyer_persona": "health_systems",
+  "care_stage": "screening",
+  "automation_level": "partial",
+  "varden_fit": "very_high",
+  "region": "US",
+  "country": "United States",
+  "funding_stage": "series_d",
+  "traction_signals": [
+    "Acquired NowPow (resource directory platform)",
+    "Partnerships with state/local governments nationwide",
+    "Trusted by thousands of organizations serving millions",
+    "Claims denial rate significantly below industry average"
+  ],
+  "notes": "Major competitor to Findhelp. Focus on outcome measurement and ROI tracking. Strong in government/public health sector. NowPow acquisition added community resource directory capabilities",
+  "discovery_round": 50,
+  "discovered_by": "sky",
+  "timestamp": "2026-03-11T23:20:00Z"
+}

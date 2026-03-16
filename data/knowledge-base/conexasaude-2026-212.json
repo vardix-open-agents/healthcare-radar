@@ -1,0 +1,33 @@
+{
+  "id": "conexasaude-2026-212",
+  "title": "Conexa Saúde - Brazilian Telemedicine Platform",
+  "company": "Conexa Saúde",
+  "country": "Brazil",
+  "region": "LATAM",
+  "segment": "treatment",
+  "problem": "Before COVID-19, telemedicine was limited in Brazil. Patients in remote areas lacked specialist access. COVID-19 accelerated adoption but fragmented solutions emerged. No unified platform connecting all healthcare stakeholders.",
+  "solution": "Comprehensive telemedicine platform connecting patients, doctors, clinics, and labs. Video consultations, digital prescriptions, appointment scheduling, health records. B2B2C model through corporate health plans and insurance partnerships.",
+  "technology": "Video conferencing, EMR integration, digital prescription system, mobile app, web platform",
+  "target_customer": "Health insurance companies, corporations (employee health), individual physicians, patients",
+  "care_setting": "telehealth",
+  "care_domain": "general",
+  "care_stage": "diagnosis",
+  "automation_level": "partial",
+  "ai_type": null,
+  "traction_signals": [
+    "Leading telemedicine platform in Brazil",
+    "Millions of consultations conducted",
+    "Major insurance partnerships",
+    "Growing physician network"
+  ],
+  "funding": "Series C+",
+  "regulatory_notes": "CFM (Conselho Federal de Medicina) telemedicine regulations, ANS compliance",
+  "varden_fit": "COMPETITOR - Directly competes with Varden's telemedicine capabilities. Study their B2B2C model. Potential acquisition target if Varden scales in Brazil.",
+  "source": "Industry knowledge",
+  "url": "https://conexasaude.com.br",
+  "date_added": "2026-03-11",
+  "problem_type": "access",
+  "contrarian": false,
+  "boring_software": false,
+  "notes": "Brazil's Kry/Docplanner equivalent. Strong market position. Varden should differentiate by focusing on infrastructure/admin tools rather than competing head-on."
+}

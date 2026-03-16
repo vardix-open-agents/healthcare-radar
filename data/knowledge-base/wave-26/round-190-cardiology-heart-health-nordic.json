@@ -1,0 +1,149 @@
+{
+  "round": 190,
+  "topic": "Cardiology / Heart Health (Nordic)",
+  "date": "2026-03-14",
+  "companies": [
+    {
+      "company_name": "Getinge",
+      "hq_location": "Getinge, Sweden",
+      "website_url": "https://www.getinge.com",
+      "problem_solved": "Hospitals need reliable cardiovascular life support systems, surgical equipment, and intensive care solutions. Getinge addresses critical care needs including extracorporeal life support, surgical infrastructure, and infection control.",
+      "who_buys_it": "Hospitals, cardiac surgery centers, intensive care units, emergency departments",
+      "key_features": [
+        "Cardiohelp II - portable extracorporeal life support system",
+        "Operating table systems with modular design",
+        "Surgical infrastructure and workflow optimization",
+        "Infection control and sterilization equipment",
+        "Integrated solutions for cardiac surgery"
+      ],
+      "business_model": "B2B medical device manufacturer - sells capital equipment and consumables to hospitals and healthcare systems globally",
+      "why_varden_should_care": "Major Swedish medtech player with 60+ years in cardiovascular space. Strong position in cardiac surgery infrastructure and life support. Established global distribution network and proven track record in critical care."
+    },
+    {
+      "company_name": "Cardiolex",
+      "hq_location": "Solna, Sweden",
+      "website_url": "https://www.cardiolex.com",
+      "problem_solved": "Healthcare providers need easy-to-use, high-quality ECG devices that minimize training requirements, reduce errors, and speed up diagnostic workflows. Traditional ECG systems are often complex and time-consuming.",
+      "who_buys_it": "Hospitals, cardiology clinics, emergency departments, general practitioners, private healthcare providers",
+      "key_features": [
+        "Easy-to-use ECG devices with minimal training required",
+        "High signal quality and reliable results",
+        "Efficient workflow with fast startup and quick data delivery",
+        "Integrated ECG management systems",
+        "Connected to hospital information systems and ECG platforms",
+        "Scalable solutions for emergency, general check-ups, and expert use"
+      ],
+      "business_model": "B2B medical device sales - sells ECG devices and management software with support contracts. Market leader in Sweden with presence on 2/3 of Swedish hospitals",
+      "why_varden_should_care": "Market leader in Sweden's ECG market with proven product-market fit. Focus on simplicity and efficiency aligns with healthcare system pressures. Strong installed base with over 10,000 users in Sweden alone."
+    },
+    {
+      "company_name": "Ortivus",
+      "hq_location": "Danderyd, Sweden",
+      "website_url": "https://ortivus.com",
+      "problem_solved": "Emergency medical services need integrated digital solutions for prehospital care that connect ambulance teams with hospitals, enable real-time monitoring, and improve patient outcomes while reducing administrative burden.",
+      "who_buys_it": "Ambulance services, emergency medical services, regional healthcare systems, prehospital care providers",
+      "key_features": [
+        "MobiMed 5 - next-generation patient record system for ambulances",
+        "Integration with cardiac monitoring devices and defibrillators",
+        "Real-time ECG transmission and cardiac monitoring",
+        "Video consultation and telemedicine capabilities",
+        "Automated risk and care level assessments",
+        "Quality registry integration for compliance reporting",
+        "Incident response and coordination tools"
+      ],
+      "business_model": "B2B SaaS - provides prehospital medical management software with 12,000+ paramedic users and 2,700+ ambulances installed across multiple countries",
+      "why_varden_should_care": "Critical player in prehospital cardiac care with proven track record since 1985. Handles 250,000+ patients monthly. Strong position in emergency cardiac monitoring and telemedicine for ambulance services."
+    },
+    {
+      "company_name": "Ambu",
+      "hq_location": "Ballerup, Denmark",
+      "website_url": "https://www.ambu.com",
+      "problem_solved": "Healthcare facilities need single-use medical devices to eliminate cross-contamination risks, reduce reprocessing costs, and ensure always-available sterile equipment for critical procedures including airway management and cardiology.",
+      "who_buys_it": "Hospitals, ambulatory surgical centers, cardiology labs, emergency departments, clinics",
+      "key_features": [
+        "SureSight Connect - video laryngoscope for intubation",
+        "Single-use endoscopy systems (bronchoscopy, gastroscopy, cystoscopy)",
+        "Cardiology-related visualization devices",
+        "Sterile, always-available equipment eliminating reprocessing",
+        "AI-powered diagnostic support",
+        "Environmental and economic benefits of single-use"
+      ],
+      "business_model": "B2B medical device manufacturer - sells single-use medical devices globally. Market leader in single-use endoscopy with recurring revenue model",
+      "why_varden_should_care": "Danish medtech leader with strong innovation track record. Recognized by Frost & Sullivan for technology innovation. Growing market for single-use devices in cardiology and related procedures. Strong brand and global distribution."
+    },
+    {
+      "company_name": "Nightingale Health",
+      "hq_location": "Helsinki, Finland",
+      "website_url": "https://nightingalehealth.com",
+      "problem_solved": "Current cholesterol tests miss many cardiovascular disease risks. Healthcare systems need better predictive tools to identify high-risk patients earlier and prevent heart attacks and strokes more effectively.",
+      "who_buys_it": "Public healthcare systems, health insurers, employers, preventive care providers, clinical laboratories",
+      "key_features": [
+        "Blood analysis technology for comprehensive metabolic profiling",
+        "44% improvement in heart attack and stroke prevention vs. current methods",
+        "Disease risk assessment for cardiovascular conditions",
+        "AI-powered predictive analytics",
+        "CE-marked and clinically validated",
+        "Population health management tools",
+        "Laboratory permit from New York State (US expansion)"
+      ],
+      "business_model": "B2B and B2G - provides blood analysis services and disease risk assessment to healthcare providers, insurers, and public health systems. Now expanding in US market",
+      "why_varden_should_care": "Finnish healthtech innovator with breakthrough clinical evidence. Strong momentum with adoption by Finnish public healthcare and US expansion. Landmark clinical study showing 44% improvement creates compelling value proposition."
+    },
+    {
+      "company_name": "Merivaara",
+      "hq_location": "Lahti, Finland",
+      "website_url": "https://www.merivaara.com",
+      "problem_solved": "Surgical teams need intuitive, user-friendly operating room solutions that improve patient safety, increase efficiency, and integrate seamlessly into modern surgical workflows including cardiac surgery.",
+      "who_buys_it": "Hospitals, surgical centers, cardiac surgery departments, ambulatory surgical centers",
+      "key_features": [
+        "Intuitive surgery room solutions",
+        "Operating tables and surgical lighting systems",
+        "Industrial design focused on usability and safety",
+        "Design from Finland mark (awarded 2021)",
+        "Patient safety and surgical efficiency optimization",
+        "Integration with modern surgical workflows",
+        "Part of Lojer Group (106-year history)"
+      ],
+      "business_model": "B2B medical device manufacturer - sells surgical equipment and operating room solutions to hospitals globally. Made in Finland",
+      "why_varden_should_care": "Finnish surgical equipment leader with 120+ years of design heritage. Part of larger Lojer Group providing financial stability. Growing focus on cardiac and complex surgeries. Nordic quality and design reputation."
+    },
+    {
+      "company_name": "CardioSignal (Precordior)",
+      "hq_location": "Turku, Finland",
+      "website_url": "https://cardiosignal.com",
+      "problem_solved": "Atrial fibrillation often goes undetected until it causes stroke or heart failure. Healthcare systems need scalable, accessible screening tools for early AFib detection in large populations.",
+      "who_buys_it": "Healthcare systems, population health programs, clinics, insurers, employers, individuals at risk for AFib",
+      "key_features": [
+        "1-minute heart health check using smartphone",
+        "Detects signs of atrial fibrillation via gyrocardiography",
+        "CE-marked Class IIb medical device",
+        "No additional hardware required - uses phone's motion sensors",
+        "Clinically validated with 12+ years of research",
+        "20+ peer-reviewed publications",
+        "ISO27001 and ISO13485 certified",
+        "Available in 15+ European countries and India"
+      ],
+      "business_model": "B2B and B2C - provides mobile app for self-monitoring (consumer) and population health programs (healthcare systems). Software-as-medical-device model",
+      "why_varden_should_care": "Finnish medtech startup with unique smartphone-based AFib detection technology. No hardware required creates massive scalability advantage. Strong clinical validation and regulatory clearance. Addresses large undiagnosed AFib population."
+    },
+    {
+      "company_name": "Dignio",
+      "hq_location": "Oslo, Norway",
+      "website_url": "https://dignio.com",
+      "problem_solved": "Chronic disease patients, including those with heart failure, need continuous monitoring and care coordination between hospital visits. Healthcare systems struggle to manage growing chronic disease populations efficiently.",
+      "who_buys_it": "Healthcare systems, hospitals, primary care providers, chronic disease management programs, home nursing services",
+      "key_features": [
+        "Dignio Connected Care platform for remote patient monitoring",
+        "Patient app for self-measurements and health tracking",
+        "Integration with various medical devices including cardiac monitors",
+        "Real-time data sharing with healthcare professionals",
+        "Customizable to multiple chronic conditions including heart failure",
+        "Video consultation capabilities",
+        "Reduced hospitalizations and shorter hospital stays",
+        "Cost reduction per patient per month"
+      ],
+      "business_model": "B2B SaaS - provides connected care platform to healthcare systems. Proven outcomes include fewer hospitalizations and reduced costs",
+      "why_varden_should_care": "Norwegian digital health leader in chronic disease management. Strong outcomes data showing reduced hospitalizations and cost savings. Addresses heart failure management and cardiac monitoring at scale. Growing adoption across Nordic countries."
+    }
+  ]
+}

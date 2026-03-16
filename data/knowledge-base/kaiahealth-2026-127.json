@@ -1,0 +1,30 @@
+{
+  "id": "kaiahealth-2026-127",
+  "title": "Kaia Health - Digital MSK Platform",
+  "company": "Kaia Health",
+  "country": "Germany/USA",
+  "region": "EU/NA",
+  "segment": "digital_msk",
+  "problem": "Musculoskeletal pain management requires ongoing physical therapy, which is costly, access-limited, and inconvenient for patients.",
+  "solution": "Digital MSK platform with AI-powered exercise coaching using computer vision motion tracking via smartphone camera.",
+  "technology": "Computer vision pose estimation, AI coaching, mobile app, behavioral science",
+  "target_customer": "Employers, health plans, orthopedic practices",
+  "care_setting": "home_digital",
+  "care_domain": "orthopedics",
+  "care_stage": "rehabilitation",
+  "automation_level": "full",
+  "ai_type": "Computer vision, AI coaching",
+  "traction_signals": [
+    "500K+ users",
+    "Partnerships with major employers and insurers",
+    "CE marked in EU",
+    "Founded 2016, Munich/San Francisco"
+  ],
+  "funding": "$75M+ raised",
+  "regulatory_notes": "CE marked Class II medical device in EU, FDA pathway ongoing",
+  "varden_fit": "HIGH - Digital MSK pathway from orthopedics. Strong EU presence. Could integrate with specialty routing.",
+  "source": "Industry knowledge",
+  "url": "https://kaiahealth.com",
+  "date_added": "2026-03-11",
+  "notes": "Leading European digital MSK player. Good fit for orthopedic-to-digital pathway."
+}

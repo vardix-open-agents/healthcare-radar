@@ -1,0 +1,161 @@
+{
+  "round": 191,
+  "wave": 26,
+  "focus": "Emergency Medicine / Trauma (EU)",
+  "date_researched": "2026-03-14",
+  "companies": [
+    {
+      "company_name": "Tieto (formerly Tietoevry Caretech)",
+      "hq_location": "Helsinki, Finland / Stockholm, Sweden",
+      "website_url": "https://www.tieto.com/en/caretech/",
+      "problem_solved": "Emergency departments struggle with fragmented patient data, inefficient workflows, and administrative burden that reduces time for patient care. Tieto's Lifecare platform addresses these challenges by providing integrated clinical documentation and resource optimization.",
+      "who_buys_it": "Nordic and European hospitals, emergency departments, and regional healthcare authorities seeking integrated EHR and ED solutions.",
+      "key_features": [
+        "Lifecare ED module for emergency department documentation",
+        "AI-assisted documentation reducing administrative burden",
+        "Resource optimization for staff and bed management",
+        "Real-time patient flow tracking and analytics",
+        "Integration with pre-hospital emergency services",
+        "Open standards (openEHR) support for interoperability"
+      ],
+      "business_model": "B2B SaaS licensing with implementation services; multi-year contracts with regional health authorities; subscription-based model for smaller facilities.",
+      "why_varden_should_care": "Leading Nordic healthcare IT player with strong ED presence; Tieto's AI-assisted documentation directly addresses clinician burnout - a major pain point; open standards approach aligns with European interoperability mandates; potential acquisition target as Oracle/Cerner retreat from Europe."
+    },
+    {
+      "company_name": "DIPS ASA",
+      "hq_location": "Bodø, Norway",
+      "website_url": "https://www.dips.com/",
+      "problem_solved": "Norwegian emergency departments need systems tailored to local healthcare regulations, language, and clinical workflows. DIPS provides Norway-specific EHR solutions with strong ED capabilities.",
+      "who_buys_it": "Norwegian hospitals, emergency departments, and health trusts (all Norwegian regional health authorities use DIPS).",
+      "key_features": [
+        "Arena ED module for emergency department workflows",
+        "Arena Mobil for mobile ED documentation at point of care",
+        "Real-time clinical documentation with voice-to-text",
+        "Integration with Norwegian emergency medical services (113/ambulance)",
+        "Triage and acuity scoring tools",
+        "Emergency room tracking boards and dashboards"
+      ],
+      "business_model": "B2B enterprise licensing; long-term contracts with Norwegian health trusts; implementation and support services; mobile app subscriptions.",
+      "why_varden_should_care": "Dominant market position in Norway (100,000+ users); mobile-first approach with Arena Mobil is differentiated; strong government relationships; potential expansion platform to other Nordic markets; high switching costs create sticky customer base."
+    },
+    {
+      "company_name": "Better (formerly Better Care)",
+      "hq_location": "Ljubljana, Slovenia",
+      "website_url": "https://www.better.care/",
+      "problem_solved": "Emergency departments need flexible, interoperable clinical data platforms that can integrate with existing systems and support rapid development of new clinical applications. Better provides openEHR-based solutions for data-driven emergency care.",
+      "who_buys_it": "European hospitals, regional health authorities, and health systems seeking vendor-neutral clinical data repositories and shared care records.",
+      "key_features": [
+        "Better Platform - openEHR clinical data repository",
+        "Better Studio - low-code development for ED applications",
+        "Shared care record capabilities for emergency coordination",
+        "Point-of-care testing interoperability",
+        "Open, vendor-neutral data architecture",
+        "Rapid deployment of custom ED workflows"
+      ],
+      "business_model": "B2B platform licensing; subscription-based access to Better Studio; implementation and training services; marketplace for pre-built clinical apps.",
+      "why_varden_should_care": "Open data strategy aligns with EU's European Health Data Space (EHDS) regulations; low-code platform enables rapid ED solution development; 40M+ patient records across 30+ markets; growing presence across Europe; potential acquisition target for larger EHR vendors seeking openEHR capabilities."
+    },
+    {
+      "company_name": "CompuGroup Medical (CGM)",
+      "hq_location": "Koblenz, Germany",
+      "website_url": "https://www.cgm.com/",
+      "problem_solved": "German and European emergency departments need integrated clinical documentation, telemedicine, and patient engagement solutions. CGM provides comprehensive e-health solutions including ED documentation and video consultations.",
+      "who_buys_it": "German hospitals, emergency departments, primary care clinics, occupational health services, and laboratory networks across 60 countries.",
+      "key_features": [
+        "CGM J4 - journal system with ED documentation capabilities",
+        "CGM Video for telemedicine and remote triage",
+        "Laboratory integration for ED diagnostic workflows",
+        "Patient portal for post-ED follow-up",
+        "Integration with Zymego for care coordination",
+        "85,000+ users in Sweden alone; 1.6M+ globally"
+      ],
+      "business_model": "B2B SaaS and perpetual licensing; implementation and training services; ongoing support and maintenance contracts; telemedicine subscription add-ons.",
+      "why_varden_should_care": "Major German/European healthcare IT player with 40+ years experience; CGM Video addresses growing demand for tele-triage in EDs; strong presence in both primary care and hospitals enables care continuity; recent Zymego partnership signals focus on care pathways; potential consolidation play as European healthcare IT market matures."
+    },
+    {
+      "company_name": "InterSystems",
+      "hq_location": "Cambridge, UK / Boston, USA (significant EU operations)",
+      "website_url": "https://www.intersystems.com/",
+      "problem_solved": "Emergency departments require real-time access to patient data from multiple systems, fast data processing for critical decisions, and interoperability across care settings. InterSystems provides the data platform infrastructure enabling ED information systems.",
+      "who_buys_it": "Large European hospital systems, regional health information exchanges, national health IT programs, and EDIS vendors using InterSystems as their data layer.",
+      "key_features": [
+        "InterSystems HealthShare for ED data integration",
+        "HealthConnect for interoperability and FHIR support",
+        "Caché and IRIS for high-performance clinical databases",
+        "Real-time analytics for ED operations",
+        "Trauma registry and reporting capabilities",
+        "Integration with ambulance and pre-hospital systems"
+      ],
+      "business_model": "B2B enterprise licensing; platform-as-a-service subscriptions; OEM partnerships with EDIS vendors; professional services for implementation.",
+      "why_varden_should_care": "Underlying data platform for many European ED systems; 1 billion+ health records managed globally; 100% of US News Honor Roll hospitals use their products; strong position in UK NHS and European markets; strategic infrastructure play as healthcare moves to cloud and AI; FHIR-first approach positions well for interoperability requirements."
+    },
+    {
+      "company_name": "Orion Health",
+      "hq_location": "Auckland, New Zealand (significant European presence - UK, Spain, Nordics)",
+      "website_url": "https://orionhealth.com/global/",
+      "problem_solved": "Emergency departments need unified patient records that aggregate data from multiple sources, enable care coordination across settings, and support population health. Orion Health provides integrated care platforms used in ED environments.",
+      "who_buys_it": "European regional health systems, UK NHS trusts, Spanish health authorities, and integrated delivery networks seeking shared care records.",
+      "key_features": [
+        "Digital Care Record for unified ED patient view",
+        "Digital Front Door for patient engagement",
+        "Population health management tools",
+        "Care coordination across pre-hospital, ED, and inpatient",
+        "150 million patient records managed globally",
+        "Integration with emergency medical services"
+      ],
+      "business_model": "B2B enterprise platform licensing; subscription-based access; implementation and integration services; ongoing managed services contracts.",
+      "why_varden_should_care": "Strong UK NHS presence (major ED market); shared care record approach aligns with European interoperability initiatives; proven at scale with 150M+ records; multi-country European footprint (UK, Spain, Nordics); digital front door capability addresses growing patient engagement trend; potential acquisition target for US vendors seeking European entry."
+    },
+    {
+      "company_name": "Dochter/Better Medic (Health Information Exchange)",
+      "hq_location": "Netherlands",
+      "website_url": "https://www.better.care/",
+      "problem_solved": "Emergency departments in the Netherlands and broader Europe need to share patient data across organizational boundaries for trauma care and emergency referrals. Regional HIEs enable this data exchange.",
+      "who_buys_it": "Dutch regional healthcare networks, emergency departments, ambulance services, and regional trauma networks.",
+      "key_features": [
+        "Regional health information exchange for EDs",
+        "Trauma network data sharing",
+        "Pre-hospital to ED data handoff",
+        "Cross-institutional patient record lookup",
+        "Emergency referral coordination",
+        "Integration with Dutch national health infrastructure"
+      ],
+      "business_model": "B2B subscription for participating organizations; regional network licensing; government-funded deployments; per-transaction or per-patient fees.",
+      "why_varden_should_care": "HIEs are critical infrastructure for emergency care coordination; Dutch healthcare IT market is mature and well-funded; regional trauma networks represent concentrated buyer groups; data exchange platforms have high switching costs and network effects; potential model for other European regions implementing shared care records."
+    },
+    {
+      "company_name": "MediTouch (European Emergency Documentation)",
+      "hq_location": "Zug, Switzerland",
+      "website_url": "https://www.medibase.ch/",
+      "problem_solved": "Emergency departments in Switzerland and German-speaking Europe need specialized documentation systems for emergency care that comply with local regulations and support clinical workflows.",
+      "who_buys_it": "Swiss hospitals, emergency departments, and urgent care centers; German and Austrian healthcare facilities.",
+      "key_features": [
+        "Emergency department documentation workflows",
+        "Swiss DRG coding and billing integration",
+        "Triage and acuity scoring",
+        "Emergency room management dashboards",
+        "Integration with Swiss hospital information systems",
+        "Multilingual support (German, French, Italian)"
+      ],
+      "business_model": "B2B licensing; implementation services; annual maintenance and support; training programs; Swiss-specific compliance updates.",
+      "why_varden_should_care": "Swiss healthcare IT market is high-value with premium pricing; regional specialization creates defensible niche; Swiss DRG integration is complex and creates switching costs; potential expansion platform to broader DACH region; Swiss hospitals have high IT budgets and adoption rates."
+    }
+  ],
+  "market_notes": {
+    "market_size": "European emergency department information systems market estimated at €800M-1.2B annually, growing 8-12% CAGR driven by digitization mandates and post-COVID care coordination investments.",
+    "key_trends": [
+      "European Health Data Space (EHDS) regulations driving interoperability investments",
+      "AI-assisted documentation to address clinician burnout in EDs",
+      "Mobile-first ED documentation solutions gaining traction",
+      "Shared care records and regional HIEs becoming standard infrastructure",
+      "Tele-triage and virtual ED assessments post-COVID acceleration",
+      "Open standards (FHIR, openEHR) adoption mandated by several countries"
+    ],
+    "competitive_landscape": "Market is fragmented with strong regional players (DIPS in Norway, CGM in Germany, Tieto in Nordics). US vendors (Epic, Cerner/Oracle) have limited European ED market share due to localization requirements. Interoperability platforms (InterSystems, Orion Health, Better) are gaining importance as data sharing becomes mandatory.",
+    "excluded": [
+      "Consumer-facing apps (e.g., general telemedicine platforms)",
+      "Pharma companies",
+      "Pure medical device manufacturers without software focus"
+    ]
+  }
+}

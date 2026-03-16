@@ -1,0 +1,32 @@
+{
+  "id": "coagne-2026-106",
+  "title": "Dutch Health Insurers (Zorgverzekeraars) - Payer Systems",
+  "company": "Various Dutch Health Insurers",
+  "country": "Netherlands",
+  "region": "EU",
+  "segment": "billing",
+  "problem": "Dutch health insurers need efficient claims processing, coverage verification, and provider reimbursement for the mandatory health insurance system.",
+  "solution": "Dutch health insurer systems for claims processing, DBC/DOT billing, and provider reimbursement. Integration with healthcare providers through VECOZO network for electronic data exchange.",
+  "technology": "VECOZO network, DBC/DOT billing, claims processing",
+  "target_customer": "Dutch health insurers, providers",
+  "care_setting": "all",
+  "care_domain": "general",
+  "care_stage": "admin",
+  "automation_level": "partial",
+  "ai_type": null,
+  "traction_signals": [
+    "Mandatory health insurance in Netherlands",
+    "VECOZO electronic data exchange",
+    "Sophisticated payer market"
+  ],
+  "funding": "Private insurers",
+  "regulatory_notes": "Dutch Healthcare Authority regulations, GDPR",
+  "varden_fit": "CRITICAL — Dutch insurers have claims systems but lack advanced eligibility verification and prior auth automation. This is the opportunity.",
+  "source": "Industry knowledge",
+  "url": "https://www.zn.nl",
+  "date_added": "2026-03-11",
+  "problem_type": "claims",
+  "contrarian": true,
+  "boring_software": true,
+  "notes": "CONTRARIAN: Dutch payer systems exist but lack modern eligibility and prior auth automation. Blue ocean opportunity."
+}

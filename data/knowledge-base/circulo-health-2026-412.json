@@ -1,0 +1,22 @@
+{
+  "company_name": "Circulo Health",
+  "problem_solved": "Medicaid beneficiaries receive fragmented care that doesn't address social determinants or provide meaningful support",
+  "solution_description": "Medicaid managed care organization with focus on social determinants and community health workers. Tech-enabled health plan emphasizing SDOH interventions, including housing support, food security, and transportation. Partners with community organizations for wraparound services",
+  "buyer_persona": "payers",
+  "care_stage": "treatment",
+  "automation_level": "partial",
+  "varden_fit": "very_high",
+  "region": "US",
+  "country": "United States",
+  "funding_stage": "series_a",
+  "traction_signals": [
+    "Founded by healthcare veterans",
+    "Focus on Medicaid populations",
+    "Tech-enabled community health worker model",
+    "Strong SDOH intervention focus"
+  ],
+  "notes": "New Medicaid-focused health plan with SDOH at core. Very high Varden fit - purpose-built for SDOH in Medicaid. Community health worker model similar to Cityblock. Early stage but strong vision for social care integration",
+  "discovery_round": 50,
+  "discovered_by": "sky",
+  "timestamp": "2026-03-11T23:20:00Z"
+}

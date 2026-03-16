@@ -1,0 +1,22 @@
+{
+  "company_name": "Oracle Argus Safety",
+  "problem_solved": "Complex pharmacovigilance and adverse event reporting requirements",
+  "solution_description": "Enterprise pharmacovigilance software for adverse event collection, processing, and reporting. Handles ICSR, signal detection, and regulatory submissions for drug safety.",
+  "buyer_persona": "pharma_lifesciences",
+  "care_stage": "clinical_trials,commercial",
+  "automation_level": "partial",
+  "varden_fit": "low",
+  "region": "Global",
+  "country": "US",
+  "funding_stage": "public",
+  "traction_signals": [
+    "Part of Oracle Health Sciences",
+    "Legacy safety database",
+    "E2B compliance",
+    "Global pharma installed base"
+  ],
+  "notes": "Legacy pharmacovigilence leader. Competes with Veeva Vault Safety, ArisGlobal. Oracle's flagship safety product. Large enterprise deployments.",
+  "discovery_round": 53,
+  "discovered_by": "sky",
+  "timestamp": "2026-03-11T23:18:00Z"
+}

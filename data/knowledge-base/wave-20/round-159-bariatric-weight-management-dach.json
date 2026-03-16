@@ -1,0 +1,114 @@
+[
+  {
+    "company_name": "Oviva",
+    "hq_location": "Zurich, Switzerland",
+    "website_url": "https://www.oviva.com",
+    "problem_solved": "Oviva provides personalized digital nutrition therapy for people with diet-related health conditions, making specialized dietary support accessible and scalable for healthcare systems.",
+    "target_buyers": "Health insurance companies, statutory health insurers, healthcare providers, NHS/health systems",
+    "key_features": [
+      "AI-powered nutrition coaching app with personalized dietary advice",
+      "Integration with healthcare systems and insurance reimbursement",
+      "Multi-lingual support (German, French, English) for DACH region"
+    ],
+    "business_model": "B2B SaaS - Reimbursed through health insurance providers",
+    "varden_replicability": "High - Digital-first nutrition therapy model is highly scalable across markets, strong integration with payer systems demonstrates replicable B2B model, European expansion playbook already proven"
+  },
+  {
+    "company_name": "Glucura",
+    "hq_location": "Lübeck, Germany",
+    "website_url": "https://www.glucura.de",
+    "problem_solved": "Glucura helps people with diabetes and metabolic conditions understand their blood sugar responses to different foods and manage their glucose levels through personalized nutrition guidance.",
+    "target_buyers": "Individuals with diabetes/prediabetes, healthcare providers, diabetes clinics",
+    "key_features": [
+      "Blood sugar monitoring and food response tracking",
+      "Personalized nutrition recommendations based on glucose data",
+      "Weekly goal-setting and progress tracking for sustainable habit change"
+    ],
+    "business_model": "B2C/B2B hybrid - Direct-to-consumer app with potential for healthcare provider partnerships",
+    "varden_replicability": "Medium-High - Metabolic health management is globally relevant, software-based personalization approach is scalable, strong foundation for bariatric pre/post-care applications"
+  },
+  {
+    "company_name": "Bodymed",
+    "hq_location": "Konstanz, Germany",
+    "website_url": "https://www.bodymed.com",
+    "problem_solved": "Bodymed provides medically-supervised weight management programs with health insurance coverage, addressing obesity through structured nutritional programs backed by healthcare providers.",
+    "target_buyers": "Health insurance companies, medical practices, nutrition centers, bariatric clinics",
+    "key_features": [
+      "Medically-developed weight management program with 25+ years of clinical experience",
+      "Health insurance reimbursement integration (Krankenkasse partnerships)",
+      "Network of 1,500+ certified nutrition counselors across DACH"
+    ],
+    "business_model": "B2B2C - Insurance-covered programs delivered through certified healthcare providers",
+    "varden_replicability": "Medium - Established clinical program with insurance integration is replicable but requires local payer relationships, hybrid digital/in-person model offers flexibility"
+  },
+  {
+    "company_name": "Adipositas Zentrum Bochum",
+    "hq_location": "Bochum, Germany",
+    "website_url": "https://www.adipositaszentrum-bochum.de",
+    "problem_solved": "Provides specialized multimodal obesity treatment programs combining nutrition therapy, exercise, and behavioral support for patients with severe obesity.",
+    "target_buyers": "Patients with BMI >35, health insurance companies, referring physicians, bariatric surgery centers",
+    "key_features": [
+      "Multimodal therapy program (Optimed® 52) certified for health insurance coverage",
+      "Integrated pre and post-bariatric surgery support",
+      "Combination of group therapy, individual counseling, and digital tracking"
+    ],
+    "business_model": "Healthcare service provider - Insurance-reimbursed treatment programs",
+    "varden_replicability": "Medium - Clinical expertise and program structure is replicable, but requires physical clinic presence and medical staff, opportunity for digital augmentation"
+  },
+  {
+    "company_name": "Kaia Health",
+    "hq_location": "Munich, Germany",
+    "website_url": "https://kaiahealth.com",
+    "problem_solved": "Kaia Health provides digital therapeutics for musculoskeletal pain and chronic conditions, though not specifically weight management, their platform demonstrates successful B2B healthcare delivery model.",
+    "target_buyers": "Employers, health insurance plans, healthcare providers",
+    "key_features": [
+      "Evidence-based digital therapeutic programs with clinical validation",
+      "3x ROI demonstrated in claims studies with Fortune 150 employers",
+      "Integration with world's largest healthcare organizations"
+    ],
+    "business_model": "B2B SaaS - Sold to employers and health plans",
+    "varden_replicability": "High - Proven digital therapeutic delivery model, strong B2B sales engine, scalable across conditions (could expand to weight management)"
+  },
+  {
+    "company_name": "Mindable Health",
+    "hq_location": "Berlin, Germany",
+    "website_url": "https://www.mindable.health",
+    "problem_solved": "Mindable provides digital therapeutics for anxiety disorders with prescription-based access, demonstrating the regulatory pathway and B2B model for digital health interventions in DACH.",
+    "target_buyers": "Healthcare providers, health insurance companies, patients via prescription (DiGA certified)",
+    "key_features": [
+      "DiGA (Digital Health Application) certified for insurance reimbursement",
+      "Evidence-based cognitive behavioral therapy programs",
+      "Prescription-based access model with physician integration"
+    ],
+    "business_model": "B2B2C - Prescribed by physicians, reimbursed by health insurance",
+    "varden_replicability": "High - DiGA certification pathway is replicable for other conditions including obesity, demonstrates successful German digital health regulatory navigation"
+  },
+  {
+    "company_name": "Nuralogix",
+    "hq_location": "Toronto, Canada (with DACH expansion)",
+    "website_url": "https://www.nuralogix.ai",
+    "problem_solved": "Nuralogix provides AI-powered facial analysis for health insights including metabolic markers, enabling contactless health monitoring that could support weight management programs.",
+    "target_buyers": "Telehealth platforms, wellness providers, insurance companies, digital health apps",
+    "key_features": [
+      "30-second facial scan measuring 100+ health markers including metabolic indicators",
+      "SDK integration for embedding into existing health platforms",
+      "Clinical research validation and HIPAA/GDPR compliance"
+    ],
+    "business_model": "B2B SaaS - API/SDK licensing to healthcare and wellness companies",
+    "varden_replicability": "High - Contactless health monitoring technology is universally applicable, SDK model enables rapid integration, metabolic health insights directly relevant to weight management"
+  },
+  {
+    "company_name": "Baritastic",
+    "hq_location": "Columbus, Ohio, USA (potential DACH expansion)",
+    "website_url": "https://www.baritastic.com",
+    "problem_solved": "Baritastic provides comprehensive bariatric surgery patient management platform including pre-op tracking, post-op monitoring, and clinic workflow tools specifically designed for weight loss surgery programs.",
+    "target_buyers": "Bariatric surgery clinics, obesity medicine practices, weight management centers",
+    "key_features": [
+      "HIPAA-compliant provider dashboard for patient monitoring and clinic management",
+      "Patient-facing mobile app for nutrition tracking, reminders, and education",
+      "4,700+ patient study showing connected patients lost significantly more weight"
+    ],
+    "business_model": "B2B SaaS - Subscription-based platform for bariatric clinics",
+    "varden_replicability": "High - Pure software play with proven efficacy data, bariatric-specific functionality is globally relevant, could be adapted for DACH regulatory requirements"
+  }
+]

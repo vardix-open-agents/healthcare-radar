@@ -1,0 +1,100 @@
+[
+  {
+    "company_name": "Visiba Care",
+    "hq_location": "Gothenburg, Sweden",
+    "website": "https://www.visibacare.com",
+    "problem_solved": "Healthcare providers lack integrated digital tools for patient triage, video consultations, and remote care delivery. Visiba Care provides a white-label SaaS platform that enables clinics and hospitals to offer digital care pathways and virtual consultations.",
+    "who_buys": "Clinics, hospitals, healthcare systems, and private care providers across Sweden, Norway, Finland, and the UK",
+    "key_features": [
+      "Digital triage and symptom assessment for routing patients to appropriate care",
+      "Integrated video consultation platform with secure messaging",
+      "Customizable digital care pathways for various specialties including mental health"
+    ],
+    "business_model": "SaaS subscription (per-provider/per-month pricing)",
+    "why_varden_care": "Platform-agnostic digital care infrastructure that can be replicated in other markets. Strong traction in Nordic countries with proven ability to sell to healthcare systems. Mental health is one of their key specialty areas."
+  },
+  {
+    "company_name": "Mindler",
+    "hq_location": "Stockholm, Sweden",
+    "website": "https://www.mindler.se",
+    "problem_solved": "Long wait times and limited access to psychological care in Sweden. Mindler provides rapid access to licensed psychologists through video consultations, with both consumer-facing and employer-B2B offerings.",
+    "who_buys": "Employers (B2B wellness programs), insurance companies, and individual consumers (DTC)",
+    "key_features": [
+      "Video consultations with licensed psychologists within 24-48 hours",
+      "Digital CBT (cognitive behavioral therapy) programs for common conditions",
+      "Employer dashboard for tracking utilization and outcomes"
+    ],
+    "business_model": "Hybrid (DTC per-session pricing + B2B employer subscriptions)",
+    "why_varden_care": "Proven model for scaling mental health access through teletherapy. Employer-B2B component demonstrates replicability for corporate wellness market. Strong brand in Sweden with potential for geographic expansion."
+  },
+  {
+    "company_name": "Flow Neuroscience",
+    "hq_location": "Malmö, Sweden",
+    "website": "https://www.flowneuroscience.com",
+    "problem_solved": "Many depression patients don't respond to or can't tolerate medication. Flow provides a medically certified tDCS (transcranial direct current stimulation) headset for home-based depression treatment.",
+    "who_buys": "Healthcare providers (clinics and hospitals), individual consumers (DTC), and potentially insurers",
+    "key_features": [
+      "Medical-grade tDCS headset with companion mobile app",
+      "Behavioral therapy app integrated with brain stimulation sessions",
+      "Clinical outcomes tracking and progress monitoring"
+    ],
+    "business_model": "Device sales (hardware) + optional subscription for enhanced app features",
+    "why_varden_care": "Novel hardware-software approach to depression treatment with clinical validation. Demonstrates how to commercialize neuromodulation for mental health. Potential for clinic-based deployment model."
+  },
+  {
+    "company_name": "Kry (Livi)",
+    "hq_location": "Stockholm, Sweden",
+    "website": "https://www.kry.se",
+    "problem_solved": "Limited access to primary care and mental health services in public healthcare systems. Kry provides a hybrid digital-physical healthcare platform with psychologists, doctors, and physical clinics.",
+    "who_buys": "Employers (B2B wellness programs), insurers, and individual consumers (DTC); also operates physical clinics",
+    "key_features": [
+      "24/7 digital access to doctors, psychologists, and other healthcare professionals",
+      "Network of 34+ physical clinics across Sweden for in-person care",
+      "Employer wellness programs with mental health support"
+    ],
+    "business_model": "Hybrid (DTC per-visit pricing + B2B employer contracts + clinic revenue)",
+    "why_varden_care": "Largest digital health player in Nordics with proven ability to scale. Mental health is a core service line. Employer-B2B component shows replicability for corporate market."
+  },
+  {
+    "company_name": "Din Psykolog",
+    "hq_location": "Stockholm, Sweden",
+    "website": "https://www.dinpsykolog.se",
+    "problem_solved": "Long wait times for psychological care in public system. Din Psykolog provides rapid access to licensed psychologists through video consultations with transparent pricing.",
+    "who_buys": "Individual consumers (DTC) and potentially employers",
+    "key_features": [
+      "Video consultations with licensed psychologists",
+      "Fixed pricing per session with transparent costs",
+      "Quick booking - appointments within days"
+    ],
+    "business_model": "DTC per-session pricing",
+    "why_varden_care": "Pure-play teletherapy model focused on psychology. Demonstrates consumer willingness to pay for faster mental health access. Simpler model than full-spectrum platforms."
+  },
+  {
+    "company_name": "Mehiläinen (Terveystalo Digital)",
+    "hq_location": "Helsinki, Finland",
+    "website": "https://www.mehilainen.fi",
+    "problem_solved": "Fragmented healthcare services and limited digital care options. Mehiläinen provides comprehensive healthcare services including mental health through digital and physical channels.",
+    "who_buys": "Employers (B2B occupational health), insurers, and individual consumers",
+    "key_features": [
+      "OmaMehiläinen digital health platform with mental health services",
+      "Integrated physical and digital care delivery",
+      "Comprehensive occupational health programs including mental health support"
+    ],
+    "business_model": "Hybrid (B2B employer contracts + DTC services + insurance partnerships)",
+    "why_varden_care": "Largest private healthcare provider in Finland with strong digital capabilities. Mental health is integrated into comprehensive care model. Proven B2B employer relationships."
+  },
+  {
+    "company_name": "Pihlajalinna",
+    "hq_location": "Helsinki, Finland",
+    "website": "https://www.pihlajalinna.fi",
+    "problem_solved": "Limited access to comprehensive healthcare services. Pihlajalinna provides integrated healthcare including mental health services through digital and physical channels.",
+    "who_buys": "Employers (B2B occupational health), insurers, and individual consumers",
+    "key_features": [
+      "Pihlajalinna Terveyssovellus health app with digital consultations",
+      "Chat-based access to healthcare professionals including mental health",
+      "Comprehensive occupational health programs"
+    ],
+    "business_model": "Hybrid (B2B employer contracts + DTC services + insurance partnerships)",
+    "why_varden_care": "Second-largest private healthcare provider in Finland. Strong digital platform with mental health services. Proven B2B model for occupational health."
+  }
+]

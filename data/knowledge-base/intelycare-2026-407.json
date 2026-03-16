@@ -1,0 +1,22 @@
+{
+  "company_name": "IntelyCare",
+  "problem_solved": "Nursing homes and post-acute facilities face chronic staffing shortages leading to burnout and quality issues",
+  "solution_description": "Platform matching nursing professionals with per diem, local contract, and travel assignments at healthcare facilities. Uses technology to optimize scheduling and matching. Provides employer-sponsored benefits and career development for nursing workforce",
+  "buyer_persona": "health_systems",
+  "care_stage": "treatment",
+  "automation_level": "partial",
+  "varden_fit": "low",
+  "region": "US",
+  "country": "United States",
+  "funding_stage": "series_c",
+  "traction_signals": [
+    "Ranked #1 for quality by nursing professionals",
+    "Per diem, local contracts, and travel assignments",
+    "Employer-sponsored benefits for nursing staff",
+    "Career development and training resources"
+  ],
+  "notes": "Nurse staffing platform, not SDOH-focused. Addresses healthcare workforce challenge which is related to care access. Low Varden fit - staffing marketplace vs. SDOH infrastructure. Important for care delivery but not core SDOH",
+  "discovery_round": 50,
+  "discovered_by": "sky",
+  "timestamp": "2026-03-11T23:20:00Z"
+}

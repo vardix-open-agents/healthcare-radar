@@ -1,0 +1,22 @@
+{
+  "id": "availity-lab-2026-327",
+  "title": "Availity - Lab Ordering & Eligibility",
+  "company": "Availity",
+  "country": "USA",
+  "segment": "infrastructure",
+  "problem": "Lab ordering requires checking eligibility, prior auth, and result routing - all disconnected",
+  "solution": "Multi-payer platform for eligibility, prior auth, claims, and lab ordering integration",
+  "technology": "API platform, payer connectivity, revenue cycle integration",
+  "target_customer": "Provider groups, health systems, labs",
+  "care_setting": "all",
+  "care_domain": "infrastructure",
+  "care_stage": "all",
+  "automation_level": "full",
+  "ai_type": null,
+  "traction_signals": ["100K+ providers", "All major payers", "Processing 12B transactions"],
+  "funding": "Private (payer-owned consortium)",
+  "regulatory_notes": "HIPAA compliant",
+  "source": "sky-round18-diagnostics",
+  "url": "https://www.availity.com",
+  "date_added": "2026-03-11"
+}

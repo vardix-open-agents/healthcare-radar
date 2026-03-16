@@ -1,0 +1,16 @@
+{
+  "id": "problem-2026-014",
+  "problem": "Remote patient monitoring generates 1000s of data points daily, overwhelming clinical teams",
+  "problem_type": "monitoring",
+  "solution_type": "AI-powered anomaly detection, smart alerting thresholds, automated escalation",
+  "care_stage": "monitoring",
+  "automation_type": "ai_assisted",
+  "buyer": "health_system",
+  "care_setting": "home",
+  "companies": ["Biofourmis", "Current Health", "RPM Informatics"],
+  "signals": ["RPM reimbursement expansion", "COVID home monitoring", "Chronic care management codes"],
+  "boring_software": false,
+  "contrarian": false,
+  "url": "https://biofourmis.com",
+  "date_added": "2026-03-11"
+}

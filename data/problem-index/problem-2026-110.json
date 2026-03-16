@@ -1,0 +1,16 @@
+{
+  "id": "problem-2026-110",
+  "problem": "End-of-life care conversations happen too late, with 70% of patients preferring home death but 60% dying in hospitals",
+  "problem_type": "navigation",
+  "solution_type": "Goals-of-care platforms, advance care planning tools, hospice transition support",
+  "care_stage": "discharge",
+  "automation_type": "manual_augmentation",
+  "buyer": "patient",
+  "care_setting": "home",
+  "companies": ["VITAS Healthcare", "Compassus", "Amedisys", "Traditions Health"],
+  "signals": ["Hospice underutilization", "Family caregiver burden", "Medicare hospice benefit expansion"],
+  "boring_software": false,
+  "contrarian": true,
+  "url": "https://www.vitas.com",
+  "date_added": "2026-03-11"
+}

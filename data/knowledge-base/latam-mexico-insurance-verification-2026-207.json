@@ -1,0 +1,33 @@
+{
+  "id": "latam-mexico-insurance-verification-2026-207",
+  "title": "Mexico Multi-Payer Insurance Verification Gap",
+  "company": null,
+  "country": "Mexico",
+  "region": "LATAM",
+  "segment": "admin",
+  "problem": "Mexico's fragmented healthcare system has multiple insurance schemes (IMSS, ISSSTE, private insurers, INSABI replacement). Providers must verify coverage across different systems with no unified platform. Prior authorization is manual, slow, and error-prone. Patients often don't know their coverage status, leading to denied claims and delayed care.",
+  "solution": "Real-time eligibility verification platform connecting all Mexican insurance schemes. Single API for providers to check coverage, benefits, and prior authorization requirements. Automated prior auth for common procedures. Patient-facing app to view coverage status.",
+  "technology": "API integration with IMSS/ISSSTE/private insurers, real-time eligibility checks, prior authorization automation, mobile app",
+  "target_customer": "Private hospitals, clinics, individual physicians, urgent care centers",
+  "care_setting": "all",
+  "care_domain": "general",
+  "care_stage": "admin",
+  "automation_level": "full",
+  "ai_type": "Rule-based automation",
+  "traction_signals": [
+    "130M+ population with mixed coverage",
+    "Private insurance growing 8-10% annually",
+    "High claim denial rates creating demand",
+    "US-style healthcare model emerging"
+  ],
+  "funding": null,
+  "regulatory_notes": "Mexico data protection laws, integration with government health databases",
+  "varden_fit": "CRITICAL FIT - Availity (US) model for Mexico. This is the most boring, critical infrastructure play. Dual-sided network (payers + providers) creates defensibility. Zero local competition.",
+  "source": "Healthcare system research + opportunity analysis",
+  "url": "https://en.wikipedia.org/wiki/Healthcare_in_Mexico",
+  "date_added": "2026-03-11",
+  "problem_type": "eligibility",
+  "contrarian": true,
+  "boring_software": true,
+  "notes": "CONTRARIAN: Zero players in Mexico doing this. Availity handles trillions in US claims. Mexico is natural expansion market. Boring infrastructure with massive moat once established."
+}

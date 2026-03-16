@@ -1,0 +1,14 @@
+{
+  "company": "COSMED",
+  "country": "IT",
+  "problem": "Clinics and research institutions need comprehensive, accurate cardiopulmonary and metabolic measurement systems for diagnosis and research.",
+  "solution": "Complete pulmonary function testing systems including wireless spirometers, body plethysmographs, metabolic monitors, and the OMNIA software platform for integrated lung function, metabolic, and body composition analysis.",
+  "problem_type": "pulmonology",
+  "solution_type": "device",
+  "buyer": "clinics, hospitals, research",
+  "varden_fit": "low",
+  "url": "https://www.cosmed.com",
+  "source": "web",
+  "discovery_round": 115,
+  "discovered_by": "sky"
+}

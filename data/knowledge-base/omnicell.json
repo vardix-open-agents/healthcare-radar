@@ -1,0 +1,14 @@
+{
+  "company": "Omnicell",
+  "country": "US",
+  "problem": "Manual medication management in hospitals leads to medication errors, pharmacy inefficiency, and patient safety risks",
+  "solution": "Comprehensive pharmacy automation systems including automated dispensing cabinets (XT, Titan), central pharmacy robotics, and cloud-based medication management platform (OmniSphere)",
+  "problem_type": "pharmacy",
+  "solution_type": "SaaS",
+  "buyer": "pharmacies",
+  "varden_fit": "medium",
+  "url": "https://www.omnicell.com/",
+  "source": "web",
+  "discovery_round": 75,
+  "discovered_by": "nova"
+}

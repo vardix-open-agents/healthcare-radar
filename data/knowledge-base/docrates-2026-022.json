@@ -1,0 +1,29 @@
+{
+  "id": "docrates-2026-022",
+  "title": "Docrates - Online Cancer Second Opinion Service",
+  "company": "Docrates",
+  "country": "Sweden",
+  "region": "Nordics",
+  "segment": "diagnostics",
+  "problem": "Cancer patients face uncertainty about their diagnosis and treatment plan. Getting a second opinion is difficult, time-consuming, and often requires travel.",
+  "solution": "Online platform connecting cancer patients with leading oncologists for remote second opinions. Patients upload records, receive expert review and recommendations.",
+  "technology": "Telemedicine platform, secure document sharing, video consultations",
+  "target_customer": "Cancer patients, insurers, employers",
+  "care_setting": "telehealth",
+  "care_domain": "oncology",
+  "care_stage": "diagnosis",
+  "automation_level": "none",
+  "ai_type": null,
+  "traction_signals": [
+    "Swedish-based oncology second opinion service",
+    "Network of specialist oncologists",
+    "International patient reach"
+  ],
+  "funding": null,
+  "regulatory_notes": "Licensed medical service, oncologist credentials verification.",
+  "varden_fit": "Low — highly specialized oncology service, not primary care infrastructure. Interesting model but different segment.",
+  "source": "Industry knowledge",
+  "url": "https://www.docrates.se",
+  "date_added": "2026-03-11",
+  "notes": "Specialized telemedicine model. Example of vertical-specific digital health."
+}

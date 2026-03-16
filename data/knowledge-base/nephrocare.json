@@ -1,0 +1,14 @@
+{
+  "company": "NephroCare",
+  "country": "DE",
+  "problem": "CKD patients across Europe need consistent, high-quality dialysis treatment and comprehensive support for managing kidney disease, including diet, medication, exercise, and mental health, but care delivery varies widely",
+  "solution": "Pan-European dialysis care network providing hemodialysis, peritoneal dialysis, and home hemodialysis services. Offers comprehensive patient education on kidney disease stages, treatment options, diet management, vascular access care, and mental health support. Includes holiday dialysis coordination for traveling patients across 17+ countries",
+  "problem_type": "nephrology",
+  "solution_type": "services + SaaS",
+  "buyer": "patients, health systems",
+  "varden_fit": "low",
+  "url": "https://www.nephrocare.com/",
+  "source": "web",
+  "discovery_round": 105,
+  "discovered_by": "sky"
+}

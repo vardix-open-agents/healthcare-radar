@@ -1,0 +1,22 @@
+{
+  "company_name": "Saykara",
+  "problem_solved": "Physicians spend significant time on clinical documentation, leading to burnout and reduced patient care time",
+  "solution_description": "AI-powered medical scribe that uses ambient listening technology to automatically generate clinical notes from patient encounters. Designed to work in the background without requiring physician prompts. Mobile-first approach with EHR integration",
+  "buyer_persona": "health_systems|clinics|providers",
+  "care_stage": "treatment",
+  "automation_level": "partial",
+  "varden_fit": "high",
+  "region": "US",
+  "country": "US",
+  "funding_stage": "acquired",
+  "traction_signals": [
+    "Ambient listening technology",
+    "Mobile-first design",
+    "EHR integration capabilities",
+    "Acquired by competitor (market consolidation)"
+  ],
+  "notes": "US-based AI scribe. Acquisition signals market consolidation in AI scribing space. Technology approach similar to Abridge/DeepScribe",
+  "discovery_round": 51,
+  "discovered_by": "sky",
+  "timestamp": "2026-03-11T23:25:00Z"
+}

@@ -1,0 +1,14 @@
+{
+  "company": "Exact Sciences (Cologuard)",
+  "country": "US",
+  "problem": "Colorectal cancer screening rates remain low due to barriers like colonoscopy invasiveness and stool test limitations. Primary care and GI practices need tools to identify at-risk patients and manage screening workflows efficiently.",
+  "solution": "Exact Sciences provides Cologuard, a non-invasive colorectal cancer screening test, along with software tools for screening program management. Their platform helps GI clinics and primary care practices identify patients due for screening, track test results, and manage colonoscopy follow-up workflows for positive screenings.",
+  "problem_type": "gastroenterology",
+  "solution_type": "SaaS",
+  "buyer": "clinics",
+  "varden_fit": "medium",
+  "url": "https://www.exactsciences.com",
+  "source": "web",
+  "discovery_round": 113,
+  "discovered_by": "sky"
+}

@@ -1,0 +1,14 @@
+{
+  "company": "Vynca Health",
+  "country": "US",
+  "problem": "Patients with serious illnesses often receive care inconsistent with their wishes, and advance care planning is fragmented and underutilized across healthcare systems",
+  "solution": "Digital platform for serious illness care management and advance care planning, enabling conversations, documentation, and care coordination aligned with patient preferences",
+  "problem_type": "palliative_care",
+  "solution_type": "SaaS",
+  "buyer": "providers",
+  "varden_fit": "medium",
+  "url": "https://www.vyncahealth.com",
+  "source": "web",
+  "discovery_round": 121,
+  "discovered_by": "nova"
+}

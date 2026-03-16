@@ -1,0 +1,22 @@
+{
+  "id": "zebra-medical-2026-331",
+  "title": "Zebra Medical Vision - Population Health Imaging AI",
+  "company": "Zebra Medical Vision (Nanox)",
+  "country": "Israel",
+  "segment": "diagnostics",
+  "problem": "Incidental findings in imaging often missed; population health insights untapped",
+  "solution": "AI algorithms detecting multiple conditions in CT scans for population screening",
+  "technology": "Deep learning, population health analytics, imaging biomarkers",
+  "target_customer": "Health systems, insurers, employers",
+  "care_setting": "all",
+  "care_domain": "diagnostics",
+  "care_stage": "screening",
+  "automation_level": "full",
+  "ai_type": "computer vision",
+  "traction_signals": ["Acquired by Nanox 2020", "10+ FDA clearances", "Population contracts"],
+  "funding": "Acquired",
+  "regulatory_notes": "Multiple FDA 510(k) clearances",
+  "source": "sky-round18-diagnostics",
+  "url": "https://www.zebra-med.com",
+  "date_added": "2026-03-11"
+}

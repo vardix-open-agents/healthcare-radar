@@ -1,0 +1,14 @@
+{
+  "company": "BioVigil",
+  "country": "US",
+  "problem": "Healthcare-associated infections (HAIs) remain a major patient safety issue, with hand hygiene compliance difficult to monitor and improve using traditional observation methods",
+  "solution": "Electronic hand hygiene monitoring system using smart badges with alcohol vapor sensors and room beacons, providing real-time compliance data, contact tracing, and staff rounding analytics",
+  "problem_type": "infectious_disease",
+  "solution_type": "SaaS",
+  "buyer": "clinics",
+  "varden_fit": "medium",
+  "url": "https://biovigil.com",
+  "source": "web",
+  "discovery_round": 119,
+  "discovered_by": "nova"
+}

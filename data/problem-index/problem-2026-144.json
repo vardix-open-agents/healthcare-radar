@@ -1,0 +1,16 @@
+{
+  "id": "problem-2026-144",
+  "problem": "Patient benefits breakdown requires manual interpretation of 270/271 responses, with 40% of staff misunderstanding coverage details",
+  "problem_type": "benefits_breakdown",
+  "solution_type": "AI benefits interpretation, plain-language benefit summaries, cost estimation, patient-facing portals",
+  "care_stage": "admin",
+  "automation_type": "ai_assisted",
+  "buyer": "clinic",
+  "care_setting": "primary_care",
+  "companies": ["Experian Health", "Waystar", "Change Healthcare", "Phyn"],
+  "signals": ["40% staff misunderstanding", "Manual interpretation required", "Plain-language demand", "Patient cost transparency"],
+  "boring_software": true,
+  "contrarian": false,
+  "url": "https://www.cms.gov/benefits",
+  "date_added": "2026-03-11"
+}

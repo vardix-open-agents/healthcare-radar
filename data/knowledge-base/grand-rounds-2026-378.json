@@ -1,0 +1,22 @@
+{
+  "company_name": "Grand Rounds (Included Health)",
+  "problem_solved": "Employees struggle to navigate healthcare systems, find appropriate specialists, and access quality care efficiently",
+  "solution_description": "Healthcare navigation and clinical advocacy platform (now part of Included Health after merger). Combines provider matching, expert medical opinions, and virtual care. Helps employees find the right doctors, get second opinions, and navigate complex care needs",
+  "buyer_persona": "employers|health_plans",
+  "care_stage": "triage|diagnosis|treatment",
+  "automation_level": "assistive",
+  "varden_fit": "medium",
+  "region": "US",
+  "country": "US",
+  "funding_stage": "acquired",
+  "traction_signals": [
+    "Merged with Included Health (formerly Doctor on Demand)",
+    "Provider matching and second opinion services",
+    "Employer-focused healthcare navigation",
+    "Virtual care integration"
+  ],
+  "notes": "US employer-focused model. Grand Rounds + Doctor on Demand merger created comprehensive virtual care + navigation platform. May not directly translate to Nordic single-payer model",
+  "discovery_round": 51,
+  "discovered_by": "sky",
+  "timestamp": "2026-03-11T23:25:00Z"
+}

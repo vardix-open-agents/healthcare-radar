@@ -1,0 +1,29 @@
+{
+  "id": "heidorn-2026-029",
+  "title": "Heidorn - AI-Powered Medical Scribing",
+  "company": "Heidorn",
+  "country": "Sweden",
+  "region": "Nordics",
+  "segment": "admin",
+  "problem": "Doctors spend significant time on documentation. Medical scribing is expensive and not scalable for most clinics.",
+  "solution": "AI-powered ambient scribing that listens to patient consultations and automatically generates structured clinical notes in Swedish.",
+  "technology": "Speech recognition, NLP, medical terminology",
+  "target_customer": "Primary care clinics, specialist clinics, hospitals",
+  "care_setting": "primary_care",
+  "care_domain": "general",
+  "care_stage": "admin",
+  "automation_level": "partial",
+  "ai_type": "NLP, Speech recognition",
+  "traction_signals": [
+    "Swedish medical AI startup",
+    "Focus on Swedish language medical scribing",
+    "Clinic pilots ongoing"
+  ],
+  "funding": null,
+  "regulatory_notes": "Medical documentation tool, data privacy compliance.",
+  "varden_fit": "Moderate — documentation tool for clinics. Could be valuable add-on for Varden clinic partners.",
+  "source": "Swedish health tech ecosystem",
+  "url": "https://www.heidorn.se",
+  "date_added": "2026-03-11",
+  "notes": "Swedish competitor to US scribing tools like Nuance DAX."
+}

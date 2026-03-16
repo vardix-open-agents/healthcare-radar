@@ -1,0 +1,14 @@
+{
+  "company": "Immucor",
+  "country": "US",
+  "problem": "Transfusion medicine laboratories need accurate blood typing and antibody detection to prevent hemolytic transfusion reactions. Manual processes are labor-intensive and create bottlenecks in emergency situations requiring rapid blood product availability.",
+  "solution": "Automated immunohematology testing instruments and transfusion management software. Their NEO and Echo platforms provide automated blood grouping, antibody screening, and crossmatching with integrated data management to speed turnaround time while maintaining accuracy and compliance.",
+  "problem_type": "blood_bank",
+  "solution_type": "SaaS",
+  "buyer": "hospitals",
+  "varden_fit": "low",
+  "url": "https://www.immucor.com/",
+  "source": "web",
+  "discovery_round": 130,
+  "discovered_by": "sky"
+}

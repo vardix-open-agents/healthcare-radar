@@ -1,0 +1,14 @@
+{
+  "company": "Nabla",
+  "country": "US",
+  "problem": "Clinicians face overwhelming documentation burden that leads to burnout, reduced patient face time, and work-life imbalance, with 55%+ spending excessive hours on paperwork",
+  "solution": "AI-powered clinical documentation platform that captures patient encounters and generates accurate, structured medical notes in seconds, trusted by 85,000+ clinicians with 27% reduction in burnout and significant time savings",
+  "problem_type": "medical_coding",
+  "solution_type": "SaaS",
+  "buyer": "providers",
+  "varden_fit": "high",
+  "url": "https://www.nabla.com",
+  "source": "web",
+  "discovery_round": 84,
+  "discovered_by": "sky"
+}

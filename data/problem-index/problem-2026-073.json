@@ -1,0 +1,16 @@
+{
+  "id": "problem-2026-073",
+  "problem": "Ambulance crews can't determine which hospital has appropriate specialty care capacity, leading to suboptimal routing and delays",
+  "problem_type": "insurance_routing",
+  "solution_type": "Real-time hospital capability dashboards, EMS-hospital communication platforms, predictive capacity modeling",
+  "care_stage": "triage_navigation",
+  "automation_type": "decision_support",
+  "buyer": "health_system",
+  "care_setting": "emergency",
+  "companies": ["TigerConnect", "Pulsara", "GD e-Bridge", "Twiage", "Kollab"],
+  "signals": ["Trauma system regionalization", "Stroke/STEMI time targets", "EMS-hospital integration initiatives"],
+  "boring_software": false,
+  "contrarian": false,
+  "url": "https://www.ems.gov",
+  "date_added": "2026-03-11"
+}

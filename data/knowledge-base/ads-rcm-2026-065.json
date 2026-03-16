@@ -1,0 +1,14 @@
+{
+  "company": "ADS/ADSRCM",
+  "country": "US",
+  "problem": "Healthcare organizations across multiple specialties struggle with complex revenue cycle management, inefficient billing processes, and outdated practice management systems that lead to revenue leakage, claim denials, and administrative burden on staff.",
+  "solution": "ADS provides comprehensive healthcare software and outsourced billing services including MedicsPremier practice management, MedicsCloud EHR, MedicsRIS for radiology, and ADSRCM for outsourced revenue cycle management. Their AI-driven platform handles scheduling, clinical documentation, claims processing, denial management, and patient payments. ADSRCM offers fully outsourced billing and staffing services with guaranteed performance metrics. The platform serves 22,500+ practices across behavioral health, laboratories, radiology, and multi-specialty groups.",
+  "problem_type": "claims_billing",
+  "solution_type": "SaaS + Services",
+  "buyer": "providers",
+  "varden_fit": "medium",
+  "url": "https://www.adsc.com",
+  "source": "web research",
+  "discovery_round": 65,
+  "discovered_by": "sky"
+}

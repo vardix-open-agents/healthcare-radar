@@ -1,0 +1,29 @@
+{
+  "id": "navigatingcancer-2026-121",
+  "title": "Navigating Cancer - Patient Navigation Platform",
+  "company": "Navigating Cancer",
+  "country": "USA",
+  "region": "NA",
+  "segment": "oncology_navigation",
+  "problem": "Cancer patients lack coordinated support throughout their care journey, leading to poor outcomes, low satisfaction, and gaps in care.",
+  "solution": "Patient navigation platform that coordinates care across the cancer journey, manages side effects, and improves patient engagement through digital tools combined with navigation services.",
+  "technology": "Care coordination platform, patient engagement tools, analytics dashboard",
+  "target_customer": "Oncology practices, health systems, cancer centers",
+  "care_setting": "outpatient_oncology",
+  "care_domain": "oncology",
+  "care_stage": "navigation",
+  "automation_level": "hybrid",
+  "ai_type": null,
+  "traction_signals": [
+    "Used by 1000+ oncology providers",
+    "Established player in oncology navigation",
+    "Partnerships with major cancer centers"
+  ],
+  "funding": "Private, funding undisclosed",
+  "regulatory_notes": "HIPAA compliant, no FDA clearance needed",
+  "varden_fit": "HIGH - Patient navigation and care coordination are core platform capabilities. Directly applicable to Varden's routing and coordination model.",
+  "source": "Industry knowledge",
+  "url": "https://navigatingcancer.com",
+  "date_added": "2026-03-11",
+  "notes": "Human + digital navigation model. Focus on patient experience throughout cancer journey."
+}

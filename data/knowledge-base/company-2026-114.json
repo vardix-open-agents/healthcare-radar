@@ -1,0 +1,27 @@
+{
+  "company": "DocPlanner Spain (TopDoctors)",
+  "country": "Spain",
+  "founded_year": 2011,
+  "category": "Practice Management",
+  "subsector": "Doctor Booking & Practice Software",
+  "description": "Spanish subsidiary of Docplanner Group operating TopDoctors and doctoralia brands. Leading healthcare marketplace in Spain connecting patients with doctors through booking platform and practice management software.",
+  "business_model": "B2B - SaaS to doctors/clinics; B2C marketplace for patient bookings",
+  "target_market": "Spanish healthcare providers and patients",
+  "funding_stage": "Series F (part of Docplanner Group)",
+  "funding_amount_eur": 350000000,
+  "key_investors": "One Peak Partners, Goldman Sachs",
+  "employees": 400,
+  "customers": "40000+ doctors, 8000+ clinics",
+  "revenue_eur": 45000000,
+  "tech_stack": ["Web platform", "Mobile apps", "Practice management SaaS"],
+  "integration_points": ["Spanish healthcare system", "Clinic management systems"],
+  "competitive_advantage": "Market leader in Spain, strong brand, comprehensive platform",
+  "varden_fit": {
+    "threat_level": "medium",
+    "opportunity": "partner",
+    "rationale": "Distribution channel in Spain - could integrate occupational health services"
+  },
+  "data_quality": "medium",
+  "sources": ["docplanner.com", "topdoctors.es"],
+  "last_updated": "2026-03-11"
+}

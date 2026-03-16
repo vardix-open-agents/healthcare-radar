@@ -1,0 +1,16 @@
+{
+  "id": "problem-2026-024",
+  "problem": "Japanese hospitals use fax machines for 90% of inter-hospital communication",
+  "problem_type": "coordination",
+  "solution_type": "Digital communication platforms, secure messaging, EHR-to-EHR data exchange",
+  "care_stage": "admin",
+  "automation_type": "workflow_automation",
+  "buyer": "hospital",
+  "care_setting": "hospital",
+  "companies": ["MICIN", "SUSMED", "JMDC"],
+  "signals": ["Japan healthcare digitization", "FAX reliance criticism", "Next-gen medical infrastructure"],
+  "boring_software": true,
+  "contrarian": true,
+  "url": "https://micin.jp",
+  "date_added": "2026-03-11"
+}

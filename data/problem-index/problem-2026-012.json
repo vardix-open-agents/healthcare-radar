@@ -1,0 +1,16 @@
+{
+  "id": "problem-2026-012",
+  "problem": "Lab results take 3-7 days to reach patients, causing anxiety and delayed treatment",
+  "problem_type": "documentation",
+  "solution_type": "Automated result delivery, patient portals, smart result interpretation",
+  "care_stage": "diagnosis",
+  "automation_type": "workflow_automation",
+  "buyer": "clinic",
+  "care_setting": "primary_care",
+  "companies": ["AccuRx", "Epic MyChart", "Cerner HealtheLife"],
+  "signals": ["21st Century Cures Act", "Information blocking rules", "Patient engagement metrics"],
+  "boring_software": true,
+  "contrarian": false,
+  "url": "https://accurx.com",
+  "date_added": "2026-03-11"
+}

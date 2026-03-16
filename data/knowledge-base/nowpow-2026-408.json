@@ -1,0 +1,22 @@
+{
+  "company_name": "NowPow (Acquired by Unite Us)",
+  "problem_solved": "Healthcare providers need accurate, up-to-date information about community resources to refer patients to social services",
+  "solution_description": "Community resource directory platform providing curated database of social services for healthcare referrals. Specialized in maintaining accurate information about food pantries, housing assistance, transportation, and other SDOH resources. Platform sunset and migrated to Unite Us",
+  "buyer_persona": "health_systems",
+  "care_stage": "screening",
+  "automation_level": "partial",
+  "varden_fit": "high",
+  "region": "US",
+  "country": "United States",
+  "funding_stage": "acquired",
+  "traction_signals": [
+    "Acquired by Unite Us",
+    "Specialized in resource directory curation",
+    "Used by health systems for SDOH referrals",
+    "Technology integrated into Unite Us platform"
+  ],
+  "notes": "Acquired and integrated into Unite Us. Had strong resource directory capabilities. Represents important SDOH infrastructure component (accurate community resource data). High conceptual fit but no longer independent",
+  "discovery_round": 50,
+  "discovered_by": "sky",
+  "timestamp": "2026-03-11T23:20:00Z"
+}

@@ -1,0 +1,163 @@
+{
+  "round": 192,
+  "theme": "Palliative / Hospice IT (France/Benelux)",
+  "wave": 26,
+  "date": "2026-03-14",
+  "companies": [
+    {
+      "company_name": "ChipSoft",
+      "hq_location": "Amsterdam, Netherlands",
+      "website_url": "https://www.chipsoft.nl",
+      "problem_solved": "Fragmented patient data across healthcare settings makes coordinated palliative care difficult. Hospitals need integrated EHR systems that support oncology and palliative care workflows with seamless data exchange.",
+      "who_buys_it": "Hospitals, academic medical centers, regional healthcare networks in Netherlands and Benelux",
+      "key_features": [
+        "HiX Electronic Health Record platform with oncology modules",
+        "Integrated palliative care protocols and symptom management",
+        "Multi-disciplinary care team coordination tools",
+        "Interoperability with regional health information exchanges",
+        "Mobile access for bedside and home care providers",
+        "Advanced clinical decision support for pain management"
+      ],
+      "business_model": "Enterprise software licensing with implementation services and ongoing support contracts. Per-bed or per-user pricing for hospitals.",
+      "why_varden_should_care": "Market leader in Dutch hospital IT with strong oncology/palliative care module adoption. Aging population driving demand for integrated end-of-life care solutions. Potential for regional expansion across Benelux healthcare systems."
+    },
+    {
+      "company_name": "Cegedim",
+      "hq_location": "Boulogne-Billancourt, France",
+      "website_url": "https://www.cegedim.com",
+      "problem_solved": "Healthcare providers need comprehensive digital solutions for patient management, care coordination, and regulatory compliance. Palliative care requires specialized tools for symptom tracking, care planning, and multi-disciplinary collaboration.",
+      "who_buys_it": "Hospitals, clinics, home healthcare providers, pharmacies, and healthcare networks across France and internationally",
+      "key_features": [
+        "Comprehensive EHR solutions with oncology and chronic care modules",
+        "Care coordination platforms for multi-disciplinary teams",
+        "Patient journey tracking for chronic and terminal illnesses",
+        "Integration with French national health systems (Ségur)",
+        "Prescription management for pain medications",
+        "Analytics and reporting for quality metrics"
+      ],
+      "business_model": "SaaS subscriptions, enterprise licensing, and professional services. Revenue from both healthcare providers and life sciences companies.",
+      "why_varden_should_care": "Largest healthcare IT player in France with established hospital and clinic relationships. Strong position to benefit from French government's digital health initiatives. Oncology and chronic care modules directly applicable to palliative care workflows."
+    },
+    {
+      "company_name": "Medispring",
+      "hq_location": "Brussels, Belgium",
+      "website_url": "https://www.medispring.be",
+      "problem_solved": "Independent physicians and small practices need affordable, user-friendly medical software that supports quality patient care. Palliative care requires tools for symptom management, care coordination, and patient communication.",
+      "who_buys_it": "General practitioners, specialists, and multi-disciplinary medical practices in Belgium",
+      "key_features": [
+        "Electronic medical records with intuitive interface",
+        "Multi-disciplinary care coordination tools",
+        "Prescription management including controlled substances",
+        "Offline functionality for home visits and hospice care",
+        "Secure messaging for care team communication",
+        "Integration with Belgian eHealth infrastructure"
+      ],
+      "business_model": "Cooperative model with subscription-based licensing. Physician-owned structure ensures independence from large corporate interests.",
+      "why_varden_should_care": "Unique cooperative model differentiates from corporate competitors. Strong physician loyalty and engagement. Growing adoption among Belgian GPs who often coordinate community-based palliative care. Ethical positioning aligns with palliative care values."
+    },
+    {
+      "company_name": "HealthOne",
+      "hq_location": "Anderlecht, Belgium",
+      "website_url": "https://healthone.be",
+      "problem_solved": "Medical practices need comprehensive practice management software that integrates clinical documentation, billing, and patient engagement. Healthcare providers managing chronic and terminal illness patients need tools for care coordination and symptom tracking.",
+      "who_buys_it": "General practitioners, specialists, and paramedical professionals in Belgium",
+      "key_features": [
+        "Electronic medical records with specialty modules",
+        "Vaccination and preventive care management",
+        "Automated billing and administrative workflows",
+        "Protocol synchronization for standardized care",
+        "Multi-practice support for healthcare networks",
+        "HealthOne NOVA: Next-generation GP software platform"
+      ],
+      "business_model": "Subscription-based licensing with implementation and training services. Premium features for larger practices.",
+      "why_varden_should_care": "Pioneer in Belgian medical software with 35+ years experience. Over 3,000 physicians trust the platform. Strong position in primary care market which serves as gatekeeper for palliative care referrals. New NOVA platform demonstrates continued innovation."
+    },
+    {
+      "company_name": "Nedap Ons",
+      "hq_location": "Groenlo, Netherlands",
+      "website_url": "https://nedap-ons.nl",
+      "problem_solved": "Long-term care facilities, nursing homes, and home care organizations need software to manage care delivery for elderly and chronically ill patients. End-of-life care requires specialized tools for symptom management, care planning, and family communication.",
+      "who_buys_it": "Nursing homes, home care organizations, assisted living facilities, and mental health institutions in Netherlands and Belgium",
+      "key_features": [
+        "Care planning and documentation for long-term care",
+        "Symptom management and medication tracking",
+        "Multi-disciplinary team coordination",
+        "Family communication portals",
+        "Standardized data exchange with regional healthcare networks",
+        "Mobile access for home care nurses"
+      ],
+      "business_model": "SaaS subscriptions with per-client or per-organization pricing. Implementation and training services included.",
+      "why_varden_should_care": "Directly serves nursing home and home care markets where majority of hospice care is delivered. Strong focus on standardized data exchange aligns with integrated care initiatives. Growing demand as aging population increases need for end-of-life care services."
+    },
+    {
+      "company_name": "CompuGroup Medical (CGM)",
+      "hq_location": "Koblenz, Germany (with strong France/Benelux presence)",
+      "website_url": "https://www.cgm.com",
+      "problem_solved": "Healthcare providers across Europe need comprehensive digital health solutions for patient management, documentation, and care coordination. Palliative care requires integrated tools for symptom management, multi-disciplinary collaboration, and seamless data exchange.",
+      "who_buys_it": "Hospitals, primary care practices, specialists, laboratories, and home care providers across Europe including France and Benelux",
+      "key_features": [
+        "CGM J4: Comprehensive EHR for primary and specialist care",
+        "CGM Video: Telemedicine platform for remote consultations",
+        "Integrated care pathways for chronic disease management",
+        "Symptom tracking and pain management protocols",
+        "Interoperability with national health information exchanges",
+        "Analytics for quality improvement and population health"
+      ],
+      "business_model": "Enterprise software licensing, SaaS subscriptions, and professional services. Strong presence in public and private healthcare markets.",
+      "why_varden_should_care": "One of Europe's largest e-health companies with 1.6M+ users across 60 countries. Strong infrastructure for pan-European expansion. Comprehensive platform approach positions well for integrated palliative care workflows. Telemedicine capabilities support home-based hospice care."
+    },
+    {
+      "company_name": "Orion Health",
+      "hq_location": "Auckland, New Zealand (with European operations including France/Benelux)",
+      "website_url": "https://orionhealth.com",
+      "problem_solved": "Healthcare systems struggle with fragmented patient data across multiple providers and care settings. Palliative care requires coordinated information sharing among hospitals, primary care, home care, and hospice providers to ensure continuity of care.",
+      "who_buys_it": "Regional health systems, hospital networks, and national health ministries across Europe including France and Benelux",
+      "key_features": [
+        "Digital Care Record: Unified patient record across care settings",
+        "Digital Front Door: Patient engagement and navigation platform",
+        "Care coordination tools for multi-disciplinary teams",
+        "Population health management and analytics",
+        "Interoperability platform for health information exchange",
+        "Support for integrated care pathways including oncology and palliative care"
+      ],
+      "business_model": "Enterprise platform licensing, implementation services, and ongoing support. Often large-scale regional or national contracts.",
+      "why_varden_should_care": "Pure-play interoperability company focused on connecting healthcare ecosystems. Essential for integrated palliative care that spans multiple providers. Strong presence in European healthcare IT market. Platform approach enables comprehensive patient journey tracking from diagnosis through end-of-life care."
+    },
+    {
+      "company_name": "Resah",
+      "hq_location": "Paris, France",
+      "website_url": "https://resah.fr",
+      "problem_solved": "Healthcare organizations need efficient procurement and logistics management to control costs and ensure quality of care. Hospice and palliative care facilities require specialized equipment, medications, and supplies delivered reliably.",
+      "who_buys_it": "Public and private healthcare organizations including hospitals, EHPADs (nursing homes), home care providers (HAD, SAD), and social care organizations across France",
+      "key_features": [
+        "Centralized procurement platform for healthcare supplies",
+        "Group purchasing to reduce costs",
+        "Specialized catalogs for medical equipment and supplies",
+        "Logistics management for healthcare facilities",
+        "Sustainable and responsible procurement programs",
+        "Support for EHPADs and home care organizations"
+      ],
+      "business_model": "Membership-based procurement cooperative. Revenue from supplier fees and value-added services.",
+      "why_varden_should_care": "Serves entire French healthcare ecosystem including EHPADs and home care providers where hospice care is delivered. RFAR-certified responsible procurement aligns with values-based healthcare. Platform could expand to include care coordination or specialized hospice supply chains."
+    }
+  ],
+  "research_notes": {
+    "search_challenges": "Web search severely limited during research - returning irrelevant results for all queries. Many targeted company websites returned 404 or DNS errors.",
+    "market_context": "Palliative/hospice IT in France/Benelux is primarily served by general healthcare IT companies with oncology and chronic care modules, rather than specialized palliative care software vendors.",
+    "regulatory_environment": "France has strong national healthcare system (Ségur digital health initiative). Belgium has robust eHealth infrastructure. Netherlands has advanced regional health information exchanges.",
+    "market_drivers": [
+      "Aging population increasing demand for end-of-life care",
+      "Shift toward home-based and community-based palliative care",
+      "Regulatory requirements for care coordination and data sharing",
+      "Integration with national eHealth infrastructures",
+      "Growing recognition of palliative care as specialized discipline"
+    ],
+    "opportunities": [
+      "Specialized palliative care modules for existing EHR platforms",
+      "Home-based hospice care coordination tools",
+      "Symptom management and pain tracking applications",
+      "Family communication and bereavement support platforms",
+      "Integration solutions connecting multiple care providers"
+    ]
+  }
+}

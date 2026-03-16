@@ -1,0 +1,14 @@
+{
+  "company": "Falck",
+  "country": "DK",
+  "problem": "Communities and healthcare systems globally need reliable emergency response services, ambulance operations, and integrated healthcare delivery to ensure public safety and patient care.",
+  "solution": "Falck provides global emergency response and healthcare services including ambulance operations, fire services, roadside assistance, and healthcare solutions across 26 countries, supporting public systems with reliable emergency medical services.",
+  "problem_type": "emergency_services",
+  "solution_type": "services",
+  "buyer": "providers",
+  "varden_fit": "low",
+  "url": "https://www.falck.com/",
+  "source": "web",
+  "discovery_round": 94,
+  "discovered_by": "sky"
+}

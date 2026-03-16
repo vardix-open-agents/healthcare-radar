@@ -1,0 +1,27 @@
+{
+  "company": "MedApp",
+  "country": "Poland",
+  "founded_year": 2014,
+  "category": "Occupational Health",
+  "subsector": "Employee Health Platform",
+  "description": "Polish startup providing digital occupational health and employee wellness platform for Polish employers. Offers health assessments, preventive care, and absence management tools.",
+  "business_model": "B2B - SaaS subscription to Polish employers",
+  "target_market": "Polish employers (SMEs and enterprises)",
+  "funding_stage": "Series A",
+  "funding_amount_pln": 10000000,
+  "key_investors": "Polish VCs, angel investors",
+  "employees": 40,
+  "customers": "500+ companies",
+  "revenue_pln": 8000000,
+  "tech_stack": ["Web platform", "Mobile app", "Integration APIs"],
+  "integration_points": ["HR systems", "Polish ZUS (social insurance)", "Occupational medicine providers"],
+  "competitive_advantage": "Local market expertise, Polish language, regulatory compliance, affordable pricing",
+  "varden_fit": {
+    "threat_level": "high",
+    "opportunity": "acquire",
+    "rationale": "Direct competitor in Poland - acquisition target for Polish market entry"
+  },
+  "data_quality": "low",
+  "sources": ["medapp.pl", "linkedin.com"],
+  "last_updated": "2026-03-11"
+}

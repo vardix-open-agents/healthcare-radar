@@ -1,0 +1,102 @@
+{
+  "problem_type": "booking_scheduling",
+  "count": 16,
+  "entries": [
+    {
+      "id": "medevis-2026-040",
+      "company": "Medevis",
+      "country": "Sweden",
+      "varden_fit": "High \u2014 comparison and booking aligns with Varden's marketplace. Potential competitor or acquisition "
+    },
+    {
+      "id": "walr-2026-044",
+      "company": "Walr",
+      "country": "Sweden",
+      "varden_fit": "Moderate-High \u2014 dermatology AI could integrate with Varden's specialist referral workflow."
+    },
+    {
+      "id": "livi-2026-016",
+      "company": "Kry / Livi",
+      "country": "Sweden",
+      "varden_fit": "Moderate \u2014 Livi competes with some Varden clinic partners. However, Livi's infrastructure approach ("
+    },
+    {
+      "id": "valley-2026-026",
+      "company": "Valley",
+      "country": "Sweden",
+      "varden_fit": "High \u2014 practice management for clinics is core to Varden's ecosystem. Potential competitor or partne"
+    },
+    {
+      "id": "doctoronnet-2026-055",
+      "company": "DoktorOnNet",
+      "country": "Sweden",
+      "varden_fit": "Moderate \u2014 competes with some Varden clinic partners for telemedicine visits."
+    },
+    {
+      "id": "klaara-2026-050",
+      "company": "Klaara",
+      "country": "Finland",
+      "varden_fit": "High \u2014 Finnish equivalent to Varden's marketplace model. Cross-border opportunity?"
+    },
+    {
+      "id": "babylonhealth-2026-015",
+      "company": "Babylon Health",
+      "country": "UK",
+      "varden_fit": "Moderate \u2014 while Babylon is a comprehensive platform, their AI triage and virtual care approach coul"
+    },
+    {
+      "id": "dermicus-2026-027",
+      "company": "Dermicus",
+      "country": "Sweden",
+      "varden_fit": "Moderate-High \u2014 telemedicine for specialists aligns with Varden's marketplace model. Could integrate"
+    },
+    {
+      "id": "zavamed-2026-034",
+      "company": "Zava (DrEd)",
+      "country": "UK",
+      "varden_fit": "Moderate \u2014 D2C telemedicine model. Could partner for prescription fulfillment through Varden marketp"
+    },
+    {
+      "id": "doctolib-2026-033",
+      "company": "Doctolib",
+      "country": "France",
+      "varden_fit": "High \u2014 Doctolib is the European benchmark for healthcare marketplaces. Direct parallel to Varden. Ke"
+    },
+    {
+      "id": "zymego-2026-001",
+      "company": "Zymego",
+      "country": "Sweden",
+      "varden_fit": "VERY HIGH - Direct complement to booking infrastructure. Could integrate with EHR booking flow. Solv"
+    },
+    {
+      "id": "mindable-2026-049",
+      "company": "Mindable",
+      "country": "Germany",
+      "varden_fit": "Moderate \u2014 specialized DTx could partner with mental health providers on Varden."
+    },
+    {
+      "id": "addhealth-2026-045",
+      "company": "AddHealth",
+      "country": "Sweden",
+      "varden_fit": "Moderate \u2014 specialized ADHD assessment. Could partner with psychiatry providers on Varden."
+    },
+    {
+      "id": "nursebuddy-2026-042",
+      "company": "NurseBuddy",
+      "country": "Sweden",
+      "varden_fit": "Low \u2014 home care operations, not primary care marketplace. Different segment."
+    },
+    {
+      "id": "kryds-2026-039",
+      "company": "Kryds",
+      "country": "Sweden",
+      "varden_fit": "High \u2014 direct competitor in Swedish market. Similar marketplace model."
+    },
+    {
+      "id": "kry-2026-001",
+      "company": "Kry",
+      "country": "Sweden",
+      "varden_fit": "HIGH - Complementary to booking infrastructure. Potential partnership angle for virtual care integra"
+    }
+  ]
+}

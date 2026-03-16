@@ -1,0 +1,60 @@
+{
+  "company_name": "Zymego",
+  "website": "https://zymego.com",
+  "hq_location": "Stockholm, Sweden",
+  "founded_year": 2019,
+  "category": "Prior Authorization Automation",
+  "subcategories": [
+    "Prior Authorization",
+    "Care Coordination",
+    "Payer-Provider Integration"
+  ],
+  "description": "Zymego is a Swedish healthtech company focused on automating prior authorization and care coordination between healthcare providers and payers. Their platform streamlines the administrative processes around specialist referrals and treatment approvals, reducing delays in patient care and administrative burden on healthcare staff.",
+  "value_proposition": "Digitalizes and automates prior authorization workflows to reduce processing time from days/weeks to hours, improving patient access to care while reducing administrative costs for both providers and payers.",
+  "technology": [
+    "Workflow Automation",
+    "Digital Forms",
+    "Integration APIs",
+    "Rules Engine"
+  ],
+  "target_customers": [
+    "Healthcare regions",
+    "Insurance companies",
+    "Hospital systems",
+    "Specialty clinics"
+  ],
+  "geographic_focus": [
+    "Sweden",
+    "Nordic countries"
+  ],
+  "funding_status": "Series A",
+  "funding_amount": "Undisclosed",
+  "key_investors": [],
+  "employees": "20-50",
+  "traction": "Deployed in multiple Swedish healthcare regions",
+  "competitors": [
+    "Cohere Health",
+    "SamaCare",
+    "Definitive Healthcare"
+  ],
+  "varden_relevance": {
+    "replication_potential": "HIGH",
+    "key_learnings": [
+      "Nordic healthcare systems provide strong reference market for prior auth automation",
+      "Integration with existing regional healthcare IT systems is critical",
+      "Multi-stakeholder platform connecting providers and payers",
+      "Focus on reducing care delays improves patient outcomes"
+    ],
+    "similarities_to_varden": [
+      "Healthcare administrative automation",
+      "Multi-stakeholder platform",
+      "Focus on reducing delays in care"
+    ]
+  },
+  "data_sources": [
+    "https://zymego.com"
+  ],
+  "last_updated": "2026-03-14",
+  "discovered_round": 62,
+  "discovered_by": "nova"
+}

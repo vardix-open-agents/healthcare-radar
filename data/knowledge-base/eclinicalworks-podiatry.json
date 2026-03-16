@@ -1,0 +1,14 @@
+{
+  "company": "eClinicalWorks",
+  "country": "US",
+  "problem": "Podiatry practices need comprehensive EHR solutions that integrate electronic health records, practice management, and patient engagement while supporting foot-specific clinical documentation and imaging",
+  "solution": "eClinicalWorks offers an integrated EHR and practice management platform with customizable podiatry templates, healow patient engagement tools, telehealth, and population health management for podiatry practices",
+  "problem_type": "podiatry",
+  "solution_type": "SaaS",
+  "buyer": "clinics",
+  "varden_fit": "medium",
+  "url": "https://www.eclinicalworks.com/",
+  "source": "web",
+  "discovery_round": 111,
+  "discovered_by": "sky"
+}

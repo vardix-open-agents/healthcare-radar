@@ -1,0 +1,14 @@
+{
+  "company": "McKesson Oncology",
+  "country": "US",
+  "problem": "Oncology practices face financial pressures from complex drug reimbursement, prior authorization burdens, and the need to participate in value-based care models while managing specialty pharmaceutical supply chains.",
+  "solution": "Comprehensive oncology solutions including specialty pharmacy services, practice management tools, financial navigation software, and value-based care support programs that help cancer centers optimize operations and improve patient access to care.",
+  "problem_type": "oncology",
+  "solution_type": "SaaS",
+  "buyer": "clinics",
+  "varden_fit": "medium",
+  "url": "https://www.mckesson.com",
+  "source": "web",
+  "discovery_round": 108,
+  "discovered_by": "nova"
+}

@@ -1,0 +1,28 @@
+{
+  "company": "DocPlanner Group (Poland)",
+  "country": "Poland",
+  "founded_year": 2012,
+  "category": "Healthcare Infrastructure",
+  "subsector": "Healthcare Scheduling Platform",
+  "description": "European healthcare scheduling platform operating in 15+ countries. Patients can find doctors, book appointments, and manage healthcare online. Operates brands including ZnanyLekarz, Doctoralia, MioDottore, TopDoctors, and DocPlanner.",
+  "business_model": "B2B - Subscription to healthcare providers, marketplace to patients",
+  "target_market": "Healthcare providers in Europe and Latin America",
+  "funding_stage": "Private Equity owned",
+  "funding_amount_eur": null,
+  "key_investors": "Goldman Sachs Growth, One Peak Partners",
+  "employees": "2500+",
+  "customers": "230000+ providers",
+  "revenue_eur": 500000000,
+  "tech_stack": ["Appointment scheduling", "Practice management", "Patient reviews", "Doctor directory", "EHR integration"],
+  "integration_points": ["Practice management systems", "EHRs", "Insurance directories"],
+  "competitive_advantage": "European market leader, multi-country presence, strong network effects",
+  "boring_software": true,
+  "varden_fit": {
+    "threat_level": "low",
+    "opportunity": "benchmark",
+    "rationale": "European scheduling infrastructure - demonstrates pan-European opportunity"
+  },
+  "data_quality": "high",
+  "sources": ["docplanner.com", "crunchbase.com"],
+  "last_updated": "2026-03-11"
+}

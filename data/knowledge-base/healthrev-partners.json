@@ -1,0 +1,14 @@
+{
+  "company": "HealthRev Partners",
+  "country": "US",
+  "problem": "Home health and hospice agencies face complex billing requirements with PDGM, OASIS documentation, and high denial rates that create cash flow uncertainty and revenue leakage.",
+  "solution": "HealthRev Partners provides technology-enabled revenue cycle management services for home health and hospice agencies, including certified coding, billing services, and the Velocity analytics platform. They combine AI-assisted workflows with human expertise to achieve 98.7% first-pass accuracy and reduce denials by up to 40%.",
+  "problem_type": "claims_billing",
+  "solution_type": "SaaS",
+  "buyer": "providers",
+  "varden_fit": "high",
+  "url": "https://www.healthrevpartners.com",
+  "source": "web",
+  "discovery_round": 82,
+  "discovered_by": "sky"
+}

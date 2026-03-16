@@ -1,0 +1,36 @@
+[
+  {
+    "company_name": "Eatit",
+    "hq_location": "Stockholm, Sweden",
+    "website_url": "https://www.eatit.io",
+    "problem_solved": "Individuals with overweight and obesity (BMI ≥27) lack access to publicly-funded, evidence-based weight management programs. Many cannot afford private dietitian services and traditional weight loss programs often lack medical supervision and personalized support.",
+    "who_buys_it": "Swedish regional healthcare authorities (landsting/regioner) that fund publicly-financed weight management treatment. Also accessible via employee wellness benefits (Benify, Epassi, Wellnet).",
+    "key_features": [
+      "Digital dietitian consultations with medical assessment",
+      "BMI-based eligibility screening (minimum BMI 27 for publicly-funded treatment)",
+      "Integration with Swedish healthcare system for tax-funded treatment access",
+      "Mobile app for ongoing support and tracking",
+      "Personalized weight management programs",
+      "Eligibility integration with friskvårdsbidrag (wellness benefits)"
+    ],
+    "business_model": "B2B/B2G model. Publicly-funded through Swedish regional healthcare systems for eligible patients (BMI ≥27). Also available through corporate wellness benefit platforms for employees.",
+    "why_varden_should_care": "Swedish digital health company with reimbursement pathway through public healthcare system. Addresses obesity/overweight which is a major healthcare cost driver. Platform model with both B2G (public funding) and B2B2C (wellness benefits) revenue streams. Scalable to other Nordic countries with similar healthcare structures."
+  },
+  {
+    "company_name": "Dietist Net",
+    "hq_location": "Stockholm, Sweden",
+    "website_url": "https://www.dietistnet.se",
+    "problem_solved": "Dietitians and clinical nutritionists in Swedish healthcare settings need reliable, Swedish-language software for nutritional calculations, meal planning, and patient dietary assessment. Existing solutions often lack local food databases and Swedish regulatory compliance.",
+    "who_buys_it": "Clinical dietitians in Swedish hospitals, private practice nutritionists, municipal healthcare facilities, and nutrition researchers in Sweden.",
+    "key_features": [
+      "Swedish food database with local ingredients and products",
+      "Nutritional calculation and analysis tools",
+      "Meal planning for therapeutic diets",
+      "Patient dietary assessment documentation",
+      "Integration with Swedish healthcare IT systems",
+      "Swedish language interface and support"
+    ],
+    "business_model": "SaaS subscription model. Pricing likely tiered based on institution size (hospitals vs. private practice). Local Swedish support and training.",
+    "why_varden_should_care": "Established Swedish clinical nutrition software with local market fit. Addresses specific need for Swedish-language tools and local food data. Potential for expansion to other Nordic countries (Norway, Denmark, Finland) with localized versions. Part of KostData ecosystem which suggests deeper market penetration."
+  }
+]

@@ -1,0 +1,14 @@
+{
+  "company": "HealthEdge",
+  "country": "US",
+  "problem": "Health plans struggle with data silos that prevent automation, accurate payment processing, informed decision-making, and enhanced member care, limiting their ability to evolve from payers to true partners in care.",
+  "solution": "HealthEdge provides integrated SaaS solutions for health plans enabling touchless transaction processing, prospective payment accuracy, care integrity, and AI-driven business intelligence, positioned as a Major Player in IDC MarketScape for U.S. value-based healthcare analytics and Best in KLAS for pre-payment accuracy.",
+  "problem_type": "analytics",
+  "solution_type": "SaaS",
+  "buyer": "providers",
+  "varden_fit": "medium",
+  "url": "https://www.healthedge.com",
+  "source": "web",
+  "discovery_round": 97,
+  "discovered_by": "sky"
+}

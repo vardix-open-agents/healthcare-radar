@@ -1,0 +1,16 @@
+{
+  "id": "problem-2026-016",
+  "problem": "Polish clinics use paper-based medical records, creating interoperability barriers and duplicate tests",
+  "problem_type": "documentation",
+  "solution_type": "EHR implementation services, OCR digitization, FHIR-based data migration",
+  "care_stage": "admin",
+  "automation_type": "manual_augmentation",
+  "buyer": "clinic",
+  "care_setting": "primary_care",
+  "companies": ["Doctoronnet", "Juvema", "Medfile"],
+  "signals": ["Polish e-health initiatives", "EU digital health funds", "CEE market growth"],
+  "boring_software": true,
+  "contrarian": false,
+  "url": "https://doctoronnet.pl",
+  "date_added": "2026-03-11"
+}

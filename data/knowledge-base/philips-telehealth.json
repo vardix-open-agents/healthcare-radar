@@ -1,0 +1,14 @@
+{
+  "company": "Philips Telehealth",
+  "country": "NL",
+  "problem": "Hospitals need continuous monitoring and specialist oversight for critically ill patients in ICUs and NICUs, but face physician staffing constraints",
+  "solution": "Enterprise telehealth platform including eICU and tele-NICU solutions that provide remote monitoring and specialist consultation for critical care and neonatal units",
+  "problem_type": "specialty_telemedicine",
+  "solution_type": "SaaS",
+  "buyer": "hospitals",
+  "varden_fit": "low",
+  "url": "https://www.philips.com/healthcare/solutions/telehealth",
+  "source": "web",
+  "discovery_round": 100,
+  "discovered_by": "nova"
+}

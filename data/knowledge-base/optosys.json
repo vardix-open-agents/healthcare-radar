@@ -1,0 +1,14 @@
+{
+  "company": "Optosys",
+  "country": "CA",
+  "problem": "Optometry and ophthalmology practices in Canada need practice management software tailored to regional healthcare requirements and billing systems",
+  "solution": "Canadian practice management and EHR software for eye care professionals, featuring electronic claims, optical inventory, and patient scheduling",
+  "problem_type": "optometry",
+  "solution_type": "SaaS",
+  "buyer": "clinics",
+  "varden_fit": "medium",
+  "url": "https://www.optosys.com",
+  "source": "web",
+  "discovery_round": 110,
+  "discovered_by": "nova"
+}

@@ -1,0 +1,14 @@
+{
+  "company": "Bamboo Health",
+  "country": "US",
+  "problem": "Healthcare providers, payers, and state governments lack real-time visibility into patient care transitions, leading to care fragmentation, poor outcomes, and inefficient care coordination across the continuum",
+  "solution": "Real-time care intelligence platform and care collaboration network that provides alerts when patients are seen by other providers, enabling timely follow-up, care transition tracking, and coordinated care across hospitals, health plans, and state governments",
+  "problem_type": "patient_communication",
+  "solution_type": "SaaS",
+  "buyer": "providers",
+  "varden_fit": "high",
+  "url": "https://bamboohealth.com/",
+  "source": "web",
+  "discovery_round": 74,
+  "discovered_by": "sky"
+}

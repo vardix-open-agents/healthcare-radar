@@ -1,0 +1,14 @@
+{
+  "company": "TigerConnect",
+  "country": "US",
+  "problem": "Home health and hospice teams struggle with fragmented communication across care settings, leading to delays in care coordination, missed handoffs, and poor patient outcomes",
+  "solution": "AI-powered healthcare collaboration and orchestration platform that unifies alerts, messaging, and workflows across the care continuum including post-acute and home care settings with FDA 510(k)-cleared alarm management",
+  "problem_type": "home_health",
+  "solution_type": "SaaS",
+  "buyer": "agencies",
+  "varden_fit": "medium",
+  "url": "https://tigerconnect.com",
+  "source": "web",
+  "discovery_round": 95,
+  "discovered_by": "nova"
+}

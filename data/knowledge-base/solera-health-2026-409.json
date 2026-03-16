@@ -1,0 +1,22 @@
+{
+  "company_name": "Solera Health",
+  "problem_solved": "Health plans struggle to connect members to evidence-based social and community programs that address chronic conditions and SDOH",
+  "solution_description": "Platform connecting health plans to a curated network of social determinants and community-based programs. Matches members to appropriate interventions including food programs, stress management, tobacco cessation, and chronic disease support. Provides single point of integration for health plans to access community programs",
+  "buyer_persona": "payers",
+  "care_stage": "treatment",
+  "automation_level": "partial",
+  "varden_fit": "very_high",
+  "region": "US",
+  "country": "United States",
+  "funding_stage": "series_d",
+  "traction_signals": [
+    "Partnerships with major health plans",
+    "Curated network of evidence-based programs",
+    "Single integration point for multiple SDOH services",
+    "Food, stress, tobacco cessation programs available"
+  ],
+  "notes": "SDOH marketplace connecting payers to community programs. Strong fit for Varden - intermediary between payers and social services. Similar model to Findhelp/Unite Us but focus on program matching vs. general referrals. High Varden fit for SDOH infrastructure",
+  "discovery_round": 50,
+  "discovered_by": "sky",
+  "timestamp": "2026-03-11T23:20:00Z"
+}

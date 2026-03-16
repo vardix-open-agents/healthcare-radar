@@ -1,0 +1,16 @@
+{
+  "id": "problem-2026-046",
+  "problem": "UAE expatriate patients cannot transfer medical records when changing employers/insurers",
+  "problem_type": "documentation",
+  "solution_type": "Patient-controlled health records, portable data standards, consent management",
+  "care_stage": "admin",
+  "automation_type": "workflow_automation",
+  "buyer": "health_system",
+  "care_setting": "primary_care",
+  "companies": ["DHA (Dubai Health Authority)", "PureHealth", "Local health tech"],
+  "signals": ["UAE health data initiatives", "Expat population mobility", "Daman/Thiqa data sharing"],
+  "boring_software": true,
+  "contrarian": false,
+  "url": "https://www.dha.gov.ae",
+  "date_added": "2026-03-11"
+}

@@ -1,0 +1,14 @@
+{
+  "company": "mdhub",
+  "country": "US",
+  "problem": "Behavioral health clinics struggle with administrative overload, missed patient inquiries, denied insurance claims, and documentation burden",
+  "solution": "AI-first clinic operating system with specialized AI workers (Sarah for admissions, Emma for clinical documentation, Eric for billing) that handle scheduling, notes, and claims end-to-end for mental health clinics",
+  "problem_type": "practice_management",
+  "solution_type": "SaaS",
+  "buyer": "clinics",
+  "varden_fit": "medium",
+  "url": "https://www.mdhub.ai",
+  "source": "web",
+  "discovery_round": 77,
+  "discovered_by": "sky"
+}

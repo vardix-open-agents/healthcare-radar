@@ -1,0 +1,22 @@
+{
+  "id": "leica-pathology-2026-325",
+  "title": "Leica Biosystems - Digital Pathology",
+  "company": "Leica Biosystems (Danaher)",
+  "country": "Germany/USA",
+  "segment": "infrastructure",
+  "problem": "Pathology transition from glass slides to digital workflow requires high-quality scanners",
+  "solution": "Aperio whole slide scanners and digital pathology platform for clinical and research use",
+  "technology": "Whole slide imaging, high-speed scanning, image management software",
+  "target_customer": "Hospital pathology labs, reference labs, pharma",
+  "care_setting": "hospital",
+  "care_domain": "diagnostics",
+  "care_stage": "diagnosis",
+  "automation_level": "partial",
+  "ai_type": null,
+  "traction_signals": ["Market leader in scanners", "Global installation base", "Danaher backing"],
+  "funding": "Subsidiary of Danaher (public)",
+  "regulatory_notes": "FDA cleared for primary diagnosis",
+  "source": "sky-round18-diagnostics",
+  "url": "https://www.leicabiosystems.com",
+  "date_added": "2026-03-11"
+}

@@ -1,0 +1,28 @@
+{
+  "company": "Elion (USA)",
+  "country": "United States",
+  "founded_year": 2017,
+  "category": "Healthcare Infrastructure",
+  "subsector": "Healthcare IT Marketplace",
+  "description": "Marketplace for healthcare IT software. Helps healthcare organizations discover, compare, and purchase software. Reviews and recommendations for EHRs, practice management, revenue cycle management, and other health IT tools.",
+  "business_model": "B2B - Marketplace and lead generation for health IT vendors",
+  "target_market": "Healthcare organizations, health IT vendors",
+  "funding_stage": "Seed",
+  "funding_amount_usd": 3000000,
+  "key_investors": "Undisclosed",
+  "employees": "20+",
+  "customers": "Health IT vendors",
+  "revenue_usd": null,
+  "tech_stack": ["Software marketplace", "Reviews platform", "Vendor comparison", "Lead generation"],
+  "integration_points": ["Health IT vendors", "Healthcare organizations"],
+  "competitive_advantage": "Focused health IT marketplace, vendor-neutral reviews",
+  "boring_software": true,
+  "varden_fit": {
+    "threat_level": "none",
+    "opportunity": "monitor",
+    "rationale": "Market intelligence resource - good for competitive analysis"
+  },
+  "data_quality": "medium",
+  "sources": ["elionmedical.com"],
+  "last_updated": "2026-03-11"
+}

@@ -1,0 +1,27 @@
+{
+  "company": "Square Health (UK)",
+  "country": "United Kingdom",
+  "founded_year": 2013,
+  "category": "Occupational Health",
+  "subsector": "B2B Telemedicine & Health Services",
+  "description": "UK-based digital health company providing telemedicine and occupational health services to employers. Operates Push Doctor brand for consumer telemedicine and offers corporate health programs including GP access, mental health support, and health assessments.",
+  "business_model": "B2B - Corporate health contracts; B2C via Push Doctor brand",
+  "target_market": "UK employers and consumers seeking digital healthcare access",
+  "funding_stage": "Private",
+  "funding_amount_gbp": 25000000,
+  "key_investors": "UK VCs, strategic investors",
+  "employees": 150,
+  "customers": "500+ corporate clients",
+  "revenue_gbp": 15000000,
+  "tech_stack": ["Video platform", "Mobile app", "GP network", "Occupational health tools"],
+  "integration_points": ["HR systems", "Benefits platforms", "NHS systems"],
+  "competitive_advantage": "Established GP network, digital-first approach, corporate and consumer presence",
+  "varden_fit": {
+    "threat_level": "high",
+    "opportunity": "compete",
+    "rationale": "Direct competitor in UK occupational health market - established player"
+  },
+  "data_quality": "medium",
+  "sources": ["pushdoctor.co.uk", "squarehealth.com"],
+  "last_updated": "2026-03-11"
+}

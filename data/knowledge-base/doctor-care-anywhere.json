@@ -1,0 +1,14 @@
+{
+  "company": "Doctor Care Anywhere",
+  "country": "GB",
+  "problem": "Limited access to GP appointments, long waiting times, and difficulty booking appointments outside standard hours. Patients struggle to get timely medical advice and care.",
+  "solution": "24/7 digital GP platform offering virtual appointments with GPs, physiotherapists, mental health practitioners, and advanced clinical practitioners. Patients can book video or phone consultations anytime, 365 days a year, with up to 20-minute appointments.",
+  "problem_type": "booking_scheduling",
+  "solution_type": "SaaS",
+  "buyer": "clinics",
+  "varden_fit": "medium",
+  "url": "https://doctorcareanywhere.com/",
+  "source": "web research",
+  "discovery_round": 64,
+  "discovered_by": "nova"
+}

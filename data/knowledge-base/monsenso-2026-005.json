@@ -1,0 +1,29 @@
+{
+  "id": "monsenso-2026-005",
+  "title": "Monsenso - Digital Mental Health Platform with AI Personalization",
+  "company": "Monsenso",
+  "country": "Denmark",
+  "region": "Nordics",
+  "segment": "monitoring",
+  "problem": "Mental health treatment is one-size-fits-all, lacking personalization based on individual patient data and behavioral patterns.",
+  "solution": "Digital health platform that uses AI to create individually tailored treatment for depression. Collects health and behavioral data to monitor and personalize care.",
+  "technology": "AI, behavioral data analysis, digital biomarkers, personalized medicine",
+  "target_customer": "Mental health clinics, healthcare systems, patients with depression",
+  "care_setting": "telehealth",
+  "care_domain": "mental health",
+  "care_stage": "monitoring",
+  "automation_level": "partial",
+  "ai_type": "ML, behavioral analytics",
+  "traction_signals": [
+    "Funded by Innovation Fund Denmark",
+    "Active research collaboration for depression treatment",
+    "Deployed in clinical settings"
+  ],
+  "funding": "Innovation Fund Denmark (grant funding)",
+  "regulatory_notes": "CE marking likely required as digital therapeutic. Denmark has progressive regulatory environment for digital health.",
+  "varden_fit": "MODERATE - Mental health focus is adjacent to Varden's primary care marketplace. Could integrate as specialized mental health module. Less infrastructure, more clinical content. Interesting for data-driven personalization approach.",
+  "source": "MFN.se news + Innovation Fund Denmark",
+  "url": "https://mfn.se/nir/a/monsenso/artificial-intelligence-creates-individually-tailored-treatment-for-depression-0352970c",
+  "date_added": "2026-03-11",
+  "notes": "Danish company with grant funding. Focus on depression specifically. Research: clinical validation studies, commercial traction beyond pilots."
+}

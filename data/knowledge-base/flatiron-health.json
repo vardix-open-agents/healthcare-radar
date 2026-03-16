@@ -1,0 +1,14 @@
+{
+  "company": "Flatiron Health",
+  "country": "US",
+  "problem": "Fragmented oncology data and lack of real-world evidence makes it difficult for cancer centers to deliver consistent, evidence-based care and for researchers to understand treatment outcomes across diverse patient populations.",
+  "solution": "Cloud-based oncology EHR platform and real-world evidence network that aggregates and standardizes clinical data from cancer centers, enabling data-driven insights for providers, life sciences research, and regulatory decision-making.",
+  "problem_type": "oncology",
+  "solution_type": "SaaS",
+  "buyer": "clinics",
+  "varden_fit": "medium",
+  "url": "https://flatiron.com",
+  "source": "web",
+  "discovery_round": 108,
+  "discovered_by": "nova"
+}

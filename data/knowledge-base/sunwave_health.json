@@ -1,0 +1,14 @@
+{
+  "company": "Sunwave Health",
+  "country": "US",
+  "problem": "Addiction treatment centers struggle with fragmented systems for patient tracking, documentation, billing, and alumni management, leading to inefficient operations and compliance challenges",
+  "solution": "All-in-one behavioral health platform with AI-powered documentation (SunwaveAI), CRM for patient journey tracking, EMR with compliance support, telehealth, patient engagement tools, revenue cycle management, and alumni management specifically designed for addiction treatment facilities",
+  "problem_type": "behavioral_health",
+  "solution_type": "SaaS",
+  "buyer": "providers",
+  "varden_fit": "medium",
+  "url": "https://www.sunwavehealth.com/",
+  "source": "web",
+  "discovery_round": 123,
+  "discovered_by": "sky"
+}

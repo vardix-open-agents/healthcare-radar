@@ -1,0 +1,14 @@
+{
+  "company": "Zanda (formerly PowerDiary)",
+  "country": "AU",
+  "problem": "Chiropractic and allied health clinics struggle with fragmented tools for scheduling, documentation, billing, and patient communication that don't integrate well together",
+  "solution": "All-in-one practice management platform with drag-and-drop calendar, custom treatment notes, HIPAA-compliant intake forms, integrated invoicing, BizzyAI assistant, telehealth via Zoom, and ISO 27001-certified security",
+  "problem_type": "chiropractic",
+  "solution_type": "SaaS",
+  "buyer": "clinics",
+  "varden_fit": "medium",
+  "url": "https://zandahealth.com",
+  "source": "web",
+  "discovery_round": 139,
+  "discovered_by": "nova"
+}

@@ -1,0 +1,16 @@
+{
+  "id": "problem-2026-127",
+  "problem": "Secondary and tertiary claims routing requires manual payer identification and claim modification, adding 14-21 days to revenue cycle",
+  "problem_type": "secondary_claims",
+  "solution_type": "Automated payer identification, claim transformation for secondary, crossover routing, real-time secondary adjudication",
+  "care_stage": "admin",
+  "automation_type": "workflow_automation",
+  "buyer": "health_system",
+  "care_setting": "hospital",
+  "companies": ["Change Healthcare", "Waystar", "Availity", "Office Ally", "Navicure"],
+  "signals": ["14-21 day secondary delays", "Manual payer ID required", "Crossover automation gaps", "Multi-payer complexity"],
+  "boring_software": true,
+  "contrarian": false,
+  "url": "https://www.cms.gov/crossover",
+  "date_added": "2026-03-11"
+}

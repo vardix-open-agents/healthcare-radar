@@ -1,0 +1,14 @@
+{
+  "company": "Rhinogram",
+  "country": "US",
+  "problem": "Patients struggle to access care due to technology barriers, lack of broadband, and administrative complexity; providers lose time on phone calls and administrative tasks",
+  "solution": "Virtual care platform enabling HIPAA-compliant texting and video visits without requiring patient apps, portals, or broadband, creating a frictionless digital front door for healthcare organizations",
+  "problem_type": "telemedicine",
+  "solution_type": "SaaS",
+  "buyer": "providers",
+  "varden_fit": "high",
+  "url": "https://www.rhinogram.com/",
+  "source": "web",
+  "discovery_round": 73,
+  "discovered_by": "nova"
+}

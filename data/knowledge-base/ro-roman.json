@@ -1,0 +1,14 @@
+{
+  "company": "Ro (Roman)",
+  "country": "US",
+  "problem": "Men lack accessible, affordable healthcare for sensitive conditions including erectile dysfunction, premature ejaculation, and general men's health concerns",
+  "solution": "Integrated telehealth platform offering online doctor consultations, FDA-approved medications, and ongoing care management for men's sexual health, fertility, and preventive care",
+  "problem_type": "urology",
+  "solution_type": "SaaS",
+  "buyer": "patients",
+  "varden_fit": "medium",
+  "url": "https://ro.co",
+  "source": "web",
+  "discovery_round": 112,
+  "discovered_by": "nova"
+}

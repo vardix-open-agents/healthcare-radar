@@ -1,0 +1,14 @@
+{
+  "company": "Greenway Health",
+  "country": "US",
+  "problem": "Ambulatory practices including orthopedics need modern EHR solutions that unify clinical and revenue workflows with embedded AI intelligence to reduce after-hours work",
+  "solution": "AI-powered Novare platform with unified clinical, revenue cycle management, and patient engagement tools featuring embedded clinical AI assistants and intelligent coding for specialty practices",
+  "problem_type": "orthopedics",
+  "solution_type": "SaaS",
+  "buyer": "clinics",
+  "varden_fit": "medium",
+  "url": "https://www.greenwayhealth.com",
+  "source": "web",
+  "discovery_round": 109,
+  "discovered_by": "sky"
+}

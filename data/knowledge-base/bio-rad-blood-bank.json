@@ -1,0 +1,14 @@
+{
+  "company": "Bio-Rad Laboratories Blood Bank Division",
+  "country": "US",
+  "problem": "Blood banks need reliable pre-transfusion testing systems to ensure blood type compatibility and detect antibodies, preventing potentially fatal transfusion reactions. Manual testing is slow, error-prone, and difficult to standardize.",
+  "solution": "Automated blood typing and antibody screening systems with integrated software for pre-transfusion testing. Their IH-1000 system automates immunohematology testing with barcode tracking, results management, and connectivity to laboratory information systems for improved patient safety.",
+  "problem_type": "blood_bank",
+  "solution_type": "SaaS",
+  "buyer": "hospitals",
+  "varden_fit": "low",
+  "url": "https://www.bio-rad.com/",
+  "source": "web",
+  "discovery_round": 130,
+  "discovered_by": "sky"
+}

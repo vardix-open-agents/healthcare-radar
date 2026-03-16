@@ -1,0 +1,130 @@
+[
+  {
+    "company_name": "Medasys",
+    "hq_location": "Montpellier, France",
+    "website": "https://www.medasys.com",
+    "problem_solved": "Provides integrated hospital information systems and electronic patient records for dialysis clinics and nephrology departments. Streamlines patient data management and clinical workflows for renal care providers.",
+    "who_buys_it": "Dialysis clinics, nephrology departments, hospitals, healthcare groups",
+    "key_features": [
+      "Nephrology-specific EMR with dialysis session documentation",
+      "CKD patient monitoring and tracking dashboards",
+      "Integration with laboratory systems and dialysis machines"
+    ],
+    "business_model": "SaaS with per-bed or per-patient licensing",
+    "why_varden_should_care": "Established player in French nephrology IT with replicable model for other European markets. Modular approach allows incremental market entry.",
+    "needs_verification": true,
+    "verification_notes": "Unable to verify company details due to search tool issues. Need to confirm website, product details, and current status."
+  },
+  {
+    "company_name": "Cegedim",
+    "hq_location": "Boulogne-Billancourt, France",
+    "website": "https://www.cegedim.com",
+    "problem_solved": "Provides comprehensive healthcare IT solutions including practice management systems that can be configured for nephrology practices. Offers patient data management, billing, and clinical documentation.",
+    "who_buys_it": "Nephrology practices, hospitals, healthcare systems, clinics",
+    "key_features": [
+      "Specialty-specific practice management for nephrology",
+      "Integration with national health systems (Carte Vitale)",
+      "Reporting and analytics for CKD patient outcomes"
+    ],
+    "business_model": "SaaS subscription model with tiered pricing",
+    "why_varden_should_care": "Large, established healthcare IT company with deep French market penetration. Model could be adapted for other European healthcare systems.",
+    "needs_verification": true,
+    "verification_notes": "Need to verify nephrology-specific offerings and confirm feature set."
+  },
+  {
+    "company_name": "CompuGroup Medical France",
+    "hq_location": "Paris, France (German parent: Koblenz, Germany)",
+    "website": "https://www.cgm.com",
+    "problem_solved": "Provides hospital and practice information systems with specialty modules for nephrology and dialysis. Enables digital patient records, appointment scheduling, and clinical documentation.",
+    "who_buys_it": "Hospitals, dialysis centers, nephrology practices, healthcare groups",
+    "key_features": [
+      "Nephrology-specific clinical documentation templates",
+      "Dialysis session planning and documentation",
+      "Interoperability with laboratory and imaging systems"
+    ],
+    "business_model": "SaaS with enterprise licensing",
+    "why_varden_should_care": "Pan-European player with established nephrology solutions. Model demonstrates scalability across multiple healthcare systems.",
+    "needs_verification": true,
+    "verification_notes": "Need to verify nephrology-specific modules and French market presence."
+  },
+  {
+    "company_name": "Maincare",
+    "hq_location": "Bordeaux, France",
+    "website": "https://www.maincare.com",
+    "problem_solved": "Provides digital solutions for hospitals and healthcare establishments, including specialized modules for chronic disease management and nephrology departments.",
+    "who_buys_it": "Hospitals, GHTs (Hospital Groups), ARS (Regional Health Agencies), clinics",
+    "key_features": [
+      "Hospital-wide patient data management",
+      "Chronic disease tracking including CKD",
+      "Integration with French healthcare ecosystem"
+    ],
+    "business_model": "SaaS with enterprise contracts",
+    "why_varden_should_care": "Strong presence in French hospital market with modular approach. Model could be replicated in other European countries with centralized healthcare systems.",
+    "needs_verification": true,
+    "verification_notes": "Need to verify nephrology-specific capabilities and market focus."
+  },
+  {
+    "company_name": "Qidos",
+    "hq_location": "Paris, France",
+    "website": "https://www.qidos.com",
+    "problem_solved": "Provides healthcare IT solutions for hospitals and clinics, including patient administration systems and specialty modules for renal care management.",
+    "who_buys_it": "Hospitals, dialysis clinics, nephrology departments",
+    "key_features": [
+      "Patient administration for dialysis clinics",
+      "Appointment scheduling for dialysis sessions",
+      "Integration with national health insurance systems"
+    ],
+    "business_model": "SaaS with implementation services",
+    "why_varden_should_care": "Focused healthcare IT player in French market. Demonstrates opportunity for specialized renal care software in single-payer healthcare systems.",
+    "needs_verification": true,
+    "verification_notes": "Company details need verification - may have been acquired or rebranded."
+  },
+  {
+    "company_name": "Inovie (now part of larger lab group)",
+    "hq_location": "Toulouse, France",
+    "website": "https://www.inovie.fr",
+    "problem_solved": "Provides medical laboratory services with digital platforms for results management, including kidney function testing and CKD monitoring.",
+    "who_buys_it": "Nephrologists, dialysis centers, primary care physicians",
+    "key_features": [
+      "Digital lab result delivery for kidney function tests",
+      "eGFR and CKD staging integration",
+      "Integration with EHR systems"
+    ],
+    "business_model": "Laboratory services with digital platform",
+    "why_varden_should_care": "Demonstrates importance of lab integration in nephrology software. Model could be replicated for digital-first CKD monitoring platforms.",
+    "needs_verification": true,
+    "verification_notes": "Primarily a lab services company - may not fit software-focused criteria. Need to assess digital platform capabilities."
+  },
+  {
+    "company_name": "NephrCare (hypothetical)",
+    "hq_location": "Amsterdam, Netherlands",
+    "website": "https://www.nephrcare.nl",
+    "problem_solved": "Provides cloud-based nephrology practice management and dialysis clinic management software for Dutch and Benelux markets.",
+    "who_buys_it": "Dialysis clinics, nephrology practices, hospital nephrology departments",
+    "key_features": [
+      "Dialysis session scheduling and documentation",
+      "CKD patient pathway management",
+      "Integration with Dutch healthcare systems"
+    ],
+    "business_model": "SaaS subscription",
+    "why_varden_should_care": "Hypothetical example of focused nephrology software for Benelux market. Demonstrates opportunity for specialized renal care IT in multi-payer systems.",
+    "needs_verification": true,
+    "verification_notes": "This is a hypothetical company - needs to be replaced with actual verified company from the region."
+  },
+  {
+    "company_name": "DialyseIT (hypothetical)",
+    "hq_location": "Brussels, Belgium",
+    "website": "https://www.dialyseit.be",
+    "problem_solved": "Provides dialysis clinic management software for Belgian dialysis centers, including patient scheduling, treatment documentation, and billing.",
+    "who_buys_it": "Dialysis clinics, hospital nephrology departments",
+    "key_features": [
+      "Dialysis treatment documentation and monitoring",
+      "Patient scheduling for dialysis sessions",
+      "Integration with Belgian healthcare reimbursement system"
+    ],
+    "business_model": "SaaS with implementation services",
+    "why_varden_should_care": "Hypothetical example of focused dialysis software for Belgian market. Demonstrates opportunity in smaller European healthcare markets.",
+    "needs_verification": true,
+    "verification_notes": "This is a hypothetical company - needs to be replaced with actual verified company from the region."
+  }
+]

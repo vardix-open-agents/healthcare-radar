@@ -1,0 +1,27 @@
+{
+  "company": "Sanitas (Spain - Bupa)",
+  "country": "Spain",
+  "founded_year": 1954,
+  "category": "Health Insurance",
+  "subsector": "Private Health Insurance",
+  "description": "Spanish subsidiary of Bupa providing private health insurance to individuals and employers. Offers comprehensive health coverage including digital health services, telemedicine, and wellness programs.",
+  "business_model": "B2B2C - Health insurance sold through employers; B2C individual plans",
+  "target_market": "Spanish employers and individuals seeking private health coverage",
+  "funding_stage": "Corporate Subsidiary (Bupa)",
+  "funding_amount_eur": null,
+  "key_investors": "Bupa Group (UK)",
+  "employees": 6000,
+  "customers": "2000000+ insured members",
+  "revenue_eur": 2500000000,
+  "tech_stack": ["Member portal", "Mobile app", "Telemedicine platform", "Claims processing"],
+  "integration_points": ["Spanish healthcare providers", "Employer HR systems", "Hospital networks"],
+  "competitive_advantage": "Part of global Bupa network, comprehensive coverage, digital-first approach",
+  "varden_fit": {
+    "threat_level": "low",
+    "opportunity": "partner",
+    "rationale": "Major Spanish insurer - potential partner for occupational health services integration"
+  },
+  "data_quality": "high",
+  "sources": ["sanitas.es", "bupa.com"],
+  "last_updated": "2026-03-11"
+}

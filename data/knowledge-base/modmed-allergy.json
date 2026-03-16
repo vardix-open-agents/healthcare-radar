@@ -1,0 +1,14 @@
+{
+  "company": "Modernizing Medicine (ModMed)",
+  "country": "US",
+  "problem": "Allergists struggle with generic EHRs that don't support allergy-specific workflows, immunotherapy mixing, and shot administration tracking",
+  "solution": "Specialty-specific EHR with allergy/immunology templates, immunotherapy management, and integrated billing for allergy treatments",
+  "problem_type": "allergy",
+  "solution_type": "SaaS",
+  "buyer": "clinics",
+  "varden_fit": "medium",
+  "url": "https://modmed.com",
+  "source": "web",
+  "discovery_round": 114,
+  "discovered_by": "nova"
+}

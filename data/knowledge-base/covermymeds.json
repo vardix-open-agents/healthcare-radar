@@ -1,0 +1,14 @@
+{
+  "company": "CoverMyMeds",
+  "country": "US",
+  "problem": "Healthcare providers and patients face time-consuming prior authorization processes for prescription medications, leading to treatment delays and administrative burden",
+  "solution": "Electronic prior authorization platform that streamlines the medication prior authorization process between providers, pharmacists, and payers, now part of McKesson Corporation's healthcare solutions portfolio",
+  "problem_type": "prior_authorization",
+  "solution_type": "SaaS",
+  "buyer": "providers",
+  "varden_fit": "high",
+  "url": "https://www.covermymeds.com",
+  "source": "web",
+  "discovery_round": 86,
+  "discovered_by": "sky"
+}

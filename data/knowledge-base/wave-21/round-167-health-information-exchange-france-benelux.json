@@ -1,0 +1,114 @@
+[
+  {
+    "company_name": "HealthConnect",
+    "hq_location": "Brussels, Belgium",
+    "website": "https://www.healthconnect.be",
+    "problem_solved": "HealthConnect provides a secure digital communication platform for Belgian healthcare, connecting hospitals, laboratories, radiologists, and medical specialists. It addresses the fragmentation of healthcare communication by offering unified messaging, eForms, and convention management.",
+    "who_buys_it": "Hospitals, laboratories, radiologists, medical specialists, pharmacies, and healthcare organizations",
+    "key_features": [
+      "eForms - Digital medical forms and requests with structured, legally compliant data exchange",
+      "Unified Messaging - Centralized healthcare communication platform",
+      "Convention Management - Digital management of medical agreements and conventions"
+    ],
+    "business_model": "SaaS platform with subscription-based services for healthcare organizations",
+    "why_varden_should_care": "Strong replicability potential - HealthConnect demonstrates how to build a successful HIE platform in a complex regulatory environment (Belgium). Their focus on interoperability standards and government compliance provides a proven blueprint for similar markets."
+  },
+  {
+    "company_name": "Nedap Ons (Nedap Healthcare)",
+    "hq_location": "Groenlo, Netherlands",
+    "website": "https://www.nedap-ons.nl",
+    "problem_solved": "Nedap Ons enables standardized data exchange between healthcare organizations, ensuring that patient data is securely available across different care providers. It addresses the challenge of fragmented care delivery across multiple organizations.",
+    "who_buys_it": "Long-term care facilities, home care organizations, mental health institutions, and regional healthcare networks",
+    "key_features": [
+      "Standardized data exchange supporting national and international healthcare standards",
+      "Integration with national healthcare infrastructure in the Netherlands",
+      "Secure cross-organizational patient data sharing"
+    ],
+    "business_model": "SaaS platform with per-user or per-organization licensing",
+    "why_varden_should_care": "Excellent replicability potential - Nedap demonstrates successful implementation of standardized healthcare data exchange in a highly regulated market. Their approach to national-level collaboration with government and other vendors provides a model for other regions."
+  },
+  {
+    "company_name": "Cegedim",
+    "hq_location": "Paris, France",
+    "website": "https://www.cegedim.fr",
+    "problem_solved": "Cegedim provides healthcare IT solutions and services for life sciences companies, healthcare professionals, and health insurers. It addresses the need for digital transformation and secure data exchange across the French healthcare ecosystem.",
+    "who_buys_it": "Hospitals, clinics, pharmacies, health insurers, life sciences companies, and healthcare professionals",
+    "key_features": [
+      "Healthcare information systems and EHR solutions",
+      "Secure dematerialized exchange platforms",
+      "Integration with French national health infrastructure (DMP - Dossier Médical Partagé)"
+    ],
+    "business_model": "SaaS and managed services with subscription-based pricing",
+    "why_varden_should_care": "Strong replicability potential - Cegedim's deep integration with French national healthcare infrastructure demonstrates how to build HIE solutions that work within government-mandated systems. Their expertise in regulatory compliance is valuable for similar markets."
+  },
+  {
+    "company_name": "Chipsoft (HiX)",
+    "hq_location": "Amsterdam, Netherlands",
+    "website": "https://www.chipsoft.com",
+    "problem_solved": "Chipsoft provides HiX, an innovative electronic patient record (EPR) system widely used in Dutch hospitals. It addresses the need for seamless data exchange between healthcare providers and improves clinical workflows.",
+    "who_buys_it": "Hospitals, rehabilitation centers, specialty clinics, and healthcare provider groups",
+    "key_features": [
+      "Comprehensive EHR platform with integrated clinical workflows",
+      "NTS-triage and automated claims processing",
+      "Interoperability with other HiX installations across Dutch healthcare network"
+    ],
+    "business_model": "SaaS with All-you-can-HiX subscription model",
+    "why_varden_should_care": "Excellent replicability potential - Chipsoft demonstrates how to build market dominance in a specific region through widespread EHR adoption. Their interoperability-focused approach allows seamless data exchange between organizations using the same platform."
+  },
+  {
+    "company_name": "AGFA HealthCare",
+    "hq_location": "Mortsel, Belgium",
+    "website": "https://www.agfahealthcare.com",
+    "problem_solved": "AGFA HealthCare provides enterprise imaging and health information exchange solutions. It addresses the challenge of sharing medical images and associated data across different healthcare organizations and systems.",
+    "who_buys_it": "Hospitals, radiology practices, cardiology departments, and integrated delivery networks",
+    "key_features": [
+      "Enterprise Imaging Platform with VNA (Vendor Neutral Archive)",
+      "Imaging Health Network for cross-enterprise image sharing",
+      "Interoperability solutions supporting DICOM, HL7, and FHIR standards"
+    ],
+    "business_model": "Enterprise software licensing with cloud and on-premise deployment options",
+    "why_varden_should_care": "Strong replicability potential - AGFA demonstrates successful global expansion from a Belgian base. Their focus on imaging-specific HIE (a critical subset of health data exchange) provides a specialized entry point into the broader HIE market."
+  },
+  {
+    "company_name": "Maincare",
+    "hq_location": "Lezennes, France",
+    "website": "https://www.maincare.com",
+    "problem_solved": "Maincare provides healthcare software and digital solutions for hospitals, healthcare groups (GHT), and regional health agencies (ARS). It supports digital transformation and data sharing across the French healthcare ecosystem.",
+    "who_buys_it": "Hospitals, hospital groups (GHT), regional health agencies (ARS), insurers, and mutual insurance companies",
+    "key_features": [
+      "Hospital information systems and digital healthcare platforms",
+      "Integration with French national healthcare infrastructure",
+      "Solutions for regional healthcare data sharing and coordination"
+    ],
+    "business_model": "SaaS and software licensing with implementation services",
+    "why_varden_should_care": "Good replicability potential - Maincare's focus on regional healthcare coordination (through GHTs and ARSs) demonstrates how to build HIE solutions that align with government healthcare reform initiatives."
+  },
+  {
+    "company_name": "CompuGroup Medical (CGM)",
+    "hq_location": "Koblenz, Germany (with significant operations in Benelux)",
+    "website": "https://www.cgm.com",
+    "problem_solved": "CompuGroup Medical develops smart and secure solutions for digital medical records and e-health. It addresses the need for accessible health information across different care settings to improve patient safety and care coordination.",
+    "who_buys_it": "Primary care, occupational health, child health services, laboratories, specialty care, private practices, and home care organizations",
+    "key_features": [
+      "CGM J4 journaling system for digital health records",
+      "CGM Video for online healthcare consultations",
+      "Integration capabilities with third-party systems via APIs"
+    ],
+    "business_model": "SaaS platform with subscription-based pricing",
+    "why_varden_should_care": "Strong replicability potential - CGM's pan-European presence (40+ years in Sweden, operations in 60 countries) demonstrates successful scaling of HIE solutions across different regulatory environments and healthcare systems."
+  },
+  {
+    "company_name": "Dedalus",
+    "hq_location": "Florence, Italy (with significant operations in France and Southern Europe)",
+    "website": "https://www.dedalus.com",
+    "problem_solved": "Dedalus provides comprehensive healthcare IT solutions including EHR, laboratory information systems, and interoperability platforms. It addresses the challenge of fragmented healthcare data by enabling full interoperability across the care continuum.",
+    "who_buys_it": "Hospitals, laboratories, diagnostic centers, regional health systems, and healthcare providers across 40 countries",
+    "key_features": [
+      "FHIR-based interoperability platform enabling API economy model",
+      "Continuum of Care solutions spanning prevention, diagnosis, treatment, and follow-up",
+      "Regional and national-level healthcare information exchange platforms"
+    ],
+    "business_model": "SaaS and enterprise software with implementation and managed services",
+    "why_varden_should_care": "Excellent replicability potential - Dedalus is ranked #1 in KLAS for Acute Care EHR in Southern Europe and identified as the EHR vendor with most contracted beds outside the US for 3 consecutive years. Their FHIR-first approach provides a modern blueprint for HIE implementation."
+  }
+]

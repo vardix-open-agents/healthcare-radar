@@ -1,0 +1,14 @@
+{
+  "company": "HealthMap",
+  "country": "US",
+  "problem": "Public health officials and healthcare organizations lack real-time global surveillance of infectious disease outbreaks to enable early detection and response",
+  "solution": "Automated real-time disease surveillance platform that aggregates data from multiple sources to map and track infectious disease outbreaks globally, providing early warning for emerging threats",
+  "problem_type": "infectious_disease",
+  "solution_type": "SaaS",
+  "buyer": "clinics",
+  "varden_fit": "medium",
+  "url": "https://www.healthmap.org",
+  "source": "web",
+  "discovery_round": 119,
+  "discovered_by": "nova"
+}

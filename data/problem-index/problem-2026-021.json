@@ -1,0 +1,16 @@
+{
+  "id": "problem-2026-021",
+  "problem": "Chinese hospitals experience 4-6 hour wait times for registration and triage",
+  "problem_type": "triage",
+  "solution_type": "AI-powered symptom checkers, appointment scheduling, queue management systems",
+  "care_stage": "intake",
+  "automation_type": "ai_assisted",
+  "buyer": "hospital",
+  "care_setting": "emergency",
+  "companies": ["Ping An Good Doctor", "WeDoctor", "Ali Health"],
+  "signals": ["Chinese healthcare demand surge", "AI triage pilots", "Digital hospital initiatives"],
+  "boring_software": false,
+  "contrarian": false,
+  "url": "https://www.jk.cn",
+  "date_added": "2026-03-11"
+}

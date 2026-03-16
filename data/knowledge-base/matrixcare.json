@@ -1,0 +1,14 @@
+{
+  "company": "MatrixCare",
+  "country": "US",
+  "problem": "Home-based and long-term care providers need integrated software to manage clinical documentation, operations, and transitions of care across the entire patient journey.",
+  "solution": "Comprehensive EHR platform for long-term care, senior living, life plan communities, home health, and hospice with seamless care coordination across settings.",
+  "problem_type": "hospice",
+  "solution_type": "SaaS",
+  "buyer": "providers",
+  "varden_fit": "medium",
+  "url": "https://www.matrixcare.com",
+  "source": "web",
+  "discovery_round": 142,
+  "discovered_by": "sky"
+}

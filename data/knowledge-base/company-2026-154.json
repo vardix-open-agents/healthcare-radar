@@ -1,0 +1,28 @@
+{
+  "company": "Change Healthcare (USA)",
+  "country": "United States",
+  "founded_year": 2007,
+  "category": "Healthcare Infrastructure",
+  "subsector": "Revenue Cycle Management Platform",
+  "description": "Major healthcare technology company providing revenue cycle management, claims processing, and payment solutions. Operates one of largest healthcare financial networks in US. Acquired by UnitedHealth Group (Optum) in 2022.",
+  "business_model": "B2B - RCM platform to healthcare providers and payers",
+  "target_market": "Hospitals, health systems, physician practices, payers",
+  "funding_stage": "Acquired",
+  "funding_amount_usd": 13000000000,
+  "key_investors": "UnitedHealth Group (Optum)",
+  "employees": "15000+",
+  "customers": "Thousands of healthcare organizations",
+  "revenue_usd": 3300000000,
+  "tech_stack": ["Claims processing", "Payment platform", "Revenue cycle analytics", "EDI clearinghouse", "Prior authorization"],
+  "integration_points": ["Payer systems", "EHRs", "Practice management systems", "Banks"],
+  "competitive_advantage": "Scale, network effects, end-to-end RCM, acquired by largest payer",
+  "boring_software": true,
+  "varden_fit": {
+    "threat_level": "low",
+    "opportunity": "benchmark",
+    "rationale": "Infrastructure giant - demonstrates massive market for claims/RCM automation"
+  },
+  "data_quality": "high",
+  "sources": ["changehealthcare.com", "crunchbase.com"],
+  "last_updated": "2026-03-11"
+}

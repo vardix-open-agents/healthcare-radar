@@ -1,0 +1,30 @@
+{
+  "id": "cleerly-2026-138",
+  "title": "Cleerly - AI Coronary Analysis",
+  "company": "Cleerly",
+  "country": "USA",
+  "region": "NA",
+  "segment": "cardiac_imaging",
+  "problem": "Coronary artery disease assessment relies on indirect measures like stress tests rather than direct plaque characterization.",
+  "solution": "AI-powered coronary artery disease analysis from CCTA, providing detailed plaque characterization and stenosis quantification.",
+  "technology": "Deep learning, computer vision, coronary CT angiography analysis",
+  "target_customer": "Cardiologists, preventive cardiology programs, health systems",
+  "care_setting": "outpatient_cardiology",
+  "care_domain": "cardiology",
+  "care_stage": "diagnosis",
+  "automation_level": "full",
+  "ai_type": "Deep learning for plaque characterization",
+  "traction_signals": [
+    "FDA cleared",
+    "Partnerships with major health systems",
+    "Published clinical evidence",
+    "Founded 2017, New York"
+  ],
+  "funding": "$200M+ raised",
+  "regulatory_notes": "FDA cleared",
+  "varden_fit": "Moderate - Diagnostic tool with care pathway implications. Non-invasive alternative to angiography.",
+  "source": "Industry knowledge",
+  "url": "https://cleerlyhealth.com",
+  "date_added": "2026-03-11",
+  "notes": "Novel approach to CAD diagnosis. Strong AI capabilities in cardiac imaging."
+}

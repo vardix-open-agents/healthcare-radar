@@ -1,0 +1,14 @@
+{
+  "company": "NextGen Healthcare",
+  "country": "US",
+  "problem": "Allergy specialists require integrated workflows for skin testing, immunotherapy administration, and allergy shot scheduling",
+  "solution": "Enterprise EHR with allergy/immunology specialty content including shot scheduling, mixing logs, and reaction tracking",
+  "problem_type": "allergy",
+  "solution_type": "SaaS",
+  "buyer": "clinics",
+  "varden_fit": "medium",
+  "url": "https://nextgen.com",
+  "source": "web",
+  "discovery_round": 114,
+  "discovered_by": "nova"
+}

@@ -1,0 +1,14 @@
+{
+  "company": "VETport",
+  "country": "US",
+  "problem": "Veterinary practices globally need reliable, scalable practice management software with customizable workflows, real-time inventory control, formulary management, and solutions tailored for different practice types from mobile clinics to universities",
+  "solution": "Cloud veterinary practice management software (operating since 2002) with easy navigation, patient portal, real-time inventory control, formulary management, customizable workflows, data-driven insights, and tailored solutions for general, mixed animal, equine, mobile, specialty, enterprise, and university practices",
+  "problem_type": "veterinary",
+  "solution_type": "SaaS",
+  "buyer": "vet_clinics",
+  "varden_fit": "low",
+  "url": "https://www.vetport.com",
+  "source": "web",
+  "discovery_round": 102,
+  "discovered_by": "nova"
+}

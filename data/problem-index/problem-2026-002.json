@@ -1,0 +1,16 @@
+{
+  "id": "problem-2026-002",
+  "problem": "Referrals between specialists take 2-4 weeks on average due to fax/paper-based processes",
+  "problem_type": "referral",
+  "solution_type": "Digital referral platforms, automated routing, EHR integration",
+  "care_stage": "treatment",
+  "automation_type": "workflow_automation",
+  "buyer": "health_system",
+  "care_setting": "specialty",
+  "companies": ["Doctolib", "Leyr", "E-refer"],
+  "signals": ["EU referral networks growing", "NHS e-Referral Service", "Specialist wait time reduction"],
+  "boring_software": true,
+  "contrarian": false,
+  "url": "https://www.nhs.uk/nhs-services/gps/referral-to-a-specialist/",
+  "date_added": "2026-03-11"
+}

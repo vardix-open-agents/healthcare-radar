@@ -1,0 +1,33 @@
+{
+  "id": "latam-referral-network-2026-227",
+  "title": "LATAM Specialist Referral Network Gap",
+  "company": null,
+  "country": "Brazil/Mexico/Colombia/Regional",
+  "region": "LATAM",
+  "segment": "admin",
+  "problem": "Primary care to specialist referrals in LATAM are chaotic. No centralized directory of specialists. No visibility into specialist availability. Referrals sent via paper/fax, often lost. No tracking of referral completion. Patients wait months for specialist appointments with no communication. No feedback loop to referring physician.",
+  "solution": "Specialist referral platform. Directory of vetted specialists with real-time availability. Electronic referral submission. Automated appointment booking. Patient tracking through referral journey. Feedback loop to PCP. Analytics on referral patterns and outcomes.",
+  "technology": "Web platform, EMR integration, e-referral workflows, specialist directory, patient tracking, analytics",
+  "target_customer": "Primary care practices, hospital systems, health insurers (network management), specialists",
+  "care_setting": "all",
+  "care_domain": "general",
+  "care_stage": "treatment",
+  "automation_level": "partial",
+  "ai_type": null,
+  "traction_signals": [
+    "Referral leakage costs insurers billions",
+    "Specialist shortage creates capacity constraints",
+    "PCPs frustrated with referral process",
+    "Proven models (ReferralMD, Kyruus in US)"
+  ],
+  "funding": null,
+  "regulatory_notes": "Medical referral regulations, data sharing between providers",
+  "varden_fit": "HIGH FIT - Referral infrastructure is core to care coordination. B2B software connecting PCPs and specialists. Network effects once specialists onboard. Reduces referral leakage for insurers.",
+  "source": "Opportunity analysis + market gap identification",
+  "url": null,
+  "date_added": "2026-03-11",
+  "problem_type": "referral",
+  "contrarian": false,
+  "boring_software": true,
+  "notes": "BOREALING: Referral management is pure admin infrastructure. Boring but essential. Every referral is revenue for someone - control the flow."
+}

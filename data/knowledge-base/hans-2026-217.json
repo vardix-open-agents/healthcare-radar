@@ -1,0 +1,33 @@
+{
+  "id": "hans-2026-217",
+  "title": "Hans - Brazilian Dental Benefits Platform",
+  "company": "Hans",
+  "country": "Brazil",
+  "region": "LATAM",
+  "segment": "admin",
+  "problem": "Dental care in Brazil is expensive and not well-covered by traditional health insurance. Companies want to offer dental benefits but administrative burden is high. Dentists struggle with patient acquisition and insurance claims.",
+  "solution": "Dental benefits platform for employers. Employees get access to dental network at discounted rates. Dentists get patient volume in exchange for accepting reduced fees. Platform handles all claims and payments.",
+  "technology": "Benefits management platform, dentist network management, claims processing, employee mobile app",
+  "target_customer": "Employers (SMBs and enterprises), dentists, employees",
+  "care_setting": "dental",
+  "care_domain": "dental",
+  "care_stage": "treatment",
+  "automation_level": "full",
+  "ai_type": null,
+  "traction_signals": [
+    "Growing corporate client base",
+    "Large dentist network in Brazil",
+    "Venture funding raised",
+    "Niche focus on dental"
+  ],
+  "funding": "Series A/B",
+  "regulatory_notes": "ANS regulations, dental practice licensing",
+  "varden_fit": "MONITOR - Adjacent space (dental vs medical). Infrastructure they build (benefits admin, claims) could be applicable to medical. Potential partnership or acquisition target.",
+  "source": "Industry knowledge",
+  "url": "https://hans.com.br",
+  "date_added": "2026-03-11",
+  "problem_type": "insurance",
+  "contrarian": false,
+  "boring_software": true,
+  "notes": "Dental benefits admin is even more boring than medical. But profitable niche. Brazil has 300K+ dentists. Hans model could extend to other specialties."
+}

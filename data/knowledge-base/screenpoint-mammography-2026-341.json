@@ -1,0 +1,22 @@
+{
+  "id": "screenpoint-mammography-2026-341",
+  "title": "ScreenPoint Medical - Mammography AI",
+  "company": "ScreenPoint Medical",
+  "country": "Netherlands",
+  "segment": "diagnostics",
+  "problem": "Breast cancer screening produces high false positives and missed cancers",
+  "solution": "Transpara AI for breast cancer detection and risk assessment in mammography",
+  "technology": "Deep learning, computer vision, risk scoring",
+  "target_customer": "Breast imaging centers, screening programs, radiology",
+  "care_setting": "outpatient",
+  "care_domain": "diagnostics",
+  "care_stage": "screening",
+  "automation_level": "full",
+  "ai_type": "computer vision",
+  "traction_signals": ["FDA cleared", "CE marked", "Deployed globally", "Strong clinical data"],
+  "funding": "Series C",
+  "regulatory_notes": "FDA 510(k), CE marked Class IIb",
+  "source": "sky-round18-diagnostics",
+  "url": "https://www.screenpoint-medical.com",
+  "date_added": "2026-03-11"
+}

@@ -1,0 +1,14 @@
+{
+  "company": "Kry (Livi)",
+  "country": "NO",
+  "problem": "Patients face barriers accessing primary care with long wait times and limited availability, especially in rural areas",
+  "solution": "Digital-first telemedicine platform with chat, video consultations, and 34+ physical health centers delivering 14+ million care encounters, operating as Kry in Sweden/Norway and Livi internationally",
+  "problem_type": "ehealth_infrastructure",
+  "solution_type": "SaaS",
+  "buyer": "providers",
+  "varden_fit": "high",
+  "url": "https://www.kry.no",
+  "source": "web research",
+  "discovery_round": 66,
+  "discovered_by": "nova"
+}

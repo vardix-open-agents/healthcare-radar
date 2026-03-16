@@ -1,0 +1,16 @@
+{
+  "id": "problem-2026-141",
+  "problem": "Multi-payer prior auth portals have inconsistent workflows, requiring staff training on 10-20 different systems with high error rates",
+  "problem_type": "multi_payer_portals",
+  "solution_type": "Unified prior auth interface, workflow standardization, cross-payer training reduction, error prevention",
+  "care_stage": "admin",
+  "automation_type": "workflow_automation",
+  "buyer": "clinic",
+  "care_setting": "specialty",
+  "companies": ["CoverMyMeds", "Surescripts", "Cohere Health", "Waystar"],
+  "signals": ["10-20 different systems", "High training burden", "Error rate variability", "Workflow inconsistency"],
+  "boring_software": true,
+  "contrarian": false,
+  "url": "https://www.hfma.org/auth-portals",
+  "date_added": "2026-03-11"
+}

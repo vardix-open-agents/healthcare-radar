@@ -1,0 +1,16 @@
+{
+  "id": "problem-2026-142",
+  "problem": "Prior auth denial appeals require 60-90 minutes of clinical documentation assembly with 35% success rate",
+  "problem_type": "auth_appeals",
+  "solution_type": "Automated appeal generation, clinical evidence assembly, denial reason mapping, outcome tracking",
+  "care_stage": "admin",
+  "automation_type": "ai_assisted",
+  "buyer": "clinic",
+  "care_setting": "specialty",
+  "companies": ["CoverMyMeds", "Cohere Health", "SamaCare", "Inflect Health"],
+  "signals": ["60-90 min per appeal", "35% success rate", "Clinical documentation burden", "Denial reason variability"],
+  "boring_software": true,
+  "contrarian": false,
+  "url": "https://www.cms.gov/auth-appeals",
+  "date_added": "2026-03-11"
+}

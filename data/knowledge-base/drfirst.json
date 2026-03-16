@@ -1,0 +1,14 @@
+{
+  "company": "DrFirst",
+  "country": "US",
+  "problem": "Healthcare providers face fragmented e-prescribing workflows, medication history gaps, and inefficient prior authorization processes. This leads to delays in patient care, increased administrative burden, and potential medication errors.",
+  "solution": "Comprehensive healthcare IT solutions including e-prescribing platform, medication history management, electronic prior authorizations, and real-time prescription benefit checks. Integrates with EHR systems to provide seamless prescribing workflows and medication adherence monitoring for providers and pharmacists.",
+  "problem_type": "medication_management",
+  "solution_type": "SaaS",
+  "buyer": "providers",
+  "varden_fit": "high",
+  "url": "https://drfirst.com",
+  "source": "web",
+  "discovery_round": 101,
+  "discovered_by": "sky"
+}

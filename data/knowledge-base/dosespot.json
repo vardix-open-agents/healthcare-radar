@@ -1,0 +1,14 @@
+{
+  "company": "DoseSpot",
+  "country": "US",
+  "problem": "Healthcare providers and pharmacies need seamless e-prescribing capabilities but face challenges with integration, regulatory compliance, and real-time prescription benefit information.",
+  "solution": "E-prescribing platform that integrates with EHR systems to provide electronic prescribing, medication history access, real-time prescription benefit checks, and prior authorization support. Enables secure prescription transmission to pharmacies and supports controlled substance prescribing with identity verification.",
+  "problem_type": "medication_management",
+  "solution_type": "SaaS",
+  "buyer": "providers",
+  "varden_fit": "high",
+  "url": "https://www.dosespot.com",
+  "source": "web",
+  "discovery_round": 101,
+  "discovered_by": "sky"
+}

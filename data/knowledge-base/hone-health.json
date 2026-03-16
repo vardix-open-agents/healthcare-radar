@@ -1,0 +1,14 @@
+{
+  "company": "Hone Health",
+  "country": "US",
+  "problem": "Hormone imbalances and metabolic decline often go undiagnosed or undertreated, with patients experiencing fatigue, weight gain, and other symptoms without access to specialized hormone optimization care.",
+  "solution": "Hone Health is a telehealth platform focused on longevity and hormone optimization. The service provides advanced lab diagnostics, physician consultations, and personalized treatment plans including hormone replacement therapy (HRT/TRT), supplements, and lifestyle interventions. Offers ongoing care management with medication delivery and regular monitoring.",
+  "problem_type": "endocrinology",
+  "solution_type": "SaaS",
+  "buyer": "clinics",
+  "varden_fit": "medium",
+  "url": "https://www.honehealth.com",
+  "source": "web",
+  "discovery_round": 116,
+  "discovered_by": "nova"
+}

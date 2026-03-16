@@ -1,0 +1,16 @@
+{
+  "id": "problem-2026-007",
+  "problem": "Patients spend 30-60 minutes navigating phone trees to book simple appointments",
+  "problem_type": "scheduling",
+  "solution_type": "Online self-scheduling portals, chatbot booking, 24/7 automated phone systems",
+  "care_stage": "admin",
+  "automation_type": "full_automation",
+  "buyer": "clinic",
+  "care_setting": "primary_care",
+  "companies": ["Doctolib", "Zocdoc", "HealthHero"],
+  "signals": ["Consumer expectations shifting", "Post-COVID digital adoption", "Reduced call center costs"],
+  "boring_software": true,
+  "contrarian": false,
+  "url": "https://www.doctolib.de",
+  "date_added": "2026-03-11"
+}

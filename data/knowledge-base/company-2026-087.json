@@ -1,0 +1,27 @@
+{
+  "company": "DocPlanner (Turkish Brand)",
+  "country": "Turkey",
+  "founded_year": 2012,
+  "category": "Practice Management",
+  "subsector": "Healthcare Booking Platform",
+  "description": "Turkish operations of DocPlanner Group, offering online appointment booking and practice management for Turkish healthcare providers. Leading platform in Turkey with strong growth.",
+  "business_model": "B2B - SaaS to healthcare providers; B2C free booking",
+  "target_market": "Turkish healthcare market - doctors, clinics, hospitals",
+  "funding_stage": "Series F (part of DocPlanner Group)",
+  "funding_amount_usd": 450000000,
+  "key_investors": "Insight Partners, One Peak Partners",
+  "employees": "400 (Turkey team)",
+  "customers": "30000+ doctors in Turkey",
+  "revenue_usd": 40000000,
+  "tech_stack": ["Web platform", "Mobile apps", "Practice management"],
+  "integration_points": ["Hospital systems", "Insurance", "Payment gateways"],
+  "competitive_advantage": "Market leader in Turkey, backed by global group, localization",
+  "varden_fit": {
+    "threat_level": "low",
+    "opportunity": "monitor",
+    "rationale": "Interesting emerging market - potential expansion region for Varden"
+  },
+  "data_quality": "medium",
+  "sources": ["en.docplanner.com"],
+  "last_updated": "2026-03-11"
+}

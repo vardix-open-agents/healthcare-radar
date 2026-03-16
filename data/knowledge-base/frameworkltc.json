@@ -1,0 +1,14 @@
+{
+  "company": "FrameworkLTC",
+  "country": "US",
+  "problem": "Long-term care pharmacies face complex medication management challenges, multi-facility coordination, regulatory compliance, and inefficient workflows with add-on solutions not built for LTC",
+  "solution": "FrameworkLTC by SoftWriters provides comprehensive LTC pharmacy management software with automated dispensing, eMAR integration, multi-facility management, regulatory compliance tools, and workflow optimization. Serves 800+ pharmacies across 49 states",
+  "problem_type": "retail_pharmacy",
+  "solution_type": "SaaS",
+  "buyer": "pharmacies",
+  "varden_fit": "medium",
+  "url": "https://www.softwriters.com",
+  "source": "web",
+  "discovery_round": 128,
+  "discovered_by": "sky"
+}

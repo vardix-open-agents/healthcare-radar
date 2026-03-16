@@ -1,0 +1,30 @@
+{
+  "id": "healthera-2026-037",
+  "title": "Healthera - Patient Engagement Platform for Pharmacies",
+  "company": "Healthera",
+  "country": "UK",
+  "region": "EU",
+  "segment": "admin",
+  "problem": "Pharmacies struggle to engage patients beyond dispensing. Medication adherence is poor and follow-up is limited.",
+  "solution": "Patient engagement platform for pharmacies enabling medication reminders, repeat prescription ordering, and health tracking through a patient app.",
+  "technology": "Mobile app, pharmacy system integration, notifications",
+  "target_customer": "Community pharmacies",
+  "care_setting": "pharmacy",
+  "care_domain": "general",
+  "care_stage": "monitoring",
+  "automation_level": "partial",
+  "ai_type": null,
+  "traction_signals": [
+    "Founded 2015, UK-based",
+    "500+ pharmacies using platform",
+    "NHS integration",
+    "Patient medication management"
+  ],
+  "funding": null,
+  "regulatory_notes": "Pharmacy software, NHS data compliance.",
+  "varden_fit": "Low — pharmacy-focused, not clinic infrastructure. Different channel.",
+  "source": "Industry knowledge",
+  "url": "https://www.healthera.com",
+  "date_added": "2026-03-11",
+  "notes": "Pharmacy patient engagement. Adjacent to Varden's clinic focus."
+}

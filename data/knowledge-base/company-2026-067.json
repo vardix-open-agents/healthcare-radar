@@ -1,0 +1,27 @@
+{
+  "company": "PharmEasy",
+  "country": "India",
+  "founded_year": 2015,
+  "category": "Digital Pharmacy",
+  "subsector": "Online Pharmacy & Healthcare Services",
+  "description": "India's largest online pharmacy and healthcare platform offering medicine delivery, diagnostics, doctor consultations, and health products. 50+ million customers.",
+  "business_model": "B2C - Direct to consumers; B2B for hospital/clinic supplies",
+  "target_market": "Indian consumers seeking convenient healthcare access",
+  "funding_stage": "Series G",
+  "funding_amount_usd": 1500000000,
+  "key_investors": "Temasek, TPG, Prosus, Goldman Sachs",
+  "employees": 5000,
+  "customers": "50M+ registered users",
+  "revenue_usd": 900000000,
+  "tech_stack": ["Mobile app", "Web platform", "AI-powered medicine suggestions", "Logistics optimization"],
+  "integration_points": ["Pharmacies", "Diagnostic labs", "Doctor networks", "Insurance"],
+  "competitive_advantage": "Largest online pharmacy in India, integrated health ecosystem, strong logistics network",
+  "varden_fit": {
+    "threat_level": "low",
+    "opportunity": "learn",
+    "rationale": "Asian market reference for pharmacy integration model - lessons for potential European expansion"
+  },
+  "data_quality": "high",
+  "sources": ["pharmeasy.in", "crunchbase.com"],
+  "last_updated": "2026-03-11"
+}

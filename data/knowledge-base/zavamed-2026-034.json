@@ -1,0 +1,30 @@
+{
+  "id": "zavamed-2026-034",
+  "title": "Zava - Online Doctor and Pharmacy Platform",
+  "company": "Zava (DrEd)",
+  "country": "UK",
+  "region": "EU",
+  "segment": "treatment",
+  "problem": "Patients want convenient access to treatments for common conditions but face GP appointment delays and pharmacy queues.",
+  "solution": "Online doctor platform offering consultations, prescriptions, and medication delivery for common conditions (hair loss, ED, contraception, etc.).",
+  "technology": "Telemedicine platform, online pharmacy, logistics",
+  "target_customer": "Direct-to-consumer patients",
+  "care_setting": "telehealth",
+  "care_domain": "general, sexual health, dermatology",
+  "care_stage": "treatment",
+  "automation_level": "partial",
+  "ai_type": null,
+  "traction_signals": [
+    "Founded 2011, London-based",
+    "5M+ patients treated",
+    "Operating in UK, Germany, France, Italy",
+    "Focus on lifestyle/sexual health conditions"
+  ],
+  "funding": "Private equity backed",
+  "regulatory_notes": "Licensed online doctor and pharmacy in each market.",
+  "varden_fit": "Moderate — D2C telemedicine model. Could partner for prescription fulfillment through Varden marketplace.",
+  "source": "Industry knowledge",
+  "url": "https://www.zavamed.com",
+  "date_added": "2026-03-11",
+  "notes": "D2C telemedicine + pharmacy model. Different from B2B marketplace."
+}

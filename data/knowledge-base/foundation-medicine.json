@@ -1,0 +1,14 @@
+{
+  "company": "Foundation Medicine",
+  "country": "US",
+  "problem": "Oncologists lacked comprehensive genomic information about individual tumors to guide targeted therapy selection and identify clinical trial opportunities",
+  "solution": "FDA-approved comprehensive genomic profiling tests that analyze hundreds of genes to identify genomic alterations driving a patient's cancer and match them to targeted therapies and clinical trials",
+  "problem_type": "genomics",
+  "solution_type": "SaaS",
+  "buyer": "providers",
+  "varden_fit": "low",
+  "url": "https://www.foundationmedicine.com",
+  "source": "web",
+  "discovery_round": 133,
+  "discovered_by": "nova"
+}

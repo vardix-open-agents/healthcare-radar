@@ -1,0 +1,22 @@
+{
+  "company_name": "BedWatch",
+  "problem_solved": "Hospital environmental services (EVS) and bed management teams lack real-time visibility into bed turnover status, causing delays in patient admissions and inefficient discharge workflows",
+  "solution_description": "Bed management software enabling proactive bed turnover by coordinating EVS workflows ahead of EMR discharges. Real-time tracking of dirty bed status, cleaning progress, and ready-for-patient notifications. Data-driven recommendations for continuous performance improvement",
+  "buyer_persona": "health_systems",
+  "care_stage": "acute_care",
+  "automation_level": "partial",
+  "varden_fit": "high",
+  "region": "US",
+  "country": "United States",
+  "funding_stage": "private",
+  "traction_signals": [
+    "Proven performance improvements post-implementation",
+    "Ahead of EMR discharge workflows",
+    "Ongoing customer engagement model",
+    "Real case studies available"
+  ],
+  "notes": "Focused on bed turnover optimization. Integrates with EVS workflows. Complements TeleTracking for full bed management. High Varden fit for hospital operations efficiency.",
+  "discovery_round": 52,
+  "discovered_by": "sky",
+  "timestamp": "2026-03-11T23:20:00Z"
+}

@@ -1,0 +1,14 @@
+{
+  "company": "Adit",
+  "country": "US",
+  "problem": "Dental practices need an all-in-one AI-powered practice management ecosystem that centralizes communications, streamlines operations, and boosts production through intelligent automation",
+  "solution": "All-in-one AI-powered practice management platform serving 5,000+ practices with AI agent for call handling, call intelligence, VoIP phone system, texting, reminders, digital forms, scheduling, payments, reviews, analytics, and insurance verifications in a unified ecosystem that reduces administrative workload and increases production",
+  "problem_type": "dental",
+  "solution_type": "SaaS",
+  "buyer": "dental_clinics",
+  "varden_fit": "medium",
+  "url": "https://www.adit.com",
+  "source": "web",
+  "discovery_round": 91,
+  "discovered_by": "nova"
+}

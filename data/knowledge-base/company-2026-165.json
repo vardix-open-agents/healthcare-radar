@@ -1,0 +1,27 @@
+{
+  "company": "Halodoc (Indonesia)",
+  "country": "Indonesia",
+  "founded_year": 2016,
+  "category": "Telemedicine",
+  "subsector": "Digital Health Platform",
+  "description": "Indonesian digital health platform offering telemedicine, pharmacy delivery, and laboratory services. One of largest digital health companies in Southeast Asia. Provides end-to-end healthcare services through mobile app.",
+  "business_model": "B2C/B2B - Telemedicine and health services to patients and employers",
+  "target_market": "Indonesian consumers and employers",
+  "funding_stage": "Series B",
+  "funding_amount_usd": 100000000,
+  "key_investors": "Alphabet (CapitalG), UOB Venture Management, Singtel",
+  "employees": "500+",
+  "customers": "20M+ users",
+  "revenue_usd": null,
+  "tech_stack": ["Telemedicine platform", "Pharmacy delivery", "Lab services", "E-prescription", "Insurance integration"],
+  "integration_points": ["Pharmacies", "Labs", "Hospitals", "Insurance providers"],
+  "competitive_advantage": "Largest digital health platform in Indonesia, comprehensive services, government partnerships",
+  "varden_fit": {
+    "threat_level": "low",
+    "opportunity": "monitor",
+    "rationale": "Southeast Asian market - potential geographic expansion reference"
+  },
+  "data_quality": "high",
+  "sources": ["halodoc.com", "crunchbase.com"],
+  "last_updated": "2026-03-11"
+}

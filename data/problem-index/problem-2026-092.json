@@ -1,0 +1,16 @@
+{
+  "id": "problem-2026-092",
+  "problem": "Clinical trial enrollment requires manual chart review taking 10-15 minutes per patient, excluding 95% of eligible patients",
+  "problem_type": "staffing_workforce",
+  "solution_type": "AI-powered trial matching, EHR-integrated eligibility screening, automated patient outreach",
+  "care_stage": "treatment",
+  "automation_type": "decision_support",
+  "buyer": "health_system",
+  "care_setting": "research",
+  "companies": ["TriNetX", "Deep 6 AI", "Antidote", "StudyMark", "PipeLine AI"],
+  "signals": ["Clinical trial recruitment challenges", "Diversity in trial enrollment", "Decentralized trial growth"],
+  "boring_software": false,
+  "contrarian": false,
+  "url": "https://clinicaltrials.gov",
+  "date_added": "2026-03-11"
+}

@@ -1,0 +1,100 @@
+[
+  {
+    "company_name": "Prorenata AB",
+    "hq_location": "Stockholm, Sweden",
+    "website_url": "https://prorenata.se/",
+    "problem_solved": "School health services and vaccination planning need better digital tools for tracking student health records, vaccinations, and health interventions across Swedish schools.",
+    "who_buys_it": "Schools, school nurses, municipalities, school health services",
+    "key_features": [
+      "Digital journal system for school health (elevhälsa)",
+      "Vaccination planning and tracking",
+      "Health intervention documentation and follow-up"
+    ],
+    "business_model": "SaaS subscription to schools and municipalities",
+    "why_varden_should_care": "Proven model for digitizing school health services in a universal healthcare system - highly replicable to other regions with school-based health services and vaccination programs."
+  },
+  {
+    "company_name": "Visiba (Visiba Care)",
+    "hq_location": "Gothenburg, Sweden",
+    "website_url": "https://www.visibagroup.com/en/",
+    "problem_solved": "Healthcare providers need secure digital platforms for triaging patients, conducting video consultations, and managing digital care workflows efficiently.",
+    "who_buys_it": "Healthcare providers, clinics, hospitals, primary care centers",
+    "key_features": [
+      "AI-powered triage and decision support (Visiba Triage)",
+      "Secure video consultations and messaging (Visiba Care)",
+      "Integrated appointment booking and care navigation"
+    ],
+    "business_model": "SaaS platform subscription to healthcare providers",
+    "why_varden_should_care": "Strong B2B platform model for digital care that can support pediatric telemedicine - well-positioned to scale to other markets with similar healthcare structures."
+  },
+  {
+    "company_name": "Systematic A/S",
+    "hq_location": "Aarhus, Denmark",
+    "website_url": "https://systematic.com/int/",
+    "problem_solved": "Healthcare organizations need integrated IT systems to manage patient data, clinical workflows, and documentation efficiently while ensuring compliance.",
+    "who_buys_it": "Hospitals, healthcare regions, public health authorities, municipalities",
+    "key_features": [
+      "Electronic health record (EHR) systems for healthcare",
+      "AI-based speech recognition for documentation in elderly care",
+      "Municipal EHR systems and healthcare IT integration"
+    ],
+    "business_model": "Enterprise software licensing and services",
+    "why_varden_should_care": "Large-scale healthcare IT infrastructure player with proven ability to deploy across regions - demonstrates replicability of enterprise healthcare IT solutions in public systems."
+  },
+  {
+    "company_name": "CGM Sverige",
+    "hq_location": "Stockholm, Sweden",
+    "website_url": "https://www.cgm.com/swe_se",
+    "problem_solved": "Healthcare providers across primary care, child health centers, school health services, and laboratories need integrated electronic health record systems for seamless documentation.",
+    "who_buys_it": "Primary care clinics, child health centers (barnhälsovård), school health services (elevhälsa), occupational health, laboratories, specialist clinics",
+    "key_features": [
+      "Digital journal system (CGM J4) for primary and specialist care",
+      "Specialized modules for child healthcare (barnhälsovård) and school health (elevhälsa)",
+      "Integrated telehealth through CGM Video"
+    ],
+    "business_model": "SaaS subscription for EHR and e-health systems",
+    "why_varden_should_care": "Directly serves child health centers and school health - clear template for pediatric-focused EHR solutions in public health systems with strong replicability potential."
+  },
+  {
+    "company_name": "Tietoevry",
+    "hq_location": "Espoo, Finland",
+    "website_url": "https://www.tietoevry.com/en/",
+    "problem_solved": "Healthcare organizations across the Nordics need modern digital platforms and IT services to transform care delivery and integrate patient data across systems.",
+    "who_buys_it": "Hospitals, healthcare regions, public health authorities, clinics",
+    "key_features": [
+      "Healthcare digital transformation and consulting services",
+      "Integrated healthcare IT platforms and data solutions",
+      "Regional healthcare information systems"
+    ],
+    "business_model": "IT services and enterprise software licensing",
+    "why_varden_should_care": "Major IT infrastructure provider across Nordic healthcare - demonstrates the enterprise model for healthcare digitization that can be replicated in other public health systems."
+  },
+  {
+    "company_name": "Cambio Healthcare Systems AB",
+    "hq_location": "Stockholm, Sweden",
+    "website_url": "https://www.cambio.se/",
+    "problem_solved": "Healthcare providers across the Nordics need comprehensive e-health solutions including electronic health records, patient management, and clinical documentation tools.",
+    "who_buys_it": "Regions, municipalities, hospitals, primary care centers, private healthcare providers",
+    "key_features": [
+      "Cambio COSMIC - leading electronic health record (EHR) system in the Nordics",
+      "Cambio VIVA for healthcare documentation and workflow management",
+      "Cambio Ambient Scribe - AI-powered clinical documentation"
+    ],
+    "business_model": "Enterprise SaaS for healthcare systems",
+    "why_varden_should_care": "Leading Nordic EHR provider with proven model for scaling across public healthcare systems - strong template for replicating comprehensive pediatric EHR solutions."
+  },
+  {
+    "company_name": "Min Doktor",
+    "hq_location": "Stockholm, Sweden",
+    "website_url": "https://www.mindoktor.se/",
+    "problem_solved": "Patients need convenient access to healthcare services including doctor consultations, vaccinations, and ongoing care management through digital channels.",
+    "who_buys_it": "Patients (B2C), regions (B2B for digital care services), employers (occupational health)",
+    "key_features": [
+      "24/7 digital doctor consultations via app",
+      "Physical vaccination clinics at pharmacy locations",
+      "Integrated digital and physical care services"
+    ],
+    "business_model": "B2C telemedicine + B2B contracts with regions and employers",
+    "why_varden_should_care": "Pioneering digital-first care model with integrated vaccination services - demonstrates hybrid telemedicine-physical care model relevant for pediatric care delivery."
+  }
+]

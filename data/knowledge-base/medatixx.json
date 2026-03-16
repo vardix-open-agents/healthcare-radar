@@ -1,0 +1,14 @@
+{
+  "company": "Medatixx",
+  "country": "DE",
+  "problem": "Medical practices need reliable practice management software with TI connectivity and local support for daily operations",
+  "solution": "Practice management software (Arztpraxis-Verwaltung) with TI-as-a-Service, Telematikinfrastruktur integration, nationwide support network with 80+ locations, serving 22,500+ practices",
+  "problem_type": "practice_management",
+  "solution_type": "SaaS",
+  "buyer": "clinics",
+  "varden_fit": "medium",
+  "url": "https://www.medatixx.de",
+  "source": "web research",
+  "discovery_round": 63,
+  "discovered_by": "sky"
+}

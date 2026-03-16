@@ -1,0 +1,29 @@
+{
+  "id": "doctoronnet-2026-055",
+  "title": "DoktorOnNet - Swedish Telemedicine Platform",
+  "company": "DoktorOnNet",
+  "country": "Sweden",
+  "region": "Nordics",
+  "segment": "treatment",
+  "problem": "Patients need quick access to medical advice but traditional care settings have long wait times.",
+  "solution": "Online doctor consultation platform offering video visits, prescriptions, and medical advice for common conditions.",
+  "technology": "Video consultations, prescription processing, EHR",
+  "target_customer": "Direct-to-consumer patients, employers",
+  "care_setting": "telehealth",
+  "care_domain": "general",
+  "care_stage": "treatment",
+  "automation_level": "partial",
+  "ai_type": null,
+  "traction_signals": [
+    "Swedish telemedicine platform",
+    "Online doctor consultations",
+    "Prescription services"
+  ],
+  "funding": null,
+  "regulatory_notes": "Licensed healthcare provider.",
+  "varden_fit": "Moderate — competes with some Varden clinic partners for telemedicine visits.",
+  "source": "Swedish health tech ecosystem",
+  "url": "https://www.doktoronnet.se",
+  "date_added": "2026-03-11",
+  "notes": "Swedish telemedicine. Competitor to Kry/Livi in some segments."
+}

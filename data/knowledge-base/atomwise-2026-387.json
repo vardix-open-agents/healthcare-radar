@@ -1,0 +1,22 @@
+{
+  "company_name": "Atomwise",
+  "problem_solved": "High cost and failure rate of early-stage drug discovery and hit identification",
+  "solution_description": "AI-powered structure-based drug design using deep learning for molecular screening. AtomNet technology screens billions of compounds for drug target binding. Platform partnerships with pharma.",
+  "buyer_persona": "pharma_lifesciences,biotech",
+  "care_stage": "research",
+  "automation_level": "assistive",
+  "varden_fit": "medium",
+  "region": "US",
+  "country": "US",
+  "funding_stage": "series_b",
+  "traction_signals": [
+    "$174M Series B in 2022",
+    "750+ partnerships",
+    "Screened 16B+ compounds",
+    "Pioneer in AI drug screening"
+  ],
+  "notes": "Early AI drug discovery company focused on structure-based design. AtomNet uses 3D molecular structures. Competes with Insilico, BenevolentAI.",
+  "discovery_round": 53,
+  "discovered_by": "sky",
+  "timestamp": "2026-03-11T23:18:00Z"
+}

@@ -1,0 +1,30 @@
+{
+  "id": "kry-2026-001",
+  "title": "Kry (Livi) - Europe's Leading Telemedicine Platform",
+  "company": "Kry",
+  "country": "Sweden",
+  "region": "Nordics",
+  "segment": "infrastructure",
+  "problem": "Patients face long wait times and limited access to healthcare providers. Traditional care delivery doesn't scale to meet demand.",
+  "solution": "On-demand telemedicine platform connecting patients with GPs, nurses, and psychologists via video consultations within minutes. Full digital care journey including diagnoses and prescriptions.",
+  "technology": "Telemedicine platform, video consultations, digital prescriptions, mobile app",
+  "target_customer": "Patients (B2C), Healthcare systems (B2B)",
+  "care_setting": "telehealth",
+  "care_domain": "general",
+  "care_stage": "diagnosis",
+  "automation_level": "partial",
+  "ai_type": null,
+  "traction_signals": [
+    "200+ million patient interactions delivered",
+    "$700M+ total funding raised",
+    "$2B+ valuation",
+    "Operates across Sweden, Norway, UK, France, Germany"
+  ],
+  "funding": "$700M+ (Series D, valued at $2B+)",
+  "regulatory_notes": "Operates under medical regulations in each market. CE marked services.",
+  "varden_fit": "HIGH - Complementary to booking infrastructure. Potential partnership angle for virtual care integration. Demonstrates massive demand for digital healthcare access in Nordics.",
+  "source": "Panda International European MedTech 2025",
+  "url": "https://kry.health",
+  "date_added": "2026-03-11",
+  "notes": "Massive scale player. Study their model for insights on digital healthcare demand in Nordics. Consider: what do they NOT do that Varden could?"
+}

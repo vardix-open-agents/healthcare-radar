@@ -1,0 +1,22 @@
+{
+  "company_name": "Feeding America",
+  "problem_solved": "Millions of Americans face food insecurity, but healthcare providers lack systematic ways to connect patients to food assistance",
+  "solution_description": "Nation's largest domestic hunger-relief organization with network of 200+ food banks. Partners with healthcare organizations for food insecurity screening and referrals. Provides Food Security Solutions including produce prescriptions and food pharmacy programs. Integrates with SDOH platforms for healthcare referrals",
+  "buyer_persona": "health_systems",
+  "care_stage": "treatment",
+  "automation_level": "assistive",
+  "varden_fit": "medium",
+  "region": "US",
+  "country": "United States",
+  "funding_stage": "nonprofit",
+  "traction_signals": [
+    "200+ food bank network",
+    "Healthcare partnerships for food security",
+    "Food pharmacy and produce prescription programs",
+    "Integration with SDOH referral platforms"
+  ],
+  "notes": "Nonprofit food security organization with healthcare partnerships. Medium Varden fit - nonprofit model limits commercial opportunity. Important SDOH partner for food insecurity. Integrates with Findhelp/Unite Us for referrals",
+  "discovery_round": 50,
+  "discovered_by": "sky",
+  "timestamp": "2026-03-11T23:20:00Z"
+}

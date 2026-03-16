@@ -1,0 +1,33 @@
+{
+  "id": "latam-scheduling-api-2026-213",
+  "title": "LATAM Healthcare Scheduling API Infrastructure Gap",
+  "company": null,
+  "country": "Brazil/Mexico/Colombia/Regional",
+  "region": "LATAM",
+  "segment": "scheduling",
+  "problem": "LATAM healthcare providers use fragmented EMR/practice management systems with no unified scheduling API layer. Patients must call or visit to book appointments. No real-time availability across clinics. Healthcare apps can't easily integrate appointment booking. This infrastructure exists in US (Cronofy, OnSched) and Europe but is missing in LATAM.",
+  "solution": "Healthcare scheduling API platform that integrates with major EMR systems in Brazil, Mexico, Colombia. Provides unified API for appointment booking, availability checking, reminders, and rescheduling. White-label solution for healthcare apps. Twilio-for-healthcare-appointments model.",
+  "technology": "API-first architecture, EMR integrations, real-time availability sync, SMS/WhatsApp notifications, webhook events",
+  "target_customer": "Healthcare app developers, telemedicine platforms, hospital systems, insurance companies",
+  "care_setting": "all",
+  "care_domain": "general",
+  "care_stage": "admin",
+  "automation_level": "full",
+  "ai_type": null,
+  "traction_signals": [
+    "Rapid growth of healthcare apps in LATAM",
+    "Proven model in US/Europe (Cronofy, OnSched)",
+    "WhatsApp Business API adoption in healthcare",
+    "API-first infrastructure trends"
+  ],
+  "funding": null,
+  "regulatory_notes": "LGPD (Brazil), LFPDPPP (Mexico), data protection in each country",
+  "varden_fit": "CRITICAL FIT - This is exactly Varden's domain. Scheduling API infrastructure is core capability. Build once, sell to hundreds of healthcare apps. Infrastructure play with high margins.",
+  "source": "Opportunity analysis + market gap identification",
+  "url": null,
+  "date_added": "2026-03-11",
+  "problem_type": "scheduling",
+  "contrarian": true,
+  "boring_software": true,
+  "notes": "CONTRARIAN + BOREALING: Most boring software ever - appointment booking API. But it's essential infrastructure that every healthcare app needs. Zero competition in LATAM. Cronofy model but for 650M people."
+}

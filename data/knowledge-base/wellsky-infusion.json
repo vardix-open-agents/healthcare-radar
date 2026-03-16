@@ -1,0 +1,14 @@
+{
+  "company": "WellSky",
+  "country": "US",
+  "problem": "Rheumatology practices offering infusion therapy for autoimmune conditions struggle with complex scheduling, inventory management, payer authorization, and compliance tracking for biologic treatments",
+  "solution": "Infusion center management software with intelligent scheduling, inventory tracking, revenue cycle management, clinical documentation, and analytics specifically designed for ambulatory infusion centers and rheumatology practices",
+  "problem_type": "rheumatology",
+  "solution_type": "SaaS",
+  "buyer": "clinics",
+  "varden_fit": "medium",
+  "url": "https://www.wellsky.com/infusion-center-software/",
+  "source": "web",
+  "discovery_round": 117,
+  "discovered_by": "nova"
+}

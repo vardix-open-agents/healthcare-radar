@@ -1,0 +1,14 @@
+{
+  "company": "Hero Health",
+  "country": "US",
+  "problem": "Elderly and chronic disease patients struggle with complex medication regimens, leading to missed doses, incorrect dosing, and medication errors. Traditional pill organizers are insufficient for managing multiple medications with different schedules.",
+  "solution": "Smart medication dispenser and mobile app platform that sorts and dispenses pills at the push of a button. Holds up to 90-day supply of medications, provides automated reminders, tracks adherence, and enables remote caregiver monitoring. Includes safety features like passcode protection, maximum dispense limits, and low-pill alerts.",
+  "problem_type": "medication_management",
+  "solution_type": "SaaS",
+  "buyer": "providers",
+  "varden_fit": "high",
+  "url": "https://herohealth.com",
+  "source": "web",
+  "discovery_round": 101,
+  "discovered_by": "sky"
+}

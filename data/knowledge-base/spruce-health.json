@@ -1,0 +1,14 @@
+{
+  "company": "Spruce Health",
+  "country": "US",
+  "problem": "Healthcare providers lack a unified, HIPAA-compliant communication platform that integrates secure messaging, phone calls, video visits, and team collaboration while maintaining patient privacy.",
+  "solution": "HIPAA-compliant communication platform for healthcare professionals offering secure messaging, phone with voicemail transcription, video visits, e-fax, team messaging, workflow automation, clinical questionnaires, digital payments, and a modern phone system built specifically for healthcare practices.",
+  "problem_type": "mental_health",
+  "solution_type": "SaaS",
+  "buyer": "providers",
+  "varden_fit": "medium",
+  "url": "https://sprucehealth.com",
+  "source": "web",
+  "discovery_round": 90,
+  "discovered_by": "sky"
+}

@@ -1,0 +1,14 @@
+{
+  "company": "IsoMetrix",
+  "country": "ZA",
+  "problem": "Companies in high-risk industries like mining, oil & gas, and energy face challenges managing occupational health records, medical surveillance programs, industrial hygiene data, and injury/illness reporting while maintaining compliance with regional regulations.",
+  "solution": "IsoMetrix offers an integrated health and hygiene management solution that centralizes occupational health records, medical surveillance tracking, industrial hygiene monitoring, case management, and injury/illness reporting with configurable workflows for different regulatory environments.",
+  "problem_type": "occupational_health",
+  "solution_type": "SaaS",
+  "buyer": "employers",
+  "varden_fit": "medium",
+  "url": "https://www.isometrix.com",
+  "source": "web",
+  "discovery_round": 132,
+  "discovered_by": "sky"
+}

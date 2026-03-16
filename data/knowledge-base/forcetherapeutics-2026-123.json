@@ -1,0 +1,30 @@
+{
+  "id": "forcetherapeutics-2026-123",
+  "title": "Force Therapeutics - Orthopedic Episode Management",
+  "company": "Force Therapeutics",
+  "country": "USA",
+  "region": "NA",
+  "segment": "orthopedic_care_management",
+  "problem": "Orthopedic patients need guidance through pre-habilitation, surgery, and rehabilitation, but practices lack resources to provide continuous support.",
+  "solution": "Digital care management platform for orthopedic episodes with patient engagement, remote monitoring, and outcomes tracking throughout the surgical journey.",
+  "technology": "Mobile app, care pathways, remote monitoring, outcomes analytics, video education",
+  "target_customer": "Orthopedic practices, hospitals, health systems, bundled payment programs",
+  "care_setting": "home_outpatient",
+  "care_domain": "orthopedics",
+  "care_stage": "prehab_rehab",
+  "automation_level": "hybrid",
+  "ai_type": "Analytics for outcomes prediction",
+  "traction_signals": [
+    "250+ orthopedic practice customers",
+    "1M+ patient episodes managed",
+    "Proven reduction in readmissions",
+    "Strong outcomes data"
+  ],
+  "funding": "$60M+ raised",
+  "regulatory_notes": "HIPAA compliant, no FDA clearance needed",
+  "varden_fit": "VERY HIGH - Episode-based care coordination is perfect fit for Varden. Orthopedics is high-volume specialty with clear care pathways.",
+  "source": "Industry knowledge",
+  "url": "https://forcetherapeutics.com",
+  "date_added": "2026-03-11",
+  "notes": "Category leader in orthopedic episode management. Strong value-based care alignment."
+}

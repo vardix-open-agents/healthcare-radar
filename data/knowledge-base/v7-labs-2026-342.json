@@ -1,0 +1,22 @@
+{
+  "id": "v7-labs-2026-342",
+  "title": "V7 Labs - Medical Imaging Annotation",
+  "company": "V7 Labs",
+  "country": "UK",
+  "segment": "infrastructure",
+  "problem": "Training AI models requires accurately labeled medical imaging datasets",
+  "solution": "AI-powered image annotation platform optimized for medical imaging",
+  "technology": "Auto-annotation, DICOM support, collaborative labeling, ML pipelines",
+  "target_customer": "AI companies, research institutions, pharma",
+  "care_setting": "N/A",
+  "care_domain": "infrastructure",
+  "care_stage": "N/A",
+  "automation_level": "partial",
+  "ai_type": null,
+  "traction_signals": ["Raised $33M", "Medical imaging focus", "Growing customer base"],
+  "funding": "Series A",
+  "regulatory_notes": "HIPAA compliant option",
+  "source": "sky-round18-diagnostics",
+  "url": "https://www.v7labs.com",
+  "date_added": "2026-03-11"
+}

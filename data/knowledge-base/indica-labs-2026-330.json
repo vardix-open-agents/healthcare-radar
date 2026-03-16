@@ -1,0 +1,22 @@
+{
+  "id": "indica-labs-2026-330",
+  "title": "Indica Labs - Pathology Image Analysis",
+  "company": "Indica Labs",
+  "country": "USA",
+  "segment": "diagnostics",
+  "problem": "Quantitative analysis of pathology images requires manual measurement and counting",
+  "solution": "HALO image analysis platform for digital pathology quantification",
+  "technology": "Image analysis algorithms, AI-powered quantification, batch processing",
+  "target_customer": "Pathology labs, pharma research, clinical trials",
+  "care_setting": "hospital",
+  "care_domain": "diagnostics",
+  "care_stage": "diagnosis",
+  "automation_level": "full",
+  "ai_type": "computer vision",
+  "traction_signals": ["Pharma adoption", "Academic citations", "Growing customer base"],
+  "funding": "Private",
+  "regulatory_notes": "Research use primarily",
+  "source": "sky-round18-diagnostics",
+  "url": "https://www.indicalab.com",
+  "date_added": "2026-03-11"
+}

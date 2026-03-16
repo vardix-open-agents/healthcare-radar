@@ -1,0 +1,14 @@
+{
+  "company": "Haemonetics",
+  "country": "US",
+  "problem": "Blood collection centers and hospitals struggle to efficiently manage blood component collection, processing, and inventory tracking. Manual processes lead to waste, compliance risks, and potential blood shortages that endanger patient care.",
+  "solution": "End-to-end blood management software and devices covering donor recruitment, collection, component separation, quality testing, and distribution. Their BloodTrack and Donor Suite platforms provide real-time inventory visibility and automated workflow management for blood centers and hospitals.",
+  "problem_type": "blood_bank",
+  "solution_type": "SaaS",
+  "buyer": "hospitals",
+  "varden_fit": "low",
+  "url": "https://www.haemonetics.com/",
+  "source": "web",
+  "discovery_round": 130,
+  "discovered_by": "sky"
+}

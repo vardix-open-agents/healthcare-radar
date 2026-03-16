@@ -1,0 +1,28 @@
+{
+  "company": "Health Gorilla (USA)",
+  "country": "United States",
+  "founded_year": 2014,
+  "category": "Healthcare Infrastructure",
+  "subsector": "Health Data Exchange Platform",
+  "description": "National health data exchange platform enabling secure access to clinical data. Unified API provides access to patient records from labs, imaging centers, pharmacies, and health systems. Focus on interoperability and TEFCA compliance.",
+  "business_model": "B2B - Data exchange platform to healthcare organizations",
+  "target_market": "Health systems, payers, digital health companies, labs",
+  "funding_stage": "Series D",
+  "funding_amount_usd": 115000000,
+  "key_investors": "SignalFire, Epsilon Health Investors, insiders",
+  "employees": "200+",
+  "customers": "500+ healthcare organizations",
+  "revenue_usd": null,
+  "tech_stack": ["Health data exchange", "FHIR APIs", "TEFCA compliance", "Lab connectivity", "Imaging integration"],
+  "integration_points": ["EHRs", "Labs (Quest, LabCorp)", "Imaging centers", "Pharmacies", "HIEs"],
+  "competitive_advantage": "National data network, TEFCA-qualified HIN, comprehensive clinical data access",
+  "boring_software": true,
+  "varden_fit": {
+    "threat_level": "low",
+    "opportunity": "benchmark",
+    "rationale": "Infrastructure play - demonstrates value of health data exchange platforms"
+  },
+  "data_quality": "high",
+  "sources": ["healthgorilla.com", "crunchbase.com"],
+  "last_updated": "2026-03-11"
+}

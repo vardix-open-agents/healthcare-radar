@@ -1,0 +1,33 @@
+{
+  "id": "agshealth-2026-076",
+  "title": "AGS Health - AI-Powered Prior Authorization & Eligibility Services",
+  "company": "AGS Health",
+  "country": "US",
+  "region": "US",
+  "segment": "admin",
+  "problem": "Prior authorization is a massive bottleneck. Manual processes delay care, increase costs, and frustrate providers and patients. Eligibility verification is slow and error-prone.",
+  "solution": "Comprehensive patient access services: insurance eligibility and benefits verification, prior authorization services, patient payment estimation, pre-registration. Intelligent Authorization uses AI to automate prior auth decisions.",
+  "technology": "AI agents, intelligent automation, RPA, ML for authorization decisions",
+  "target_customer": "Health systems, hospitals, physician practices",
+  "care_setting": "all",
+  "care_domain": "general",
+  "care_stage": "admin",
+  "automation_level": "full",
+  "ai_type": "AI agents for authorization, ML for eligibility",
+  "traction_signals": [
+    "Intelligent Authorization AI platform",
+    "Autonomous coding capabilities",
+    "Clinical prior authorization services",
+    "Provider enrollment and credentialing"
+  ],
+  "funding": "Private equity backed",
+  "regulatory_notes": "HIPAA compliant, clinical documentation services",
+  "varden_fit": "CRITICAL — AGS Health's Intelligent Authorization is exactly what European healthcare needs. Prior auth automation is a massive opportunity with zero EU players.",
+  "source": "Web research",
+  "url": "https://www.agshealth.com",
+  "date_added": "2026-03-11",
+  "problem_type": "prior_auth",
+  "contrarian": true,
+  "boring_software": true,
+  "notes": "CONTRARIAN: Prior authorization is hated by everyone but essential. AI automation is the solution. Zero European players in this space."
+}

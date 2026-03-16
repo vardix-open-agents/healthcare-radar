@@ -1,0 +1,14 @@
+{
+  "company": "gHealth Systems (gGastro)",
+  "country": "US",
+  "problem": "Gastroenterology practices need an all-in-one platform that handles scheduling, clinical documentation, endoscopy reporting, and revenue cycle management specifically designed for GI workflows rather than adapted from general practice software.",
+  "solution": "gGastro by gHealth Systems provides an integrated gastroenterology platform including EHR, practice management, endoscopy reporting, and patient engagement tools. The cloud-based system is designed specifically for GI practices with specialty-specific templates, quality reporting, and billing optimization.",
+  "problem_type": "gastroenterology",
+  "solution_type": "SaaS",
+  "buyer": "clinics",
+  "varden_fit": "high",
+  "url": "https://www.ggastro.com",
+  "source": "web",
+  "discovery_round": 113,
+  "discovered_by": "sky"
+}

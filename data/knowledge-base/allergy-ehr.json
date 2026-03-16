@@ -1,0 +1,14 @@
+{
+  "company": "AllergyEHR",
+  "country": "US",
+  "problem": "Allergy practices need purpose-built software for SCIT/SLIT immunotherapy tracking, mixing calculations, and compliance documentation",
+  "solution": "Cloud-based EHR specifically designed for allergy/immunology practices with immunotherapy dose tracking and auto-reordering",
+  "problem_type": "allergy",
+  "solution_type": "SaaS",
+  "buyer": "clinics",
+  "varden_fit": "medium",
+  "url": "https://allergyehr.com",
+  "source": "web",
+  "discovery_round": 114,
+  "discovered_by": "nova"
+}

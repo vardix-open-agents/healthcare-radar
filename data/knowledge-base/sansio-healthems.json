@@ -1,0 +1,14 @@
+{
+  "company": "Sansio HealthEMS",
+  "country": "US",
+  "problem": "Emergency responders need mobile electronic patient care reporting solutions that work reliably in the field with customizable documentation and integration with hospital systems.",
+  "solution": "HealthEMS by Sansio provides advanced ePCR and charting software for emergency responders with mobile apps, NEMSIS certification, hospital data integration, and NERIS-compatible records management.",
+  "problem_type": "emergency_services",
+  "solution_type": "SaaS",
+  "buyer": "providers",
+  "varden_fit": "low",
+  "url": "https://sansio.com/",
+  "source": "web",
+  "discovery_round": 94,
+  "discovered_by": "sky"
+}

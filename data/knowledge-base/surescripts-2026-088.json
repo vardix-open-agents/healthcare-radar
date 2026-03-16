@@ -1,0 +1,33 @@
+{
+  "id": "surescripts-2026-088",
+  "title": "Surescripts - Intelligent Prior Authorization & Health Intelligence Network",
+  "company": "Surescripts",
+  "country": "US",
+  "region": "US",
+  "segment": "infrastructure",
+  "problem": "Healthcare needs trusted infrastructure for sharing clinical and benefit intelligence. Prior authorization is manual and slow. Medication decisions lack real-time benefit and price information.",
+  "solution": "Network Alliance connecting healthcare ecosystem. Intelligent Prior Authorization for faster decisions. Benefit & Price Intelligence for medication decisions. Interoperability for care transitions. 30.5B network transactions in 2025.",
+  "technology": "Health information network, prior auth APIs, benefit intelligence, interoperability",
+  "target_customer": "EHR vendors, health plans, health systems, pharmacies, PBMs",
+  "care_setting": "all",
+  "care_domain": "general",
+  "care_stage": "admin",
+  "automation_level": "full",
+  "ai_type": "Intelligent automation for prior auth",
+  "traction_signals": [
+    "2.32M healthcare professionals connected",
+    "Virtually all insured Americans in Master Patient Index",
+    "30.5B network transactions in 2025",
+    "Intelligent Prior Authorization solution"
+  ],
+  "funding": "Industry consortium (pharmacies, PBMs, health plans)",
+  "regulatory_notes": "HIPAA compliant, NCPDP standards, DEA compliance",
+  "varden_fit": "CRITICAL — Surescripts IS US healthcare intelligence infrastructure. Their Intelligent Prior Auth and Benefit Intelligence models are exactly what European healthcare needs. No European equivalent.",
+  "source": "Web research",
+  "url": "https://www.surescripts.com",
+  "date_added": "2026-03-11",
+  "problem_type": "prior_auth",
+  "contrarian": true,
+  "boring_software": true,
+  "notes": "CONTRARIAN: Health intelligence infrastructure is essential but unsexy. Surescripts proves network effects create massive value. Europe lacks this."
+}

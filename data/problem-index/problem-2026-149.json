@@ -1,0 +1,16 @@
+{
+  "id": "problem-2026-149",
+  "problem": "Medicare/Medicaid dual eligibility verification requires querying both systems with different data formats, taking 20-30 minutes",
+  "problem_type": "dual_eligibility",
+  "solution_type": "Unified dual eligibility API, Medicare-Medicaid coordination, crossover claim automation, MSP detection",
+  "care_stage": "admin",
+  "automation_type": "workflow_automation",
+  "buyer": "health_system",
+  "care_setting": "hospital",
+  "companies": ["Change Healthcare", "Experian Health", "Availity", "Waystar", "CMS"],
+  "signals": ["20-30 min verification", "Different data formats", "Dual eligibles growing", "Crossover automation needs"],
+  "boring_software": true,
+  "contrarian": false,
+  "url": "https://www.cms.gov/dual-eligibles",
+  "date_added": "2026-03-11"
+}

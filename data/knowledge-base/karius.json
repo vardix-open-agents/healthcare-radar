@@ -1,0 +1,14 @@
+{
+  "company": "Karius",
+  "country": "US",
+  "problem": "Conventional infectious disease testing often fails to identify pathogens in complex, life-threatening infections, leading to delayed or missed diagnoses",
+  "solution": "Metagenomic sequencing blood tests (Karius Spectrum, Karius Focus) that detect over 1,000 pathogens from microbial cell-free DNA, enabling comprehensive pathogen identification when traditional testing falls short",
+  "problem_type": "infectious_disease",
+  "solution_type": "SaaS",
+  "buyer": "clinics",
+  "varden_fit": "medium",
+  "url": "https://kariusdx.com",
+  "source": "web",
+  "discovery_round": 119,
+  "discovered_by": "nova"
+}

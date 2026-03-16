@@ -1,0 +1,14 @@
+{
+  "company": "Cliniko",
+  "country": "AU",
+  "problem": "Allied health practitioners including chiropractors lack secure, user-friendly practice management software for managing schedules, treatment records, invoices, and payments across multiple practitioners",
+  "solution": "All-in-one practice management software with appointment scheduling, clinical notes, invoicing, payments, telehealth, online booking, and 2% of subscriptions donated to charity, with ISO-certified security",
+  "problem_type": "chiropractic",
+  "solution_type": "SaaS",
+  "buyer": "clinics",
+  "varden_fit": "medium",
+  "url": "https://www.cliniko.com",
+  "source": "web",
+  "discovery_round": 139,
+  "discovered_by": "nova"
+}

@@ -1,0 +1,14 @@
+{
+  "company": "Vivance",
+  "country": "SG",
+  "problem": "Millions of CKD patients worldwide lack access to affordable, convenient dialysis treatment. Traditional dialysis requires patients to travel to clinics multiple times per week, severely limiting quality of life and independence",
+  "solution": "Portable dialysis platform including Viva Komfort (point-of-care dialysis fluid generation), Viva Kompact (ultraportable dialysis device for use anywhere), and Viva Konnect (digital AI integration for remote monitoring and risk stratification). Enables anytime, anywhere dialysis with comprehensive kidney care management",
+  "problem_type": "nephrology",
+  "solution_type": "device + SaaS",
+  "buyer": "dialysis centers, patients",
+  "varden_fit": "medium",
+  "url": "https://www.vivance.com/",
+  "source": "web",
+  "discovery_round": 105,
+  "discovered_by": "sky"
+}

@@ -1,0 +1,32 @@
+{
+  "id": "company-2026-197",
+  "title": "Livi - Primary Care Platform (Kry)",
+  "company": "Livi (Kry)",
+  "country": "Sweden",
+  "region": "Nordics/EU",
+  "segment": "infrastructure",
+  "problem": "Primary care access is limited by capacity. Patients wait weeks for appointments that could be handled digitally.",
+  "solution": "Digital primary care platform with video consultations, symptom assessment, digital prescriptions, and care navigation.",
+  "technology": "Telemedicine, symptom checker, EHR integration, AI triage",
+  "target_customer": "Patients, health systems, employers, insurers",
+  "care_setting": "primary_care",
+  "care_domain": "general",
+  "care_stage": "diagnosis",
+  "automation_level": "partial",
+  "ai_type": "AI triage",
+  "traction_signals": [
+    "Part of Kry Group (Europe's largest digital health provider)",
+    "100M+ consultations",
+    "Operating in 8+ countries"
+  ],
+  "funding": "Part of Kry Group ($700M+ raised)",
+  "regulatory_notes": "EU telemedicine regulations, medical device certifications",
+  "varden_fit": "HIGH - Primary care platform with AI triage. Infrastructure for care delivery.",
+  "source": "scout-round7",
+  "url": "https://www.livi.com",
+  "date_added": "2026-03-11",
+  "notes": "boring_software=false, contrarian=false. Nordic/EU representation. Digital primary care platform.",
+  "problem_type": "triage_navigation",
+  "boring_software": false,
+  "contrarian": false
+}

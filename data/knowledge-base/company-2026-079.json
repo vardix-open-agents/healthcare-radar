@@ -1,0 +1,27 @@
+{
+  "company": "HealthHero",
+  "country": "United Kingdom",
+  "founded_year": 2020,
+  "category": "Digital Health Services",
+  "subsector": "Integrated Digital Health Platform",
+  "description": "UK digital health company formed by merging several healthtech companies. Offers GP services, mental health support, physiotherapy, and wellness tools to employers and insurers.",
+  "business_model": "B2B - Sold to employers, insurers, and public sector",
+  "target_market": "UK employers, private health insurers, NHS",
+  "funding_stage": "Series B",
+  "funding_amount_gbp": 45000000,
+  "key_investors": "Hg, Oxeon Partners",
+  "employees": 500,
+  "customers": "500+ corporate clients",
+  "revenue_gbp": 50000000,
+  "tech_stack": ["Web platform", "Mobile apps", "Video consultation", "EHR"],
+  "integration_points": ["NHS systems", "Private insurers", "HR systems"],
+  "competitive_advantage": "Consolidated service offering, strong investor backing, UK market focus",
+  "varden_fit": {
+    "threat_level": "medium",
+    "opportunity": "partner",
+    "rationale": "UK market competitor - potential partner for occupational health component"
+  },
+  "data_quality": "medium",
+  "sources": ["healthhero.com", "crunchbase.com"],
+  "last_updated": "2026-03-11"
+}

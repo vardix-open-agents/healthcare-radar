@@ -1,0 +1,86 @@
+[
+  {
+    "company_name": "SkinVision",
+    "hq_location": "Amsterdam, Netherlands",
+    "website_url": "https://www.skinvision.com",
+    "problem_solved": "SkinVision helps individuals detect skin cancer early by providing an AI-powered mobile application that analyzes photos of moles and skin spots to assess cancer risk. The company aims to reduce skin cancer-related deaths by 50% through early detection.",
+    "who_buys_it": "Health insurers (B2B2C), employers (as employee benefit), and individual consumers",
+    "key_features": [
+      "AI-powered skin cancer risk assessment with >90% sensitivity",
+      "Clinical validation by dermatologists",
+      "Mobile app for easy photo capture and analysis"
+    ],
+    "business_model": "B2B2C (partnerships with insurers/employers) and B2C subscription",
+    "why_varden_care": "High replicability potential - AI-based skin analysis can be adapted to other markets. The B2B2C model via insurers is scalable and proven. Regulatory-approved medical device with strong clinical validation."
+  },
+  {
+    "company_name": "FotoFinder Systems",
+    "hq_location": "Bad Birnbach, Germany",
+    "website_url": "https://www.fotofinder.com",
+    "problem_solved": "FotoFinder provides advanced dermatological imaging systems for skin cancer screening, documentation, and aesthetic medicine. They help dermatologists and aesthetic clinics capture, analyze, and track skin conditions with precision imaging technology.",
+    "who_buys_it": "Dermatology clinics, aesthetic clinics, hospitals, and skin cancer screening centers",
+    "key_features": [
+      "Digital dermatoscopy and full-body imaging systems",
+      "AI-powered mole analysis (FotoFinder Bodystudio)",
+      "Long-term skin monitoring and documentation software"
+    ],
+    "business_model": "Hardware + software sales (one-time) with maintenance/service contracts",
+    "why_varden_care": "Hardware-software combination creates switching costs. Can be replicated in other medical imaging verticals. Strong position in both dermatology and aesthetics markets."
+  },
+  {
+    "company_name": "Pabau",
+    "hq_location": "London, United Kingdom",
+    "website_url": "https://pabau.com",
+    "problem_solved": "Pabau provides an all-in-one practice management platform for healthcare clinics including aesthetics, med spas, dermatology, and cosmetic surgery. It streamlines bookings, clinical notes, payments, marketing, and patient communications in a single platform.",
+    "who_buys_it": "Aesthetic clinics, medical spas, cosmetic surgery practices, dermatology clinics, and wellness centers",
+    "key_features": [
+      "End-to-end clinic management (CRM, scheduling, clinical notes, billing)",
+      "AI-powered clinical documentation",
+      "Multi-location support with role-based permissions"
+    ],
+    "business_model": "SaaS subscription",
+    "why_varden_care": "Highly replicable - vertical practice management can be adapted to other healthcare specialties. Bootstrap profitability without external funding shows strong unit economics. Serves 40+ countries with localization potential."
+  },
+  {
+    "company_name": "dermanostic",
+    "hq_location": "Berlin, Germany",
+    "website_url": "https://dermanostic.com",
+    "problem_solved": "Dermanostic provides 24/7 teledermatology services allowing patients to receive skin condition diagnoses, therapy recommendations, and prescriptions from certified dermatologists within hours via a mobile app, eliminating long wait times for in-person appointments.",
+    "who_buys_it": "Individual patients (B2C), employers (corporate health programs), and hospitals/clinics (consilium/consultation services)",
+    "key_features": [
+      "AI-assisted skin analysis for preliminary assessment",
+      "24/7 access to board-certified dermatologists (6h average response time)",
+      "Digital prescription delivery to preferred pharmacy"
+    ],
+    "business_model": "B2C pay-per-consultation + B2B corporate health programs + B2B consilium services for clinics",
+    "why_varden_care": "Asynchronous teledermatology model is highly scalable across geographies. Dual B2C/B2B revenue streams. MDR-certified medical device shows regulatory pathway is navigable. 92% of patients don't need follow-up in-person visits demonstrates strong triage."
+  },
+  {
+    "company_name": "First Derm",
+    "hq_location": "Stockholm, Sweden",
+    "website_url": "https://www.firstderm.com",
+    "problem_solved": "First Derm provides anonymous online dermatology consultations where users can submit photos of skin concerns and receive diagnoses and treatment recommendations from board-certified dermatologists within 48 hours without creating an account or revealing their identity.",
+    "who_buys_it": "Individual consumers seeking anonymous dermatological advice, employers (employee wellness programs)",
+    "key_features": [
+      "Fully anonymous consultations (no account required)",
+      "Board-certified dermatologist review (not AI)",
+      "Choice of response time (8h, 24h, or 48h)"
+    ],
+    "business_model": "B2C pay-per-consultation (starting at $34.95)",
+    "why_varden_care": "Anonymity as differentiator addresses privacy concerns. Simple pay-per-use model with no subscription friction. 70%+ cases resolved with OTC treatments shows strong triage efficiency. Global availability demonstrates cross-border scalability."
+  },
+  {
+    "company_name": "IDCP (DermEngine European Distributor)",
+    "hq_location": "Almere, Netherlands",
+    "website_url": "https://www.dermengine.com",
+    "problem_solved": "IDCP is the European distributor for DermEngine/MetaOptima's dermatology intelligence platform, providing localized sales, support, and regulatory compliance for skin imaging, teledermatology, and AI-powered skin cancer screening solutions across European markets.",
+    "who_buys_it": "European dermatology clinics, skin cancer centers, and healthcare systems requiring CE-marked medical devices",
+    "key_features": [
+      "Total body photography with AI-powered mole matching",
+      "Teledermatology platform for remote consultations and second opinions",
+      "MDR-compliant dermatology platform with European regulatory support"
+    ],
+    "business_model": "SaaS subscription + hardware (dermatoscope devices) + service contracts",
+    "why_varden_care": "Distributor model shows how to enter EU markets with medical devices. Regulatory expertise for MDR compliance is valuable and replicable. Platform approach combining imaging, AI, and teledermatology creates ecosystem lock-in."
+  }
+]

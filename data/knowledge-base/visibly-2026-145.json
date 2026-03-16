@@ -1,0 +1,29 @@
+{
+  "id": "visibly-2026-145",
+  "title": "Visibly - Mobile Vision Testing",
+  "company": "Visibly",
+  "country": "USA",
+  "region": "NA",
+  "segment": "vision_testing",
+  "problem": "Vision testing requires in-person visits to eye care professionals, limiting access and convenience.",
+  "solution": "FDA-cleared mobile vision test application for prescription renewal and vision screening using smartphone.",
+  "technology": "Mobile vision test, AI-powered, smartphone-based",
+  "target_customer": "Consumers, eye care providers, employers",
+  "care_setting": "digital",
+  "care_domain": "ophthalmology",
+  "care_stage": "screening",
+  "automation_level": "full",
+  "ai_type": "AI-powered vision assessment",
+  "traction_signals": [
+    "FDA cleared",
+    "Partnerships with eye care providers",
+    "Founded 2016, Chicago"
+  ],
+  "funding": "$15M+ raised",
+  "regulatory_notes": "FDA cleared mobile vision test",
+  "varden_fit": "Moderate - Vision testing access. Enables remote vision screening and prescription renewal.",
+  "source": "Industry knowledge",
+  "url": "https://visibly.com",
+  "date_added": "2026-03-11",
+  "notes": "FDA-cleared mobile vision test. Democratizes access to vision screening."
+}

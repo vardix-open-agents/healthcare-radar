@@ -1,0 +1,14 @@
+{
+  "company": "Rhyme",
+  "country": "US",
+  "problem": "Prior authorization processes are manual, inefficient, and create friction between payers and providers, resulting in delayed patient care and unnecessary administrative burden",
+  "solution": "Touchless prior auth platform that processes 4M+ prior auths annually for 83 of the largest providers, automatically removing manual effort through observation and analytics, with gold carding capabilities to eliminate prior auths entirely at point of care",
+  "problem_type": "prior_authorization",
+  "solution_type": "SaaS",
+  "buyer": "providers",
+  "varden_fit": "high",
+  "url": "https://getrhyme.com",
+  "source": "web",
+  "discovery_round": 86,
+  "discovered_by": "sky"
+}

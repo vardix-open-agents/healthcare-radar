@@ -1,0 +1,28 @@
+{
+  "company": "Kyruus (USA)",
+  "country": "United States",
+  "founded_year": 2010,
+  "category": "Healthcare Infrastructure",
+  "subsector": "Provider Matching Platform",
+  "description": "Healthcare provider matching and access platform. Helps health systems match patients to the right providers based on expertise, availability, and preferences. Improves patient access and provider utilization.",
+  "business_model": "B2B - Provider matching to health systems",
+  "target_market": "Health systems, hospitals",
+  "funding_stage": "Acquired",
+  "funding_amount_usd": 100000000,
+  "key_investors": "Acquired by Phreesia",
+  "employees": "200+",
+  "customers": "Health systems",
+  "revenue_usd": null,
+  "tech_stack": ["Provider matching", "Scheduling", "Patient access", "Analytics", "EHR integration"],
+  "integration_points": ["EHRs", "Scheduling systems", "Call centers", "Patient portals"],
+  "competitive_advantage": "AI-powered matching, improved patient access, provider utilization",
+  "boring_software": true,
+  "varden_fit": {
+    "threat_level": "low",
+    "opportunity": "monitor",
+    "rationale": "Provider matching - relevant for occupational health specialist referrals"
+  },
+  "data_quality": "high",
+  "sources": ["kyruus.com", "crunchbase.com"],
+  "last_updated": "2026-03-11"
+}

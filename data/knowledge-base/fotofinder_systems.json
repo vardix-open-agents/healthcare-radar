@@ -1,0 +1,14 @@
+{
+  "company": "FotoFinder Systems",
+  "country": "DE",
+  "problem": "Dermatology practices need precise digital dermoscopy systems to document and monitor skin lesions over time for early melanoma detection",
+  "solution": "Digital dermoscopy and total body photography systems with automated mole mapping, AI-assisted lesion analysis, and longitudinal tracking for skin cancer screening",
+  "problem_type": "dermatology",
+  "solution_type": "SaaS",
+  "buyer": "clinics",
+  "varden_fit": "medium",
+  "url": "https://www.fotofinder.com",
+  "source": "web",
+  "discovery_round": 106,
+  "discovered_by": "nova"
+}

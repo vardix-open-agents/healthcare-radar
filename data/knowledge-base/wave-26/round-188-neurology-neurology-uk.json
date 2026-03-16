@@ -1,0 +1,123 @@
+{
+  "round": 188,
+  "wave": 26,
+  "category": "Neurology / Neurology",
+  "region": "UK",
+  "focus_areas": [
+    "Neurology practice management",
+    "Brain imaging software",
+    "Epilepsy monitoring platforms",
+    "Parkinson's disease tracking"
+  ],
+  "excluded": ["Consumer brain apps", "Pharma"],
+  "companies": [
+    {
+      "company_name": "Brainomix",
+      "hq_location": "Oxford, United Kingdom",
+      "website_url": "https://www.brainomix.com",
+      "problem_solved": "Stroke diagnosis and treatment decisions are time-critical, but traditional imaging analysis is slow and subjective. Brainomix addresses the need for rapid, AI-powered brain imaging analysis to improve stroke patient outcomes.",
+      "who_buys_it": "Hospitals, stroke centers, NHS trusts, radiology departments, neurology clinics",
+      "key_features": [
+        "AI-powered brain imaging analysis for stroke",
+        "e-Stroke suite for automated CT/MRI interpretation",
+        "Real-time collaboration tools for stroke teams",
+        "FDA cleared and CE marked",
+        "NHS deployed across multiple trusts",
+        "Reduces door-to-needle time for thrombolysis"
+      ],
+      "business_model": "B2B SaaS - Hospital/health system licensing with per-scan or subscription pricing. Works with NHS and international healthcare systems.",
+      "why_varden_should_care": "Leading UK stroke AI company with proven NHS deployment. Strong clinical validation and FDA clearance positions them for US expansion. Stroke AI market is rapidly growing with significant M&A activity."
+    },
+    {
+      "company_name": "Neuronostics",
+      "hq_location": "Bristol/South West, United Kingdom",
+      "website_url": "https://www.neuronostics.com",
+      "problem_solved": "Epilepsy diagnosis is slow and inaccurate, often requiring long-term EEG monitoring. Neuronostics provides rapid EEG biomarker analysis to accelerate epilepsy diagnosis and treatment decisions.",
+      "who_buys_it": "Neurology departments, epilepsy centers, hospitals, EEG monitoring services, NHS trusts",
+      "key_features": [
+        "EEG biomarker technology for epilepsy diagnosis",
+        "Rapid analysis of routine EEG recordings",
+        "AI-powered seizure risk assessment",
+        "Non-invasive diagnostic support",
+        "Award-winning Medilink South West startup",
+        "Focus on reducing diagnostic delays"
+      ],
+      "business_model": "B2B SaaS - Software licensing to hospitals and epilepsy centers. Likely per-analysis or subscription model for EEG interpretation services.",
+      "why_varden_should_care": "Unique position in epilepsy EEG analysis with limited direct competitors. Addresses significant unmet need for faster epilepsy diagnosis. UK-based with potential for NHS adoption and international expansion."
+    },
+    {
+      "company_name": "uMotif",
+      "hq_location": "London, United Kingdom",
+      "website_url": "https://www.umotif.com",
+      "problem_solved": "Clinical trials for neurological conditions like Parkinson's lack reliable patient-reported outcomes. uMotif provides digital platforms for capturing real-world patient data in neurological disorders.",
+      "who_buys_it": "Pharmaceutical companies, CROs, biotech companies, clinical research sites, neurology practices",
+      "key_features": [
+        "eCOA (electronic Clinical Outcome Assessment) platform",
+        "ePRO (electronic Patient Reported Outcomes) tools",
+        "Parkinson's symptom tracking (tremor, gait, medication tracking)",
+        "FDA 21 CFR Part 11 compliant",
+        "Used in global clinical trials",
+        "Patient engagement and retention tools"
+      ],
+      "business_model": "B2B - Licensing to pharmaceutical companies and CROs for clinical trials. Per-patient or per-study pricing for eCOA/ePRO services.",
+      "why_varden_should_care": "Established player in neurological clinical trial technology with strong pharmaceutical client base. Growing eCOA market driven by decentralized clinical trials. Parkinson's focus aligns with aging population trends."
+    },
+    {
+      "company_name": "Cambridge NeuroTech",
+      "hq_location": "Cambridge, United Kingdom",
+      "website_url": "https://www.cambridgeneurotech.com",
+      "problem_solved": "Neuroscience research requires high-density neural recording capabilities, but existing solutions are bulky and limited in channel count. Cambridge NeuroTech provides advanced electrophysiology systems for brain research.",
+      "who_buys_it": "Academic neuroscience labs, pharmaceutical R&D, brain research institutes, medical device companies developing neural interfaces",
+      "key_features": [
+        "Silicon neural probes with 64-256 channels",
+        "Miniature on-skull digital headstages (0.34g)",
+        "Double-sided probes for increased neuron recording",
+        "Freely-behaving animal electrophysiology",
+        "Reusable and implantable systems",
+        "Comprehensive probe library for different brain regions"
+      ],
+      "business_model": "B2B - Hardware sales to research institutions. Probe and headstage sales with recurring revenue from consumables and accessories.",
+      "why_varden_should_care": "Leading provider of high-density neural probes with strong academic customer base. Positioned to benefit from growth in brain-computer interface and neural implant markets. Cambridge ecosystem provides strong talent and partnership opportunities."
+    },
+    {
+      "company_name": "Huma",
+      "hq_location": "London, United Kingdom",
+      "website_url": "https://www.huma.com",
+      "problem_solved": "Healthcare systems need scalable digital infrastructure for remote patient monitoring, virtual wards, and AI-powered diagnostics. Huma provides a comprehensive digital health platform supporting multiple therapeutic areas including neurology.",
+      "who_buys_it": "Health systems, NHS trusts, pharmaceutical companies, health insurers, governments, life sciences companies",
+      "key_features": [
+        "AI-powered health platform (Huma Intelligence)",
+        "Remote patient monitoring (RPM) tools",
+        "Virtual wards and hospital-at-home models",
+        "AI-first screening and diagnostic tools",
+        "Hi Studio for rapid app development",
+        "Hi Scribe for clinical documentation",
+        "Regulated SaMD (Software as Medical Device)",
+        "NHS deployed"
+      ],
+      "business_model": "B2B SaaS - Platform licensing to health systems, pharma, and governments. Multi-million patient deployments. Partnerships with NHS and global health systems.",
+      "why_varden_should_care": "Major UK digital health unicorn with substantial funding and global reach. Platform approach enables expansion into neurology applications. Strong NHS relationships and regulatory clearance position them for growth in remote neurological monitoring."
+    },
+    {
+      "company_name": "Current Health (acquired by Best Buy Health)",
+      "hq_location": "Edinburgh, United Kingdom",
+      "website_url": "https://www.currenthealth.com",
+      "problem_solved": "Complex care and advanced therapies require continuous monitoring outside hospital settings. Current Health provides FDA-cleared wearable monitoring and clinical command centers for remote patient management.",
+      "who_buys_it": "Health systems, hospitals, cancer centers, CAR-T therapy providers, pharmaceutical companies, life sciences",
+      "key_features": [
+        "FDA-cleared continuous wearable monitoring",
+        "Passive vital sign monitoring (continuous)",
+        "Clinical command center with 24/7 RN staffing",
+        "AI-enabled deterioration detection (CRS, ICANS)",
+        "EHR integration (Epic, Cerner)",
+        "Hospital at Home program support",
+        "CAR-T and cell therapy monitoring",
+        "90%+ shift to outpatient settings for cell therapy"
+      ],
+      "business_model": "B2B - Technology and services to health systems and pharma. Subscription or per-patient monitoring fees. Includes clinical services and logistics support.",
+      "why_varden_should_care": "Leading remote monitoring company with FDA clearance and strong clinical evidence. Acquired by Best Buy Health in 2021, demonstrating strategic value. Platform applicable to neurological patient monitoring, especially for high-acuity conditions. 54+ peer-reviewed papers demonstrate clinical validation."
+    }
+  ],
+  "research_date": "2026-03-14",
+  "notes": "Focus on UK-based companies in neurology practice management, brain imaging, epilepsy monitoring, and Parkinson's tracking. Consumer brain apps and pharma companies excluded. Market shows strong growth in AI-powered diagnostics and remote neurological monitoring."
+}

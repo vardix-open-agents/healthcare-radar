@@ -1,0 +1,14 @@
+{
+  "company": "Kindbody",
+  "country": "US",
+  "problem": "Fertility care is fragmented, expensive, and lacks integrated technology for patients and employer benefit programs",
+  "solution": "Tech-enabled fertility clinic network with integrated employer benefit solution, offering IVF, egg freezing, and comprehensive fertility services under one platform",
+  "problem_type": "fertility",
+  "solution_type": "SaaS",
+  "buyer": "clinics",
+  "varden_fit": "medium",
+  "url": "https://www.kindbody.com",
+  "source": "web",
+  "discovery_round": 138,
+  "discovered_by": "sky"
+}

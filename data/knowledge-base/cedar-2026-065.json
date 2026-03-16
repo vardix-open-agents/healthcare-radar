@@ -1,0 +1,14 @@
+{
+  "company": "Cedar",
+  "country": "US",
+  "problem": "Healthcare providers face fragmented patient billing experiences that lead to low payment rates, high administrative burden, and poor patient satisfaction. Traditional billing systems are disconnected, confusing for patients, and fail to optimize financial engagement across the patient journey.",
+  "solution": "Cedar provides an AI-powered patient financial engagement platform that unifies pre-visit payments, post-visit billing, payment financing, Medicaid enrollment, and denials resolution. Their Cedar Intelligence engine uses healthcare-specific AI to personalize interactions, optimize the payment funnel, and automate manual workflows. The platform includes Kora, an AI voice agent for call center servicing. Cedar serves 58M+ patients and processes $13.6B in patient payments annually.",
+  "problem_type": "claims_billing",
+  "solution_type": "SaaS",
+  "buyer": "providers",
+  "varden_fit": "high",
+  "url": "https://www.cedar.com",
+  "source": "web research",
+  "discovery_round": 65,
+  "discovered_by": "sky"
+}

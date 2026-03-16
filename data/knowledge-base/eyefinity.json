@@ -1,0 +1,14 @@
+{
+  "company": "Eyefinity",
+  "country": "US",
+  "problem": "Optometry practices struggle with fragmented workflows, paper-based records, and disconnected systems for scheduling, billing, and patient management",
+  "solution": "Cloud-based EHR and practice management software specifically designed for eye care professionals, including electronic health records, scheduling, billing, optical inventory management, and patient engagement tools",
+  "problem_type": "optometry",
+  "solution_type": "SaaS",
+  "buyer": "clinics",
+  "varden_fit": "medium",
+  "url": "https://www.eyefinity.com",
+  "source": "web",
+  "discovery_round": 110,
+  "discovered_by": "nova"
+}

@@ -1,0 +1,14 @@
+{
+  "company": "InstaMed",
+  "country": "US",
+  "problem": "Healthcare organizations face fragmented payment systems, manual reconciliation, and poor patient engagement leading to inefficiencies and revenue leakage",
+  "solution": "Complete healthcare payments platform (now J.P. Morgan company) that integrates with EHR/EMR systems, automates posting and reconciliation, and provides digital-first billing with mobile wallets and text-to-pay options",
+  "problem_type": "patient_payments",
+  "solution_type": "SaaS",
+  "buyer": "providers",
+  "varden_fit": "high",
+  "url": "https://www.instamed.com",
+  "source": "web",
+  "discovery_round": 99,
+  "discovered_by": "sky"
+}

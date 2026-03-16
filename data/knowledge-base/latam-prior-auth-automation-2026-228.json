@@ -1,0 +1,33 @@
+{
+  "id": "latam-prior-auth-automation-2026-228",
+  "title": "LATAM Prior Authorization Automation Gap",
+  "company": null,
+  "country": "Brazil/Mexico/Colombia/Regional",
+  "region": "LATAM",
+  "segment": "admin",
+  "problem": "Prior authorization in LATAM is manual and slow. Physicians spend hours on paperwork. Faxes sent back and forth. Delays of days/weeks for approval. Patients wait in pain. High denial rates due to paperwork errors. No transparency into approval status. This is a massive administrative burden consuming 15-20% of practice overhead.",
+  "solution": "Prior authorization automation platform. AI-powered form completion from EMR data. Auto-submission to insurers. Real-time status tracking. Chatbot for common questions. Analytics on denial reasons and payer patterns. Integration with major insurers in Brazil, Mexico, Colombia.",
+  "technology": "NLP for form completion, API integration with insurers, rule-based automation, chatbot, analytics",
+  "target_customer": "Physician practices, hospital systems, health insurers (streamline intake)",
+  "care_setting": "all",
+  "care_domain": "general",
+  "care_stage": "admin",
+  "automation_level": "full",
+  "ai_type": "NLP for form completion, denial prediction",
+  "traction_signals": [
+    "Physician burnout from admin burden",
+    "Insurers overwhelmed by auth requests",
+    "Proven models (SamaCare, Cohere Health in US)",
+    "Value-based care driving auth complexity"
+  ],
+  "funding": null,
+  "regulatory_notes": "Insurance regulations vary by country, data sharing with insurers",
+  "varden_fit": "CRITICAL FIT - Prior auth is the most hated admin process. Automation is pure infrastructure. Reduces costs for practices and insurers. High willingness to pay.",
+  "source": "Opportunity analysis + market gap identification",
+  "url": null,
+  "date_added": "2026-03-11",
+  "problem_type": "authorization",
+  "contrarian": false,
+  "boring_software": true,
+  "notes": "BOREALING: Prior auth automation is incredibly boring. But it's also incredibly valuable. Physicians hate this work. They'll pay to make it go away."
+}

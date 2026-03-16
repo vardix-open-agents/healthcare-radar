@@ -1,0 +1,16 @@
+{
+  "id": "problem-2026-114",
+  "problem": "New nurse onboarding takes 3-6 months, leaving units understaffed during training period",
+  "problem_type": "staffing",
+  "solution_type": "Accelerated training platforms, VR simulation, AI-guided competency assessment",
+  "care_stage": "admin",
+  "automation_type": "ai_assisted",
+  "buyer": "hospital",
+  "care_setting": "primary_care",
+  "companies": ["HealthStream", "Elsevier Clinical Skills", "CAE Healthcare", "Oculus for Business"],
+  "signals": ["Nursing school capacity limits", "New graduate turnover 30%", "Preceptor shortage"],
+  "boring_software": false,
+  "contrarian": false,
+  "url": "https://www.healthstream.com",
+  "date_added": "2026-03-11"
+}

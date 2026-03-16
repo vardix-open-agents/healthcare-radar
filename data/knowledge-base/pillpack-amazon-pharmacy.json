@@ -1,0 +1,14 @@
+{
+  "company": "PillPack (Amazon Pharmacy)",
+  "country": "US",
+  "problem": "Patients with multiple chronic medications struggle with medication management, sorting pills, and timely refills",
+  "solution": "Full-service online pharmacy with pre-sorted medication packaging by dose time, automatic refills, 24/7 pharmacist support, and home delivery",
+  "problem_type": "pharmacy",
+  "solution_type": "SaaS",
+  "buyer": "pharmacies",
+  "varden_fit": "medium",
+  "url": "https://www.pillpack.com/",
+  "source": "web",
+  "discovery_round": 75,
+  "discovered_by": "nova"
+}

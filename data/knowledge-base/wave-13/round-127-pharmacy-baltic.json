@@ -1,0 +1,114 @@
+[
+  {
+    "company": "Nortal",
+    "hq": "Tallinn, Estonia",
+    "website": "https://nortal.com",
+    "problem": "Healthcare systems lack integrated digital infrastructure for e-prescriptions, patient data management, and cross-institutional data sharing. Nortal builds national-scale digital health platforms including e-prescription systems.",
+    "customers": "Governments, national health agencies, hospitals, healthcare providers",
+    "keyFeatures": [
+      "E-prescription platform integrated with national health systems",
+      "Digital health data standardization and analytics",
+      "Cross-institutional patient record integration via X-Road"
+    ],
+    "businessModel": "SaaS / Project-based consulting and implementation",
+    "whyVarden": "High replicability - proven model for national e-prescription and health data infrastructure. Estonia's 40% digital transformation success demonstrates scalability. X-Road interoperability can be adapted for other markets."
+  },
+  {
+    "company": "Tietoevry Lifecare",
+    "hq": "Helsinki, Finland (with Baltic operations)",
+    "website": "https://www.tietoevry.com/en/industries/healthcare/",
+    "problem": "Healthcare providers and pharmacies need integrated IT systems for patient records, medication management, and clinical workflows across the Nordics and Baltics.",
+    "customers": "Hospitals, clinics, pharmacies, regional healthcare authorities in Nordic/Baltic region",
+    "keyFeatures": [
+      "Hospital information systems with pharmacy modules",
+      "Medication management and dispensing systems",
+      "E-prescription integration with national health networks"
+    ],
+    "businessModel": "SaaS / Enterprise software licensing",
+    "whyVarden": "Market leader in Nordics/Baltics healthcare IT. Proven enterprise-grade pharmacy management. Strong reference for regional expansion."
+  },
+  {
+    "company": "Oribalt",
+    "hq": "Tallinn, Estonia (with Baltic operations)",
+    "website": "https://www.oribalt.com",
+    "problem": "Pharmaceutical wholesale and distribution in the Baltic region requires efficient supply chain management, inventory tracking, and pharmacy logistics.",
+    "customers": "Pharmacies, hospitals, pharmaceutical companies in Estonia, Latvia, Lithuania",
+    "keyFeatures": [
+      "Pharmaceutical wholesale distribution network",
+      "Inventory management for pharmacies",
+      "Cold chain logistics for medications"
+    ],
+    "businessModel": "Wholesale distribution / B2B services",
+    "whyVarden": "Largest pharma distributor in Baltics. Potential to add software layer for inventory optimization. Weak replicability (physical infrastructure heavy)."
+  },
+  {
+    "company": "DocPlanner (ZnanyLekarz)",
+    "hq": "Warsaw, Poland (with Baltic presence)",
+    "website": "https://www.docplanner.com",
+    "problem": "Patients need to book appointments and access healthcare services digitally, while clinics need practice management tools including medication tracking.",
+    "customers": "Clinics, individual healthcare providers, patients",
+    "keyFeatures": [
+      "Practice management software for clinics",
+      "E-prescription capabilities in some markets",
+      "Patient booking and health record access"
+    ],
+    "businessModel": "SaaS / Marketplace (freemium model)",
+    "whyVarden": "Strong regional player with Baltic market presence. Clinic software could extend to pharmacy integration. Moderate replicability for emerging markets."
+  },
+  {
+    "company": "Compugroup Medical (Baltic subsidiary)",
+    "hq": "Koblenz, Germany (with Baltic operations)",
+    "website": "https://www.cgm.com",
+    "problem": "Healthcare providers need comprehensive practice management, EHR, and pharmacy management systems with integrated e-prescription capabilities.",
+    "customers": "Hospitals, clinics, pharmacies in Baltic region",
+    "keyFeatures": [
+      "Practice management with pharmacy module integration",
+      "E-prescription and medication documentation",
+      "EHR with drug interaction checking"
+    ],
+    "businessModel": "SaaS / Enterprise licensing",
+    "whyVarden": "Major European healthcare IT player with Baltic presence. Proven pharmacy management module. Moderate replicability (enterprise-focused)."
+  },
+  {
+    "company": "MediTera",
+    "hq": "Tallinn, Estonia",
+    "website": "https://www.meditera.ee",
+    "problem": "Healthcare providers need specialized medical software for practice management, electronic health records, and prescription handling.",
+    "customers": "Family doctors, specialists, clinics in Estonia and Baltics",
+    "keyFeatures": [
+      "Electronic health record system",
+      "E-prescription integration with national database",
+      "Practice management for healthcare providers"
+    ],
+    "businessModel": "SaaS",
+    "whyVarden": "Local Baltic EHR provider with prescription capabilities. Smaller scale, potential partnership target. Good replicability for similar markets."
+  },
+  {
+    "company": "Estonian e-Health Foundation (e-tervis.ee)",
+    "hq": "Tallinn, Estonia",
+    "website": "https://www.e-tervis.ee",
+    "problem": "National healthcare systems need centralized digital health records, e-prescription infrastructure, and health data exchange between providers.",
+    "customers": "Government health agencies, hospitals, pharmacies, citizens",
+    "keyFeatures": [
+      "National e-prescription system (digital prescription database)",
+      "Electronic health record system (EHR)",
+      "X-Road based health data exchange"
+    ],
+    "businessModel": "Government infrastructure / Non-commercial",
+    "whyVarden": "World-leading e-prescription model with 99%+ adoption. Strong reference architecture for government health IT projects. High replicability for similar government-led initiatives."
+  },
+  {
+    "company": "Medisoft (MediSoft Baltic)",
+    "hq": "Riga, Latvia",
+    "website": "https://www.medisoft.lv",
+    "problem": "Medical practices and pharmacies need integrated software for patient records, billing, and medication management.",
+    "customers": "Clinics, pharmacies, medical practices in Latvia and Baltics",
+    "keyFeatures": [
+      "Practice management software",
+      "E-prescription and medication tracking",
+      "Billing and insurance integration"
+    ],
+    "businessModel": "SaaS / Perpetual licensing",
+    "whyVarden": "Regional practice management player. Potential for pharmacy module expansion. Moderate replicability."
+  }
+]

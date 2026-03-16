@@ -1,0 +1,16 @@
+{
+  "id": "problem-2026-048",
+  "problem": "Egyptian public hospital patients wait 8+ hours with no triage system for urgent cases",
+  "problem_type": "triage",
+  "solution_type": "Emergency department triage systems, AI-powered prioritization, fast-track lanes",
+  "care_stage": "intake",
+  "automation_type": "workflow_automation",
+  "buyer": "hospital",
+  "care_setting": "emergency",
+  "companies": ["Egyptian MoHP platforms", "Private emergency care", "Triage system vendors"],
+  "signals": ["Egypt healthcare reform", "Emergency care overcrowding", "WHO emergency care guidance"],
+  "boring_software": false,
+  "contrarian": false,
+  "url": "https://www.mohp.gov.eg",
+  "date_added": "2026-03-11"
+}

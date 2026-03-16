@@ -1,0 +1,16 @@
+{
+  "id": "problem-2026-072",
+  "problem": "Behavioral health clinics can't verify insurance coverage for mental health visits, leading to claim denials and revenue loss",
+  "problem_type": "eligibility_verification",
+  "solution_type": "Specialized behavioral health eligibility checking, parity compliance verification, integrated payer APIs",
+  "care_stage": "intake",
+  "automation_type": "workflow_automation",
+  "buyer": "practice",
+  "care_setting": "mental_health",
+  "companies": ["Valant", "TherapyNotes", "DrChrono", "SimplePractice", "Mental Health EZ"],
+  "signals": ["Mental health parity enforcement", "Behavioral health integration", "Teletherapy insurance coverage expansion"],
+  "boring_software": true,
+  "contrarian": false,
+  "url": "https://www.cms.gov/CCIIO/Programs-and-Initiatives/Other-Insurance-Protections/mhpaea_factsheet",
+  "date_added": "2026-03-11"
+}

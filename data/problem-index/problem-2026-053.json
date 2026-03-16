@@ -1,0 +1,16 @@
+{
+  "id": "problem-2026-053",
+  "problem": "Home care nurses spend 40% of time on documentation, reducing patient contact hours",
+  "problem_type": "documentation",
+  "solution_type": "Mobile point-of-care documentation, voice capture, offline-first home care apps",
+  "care_stage": "treatment",
+  "automation_type": "workflow_automation",
+  "buyer": "health_system",
+  "care_setting": "home",
+  "companies": ["Home care EHR vendors", "AlayaCare", "HHAeXchange"],
+  "signals": ["Home care workforce shortage", "Value-based home care", "Documentation burden studies"],
+  "boring_software": true,
+  "contrarian": false,
+  "url": "https://www.alayacare.com",
+  "date_added": "2026-03-11"
+}

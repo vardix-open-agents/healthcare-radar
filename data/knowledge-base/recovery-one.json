@@ -1,0 +1,14 @@
+{
+  "company": "RecoveryOne",
+  "country": "US",
+  "problem": "Musculoskeletal recovery is often inconsistent and unguided, with patients lacking structured support between PT sessions or after completing formal rehabilitation",
+  "solution": "AI-powered digital MSK platform providing personalized recovery programs, progress tracking, and virtual coaching for musculoskeletal conditions, integrating with health plans and employers",
+  "problem_type": "rehab",
+  "solution_type": "SaaS",
+  "buyer": "employers",
+  "varden_fit": "medium",
+  "url": "https://www.recoveryone.com",
+  "source": "web",
+  "discovery_round": 98,
+  "discovered_by": "nova"
+}

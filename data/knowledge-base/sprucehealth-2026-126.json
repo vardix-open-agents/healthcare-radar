@@ -1,0 +1,29 @@
+{
+  "id": "sprucehealth-2026-126",
+  "title": "Spruce Health - Dermatology Practice Platform",
+  "company": "Spruce Health",
+  "country": "USA",
+  "region": "NA",
+  "segment": "dermatology_practice_management",
+  "problem": "Dermatology practices need modern patient communication and telemedicine tools integrated with practice workflows.",
+  "solution": "Comprehensive platform for dermatology practices combining telemedicine, secure patient messaging, and practice management tools.",
+  "technology": "Telemedicine platform, secure messaging, practice management, EHR integration",
+  "target_customer": "Dermatology practices",
+  "care_setting": "outpatient_telemedicine",
+  "care_domain": "dermatology",
+  "care_stage": "care_delivery",
+  "automation_level": "partial",
+  "ai_type": null,
+  "traction_signals": [
+    "Growing dermatology practice customer base",
+    "Strong focus on specialty-specific workflows",
+    "Integrated telemedicine + practice management"
+  ],
+  "funding": "$10M+ raised",
+  "regulatory_notes": "HIPAA compliant, telemedicine platform",
+  "varden_fit": "HIGH - Telemedicine + practice management for specialty aligns well with Varden's platform approach.",
+  "source": "Industry knowledge",
+  "url": "https://sprucehealth.com",
+  "date_added": "2026-03-11",
+  "notes": "Dermatology-specific platform. Good model for specialty practice coordination."
+}

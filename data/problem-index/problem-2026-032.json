@@ -1,0 +1,16 @@
+{
+  "id": "problem-2026-032",
+  "problem": "Indonesian patients cannot find reliable doctor reviews, leading to poor provider choices",
+  "problem_type": "navigation",
+  "solution_type": "Verified patient review platforms, doctor rating systems, quality transparency",
+  "care_stage": "intake",
+  "automation_type": "manual_augmentation",
+  "buyer": "patient",
+  "care_setting": "primary_care",
+  "companies": ["Alodokter", "HaloDoc", "KlikDokter"],
+  "signals": ["Indonesian healthcare access", "Consumerization of healthcare", "Mobile-first population"],
+  "boring_software": false,
+  "contrarian": false,
+  "url": "https://www.alodokter.com",
+  "date_added": "2026-03-11"
+}

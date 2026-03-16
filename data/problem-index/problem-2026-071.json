@@ -1,0 +1,16 @@
+{
+  "id": "problem-2026-071",
+  "problem": "Hospital pharmacists spend 40% of time manually reconciling medication lists from multiple sources during admissions, causing delays and errors",
+  "problem_type": "data_integration",
+  "solution_type": "Automated medication history aggregation, pharmacy network integration, AI-assisted reconciliation",
+  "care_stage": "intake",
+  "automation_type": "data_integration",
+  "buyer": "health_system",
+  "care_setting": "hospital",
+  "companies": ["Surescripts", "DrFirst", "Tabula Rasa", "MedHx", "Allscripts Medication Management"],
+  "signals": ["CMS medication reconciliation requirements", "Surescripts network expansion", "Polypharmacy in aging population"],
+  "boring_software": true,
+  "contrarian": false,
+  "url": "https://www.jointcommission.org/standards",
+  "date_added": "2026-03-11"
+}

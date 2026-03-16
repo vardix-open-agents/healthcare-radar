@@ -1,0 +1,14 @@
+{
+  "company": "Infinitus",
+  "country": "US",
+  "problem": "Healthcare organizations spend significant time on manual phone calls for benefits verification, prior authorization, and other administrative tasks, leading to inefficiency and high operational costs",
+  "solution": "AI agents and copilots that automate clinical and administrative healthcare calls to patients, payors, and providers, completing 6M+ calls with 50% typical ROI and 10% greater data accuracy",
+  "problem_type": "prior_authorization",
+  "solution_type": "SaaS",
+  "buyer": "providers",
+  "varden_fit": "high",
+  "url": "https://www.infinitus.ai",
+  "source": "web",
+  "discovery_round": 86,
+  "discovered_by": "sky"
+}

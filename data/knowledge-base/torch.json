@@ -1,0 +1,14 @@
+{
+  "company": "Torch",
+  "country": "US",
+  "problem": "Employees dealing with serious illness, caregiving responsibilities, or grief often lack support in the workplace, leading to decreased productivity, burnout, and turnover",
+  "solution": "Employer benefit platform providing palliative care navigation, grief support, and caregiver resources to help employees navigate serious illness while maintaining work-life balance",
+  "problem_type": "palliative_care",
+  "solution_type": "SaaS",
+  "buyer": "employers",
+  "varden_fit": "medium",
+  "url": "https://www.torch.care",
+  "source": "web",
+  "discovery_round": 121,
+  "discovered_by": "nova"
+}

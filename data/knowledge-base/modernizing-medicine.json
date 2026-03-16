@@ -1,0 +1,14 @@
+{
+  "company": "Modernizing Medicine (ModMed)",
+  "country": "US",
+  "problem": "Rheumatology practices struggle with generic EHR systems that lack specialty-specific workflows, leading to inefficient documentation, billing errors, and reduced patient face time",
+  "solution": "EMA Rheumatology - specialty-specific electronic medical assistant with built-in rheumatology workflows, auto-suggested diagnosis codes, treatment templates, and real-time clinical decision support for autoimmune conditions",
+  "problem_type": "rheumatology",
+  "solution_type": "SaaS",
+  "buyer": "clinics",
+  "varden_fit": "medium",
+  "url": "https://www.modmed.com/specialties/rheumatology/",
+  "source": "web",
+  "discovery_round": 117,
+  "discovered_by": "nova"
+}

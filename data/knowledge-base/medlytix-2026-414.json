@@ -1,0 +1,22 @@
+{
+  "company_name": "Medlytix",
+  "problem_solved": "Health plans and providers lack tools to identify and address transportation barriers that prevent patients from accessing care",
+  "solution_description": "NEMT (Non-Emergency Medical Transportation) management platform for health plans and providers. Coordinates rides to medical appointments, manages transportation benefits, and provides analytics on transportation utilization. Integrates with Medicaid managed care and Medicare Advantage",
+  "buyer_persona": "payers",
+  "care_stage": "treatment",
+  "automation_level": "partial",
+  "varden_fit": "high",
+  "region": "US",
+  "country": "United States",
+  "funding_stage": "private",
+  "traction_signals": [
+    "Serves Medicaid and Medicare Advantage plans",
+    "Transportation benefit management",
+    "Ride coordination and scheduling",
+    "Analytics on transportation utilization"
+  ],
+  "notes": "NEMT platform competing with Modivcare. High Varden fit - addresses transportation barrier to care. Important SDOH infrastructure for Medicaid populations. Focus on transportation as social determinant",
+  "discovery_round": 50,
+  "discovered_by": "sky",
+  "timestamp": "2026-03-11T23:20:00Z"
+}

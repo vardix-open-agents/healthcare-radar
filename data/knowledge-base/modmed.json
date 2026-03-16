@@ -1,0 +1,14 @@
+{
+  "company": "ModMed (Modernizing Medicine)",
+  "country": "US",
+  "problem": "Specialty medical practices, including OB/GYN clinics, struggle with generic EHR systems that don't match their clinical workflows, leading to inefficiencies, documentation burdens, and reduced patient care time.",
+  "solution": "Cloud-based, specialty-specific EHR and practice management platform with AI-powered documentation, designed specifically for OB/GYN and other medical specialties. Includes electronic medical records, practice management, revenue cycle management, and patient engagement tools tailored to women's health workflows.",
+  "problem_type": "womens_health",
+  "solution_type": "SaaS",
+  "buyer": "clinics",
+  "varden_fit": "medium",
+  "url": "https://www.modmed.com/",
+  "source": "web",
+  "discovery_round": 93,
+  "discovered_by": "nova"
+}

@@ -1,0 +1,14 @@
+{
+  "company": "Ivy Fertility",
+  "country": "US",
+  "problem": "Patients need compassionate, tech-enabled fertility care with consistent quality across multiple clinic locations",
+  "solution": "Fertility clinic network providing IVF, egg freezing, and reproductive services with innovative technology and personalized care across multiple US locations",
+  "problem_type": "fertility",
+  "solution_type": "SaaS",
+  "buyer": "clinics",
+  "varden_fit": "medium",
+  "url": "https://www.ivyfertility.com",
+  "source": "web",
+  "discovery_round": 138,
+  "discovered_by": "sky"
+}

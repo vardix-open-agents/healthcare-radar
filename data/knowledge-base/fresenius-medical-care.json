@@ -1,0 +1,14 @@
+{
+  "company": "Fresenius Medical Care",
+  "country": "DE",
+  "problem": "Patients with kidney failure need reliable, high-quality dialysis treatment, but dialysis therapy is complex, requires specialized equipment, and ongoing clinical management across home and in-center settings",
+  "solution": "Global leader in dialysis products and services including hemodialysis machines, dialyzers, peritoneal dialysis systems, and NxStage home hemodialysis systems. Offers comprehensive renal replacement therapy products, connected health monitoring through Nx2me, and operates dialysis clinics worldwide under NephroCare brand",
+  "problem_type": "nephrology",
+  "solution_type": "device + services + SaaS",
+  "buyer": "hospitals, dialysis centers, patients",
+  "varden_fit": "low",
+  "url": "https://www.freseniusmedicalcare.com/",
+  "source": "web",
+  "discovery_round": 105,
+  "discovered_by": "sky"
+}

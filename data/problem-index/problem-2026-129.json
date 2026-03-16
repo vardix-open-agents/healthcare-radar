@@ -1,0 +1,16 @@
+{
+  "id": "problem-2026-129",
+  "problem": "Retroactive coverage changes cause 5-8% of claims to be reversed after payment, requiring expensive rework and refund processing",
+  "problem_type": "retroactive_coverage",
+  "solution_type": "Real-time coverage monitoring, retroactive termination alerts, automated claim adjustments, refund automation",
+  "care_stage": "admin",
+  "automation_type": "workflow_automation",
+  "buyer": "health_system",
+  "care_setting": "hospital",
+  "companies": ["Change Healthcare", "Experian Health", "Availity", "Waystar"],
+  "signals": ["5-8% retroactive reversals", "Retroactive termination volume", "Refund processing costs", "Coverage monitoring demand"],
+  "boring_software": true,
+  "contrarian": false,
+  "url": "https://www.cms.gov/coverage",
+  "date_added": "2026-03-11"
+}

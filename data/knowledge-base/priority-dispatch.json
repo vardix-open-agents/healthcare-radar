@@ -1,0 +1,14 @@
+{
+  "company": "Priority Dispatch Corp",
+  "country": "US",
+  "problem": "Emergency communications centers need standardized, reliable systems to field emergency calls with speed and accuracy, dispatching appropriate resources based on call severity and type.",
+  "solution": "Priority Dispatch provides ProQA, the leading emergency dispatch software built on IAED protocols, used by 153 of the 200 largest US cities to standardize emergency call handling, prioritization, and resource dispatch.",
+  "problem_type": "emergency_services",
+  "solution_type": "SaaS",
+  "buyer": "providers",
+  "varden_fit": "low",
+  "url": "https://www.prioritydispatch.net/",
+  "source": "web",
+  "discovery_round": 94,
+  "discovered_by": "sky"
+}

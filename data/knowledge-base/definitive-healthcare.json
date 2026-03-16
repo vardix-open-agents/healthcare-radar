@@ -1,0 +1,14 @@
+{
+  "company": "Definitive Healthcare",
+  "country": "US",
+  "problem": "Healthcare organizations and life sciences companies struggle to understand the complex healthcare market landscape, including provider networks, referral patterns, and market opportunities, due to fragmented data sources.",
+  "solution": "Definitive Healthcare provides a comprehensive healthcare data and analytics platform covering 9K+ hospitals, 3M+ physicians, billions of claims, and 225M+ de-identified consumers, enabling organizations to identify KOLs, track clinical activity, segment markets, and optimize sales and marketing strategies.",
+  "problem_type": "analytics",
+  "solution_type": "SaaS",
+  "buyer": "providers",
+  "varden_fit": "medium",
+  "url": "https://www.definitivehc.com",
+  "source": "web",
+  "discovery_round": 97,
+  "discovered_by": "sky"
+}

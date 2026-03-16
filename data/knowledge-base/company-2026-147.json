@@ -1,0 +1,27 @@
+{
+  "company": "SpeakTX (Estonia)",
+  "country": "Estonia",
+  "founded_year": null,
+  "category": "Digital Therapeutics",
+  "subsector": "Speech Therapy Platform",
+  "description": "Estonian online speech therapy platform providing interactive exercises for speech and language impediments. Created by experienced speech therapists, helps patients overcome speech challenges from home while saving time and costs for therapists.",
+  "business_model": "B2B - Platform to speech therapists and healthcare providers",
+  "target_market": "Speech therapists, patients with speech impediments",
+  "funding_stage": null,
+  "funding_amount_eur": null,
+  "key_investors": null,
+  "employees": null,
+  "customers": null,
+  "revenue_eur": null,
+  "tech_stack": ["Interactive exercise platform", "Online therapy delivery", "Progress tracking"],
+  "integration_points": ["Healthcare provider systems", "Therapist workflows"],
+  "competitive_advantage": "Wide range of exercises, suitable for both children and adults, therapist-created content",
+  "varden_fit": {
+    "threat_level": "low",
+    "opportunity": "monitor",
+    "rationale": "Specialized therapeutic platform - potential integration point for occupational health referrals"
+  },
+  "data_quality": "low",
+  "sources": ["healthtechnordic.com"],
+  "last_updated": "2026-03-11"
+}

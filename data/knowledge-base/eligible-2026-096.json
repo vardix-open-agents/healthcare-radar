@@ -1,0 +1,32 @@
+{
+  "id": "eligible-2026-096",
+  "title": "Eligible - Healthcare Eligibility and Claims API",
+  "company": "Eligible",
+  "country": "US",
+  "region": "US",
+  "segment": "admin",
+  "problem": "Healthcare providers and digital health companies need simple APIs for insurance eligibility verification and claims processing.",
+  "solution": "API platform for healthcare transactions. Real-time eligibility verification, claims submission, payment estimation, and more. Developer-first approach to healthcare data.",
+  "technology": "REST APIs, X12 270/271, claims APIs",
+  "target_customer": "Digital health companies, healthcare providers",
+  "care_setting": "all",
+  "care_domain": "general",
+  "care_stage": "admin",
+  "automation_level": "full",
+  "ai_type": null,
+  "traction_signals": [
+    "API-first eligibility platform",
+    "Developer-friendly documentation",
+    "Y Combinator alum"
+  ],
+  "funding": "Venture backed",
+  "regulatory_notes": "HIPAA compliant",
+  "varden_fit": "HIGH — Eligible's API-first model proves developers want healthcare transaction APIs. European digital health needs equivalent.",
+  "source": "Industry knowledge",
+  "url": "https://www.eligible.com",
+  "date_added": "2026-03-11",
+  "problem_type": "eligibility",
+  "contrarian": true,
+  "boring_software": true,
+  "notes": "CONTRARIAN: API-first eligibility is the modern approach. European digital health platforms lack reliable eligibility APIs."
+}

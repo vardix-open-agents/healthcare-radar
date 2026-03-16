@@ -1,0 +1,22 @@
+{
+  "company_name": "FirstWatch",
+  "problem_solved": "EMS and public safety agencies lack real-time visibility into operational data, making it difficult to monitor performance, detect emerging threats, and improve situational awareness across CAD, ePCR, and hospital systems",
+  "solution_description": "Real-time data analytics and monitoring platform that aggregates CAD, ePCR, ProQA, RMS, and hospital ED data into unified dashboards with automated alerts, early event detection for epidemics/bioterrorism, and performance analytics for 911, EMS, Fire, and Law Enforcement",
+  "buyer_persona": "ems_agencies",
+  "care_stage": "triage",
+  "automation_level": "assistive",
+  "varden_fit": "high",
+  "region": "US",
+  "country": "United States",
+  "funding_stage": "private",
+  "traction_signals": [
+    "500+ agencies across North America",
+    "401 licensed sites monitoring 194M+ population",
+    "25+ years in operation",
+    "655M+ public safety records scanned"
+  ],
+  "notes": "Deep integration with existing EMS systems. Real-time dashboards for hospital status, demand analysis, and resource planning. Strong fit for EMS system performance monitoring and early warning detection.",
+  "discovery_round": 52,
+  "discovered_by": "sky",
+  "timestamp": "2026-03-11T23:20:00Z"
+}

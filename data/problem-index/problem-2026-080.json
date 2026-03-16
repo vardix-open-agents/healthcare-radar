@@ -1,0 +1,16 @@
+{
+  "id": "problem-2026-080",
+  "problem": "Workers' compensation claims require manual verification of coverage and treatment authorization, delaying care 5-10 days",
+  "problem_type": "eligibility_verification",
+  "solution_type": "Workers' comp verification APIs, automated first report of injury, integrated claims management",
+  "care_stage": "intake",
+  "automation_type": "workflow_automation",
+  "buyer": "practice",
+  "care_setting": "occupational_health",
+  "companies": ["Conduent", "Sedgwick", "Genex Services", "OneCall Medical", "Concentra"],
+  "signals": ["Workplace injury rates", "Workers' comp medical cost containment", "Employer TPA consolidation"],
+  "boring_software": true,
+  "contrarian": false,
+  "url": "https://www.bls.gov/iif",
+  "date_added": "2026-03-11"
+}

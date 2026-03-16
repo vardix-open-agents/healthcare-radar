@@ -1,0 +1,33 @@
+{
+  "id": "latam-home-care-platform-2026-219",
+  "title": "LATAM Home Healthcare Market Gap",
+  "company": null,
+  "country": "Brazil/Mexico/Colombia/Regional",
+  "region": "LATAM",
+  "segment": "treatment",
+  "problem": "Home healthcare in LATAM is unorganized and fragmented. Families struggle to find qualified nurses for home care. No platform to verify credentials, schedule visits, or coordinate care. Elderly population growing rapidly (10%+ over 65 in major markets). Post-hospital recovery at home is chaotic and unsupported.",
+  "solution": "Platform for home healthcare services. Vetted network of nurses and caregivers. Mobile app for scheduling visits, tracking care, and communication. EMR integration for post-discharge care. Real-time location tracking and visit verification. Family portal for transparency.",
+  "technology": "Mobile app (iOS/Android), caregiver matching algorithm, GPS tracking, video check-ins, family portal, EMR integration",
+  "target_customer": "Families of elderly patients, post-surgical patients, chronic disease patients, health insurers",
+  "care_setting": "home",
+  "care_domain": "general",
+  "care_stage": "treatment",
+  "automation_level": "partial",
+  "ai_type": "Matching algorithm for caregiver-patient fit",
+  "traction_signals": [
+    "Aging population trend (50M+ elderly in LATAM)",
+    "Post-COVID home care preference",
+    "US/Europe home care platforms thriving (Honor, Home Instead)",
+    "Insurers looking to reduce hospital stays"
+  ],
+  "funding": null,
+  "regulatory_notes": "Nurse licensing verification, labor law compliance, medical malpractice considerations",
+  "varden_fit": "MEDIUM FIT - Operational complexity (managing workforce) but strong infrastructure component. Platform/software layer fits Varden. Could partner with existing home care agencies.",
+  "source": "Opportunity analysis + market gap identification",
+  "url": null,
+  "date_added": "2026-03-11",
+  "problem_type": "access",
+  "contrarian": false,
+  "boring_software": false,
+  "notes": "Home care is operationally complex but huge market. Honor (US) proved Uber-for-home-care model works. LATAM has no dominant player."
+}

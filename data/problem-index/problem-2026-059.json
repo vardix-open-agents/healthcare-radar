@@ -1,0 +1,16 @@
+{
+  "id": "problem-2026-059",
+  "problem": "Hospital ICU patient data fragmented across 15+ monitoring devices without unified dashboard",
+  "problem_type": "data_integration",
+  "solution_type": "Medical device integration platforms, unified clinical dashboards, real-time data aggregation",
+  "care_stage": "monitoring",
+  "automation_type": "full_automation",
+  "buyer": "hospital",
+  "care_setting": "emergency",
+  "companies": ["Philips Telligence", "GE Healthcare", "Capsule Technologies", "Bernoulli"],
+  "signals": ["ICU nurse burnout", "Delayed clinical decisions", "Device interoperability standards"],
+  "boring_software": true,
+  "contrarian": false,
+  "url": "https://www.philips.com",
+  "date_added": "2026-03-11"
+}

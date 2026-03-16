@@ -1,0 +1,14 @@
+{
+  "company": "Florence Healthcare",
+  "country": "US",
+  "problem": "Clinical research sites struggle with paper-based workflows, fragmented document management, and inefficient site-sponsor collaboration that delays trial startup and creates compliance risks.",
+  "solution": "Site Enablement Platform with eBinders (electronic investigator site files), eConsent, eNcounter enrollment automation, SiteLink document exchange, and eTMF for sponsors. Enables remote monitoring and digitized workflows across 65,000+ study sites.",
+  "problem_type": "clinical_trials",
+  "solution_type": "SaaS",
+  "buyer": "research_orgs",
+  "varden_fit": "low",
+  "url": "https://www.florencehc.com/",
+  "source": "web",
+  "discovery_round": 103,
+  "discovered_by": "sky"
+}

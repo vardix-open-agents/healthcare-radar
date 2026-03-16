@@ -1,0 +1,14 @@
+{
+  "company": "PK Software",
+  "country": "US",
+  "problem": "Independent retail pharmacies need straightforward pharmacy management software for prescription processing, inventory control, and patient record management",
+  "solution": "PK Software provides pharmacy management systems for independent retail pharmacies with prescription processing, patient profiles, inventory management, and insurance billing capabilities",
+  "problem_type": "retail_pharmacy",
+  "solution_type": "SaaS",
+  "buyer": "pharmacies",
+  "varden_fit": "low",
+  "url": "https://www.pkrx.com",
+  "source": "web",
+  "discovery_round": 128,
+  "discovered_by": "sky"
+}

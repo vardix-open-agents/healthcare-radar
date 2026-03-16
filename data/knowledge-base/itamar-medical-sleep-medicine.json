@@ -1,0 +1,14 @@
+{
+  "company": "Itamar Medical",
+  "country": "IL",
+  "problem": "Traditional sleep studies require overnight lab visits, creating access barriers and limiting screening capacity for sleep clinics",
+  "solution": "Home sleep testing platform (WatchPAT) enabling clinics to diagnose sleep apnea remotely with minimal patient burden and streamlined clinic workflow integration",
+  "problem_type": "sleep_medicine",
+  "solution_type": "SaaS",
+  "buyer": "clinics",
+  "varden_fit": "high",
+  "url": "https://www.itamar-medical.com",
+  "source": "web",
+  "discovery_round": 104,
+  "discovered_by": "nova"
+}

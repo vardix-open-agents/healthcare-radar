@@ -1,0 +1,14 @@
+{
+  "company": "CareCredit",
+  "country": "US",
+  "problem": "Patients cannot afford upfront healthcare costs and providers face delayed payments and bad debt from patients who delay or skip care due to cost",
+  "solution": "Health and wellness credit card with promotional financing options (0% interest for purchases $200+) accepted at 285,000+ healthcare locations, enabling patients to pay over time while providers get paid upfront",
+  "problem_type": "patient_payments",
+  "solution_type": "financing",
+  "buyer": "providers",
+  "varden_fit": "high",
+  "url": "https://www.carecredit.com",
+  "source": "web",
+  "discovery_round": 99,
+  "discovered_by": "sky"
+}

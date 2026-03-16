@@ -1,0 +1,33 @@
+{
+  "id": "latam-prescription-digitization-2026-221",
+  "title": "LATAM Prescription Digitization Gap",
+  "company": null,
+  "country": "Brazil/Mexico/Colombia/Regional",
+  "region": "LATAM",
+  "segment": "admin",
+  "problem": "Most prescriptions in LATAM are still paper-based. Patients lose prescriptions, pharmacists can't verify authenticity, no tracking of controlled substances. Fraudulent prescriptions common. No integration between prescribing doctors and pharmacies. COVID-19 accelerated digital prescriptions but adoption remains low (<20%).",
+  "solution": "Digital prescription platform with electronic signing. Doctor prescribes via web/mobile app, patient receives SMS/WhatsApp link, presents at any pharmacy. Pharmacy verifies prescription digitally, dispenses medication, marks as fulfilled. Controlled substance tracking. Integration with national pharmacy networks.",
+  "technology": "Digital signature/certificates, QR code generation, pharmacy POS integration, controlled substance database, mobile app",
+  "target_customer": "Physicians, pharmacies, hospital systems, Ministry of Health (controlled substance monitoring)",
+  "care_setting": "all",
+  "care_domain": "general",
+  "care_stage": "treatment",
+  "automation_level": "full",
+  "ai_type": null,
+  "traction_signals": [
+    "COVID-19 forced regulatory changes allowing digital prescriptions",
+    "Pharmacy chains investing in digitization",
+    "Drug abuse/controlled substance concerns",
+    "Proven models in Estonia, Sweden, Brazil pilots"
+  ],
+  "funding": null,
+  "regulatory_notes": "Digital signature regulations, pharmacy licensing, controlled substance laws vary by country",
+  "varden_fit": "HIGH FIT - Infrastructure middleware for prescriptions. Boring but essential. Government contracts possible for controlled substance tracking. Platform play connecting doctors + pharmacies.",
+  "source": "Opportunity analysis + market gap identification",
+  "url": null,
+  "date_added": "2026-03-11",
+  "problem_type": "prescription",
+  "contrarian": false,
+  "boring_software": true,
+  "notes": "BOREALING: Electronic prescriptions are solved infrastructure in Europe. LATAM is 10 years behind. Boring middleware but massive scale (every patient visit)."
+}

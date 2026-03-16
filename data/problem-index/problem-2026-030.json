@@ -1,0 +1,16 @@
+{
+  "id": "problem-2026-030",
+  "problem": "Thai hospitals cannot verify insurance coverage for medical tourists, causing billing disputes",
+  "problem_type": "eligibility",
+  "solution_type": "International insurance verification APIs, pre-authorization platforms, billing transparency",
+  "care_stage": "admin",
+  "automation_type": "workflow_automation",
+  "buyer": "hospital",
+  "care_setting": "specialty",
+  "companies": ["Bangkok Hospital", "Bumrungrad", "Medical tourism platforms"],
+  "signals": ["Thailand medical tourism market", "International patient growth", "Insurance complexity"],
+  "boring_software": false,
+  "contrarian": false,
+  "url": "https://www.bumrungrad.com",
+  "date_added": "2026-03-11"
+}

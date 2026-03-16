@@ -1,0 +1,86 @@
+[
+  {
+    "company_name": "Vitrolife",
+    "hq_location": "Gothenburg, Sweden",
+    "website_url": "https://www.vitrolife.com",
+    "problem_solved": "Vitrolife provides medical devices and genetic testing services for IVF clinics, helping them achieve successful treatment outcomes for patients undergoing assisted reproduction. Their products cover the entire IVF workflow from egg retrieval to embryo transfer.",
+    "who_buys_it": "IVF clinics, fertility centers, reproductive health specialists",
+    "key_features": [
+      "IVF culture media and labware for embryo development",
+      "Genetic testing services (via Igenomix acquisition) for embryo screening",
+      "Time-lapse embryo monitoring technology"
+    ],
+    "business_model": "B2B product sales (medical devices) and services (genetic testing)",
+    "why_varden_should_care": "High replicability potential - Vitrolife's model of providing end-to-end solutions for IVF clinics can be replicated in other healthcare verticals. Their acquisition strategy (Igenomix) shows how to build a comprehensive ecosystem. The IVF software/labware market has high barriers to entry and recurring revenue potential."
+  },
+  {
+    "company_name": "Cryos International",
+    "hq_location": "Aarhus, Denmark",
+    "website_url": "https://www.cryosinternational.com",
+    "problem_solved": "Cryos International operates a global sperm and egg bank, providing donor gametes to fertility clinics and individuals worldwide. They solve the problem of gamete availability for patients who need donor conception to build their families.",
+    "who_buys_it": "IVF clinics, fertility centers, individuals seeking donor conception",
+    "key_features": [
+      "Extensive donor database with detailed profiles and genetic screening",
+      "Global logistics network for cryopreserved gamete shipping",
+      "Quality assurance and regulatory compliance across multiple jurisdictions"
+    ],
+    "business_model": "B2B and B2C marketplace (gamete sales) with logistics services",
+    "why_varden_should_care": "Marketplace model with high replicability - the donor gamete market is underserved in many regions. Cryos demonstrates how to build trust and regulatory compliance in a sensitive healthcare vertical. The cryopreservation logistics infrastructure could be extended to other biological materials."
+  },
+  {
+    "company_name": "Coala Solutions",
+    "hq_location": "Stockholm, Sweden",
+    "website_url": "https://coalasolutions.com",
+    "problem_solved": "Coala Solutions provides a remote cardiac monitoring platform that enables healthcare providers to follow heart patients in everyday life. While not exclusively for women's health, it has been used in studies for pregnant women with palpitations and cardiac concerns.",
+    "who_buys_it": "Cardiologists, OB-GYNs, primary care physicians, healthcare systems (US RPM programs)",
+    "key_features": [
+      "Real-time cardiac diagnostics via wireless ECG monitoring",
+      "Coala Care portal for provider-patient communication and data interpretation",
+      "FDA-cleared and CE-marked for remote patient monitoring"
+    ],
+    "business_model": "B2B SaaS (device + platform subscription), reimbursed in US through RPM codes",
+    "why_varden_should_care": "Remote monitoring platform with cross-specialty applicability - the model of combining hardware with a provider portal and reimbursement pathway is highly replicable. Women's health applications (pregnancy cardiac monitoring) represent an underserved niche. US RPM reimbursement creates a clear revenue model."
+  },
+  {
+    "company_name": "Nordic IVF",
+    "hq_location": "Stockholm, Sweden",
+    "website_url": "https://nordicivf.se",
+    "problem_solved": "Nordic IVF is a fertility clinic chain (not a B2B software company). They provide IVF, insemination, egg freezing, and donor treatments. While primarily a clinical operation, they may represent potential customers for B2B fertility software solutions.",
+    "who_buys_it": "Individuals and couples seeking fertility treatment",
+    "key_features": [
+      "Full-service fertility clinic with multiple locations in Sweden",
+      "Remote treatment options for patients outside major cities",
+      "Psychological support services integrated with treatment"
+    ],
+    "business_model": "B2C clinical services (NOT a B2B software company - included for market context)",
+    "why_varden_should_care": "Represents the customer segment for B2B fertility software - Nordic IVF and similar clinic chains are potential customers for practice management, EMR, and lab management solutions. Understanding their needs and purchasing decisions can inform B2B product development in this space."
+  },
+  {
+    "company_name": "Stork Klinik",
+    "hq_location": "Copenhagen, Denmark",
+    "website_url": "https://storkklinik.dk",
+    "problem_solved": "Stork Klinik is a fertility clinic (not a B2B software company). They provide fertility treatments and focus on holistic approaches including hormonal health and lifestyle factors. Like Nordic IVF, they represent potential customers for B2B fertility software.",
+    "who_buys_it": "Individuals and couples seeking fertility treatment",
+    "key_features": [
+      "Holistic fertility approach including hormonal balance and lifestyle",
+      "Educational content and resources for fertility optimization",
+      "Fertility treatments including IVF and insemination"
+    ],
+    "business_model": "B2C clinical services (NOT a B2B software company - included for market context)",
+    "why_varden_should_care": "Represents the customer segment for B2B fertility software - Danish fertility clinics like Stork Klinik are potential customers for practice management, patient engagement, and clinical workflow solutions. The holistic approach suggests demand for integrated wellness-clinical software."
+  },
+  {
+    "company_name": "Igenomix (Vitrolife Group)",
+    "hq_location": "Valencia, Spain (with Nordic presence through Vitrolife acquisition)",
+    "website_url": "https://www.igenomix.com",
+    "problem_solved": "Igenomix provides reproductive genetic testing services for IVF clinics, including preconception, preimplantation (PGT), and prenatal genetic testing. Acquired by Vitrolife in 2021, they help clinics improve IVF success rates through genetic screening of embryos.",
+    "who_buys_it": "IVF clinics, fertility specialists, reproductive endocrinologists",
+    "key_features": [
+      "Preimplantation Genetic Testing (PGT) for embryo selection",
+      "Endometrial receptivity testing for timing embryo transfer",
+      "Carrier screening and preconception genetic testing"
+    ],
+    "business_model": "B2B diagnostic services (genetic testing laboratory)",
+    "why_varden_should_care": "Diagnostic services model with high replicability - Igenomix demonstrates how to build a specialized diagnostic service for a specific healthcare vertical. The integration with Vitrolife shows how to bundle services with products. Genetic testing in fertility is a growing market with recurring revenue potential."
+  }
+]

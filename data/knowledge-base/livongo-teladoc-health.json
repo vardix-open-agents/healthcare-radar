@@ -1,0 +1,14 @@
+{
+  "company": "Livongo (Teladoc Health)",
+  "country": "US",
+  "problem": "Managing chronic conditions like diabetes is fragmented and requires constant monitoring, with patients struggling to track blood glucose, diet, and medication adherence effectively.",
+  "solution": "Livongo provides a digital chronic condition management platform that combines connected devices (glucose meters, blood pressure monitors), personalized coaching, and AI-driven insights to help patients manage diabetes, hypertension, and weight. The platform offers real-time monitoring, health coaching, and data integration with healthcare providers.",
+  "problem_type": "endocrinology",
+  "solution_type": "SaaS",
+  "buyer": "clinics",
+  "varden_fit": "medium",
+  "url": "https://www.teladochealth.com/livongo",
+  "source": "web",
+  "discovery_round": 116,
+  "discovered_by": "nova"
+}

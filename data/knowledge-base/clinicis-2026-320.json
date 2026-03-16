@@ -1,0 +1,22 @@
+{
+  "id": "clinicis-2026-320",
+  "title": "CliniSys - European LIS Leader",
+  "company": "CliniSys",
+  "country": "UK",
+  "segment": "infrastructure",
+  "problem": "European labs lack modern, interoperable LIS; fragmentation across countries",
+  "solution": "GLIMS laboratory information system serving hospitals and reference labs across Europe",
+  "technology": "LIS software, interoperability standards, multi-language support",
+  "target_customer": "European hospital labs, national health systems",
+  "care_setting": "hospital",
+  "care_domain": "diagnostics",
+  "care_stage": "diagnosis",
+  "automation_level": "partial",
+  "ai_type": null,
+  "traction_signals": ["UK NHS market leader", "Deployed across EU", "Acquired multiple competitors"],
+  "funding": "Private (equity backed)",
+  "regulatory_notes": "ISO 15189 compliant, IVD Directive",
+  "source": "sky-round18-diagnostics",
+  "url": "https://www.clinisys.com",
+  "date_added": "2026-03-11"
+}

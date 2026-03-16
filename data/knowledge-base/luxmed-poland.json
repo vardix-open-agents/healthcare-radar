@@ -1,0 +1,14 @@
+{
+  "company": "LUX MED Group",
+  "country": "PL",
+  "problem": "Patients need easy access to book private healthcare appointments; clinics need patient management systems",
+  "solution": "Patient portal and mobile app for appointment booking, medical records access, and clinic management for Poland's largest private healthcare network",
+  "problem_type": "practice_management",
+  "solution_type": "SaaS",
+  "buyer": "clinics",
+  "varden_fit": "medium",
+  "url": "https://www.luxmed.pl",
+  "source": "web",
+  "discovery_round": 72,
+  "discovered_by": "sky"
+}

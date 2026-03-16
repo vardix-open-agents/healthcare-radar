@@ -1,0 +1,14 @@
+{
+  "company": "Hinge Health",
+  "country": "US",
+  "problem": "Chronic musculoskeletal (MSK) pain affects millions of people, leading to reduced mobility, opioid dependency, and costly surgeries. Traditional physical therapy is often inaccessible, expensive, and inconsistent.",
+  "solution": "Digital MSK platform combining guided exercise sessions with 3D motion tracking, dedicated care teams (physical therapists, health coaches, orthopedic specialists), personalized programs, and FDA-cleared Enso device for drug-free pain relief using patented waveforms.",
+  "problem_type": "pain_management",
+  "solution_type": "SaaS",
+  "buyer": "employers",
+  "varden_fit": "high",
+  "url": "https://www.hingehealth.com",
+  "source": "web",
+  "discovery_round": 135,
+  "discovered_by": "nova"
+}

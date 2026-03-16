@@ -1,0 +1,16 @@
+{
+  "id": "problem-2026-008",
+  "problem": "Primary care physicians spend 2+ hours daily on documentation, causing burnout and reducing patient time",
+  "problem_type": "documentation",
+  "solution_type": "AI medical scribes, voice-to-text, auto-generated clinical notes",
+  "care_stage": "treatment",
+  "automation_type": "ai_assisted",
+  "buyer": "clinic",
+  "care_setting": "primary_care",
+  "companies": ["Nuance DAX", "Abridge", "DeepScribe"],
+  "signals": ["Physician burnout crisis", "EHR inbox overload", "Ambient AI funding surge"],
+  "boring_software": false,
+  "contrarian": false,
+  "url": "https://www.nuance.com/healthcare/dragon-ambient-xperience.html",
+  "date_added": "2026-03-11"
+}

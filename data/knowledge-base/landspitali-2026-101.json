@@ -1,0 +1,32 @@
+{
+  "id": "landspitali-2026-101",
+  "title": "Netherlands Healthcare IT - DBC/DOT System",
+  "company": "Various Dutch Healthcare IT",
+  "country": "Netherlands",
+  "region": "EU",
+  "segment": "billing",
+  "problem": "Dutch healthcare has complex billing system (DBC/DOT) requiring specialized software for claims and reimbursement.",
+  "solution": "Healthcare IT platforms supporting DBC/DOT billing system. Integration with Dutch health insurers. Practice management and billing for Dutch healthcare market.",
+  "technology": "DBC/DOT billing, insurer integration, practice management",
+  "target_customer": "Dutch healthcare providers",
+  "care_setting": "all",
+  "care_domain": "general",
+  "care_stage": "admin",
+  "automation_level": "partial",
+  "ai_type": null,
+  "traction_signals": [
+    "DBC/DOT is mandatory billing system",
+    "Complex multi-payer environment",
+    "Sophisticated insurer systems"
+  ],
+  "funding": "Various",
+  "regulatory_notes": "Dutch healthcare regulations, GDPR",
+  "varden_fit": "HIGH — Dutch healthcare has sophisticated payer systems but lacks advanced eligibility verification. Opportunity for automation.",
+  "source": "Industry knowledge",
+  "url": "https://www.nictiz.nl",
+  "date_added": "2026-03-11",
+  "problem_type": "claims",
+  "contrarian": true,
+  "boring_software": true,
+  "notes": "CONTRARIAN: Dutch DBC/DOT billing is complex but established. Eligibility verification and prior auth automation are missing."
+}

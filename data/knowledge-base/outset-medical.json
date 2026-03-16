@@ -1,0 +1,14 @@
+{
+  "company": "Outset Medical",
+  "country": "US",
+  "problem": "Traditional dialysis machines are complex, require specialized water treatment infrastructure, and are difficult to use outside of dialysis centers, limiting patient access to home dialysis and burdening hospitals with high costs",
+  "solution": "Tablo Hemodialysis System - an all-in-one, simplified dialysis device that integrates water purification, dialysate production, and treatment in one platform. Features wireless data transfer, cloud-based monitoring, and is designed for both acute care settings and home hemodialysis with minimal training requirements",
+  "problem_type": "nephrology",
+  "solution_type": "device + SaaS",
+  "buyer": "hospitals, dialysis centers, patients",
+  "varden_fit": "medium",
+  "url": "https://www.outsetmedical.com/",
+  "source": "web",
+  "discovery_round": 105,
+  "discovered_by": "sky"
+}

@@ -1,0 +1,14 @@
+{
+  "company": "HELIX Ophthalmology",
+  "country": "US",
+  "problem": "Ophthalmology practices need modern cloud-based solutions for patient management, clinical documentation, and practice operations",
+  "solution": "Cloud-based ophthalmology EHR and practice management platform with integrated patient portal, optical inventory management, and claims processing",
+  "problem_type": "optometry",
+  "solution_type": "SaaS",
+  "buyer": "clinics",
+  "varden_fit": "medium",
+  "url": "https://www.helixsolution.com",
+  "source": "web",
+  "discovery_round": 110,
+  "discovered_by": "nova"
+}

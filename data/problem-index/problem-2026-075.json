@@ -1,0 +1,16 @@
+{
+  "id": "problem-2026-075",
+  "problem": "Physician schedules are managed across 3-5 disconnected systems (EHR, practice management, call schedules), creating conflicts and double-bookings",
+  "problem_type": "staffing_workforce",
+  "solution_type": "Unified physician scheduling platforms, EHR-integrated scheduling, intelligent conflict detection",
+  "care_stage": "administration",
+  "automation_type": "workflow_automation",
+  "buyer": "health_system",
+  "care_setting": "mixed",
+  "companies": ["Lightning Bolt", "QGenda", "ScheduleAnywhere", "OnCall Scheduling", "LocumSmart"],
+  "signals": ["Physician burnout crisis", "Multi-site practice consolidation", "Complex on-call requirements"],
+  "boring_software": true,
+  "contrarian": false,
+  "url": "https://www.ama-assn.org/practice-management/physician-health",
+  "date_added": "2026-03-11"
+}

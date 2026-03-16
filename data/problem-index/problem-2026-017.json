@@ -1,0 +1,16 @@
+{
+  "id": "problem-2026-017",
+  "problem": "Spanish primary care physicians manage 40+ patients daily with 10-minute slots, leaving no time for follow-up",
+  "problem_type": "scheduling",
+  "solution_type": "AI triage to extend visit duration, group visits, asynchronous care pathways",
+  "care_stage": "treatment",
+  "automation_type": "ai_assisted",
+  "buyer": "health_system",
+  "care_setting": "primary_care",
+  "companies": ["CareSalud", "Doctoralia", "TopDoctors"],
+  "signals": ["Spanish primary care overload", "Sacyr privatization trends", "Telehealth adoption"],
+  "boring_software": false,
+  "contrarian": true,
+  "url": "https://www.doctoralia.es",
+  "date_added": "2026-03-11"
+}

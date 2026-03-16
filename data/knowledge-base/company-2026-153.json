@@ -1,0 +1,28 @@
+{
+  "company": "1upHealth (USA)",
+  "country": "United States",
+  "founded_year": 2017,
+  "category": "Healthcare Infrastructure",
+  "subsector": "FHIR Data Platform",
+  "description": "FHIR-native healthcare data platform enabling health systems and payers to aggregate, transform, and exchange clinical data. Provides FHIR server, data lake, and analytics capabilities. Early TEFCA participant.",
+  "business_model": "B2B - FHIR platform to health systems and payers",
+  "target_market": "Health systems, health plans, life sciences companies",
+  "funding_stage": "Series B",
+  "funding_amount_usd": 45000000,
+  "key_investors": "A16z, Jackson Square Ventures",
+  "employees": "80+",
+  "customers": "50+ healthcare organizations",
+  "revenue_usd": null,
+  "tech_stack": ["FHIR server", "Data lake", "Analytics", "TEFCA connectivity", "Bulk FHIR"],
+  "integration_points": ["EHRs", "Payer systems", "HIEs", "Research networks"],
+  "competitive_advantage": "FHIR-native architecture, TEFCA-qualified, strong analytics",
+  "boring_software": true,
+  "varden_fit": {
+    "threat_level": "low",
+    "opportunity": "benchmark",
+    "rationale": "FHIR infrastructure leader - validates FHIR-first approach"
+  },
+  "data_quality": "high",
+  "sources": ["1up.health", "crunchbase.com"],
+  "last_updated": "2026-03-11"
+}

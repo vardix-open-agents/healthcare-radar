@@ -1,0 +1,16 @@
+{
+  "id": "problem-2026-018",
+  "problem": "Italian hospitals cannot share patient data across regions, causing duplicate diagnostics",
+  "problem_type": "coordination",
+  "solution_type": "National health data exchange, regional interoperability platforms, patient-controlled records",
+  "care_stage": "diagnosis",
+  "automation_type": "workflow_automation",
+  "buyer": "health_system",
+  "care_setting": "hospital",
+  "companies": ["FSE (Fascicolo Sanitario Elettronico)", "Dedalus", "NoemaLife"],
+  "signals": ["Italian digital health strategy", "Regional fragmentation costs", "EU health data space"],
+  "boring_software": true,
+  "contrarian": false,
+  "url": "https://www.dedalus.eu",
+  "date_added": "2026-03-11"
+}

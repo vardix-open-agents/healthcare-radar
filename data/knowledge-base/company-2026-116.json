@@ -1,0 +1,27 @@
+{
+  "company": "Fondazione Sanità Digitale (Italy)",
+  "country": "Italy",
+  "founded_year": 2016,
+  "category": "Digital Health Infrastructure",
+  "subsector": "Public Sector Health IT",
+  "description": "Italian foundation promoting digital health innovation and supporting public healthcare digitization. Works with NHS Italy (SSN) on e-prescription, EHR, and telemedicine infrastructure projects.",
+  "business_model": "Non-profit - Public-private partnerships with Italian healthcare system",
+  "target_market": "Italian regional healthcare systems (ASL), hospitals, public health",
+  "funding_stage": "Non-profit",
+  "funding_amount_eur": null,
+  "key_investors": "Italian Ministry of Health, private healthcare partners",
+  "employees": 50,
+  "customers": "Multiple Italian regions",
+  "revenue_eur": 5000000,
+  "tech_stack": ["FHIR-based platforms", "EHR systems", "Telemedicine infrastructure", "E-prescription"],
+  "integration_points": ["Italian SSN", "Regional health systems", "Hospital EHRs"],
+  "competitive_advantage": "Government backing, standardization role, public sector access",
+  "varden_fit": {
+    "threat_level": "low",
+    "opportunity": "partner",
+    "rationale": "Infrastructure player in Italian public health - potential partner for public sector contracts"
+  },
+  "data_quality": "low",
+  "sources": ["sanitadigitale.org", "linkedin.com"],
+  "last_updated": "2026-03-11"
+}

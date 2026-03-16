@@ -1,0 +1,14 @@
+{
+  "company": "Okadoc",
+  "country": "AE",
+  "problem": "Patients struggle to find and book appointments with doctors, waiting times in clinics are long, and there is no unified platform for video consultations in the Middle East",
+  "solution": "Online doctor booking and video consultation platform that allows patients to search for doctors, book appointments, and conduct telemedicine visits, serving UAE and expanding to Saudi Arabia",
+  "problem_type": "booking",
+  "solution_type": "SaaS",
+  "buyer": "clinics",
+  "varden_fit": "medium",
+  "url": "https://www.okadoc.com",
+  "source": "web",
+  "discovery_round": 77,
+  "discovered_by": "sky"
+}

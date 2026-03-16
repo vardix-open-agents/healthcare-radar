@@ -1,0 +1,14 @@
+{
+  "company": "That Clean Life",
+  "country": "CA",
+  "problem": "Health professionals spend excessive time creating personalized meal plans and nutrition guidance for clients, with limited tools for customization and professional presentation",
+  "solution": "Nutrition planning software for health professionals with 8000+ tested recipes, powerful filtering, automated meal plan generation based on calories/macros/diet type, customizable templates, branded PDF exports, and seamless Practice Better integration",
+  "problem_type": "nutrition",
+  "solution_type": "SaaS",
+  "buyer": "clinics",
+  "varden_fit": "medium",
+  "url": "https://thatcleanlife.com/",
+  "source": "web",
+  "discovery_round": 140,
+  "discovered_by": "sky"
+}

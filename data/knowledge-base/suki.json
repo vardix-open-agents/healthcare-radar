@@ -1,0 +1,14 @@
+{
+  "company": "Suki",
+  "country": "US",
+  "problem": "Healthcare providers face excessive administrative burden from documentation tasks, leading to burnout, reduced patient engagement, and lost revenue opportunities",
+  "solution": "Ambient clinical intelligence platform with AI voice assistant that works across 100+ specialties and all major EHRs, reducing documentation time, decreasing burnout, and increasing incremental monthly revenue per user",
+  "problem_type": "medical_coding",
+  "solution_type": "SaaS",
+  "buyer": "providers",
+  "varden_fit": "high",
+  "url": "https://suki.ai",
+  "source": "web",
+  "discovery_round": 84,
+  "discovered_by": "sky"
+}

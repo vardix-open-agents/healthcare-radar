@@ -1,0 +1,86 @@
+[
+  {
+    "company_name": "Birdie",
+    "hq_location": "London, UK",
+    "website_url": "https://birdie.care",
+    "problem_solved": "Homecare agencies juggle multiple disconnected systems for care planning, rostering, and finance. Birdie provides a unified platform that eliminates duplicate data entry, reduces errors, and enables data-driven care decisions.",
+    "who_buys": "Homecare agencies, domiciliary care providers, home care businesses",
+    "key_features": [
+      "Unified care management platform with care plans, eMAR, and visit notes in single client profiles",
+      "Seamless rostering with automatic schedule generation and travel time optimization",
+      "Real-time dashboards and predictive CQC benchmarking (Q-Score)"
+    ],
+    "business_model": "SaaS subscription",
+    "why_varden_should_care": "High replicability - unified homecare platform model can be adapted to other markets. Strong focus on regulatory compliance (CQC) and care outcomes measurement. Platform approach (care, rostering, finance, compliance) is scalable."
+  },
+  {
+    "company_name": "everyLIFE Technologies (PASS)",
+    "hq_location": "London, UK",
+    "website_url": "https://www.everylifetechnologies.com",
+    "problem_solved": "Home care providers struggle with scattered care records, inefficient scheduling, and compliance documentation. PASS brings care planning, scheduling, eMAR, audits, and finance into one joined-up platform.",
+    "who_buys": "Home care agencies, domiciliary care providers, supported living providers",
+    "key_features": [
+      "Digital care planning with 120+ templates and AI-powered risk detection (PASSgenius)",
+      "Integrated rostering with drag-and-drop rotas and real-time visit tracking",
+      "NHS-assured and ISO 27001 certified with full DSCR compliance"
+    ],
+    "business_model": "SaaS subscription",
+    "why_varden_should_care": "NHS-assured platform with AI features for care note analysis. Proven to help 37% more providers achieve outstanding CQC ratings. Strong regulatory alignment makes it replicable in regulated markets."
+  },
+  {
+    "company_name": "The Access Group (CM/CM2000)",
+    "hq_location": "St. Neots, UK",
+    "website_url": "https://www.theaccessgroup.com/en-gb/products/cm/",
+    "problem_solved": "Local authorities and care providers need visibility and control over domiciliary care delivery. CM provides real-time monitoring, scheduling optimization, and contract management for both in-house and third-party care services.",
+    "who_buys": "Local authorities, councils, care providers, NHS trusts, community health services",
+    "key_features": [
+      "MaxCare optimization engine using custom algorithms for efficient rostering and route planning",
+      "Real-time mobile monitoring (CM mobile) with visit tracking and lone worker safety",
+      "Integrated invoicing, payroll, and business intelligence reporting"
+    ],
+    "business_model": "SaaS/Enterprise license",
+    "why_varden_should_care": "Strong focus on local authority market - addresses both provider and commissioner needs. Proven efficiency savings (£413k in year one at Pembrokeshire Council). MaxCare optimization algorithms are differentiated and replicable."
+  },
+  {
+    "company_name": "Log my Care",
+    "hq_location": "London, UK",
+    "website_url": "https://www.logmycare.co.uk",
+    "problem_solved": "Care providers face inefficient legacy software that's difficult to use and creates administrative burden. Log my Care provides intuitive, modern care management software that reduces training time and improves compliance.",
+    "who_buys": "Domiciliary care agencies, supported living providers, nursing homes",
+    "key_features": [
+      "Intuitive care recording app with offline mode and real-time updates",
+      "Integrated rostering add-on with skill-based matching and shift optimization",
+      "PBS (Positive Behaviour Support) planning with linked behavioral tracking"
+    ],
+    "business_model": "Freemium SaaS (Starter free, Pro/Outstanding paid)",
+    "why_varden_should_care": "Freemium model enables rapid market penetration. Strong UX focus reduces training costs. PBS features address specialized care needs. Platform can be replicated with local regulatory adaptations."
+  },
+  {
+    "company_name": "OneAdvanced (Care Business Management)",
+    "hq_location": "London, UK",
+    "website_url": "https://www.oneadvanced.com/products/care-business-management/",
+    "problem_solved": "Larger care organizations managing multiple locations and care types need unified visibility and control. Care Business Management balances high-quality care delivery with financial health across complex organizations.",
+    "who_buys": "Large care providers, independent care groups, local authorities, housing associations",
+    "key_features": [
+      "Unified management for residential, domiciliary, supported living, and complex care",
+      "Integrated rostering, payroll, and invoicing across multiple locations",
+      "Scalable architecture supporting mergers, acquisitions, and organic growth"
+    ],
+    "business_model": "Enterprise SaaS/license",
+    "why_varden_should_care": "Enterprise-grade solution for multi-site providers. Strong focus on financial health alongside care quality. Scalability features support M&A activity - common in care markets globally."
+  },
+  {
+    "company_name": "QCS / Carebeans",
+    "hq_location": "Monmouth, Wales, UK",
+    "website_url": "https://www.carebeans.co.uk",
+    "problem_solved": "Care providers need compliant, easy-to-use care planning and rostering software. Carebeans offers NHS-assured digital care records with integrated compliance, training, and policy management through QCS partnership.",
+    "who_buys": "Domiciliary care agencies, care homes, supported living providers",
+    "key_features": [
+      "NHS-assured digital care records with PRSB partnership",
+      "Integrated care planning, rostering, and domiciliary care in one solution",
+      "24/7 support with real-time status updates and care timeline tracking"
+    ],
+    "business_model": "SaaS subscription",
+    "why_varden_should_care": "NHS-assured with PRSB standards compliance. Now integrated with QCS for policies, audits, and training - creating comprehensive compliance ecosystem. All-in-one approach reduces integration complexity."
+  }
+]

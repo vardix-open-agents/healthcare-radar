@@ -1,0 +1,16 @@
+{
+  "id": "problem-2026-050",
+  "problem": "Turkish patients cannot compare hospital quality, leading to poor care choices",
+  "problem_type": "navigation",
+  "solution_type": "Hospital quality dashboards, outcome transparency, patient review platforms",
+  "care_stage": "intake",
+  "automation_type": "manual_augmentation",
+  "buyer": "patient",
+  "care_setting": "hospital",
+  "companies": ["Sağlık Bakanlığı quality reports", "Private review platforms", "Hospital associations"],
+  "signals": ["Turkey healthcare quality focus", "SGK transparency requirements", "Medical tourism competition"],
+  "boring_software": true,
+  "contrarian": false,
+  "url": "https://www.saglik.gov.tr",
+  "date_added": "2026-03-11"
+}

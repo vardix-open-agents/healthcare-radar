@@ -1,0 +1,27 @@
+{
+  "company": "DrDoctor (NHS Platform)",
+  "country": "United Kingdom",
+  "founded_year": 2012,
+  "category": "Practice Communication",
+  "subsector": "Patient Engagement & Booking",
+  "description": "UK startup providing patient engagement and appointment booking platform for NHS trusts. Handles millions of NHS appointments through digital channels including SMS, email, and app-based booking.",
+  "business_model": "B2B - SaaS to NHS trusts and healthcare providers",
+  "target_market": "NHS trusts, GP practices, UK healthcare providers",
+  "funding_stage": "Series B",
+  "funding_amount_gbp": 10000000,
+  "key_investors": "Notion Capital, BGF",
+  "employees": 80,
+  "customers": "50+ NHS trusts",
+  "revenue_gbp": 8000000,
+  "tech_stack": ["Web platform", "SMS gateway", "Patient app", "NHS integrations"],
+  "integration_points": ["NHS EPR systems", "GP systems", "NHS Spine", "Patient portals"],
+  "competitive_advantage": "Deep NHS relationships, proven at scale, digital-first patient engagement",
+  "varden_fit": {
+    "threat_level": "low",
+    "opportunity": "partner",
+    "rationale": "NHS infrastructure player - could be partner for occupational health integration into NHS"
+  },
+  "data_quality": "medium",
+  "sources": ["drdoctor.com", "linkedin.com"],
+  "last_updated": "2026-03-11"
+}

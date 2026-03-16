@@ -1,0 +1,168 @@
+{
+  "round": 181,
+  "wave": 24,
+  "focus": "Medical Transport (EU)",
+  "date": "2026-03-14",
+  "companies": [
+    {
+      "company_name": "Falck",
+      "hq_location": "Copenhagen, Denmark",
+      "website_url": "https://www.falck.com",
+      "problem_solved": "Provides emergency ambulance services, patient transport, and healthcare solutions across Europe. Addresses the critical need for reliable emergency response and non-emergency medical transportation.",
+      "who_buys_it": "Public healthcare systems (NHS equivalents), regional governments, municipalities, private healthcare providers, insurance companies",
+      "key_features": [
+        "Emergency ambulance services (112/911 response)",
+        "Non-emergency patient transport",
+        "Medical dispatch and coordination",
+        "Healthcare staffing and training",
+        "Occupational health services",
+        "Crisis support and rehabilitation",
+        "24/7 operations with GPS tracking"
+      ],
+      "business_model": "B2G/B2B - Primarily government contracts (regional/national ambulance services), B2B contracts with private healthcare facilities. Contract-based revenue model with long-term service agreements (5-10 years). Operates in 25+ countries with 25,000+ employees.",
+      "why_varden_should_care": "Largest private ambulance operator in Europe with established government contracts. Strong recurring revenue through long-term service agreements. Expanding into digital health and telemedicine. Potential acquisition target as healthcare systems consolidate."
+    },
+    {
+      "company_name": "Mediq",
+      "hq_location": "Utrecht, Netherlands",
+      "website_url": "https://mediq.com",
+      "problem_solved": "Delivers medical supplies, pharmaceuticals, and healthcare products directly to patients' homes and healthcare facilities. Solves logistics challenges for chronic disease management and home healthcare.",
+      "who_buys_it": "Hospitals, care institutions, pharmacies, general practitioners, patients with chronic conditions (direct-to-patient model), healthcare systems",
+      "key_features": [
+        "Direct-to-patient medical supply delivery",
+        "Pharmaceutical distribution (wholesale)",
+        "Medical device and equipment delivery",
+        "Home healthcare logistics",
+        "Digital ordering portals (B2B and B2C)",
+        "Cold chain logistics for pharmaceuticals",
+        "Operating in 14 European countries"
+      ],
+      "business_model": "B2B/B2C hybrid - Wholesale distribution to healthcare facilities (B2B) + direct-to-patient delivery services (B2C). Revenue from product sales margins and distribution fees. E-commerce and subscription models for chronic care patients.",
+      "why_varden_should_care": "Leading European healthcare logistics provider with established infrastructure in 14 countries. Strong position in growing home healthcare market. Digital-first approach with e-commerce platforms. Aging population driving demand for chronic care delivery."
+    },
+    {
+      "company_name": "Bring (Healthcare Logistics)",
+      "hq_location": "Oslo, Norway",
+      "website_url": "https://www.bring.com",
+      "problem_solved": "Provides specialized logistics for healthcare and pharmaceutical sectors in Nordic countries. Ensures temperature-controlled delivery and time-sensitive medical shipments.",
+      "who_buys_it": "Pharmaceutical companies, hospitals, laboratories, medical device manufacturers, pharmacies, healthcare providers",
+      "key_features": [
+        "Temperature-controlled pharmaceutical delivery",
+        "Medical specimen transport (laboratory samples)",
+        "Time-critical medical deliveries",
+        "Nordic-wide coverage (Norway, Sweden, Denmark, Finland)",
+        "Track-and-trace capabilities",
+        "Cold chain compliance and validation",
+        "E-commerce fulfillment for medical supplies"
+      ],
+      "business_model": "B2B - Logistics-as-a-service for healthcare and pharma. Revenue from delivery fees, logistics contracts, and fulfillment services. Part of Norway Post (Posten Norge) with extensive delivery network.",
+      "why_varden_should_care": "Dominant position in Nordic healthcare logistics market. Strong cold chain capabilities critical for biopharmaceuticals. Growing e-commerce in healthcare driving demand. Part of national postal infrastructure provides competitive moat."
+    },
+    {
+      "company_name": "DHL Healthcare (Deutsche Post DHL Group)",
+      "hq_location": "Bonn, Germany (Global HQ), Healthcare division",
+      "website_url": "https://www.dhl.com/global-en/home/our-divisions/healthcare.html",
+      "problem_solved": "Provides global pharmaceutical and medical device logistics, including cold chain management, clinical trial logistics, and medical supply chain solutions.",
+      "who_buys_it": "Pharmaceutical manufacturers, biotech companies, clinical trial sponsors, medical device companies, hospitals, healthcare systems",
+      "key_features": [
+        "Global pharmaceutical cold chain logistics",
+        "Clinical trial supply chain management",
+        "Temperature-controlled shipping (2-8°C, -20°C, -70°C)",
+        "GDP (Good Distribution Practice) compliance",
+        "Medical device logistics",
+        "Hospital supply chain solutions",
+        "Real-time temperature monitoring"
+      ],
+      "business_model": "B2B - Global logistics-as-a-service. Revenue from shipping fees, supply chain contracts, and value-added services (cold chain, monitoring). Part of Deutsche Post DHL Group with dedicated healthcare division.",
+      "why_varden_should_care": "Global leader in healthcare logistics with unmatched network. Critical infrastructure for biopharmaceutical industry. Strong growth driven by biologics and cell/gene therapies requiring cold chain. Part of €90B+ logistics conglomerate."
+    },
+    {
+      "company_name": "World Courier",
+      "hq_location": "Belgium (European HQ), Global operations",
+      "website_url": "https://www.worldcourier.com",
+      "problem_solved": "Specializes in time- and temperature-sensitive pharmaceutical logistics for clinical trials and commercial drug distribution. Critical for biopharmaceutical supply chains.",
+      "who_buys_it": "Pharmaceutical companies, biotech firms, CROs (Contract Research Organizations), clinical trial sponsors, specialty pharmacies",
+      "key_features": [
+        "Clinical trial logistics and distribution",
+        "Cold chain pharmaceutical shipping",
+        "Specialty courier for biologics",
+        "GMP/GDP compliant logistics",
+        "Direct-to-patient clinical trial delivery",
+        "Temperature-controlled packaging",
+        "Real-time GPS and temperature tracking"
+      ],
+      "business_model": "B2B - Premium specialty logistics for life sciences. Revenue from courier fees, logistics contracts, and clinical trial supply chain services. Premium pricing for time/temperature-critical shipments.",
+      "why_varden_should_care": "Market leader in clinical trial logistics - critical for drug development. High-margin specialty logistics with strong growth from biologics. Essential for cell/gene therapy distribution. Acquired by AmerisourceBergen (now Cencora)."
+    },
+    {
+      "company_name": "Medicar Ambulanz",
+      "hq_location": "Berlin, Germany",
+      "website_url": "https://www.medicar-ambulanz.de",
+      "problem_solved": "Provides non-emergency patient transport and medical repatriation services in Germany and across Europe. Addresses the need for scheduled medical transport for patients requiring medical supervision.",
+      "who_buys_it": "Health insurance companies, hospitals, rehabilitation centers, nursing homes, private patients, travel insurance companies",
+      "key_features": [
+        "Non-emergency patient transport",
+        "Medical repatriation across Europe",
+        "Dialysis patient transport",
+        "Hospital discharge transport",
+        "Wheelchair-accessible vehicles",
+        "Medical escort services",
+        "International ambulance transport"
+      ],
+      "business_model": "B2B/B2C - Reimbursement from health insurers (Krankenkassen) for medical necessity cases + private pay for non-covered services. Contract-based with hospitals and care facilities.",
+      "why_varden_should_care": "Growing market as population ages and chronic diseases increase. Regulatory framework ensures stable reimbursement. Cross-border services address European healthcare tourism. Fragmented market with consolidation opportunities."
+    },
+    {
+      "company_name": "CitySprint Healthcare",
+      "hq_location": "London, United Kingdom",
+      "website_url": "https://www.citysprint.co.uk/healthcare",
+      "problem_solved": "Provides urgent medical courier services for NHS trusts, laboratories, pharmacies, and healthcare providers across the UK. Ensures time-critical delivery of medical specimens, pharmaceuticals, and medical equipment.",
+      "who_buys_it": "NHS trusts, private hospitals, pathology laboratories, pharmacies, GP practices, medical device companies, clinical trial sponsors",
+      "key_features": [
+        "Urgent medical specimen transport",
+        "Pharmacy delivery services",
+        "Pathology sample logistics",
+        "Medical equipment delivery",
+        "NHS-contracted services",
+        "Same-day and scheduled deliveries",
+        "UK-wide network with regional hubs"
+      ],
+      "business_model": "B2B - Same-day courier services with NHS framework agreements and private healthcare contracts. Revenue from delivery fees, framework agreements, and scheduled service contracts.",
+      "why_varden_should_care": "Critical NHS supply chain partner with framework agreements. Growing demand for decentralized healthcare driving sample transport needs. COVID-19 demonstrated importance of medical logistics infrastructure. Market leader in UK medical courier sector."
+    },
+    {
+      "company_name": "BioPharma Courier (European Medical Courier Network)",
+      "hq_location": "Multiple European hubs (Germany, France, Netherlands)",
+      "website_url": "https://www.biopharmacourier.com",
+      "problem_solved": "Provides specialized medical courier services for laboratory specimens, biological samples, and temperature-sensitive medical products across Europe. Critical for diagnostic and research supply chains.",
+      "who_buys_it": "Diagnostic laboratories, research institutions, biobanks, pharmaceutical companies, hospital pathology departments, blood banks",
+      "key_features": [
+        "Laboratory specimen transport",
+        "Biological sample logistics",
+        "Temperature-controlled medical courier",
+        "IATA compliance for biological substances",
+        "Cross-border European transport",
+        "Chain of custody documentation",
+        "24/7 on-demand pickup and delivery"
+      ],
+      "business_model": "B2B - On-demand courier services and scheduled routes for medical specimens. Revenue from delivery fees, subscription services for regular routes, and specialized handling charges.",
+      "why_varden_should_care": "Critical infrastructure for diagnostic testing boom post-COVID. Growing demand from personalized medicine and genetic testing. Fragmented market across Europe with consolidation opportunities. High barriers to entry due to regulatory compliance."
+    }
+  ],
+  "notes": {
+    "market_trends": [
+      "Aging European population driving demand for patient transport services",
+      "Growth in home healthcare and chronic disease management",
+      "Increasing importance of cold chain logistics for biologics and cell/gene therapies",
+      "Post-COVID emphasis on medical supply chain resilience",
+      "Digital health integration with transport booking and tracking",
+      "Cross-border healthcare driving medical repatriation services"
+    ],
+    "excluded_sectors": [
+      "General logistics companies without healthcare specialization",
+      "Consumer ride-sharing platforms (Uber Health, etc.)",
+      "General courier services without medical certification"
+    ],
+    "data_sources": "Company websites, industry reports, and market research"
+  }
+}

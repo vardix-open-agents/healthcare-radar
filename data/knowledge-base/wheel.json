@@ -1,0 +1,14 @@
+{
+  "company": "Wheel",
+  "country": "US",
+  "problem": "Digital health companies, life sciences, and retail/pharmacy need to launch and scale virtual care programs without building clinical infrastructure",
+  "solution": "Complete virtual care infrastructure including modular care enablement platform, 50-state clinician network, real-time care intelligence, and 70+ evidence-based care protocols for consumer-centric telehealth",
+  "problem_type": "telemedicine",
+  "solution_type": "SaaS",
+  "buyer": "providers",
+  "varden_fit": "high",
+  "url": "https://www.wheel.com/",
+  "source": "web",
+  "discovery_round": 73,
+  "discovered_by": "nova"
+}

@@ -1,0 +1,30 @@
+{
+  "id": "talkspace-2026-035",
+  "title": "Talkspace - Online Therapy and Mental Health Platform",
+  "company": "Talkspace",
+  "country": "US (EU presence)",
+  "region": "EU",
+  "segment": "treatment",
+  "problem": "Access to mental health therapy is limited by cost, availability, and stigma. Traditional therapy requires in-person visits.",
+  "solution": "Digital therapy platform offering text, video, and audio therapy sessions with licensed therapists. Also provides psychiatric services.",
+  "technology": "Telemedicine platform, messaging, video",
+  "target_customer": "Employers (B2B), insurers, direct-to-consumer",
+  "care_setting": "telehealth",
+  "care_domain": "mental health",
+  "care_stage": "treatment",
+  "automation_level": "none",
+  "ai_type": null,
+  "traction_signals": [
+    "Founded 2012, US-based",
+    "Public company (SPAC merger)",
+    "Expanded to UK and Europe",
+    "Employer and insurer partnerships"
+  ],
+  "funding": "Public company",
+  "regulatory_notes": "Licensed therapists and psychiatrists in each market.",
+  "varden_fit": "Moderate — mental health telemedicine. Could integrate with Varden's mental health provider network.",
+  "source": "Industry knowledge",
+  "url": "https://www.talkspace.com",
+  "date_added": "2026-03-11",
+  "notes": "Mental health teletherapy leader. European expansion ongoing."
+}

@@ -1,0 +1,14 @@
+{
+  "company": "Mainstay Medical",
+  "country": "IE",
+  "problem": "Chronic low back pain (CLBP) is one of the leading causes of disability worldwide. Traditional treatments including pain medications, physical therapy, and surgery often fail to provide lasting relief because they don't address the underlying muscle dysfunction.",
+  "solution": "ReActiv8 Restorative Neurostimulation system - an implantable device that stimulates the nerves controlling the multifidus muscle responsible for lumbar spine stabilization. Addresses the root cause of mechanical CLBP by restoring proper muscle function and breaking the pain-degeneration cycle.",
+  "problem_type": "pain_management",
+  "solution_type": "medical_device",
+  "buyer": "hospitals",
+  "varden_fit": "low",
+  "url": "https://mainstaymedical.com",
+  "source": "web",
+  "discovery_round": 135,
+  "discovered_by": "nova"
+}

@@ -1,0 +1,27 @@
+{
+  "company": "Medipredict (Hungary)",
+  "country": "Hungary",
+  "founded_year": 2017,
+  "category": "Occupational Health",
+  "subsector": "Corporate Health Assessments",
+  "description": "Hungarian startup providing AI-powered corporate health assessments and preventive screening programs for employers. Uses data analytics to identify health risks and recommend interventions.",
+  "business_model": "B2B - Corporate health assessment contracts",
+  "target_market": "Hungarian employers (SMEs and enterprises)",
+  "funding_stage": "Seed",
+  "funding_amount_eur": 800000,
+  "key_investors": "Hungarian angels, Hiventures",
+  "employees": 20,
+  "customers": "150+ companies",
+  "revenue_eur": 600000,
+  "tech_stack": ["AI analytics platform", "Health assessment tools", "Reporting dashboard"],
+  "integration_points": ["HR systems", "Occupational health providers", "Insurance platforms"],
+  "competitive_advantage": "AI-driven insights, Hungarian market focus, cost-effective screening",
+  "varden_fit": {
+    "threat_level": "medium",
+    "opportunity": "acquire",
+    "rationale": "Direct competitor in Hungary - potential acquisition target for Hungarian market entry"
+  },
+  "data_quality": "low",
+  "sources": ["linkedin.com", "startup databases"],
+  "last_updated": "2026-03-11"
+}

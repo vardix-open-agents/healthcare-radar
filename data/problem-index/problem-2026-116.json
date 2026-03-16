@@ -1,0 +1,16 @@
+{
+  "id": "problem-2026-116",
+  "problem": "Home health agencies spend 40% of time traveling between patients, limiting daily visit capacity",
+  "problem_type": "staffing",
+  "solution_type": "Route optimization algorithms, geographic scheduling, mobile workforce management",
+  "care_stage": "treatment",
+  "automation_type": "ai_assisted",
+  "buyer": "clinic",
+  "care_setting": "home",
+  "companies": ["AlayaCare", "Homecare Homebase", "Salesforce Health Cloud", "Route4Me"],
+  "signals": ["Home health demand surge", "Mileage reimbursement costs", "Nurse productivity metrics"],
+  "boring_software": true,
+  "contrarian": false,
+  "url": "https://www.alayacare.com",
+  "date_added": "2026-03-11"
+}

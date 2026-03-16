@@ -1,0 +1,16 @@
+{
+  "id": "problem-2026-039",
+  "problem": "Argentine clinics lose patients due to fragmented insurance networks and complex referrals",
+  "problem_type": "referral",
+  "solution_type": "Unified referral platforms, network directory APIs, automated authorization",
+  "care_stage": "treatment",
+  "automation_type": "workflow_automation",
+  "buyer": "clinic",
+  "care_setting": "specialty",
+  "companies": ["OSDE", "Swiss Medical", "Local PAMI systems"],
+  "signals": ["Argentina prepaid medicine market", "Fragmented payer landscape", "Specialist access barriers"],
+  "boring_software": true,
+  "contrarian": false,
+  "url": "https://www.osde.com.ar",
+  "date_added": "2026-03-11"
+}

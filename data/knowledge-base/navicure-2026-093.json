@@ -1,0 +1,32 @@
+{
+  "id": "navicure-2026-093",
+  "title": "Waystar (formerly Navicure) - Claims Management Platform",
+  "company": "Waystar (formerly Navicure)",
+  "country": "US",
+  "region": "US",
+  "segment": "billing",
+  "problem": "Healthcare practices need easy-to-use claims management with real-time eligibility and denial prevention.",
+  "solution": "Simplified claims management platform with real-time eligibility, claims tracking, and denial management. Focused on ease of use for small to mid-size practices.",
+  "technology": "Cloud-based claims management, eligibility APIs",
+  "target_customer": "Small to mid-size healthcare practices",
+  "care_setting": "all",
+  "care_domain": "general",
+  "care_stage": "admin",
+  "automation_level": "partial",
+  "ai_type": null,
+  "traction_signals": [
+    "Strong reputation for ease of use",
+    "Merged with ZirMed to form Waystar",
+    "Focus on smaller practices"
+  ],
+  "funding": "Merged into Waystar",
+  "regulatory_notes": "HIPAA compliant",
+  "varden_fit": "HIGH — Navicure proved simplified RCM works for smaller practices. European practices need similar easy-to-use tools.",
+  "source": "Industry knowledge",
+  "url": "https://www.waystar.com",
+  "date_added": "2026-03-11",
+  "problem_type": "claims",
+  "contrarian": true,
+  "boring_software": true,
+  "notes": "CONTRARIAN: Simplified RCM for smaller practices is an underserved segment in Europe."
+}

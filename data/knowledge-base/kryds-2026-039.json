@@ -1,0 +1,29 @@
+{
+  "id": "kryds-2026-039",
+  "title": "Kryds - Swedish Healthcare Marketplace",
+  "company": "Kryds",
+  "country": "Sweden",
+  "region": "Nordics",
+  "segment": "scheduling",
+  "problem": "Patients struggle to find and compare private healthcare providers. Information is scattered and booking is fragmented.",
+  "solution": "Healthcare marketplace enabling patients to search, compare, and book appointments with private healthcare providers.",
+  "technology": "Marketplace platform, booking system, provider profiles",
+  "target_customer": "Private healthcare providers, patients",
+  "care_setting": "primary_care",
+  "care_domain": "general",
+  "care_stage": "admin",
+  "automation_level": "partial",
+  "ai_type": null,
+  "traction_signals": [
+    "Swedish healthcare marketplace",
+    "Focus on private healthcare",
+    "Comparison and booking"
+  ],
+  "funding": null,
+  "regulatory_notes": "Healthcare marketplace platform, GDPR compliance.",
+  "varden_fit": "High — direct competitor in Swedish market. Similar marketplace model.",
+  "source": "Swedish health tech ecosystem",
+  "url": "https://www.kryds.se",
+  "date_added": "2026-03-11",
+  "notes": "Direct Swedish competitor. Study their approach."
+}

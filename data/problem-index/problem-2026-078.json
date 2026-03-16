@@ -1,0 +1,16 @@
+{
+  "id": "problem-2026-078",
+  "problem": "Medical groups can't verify if referring physicians are in-network, causing referral leakage and lost revenue",
+  "problem_type": "insurance_routing",
+  "solution_type": "Provider network directory APIs, real-time referral network checking, in-network referral automation",
+  "care_stage": "treatment",
+  "automation_type": "decision_support",
+  "buyer": "practice",
+  "care_setting": "specialty",
+  "companies": [" referralMD", "ReferralBoost", "Par8o", "ClosedLoop", "Evariant"],
+  "signals": ["Narrow network growth", "CMS directory accuracy requirements", "Referral leakage cost estimates 10-20%"],
+  "boring_software": true,
+  "contrarian": false,
+  "url": "https://www.cms.gov/cciio/programs-and-initiatives/other-insurance-protections/network-adequacy",
+  "date_added": "2026-03-11"
+}

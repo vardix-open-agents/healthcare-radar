@@ -1,0 +1,14 @@
+{
+  "company": "Practice Better",
+  "country": "CA",
+  "problem": "Health practitioners including dietitians and nutritionists struggle with fragmented tools for EHR, scheduling, billing, and client communication, leading to administrative overhead and fragmented client care",
+  "solution": "All-in-one practice management software with EHR, telehealth, meal planning integration (That Clean Life), client portal, automated workflows, payment processing, and nutrition-specific features designed for health and wellness professionals",
+  "problem_type": "nutrition",
+  "solution_type": "SaaS",
+  "buyer": "clinics",
+  "varden_fit": "medium",
+  "url": "https://practicebetter.io/",
+  "source": "web",
+  "discovery_round": 140,
+  "discovered_by": "sky"
+}

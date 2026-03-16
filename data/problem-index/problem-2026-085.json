@@ -1,0 +1,16 @@
+{
+  "id": "problem-2026-085",
+  "problem": "Social determinants of health data (housing, food security) are collected on paper and not integrated into care planning",
+  "problem_type": "data_integration",
+  "solution_type": "SDOH screening integration, community resource directories, closed-loop referral platforms",
+  "care_stage": "diagnosis",
+  "automation_type": "data_integration",
+  "buyer": "health_plan",
+  "care_setting": "primary_care",
+  "companies": ["Unite Us", "NowPow", "Aunt Bertha (Findhelp)", "Healthify", "2-1-1 integration platforms"],
+  "signals": ["CMS SDOH measurement", "Medicaid managed care requirements", "Value-based care quality measures"],
+  "boring_software": false,
+  "contrarian": true,
+  "url": "https://www.cms.gov/priorities/health-equity",
+  "date_added": "2026-03-11"
+}

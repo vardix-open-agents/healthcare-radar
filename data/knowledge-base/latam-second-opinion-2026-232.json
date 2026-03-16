@@ -1,0 +1,33 @@
+{
+  "id": "latam-second-opinion-2026-232",
+  "title": "LATAM Second Opinion Access Gap",
+  "company": null,
+  "country": "Brazil/Mexico/Colombia/Regional",
+  "region": "LATAM",
+  "segment": "treatment",
+  "problem": "Patients in LATAM lack access to second opinions for serious diagnoses. Trust in local physicians is low in some regions. No easy way to consult with top specialists at leading hospitals. Patients travel internationally (to US, Spain) for second opinions, spending thousands. Misdiagnosis rates are unknown but suspected to be high.",
+  "solution": "Second opinion platform connecting patients with specialists at leading LATAM hospitals (Hospital Israelita in São Paulo, Instituto Nacional de Ciencias Médicas in Mexico). Secure image/document sharing. Video consultation. Written second opinion report. Integration with local treating physicians.",
+  "technology": "Secure document sharing, video consultation platform, matching algorithms, quality assurance workflows, mobile app",
+  "target_customer": "Patients (B2C), health insurers (value-add benefit), self-insured employers",
+  "care_setting": "telehealth",
+  "care_domain": "general",
+  "care_stage": "diagnosis",
+  "automation_level": "partial",
+  "ai_type": null,
+  "traction_signals": [
+    "Medical tourism from LATAM to US growing",
+    "Health literacy increasing",
+    "Insurers seeking differentiation",
+    "Proven models (Grand Rounds, Doctor on Demand)"
+  ],
+  "funding": null,
+  "regulatory_notes": "Telemedicine regulations, cross-border practice of medicine, medical liability",
+  "varden_fit": "MEDIUM FIT - Consumer-facing but infrastructure component (matching platform). Could start B2B with insurers. High-margin service.",
+  "source": "Opportunity analysis + market gap identification",
+  "url": null,
+  "date_added": "2026-03-11",
+  "problem_type": "access",
+  "contrarian": false,
+  "boring_software": false,
+  "notes": "Second opinions are high-value, low-volume service. Target patients with serious diagnoses (cancer, cardiac surgery). Premium pricing justified by life-changing decisions."
+}

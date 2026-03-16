@@ -1,0 +1,14 @@
+{
+  "company": "Doxy.me",
+  "country": "US",
+  "problem": "Healthcare providers need simple, secure telemedicine video platforms that integrate easily into existing workflows without technical complexity",
+  "solution": "HIPAA-compliant telemedicine video platform with waiting room, patient check-in, group calls, SOAP notes, screen sharing, and virtual backgrounds; no downloads required for patients",
+  "problem_type": "primary_care",
+  "solution_type": "SaaS",
+  "buyer": "health_system",
+  "varden_fit": "high",
+  "url": "https://doxy.me",
+  "source": "web",
+  "discovery_round": 125,
+  "discovered_by": "sky"
+}

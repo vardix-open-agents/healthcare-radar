@@ -1,0 +1,14 @@
+{
+  "company": "Zebra Medical Vision",
+  "country": "IL",
+  "problem": "Radiology departments face high workload and manual interpretation of medical images, leading to missed findings, delayed diagnoses, and inconsistent quality",
+  "solution": "AI-powered medical imaging analytics platform that automatically analyzes CT scans to detect osteoporosis, coronary artery calcium, emphysema, and other conditions, providing automated population health screening and triage",
+  "problem_type": "practice_management",
+  "solution_type": "SaaS",
+  "buyer": "clinics",
+  "varden_fit": "medium",
+  "url": "https://www.zebra-med.com",
+  "source": "web",
+  "discovery_round": 77,
+  "discovered_by": "sky"
+}

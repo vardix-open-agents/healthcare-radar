@@ -1,0 +1,28 @@
+{
+  "id": "zymego-2026-001",
+  "title": "Zymego - Automated Scheduling for Healthcare Appointments",
+  "company": "Zymego",
+  "country": "Sweden",
+  "region": "Nordics",
+  "segment": "scheduling",
+  "problem": "5-20% of healthcare appointments are missed due to late cancellations, resulting in millions of wasted time slots annually at enormous economic cost.",
+  "solution": "Automatic digital waiting list for cancelled appointments. Fully automated system that fills empty time slots by offering them to waiting patients. Reduces admin burden and shortens patient wait times.",
+  "technology": "Automated scheduling, digital waiting list, notifications",
+  "target_customer": "Healthcare providers, clinics, hospitals",
+  "care_setting": "primary_care",
+  "care_domain": "general",
+  "care_stage": "admin",
+  "automation_level": "full",
+  "ai_type": null,
+  "traction_signals": [
+    "Active in Swedish healthcare",
+    "Addresses quantified market problem (5-20% no-show rate)"
+  ],
+  "funding": null,
+  "regulatory_notes": null,
+  "varden_fit": "VERY HIGH - Direct complement to booking infrastructure. Could integrate with EHR booking flow. Solves real operational pain point for clinics we serve.",
+  "source": "HealthTech Nordic directory",
+  "url": "https://zymego.com",
+  "date_added": "2026-03-11",
+  "notes": "Priority for deep research. Check funding, traction, customers."
+}

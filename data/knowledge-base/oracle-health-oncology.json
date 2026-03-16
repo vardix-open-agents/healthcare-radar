@@ -1,0 +1,14 @@
+{
+  "company": "Oracle Health (Cerner Oncology)",
+  "country": "US",
+  "problem": "Oncology practices struggle with disjointed EHR systems that don't adequately support complex cancer care workflows, clinical trials management, and longitudinal patient tracking across multi-disciplinary teams.",
+  "solution": "Enterprise oncology EHR platform with AI-powered clinical decision support, integrated care pathways, clinical trials management, and real-time analytics designed specifically for comprehensive cancer center workflows.",
+  "problem_type": "oncology",
+  "solution_type": "SaaS",
+  "buyer": "clinics",
+  "varden_fit": "medium",
+  "url": "https://www.oracle.com/health/",
+  "source": "web",
+  "discovery_round": 108,
+  "discovered_by": "nova"
+}

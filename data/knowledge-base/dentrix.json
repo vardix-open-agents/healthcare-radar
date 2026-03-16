@@ -1,0 +1,14 @@
+{
+  "company": "Dentrix",
+  "country": "US",
+  "problem": "Dental practices need comprehensive practice management with integrated insurance claims processing, AI-powered diagnostics, and improved productivity",
+  "solution": "Enterprise dental practice management platform with AI-powered diagnostic tools, integrated insurance claims processing (100M+ claims annually), eligibility verification, and comprehensive training and support for 35,000+ practices",
+  "problem_type": "dental",
+  "solution_type": "SaaS",
+  "buyer": "dental_clinics",
+  "varden_fit": "medium",
+  "url": "https://www.dentrix.com",
+  "source": "web",
+  "discovery_round": 91,
+  "discovered_by": "nova"
+}

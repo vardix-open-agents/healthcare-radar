@@ -1,0 +1,22 @@
+{
+  "id": "labcorp-2026-334",
+  "title": "LabCorp - Reference Lab & Drug Development",
+  "company": "Laboratory Corporation of America",
+  "country": "USA",
+  "segment": "infrastructure",
+  "problem": "Healthcare providers need comprehensive lab testing with digital ordering and integration",
+  "solution": "Integrated lab services platform with EHR connectivity and clinical trials support",
+  "technology": "Lab network, physician portal, EHR integration, drug development services",
+  "target_customer": "Physicians, hospitals, pharma, employers",
+  "care_setting": "all",
+  "care_domain": "diagnostics",
+  "care_stage": "all",
+  "automation_level": "full",
+  "ai_type": null,
+  "traction_signals": ["Second largest US lab", "$12B+ revenue", "Global drug development"],
+  "funding": "Public (LH)",
+  "regulatory_notes": "CLIA certified, CAP accredited",
+  "source": "sky-round18-diagnostics",
+  "url": "https://www.labcorp.com",
+  "date_added": "2026-03-11"
+}

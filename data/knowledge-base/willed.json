@@ -1,0 +1,14 @@
+{
+  "company": "Willed",
+  "country": "AU",
+  "problem": "End-of-life planning in Australia is complicated, expensive, and often avoided, causing families unnecessary stress and financial burden during already difficult times.",
+  "solution": "Digital platform providing online wills, power of attorney, probate services, prepaid funerals, and estate planning at affordable prices, serving 150,000+ Australians.",
+  "problem_type": "hospice",
+  "solution_type": "SaaS",
+  "buyer": "providers",
+  "varden_fit": "medium",
+  "url": "https://www.willed.com.au",
+  "source": "web",
+  "discovery_round": 142,
+  "discovered_by": "sky"
+}

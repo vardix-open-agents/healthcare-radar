@@ -1,0 +1,22 @@
+{
+  "company_name": "TrialSpark",
+  "problem_solved": "Slow patient recruitment and site management inefficiencies in clinical trials",
+  "solution_description": "Technology platform that optimizes clinical trial operations including patient recruitment, site selection, and trial management. Partners with pharma to accelerate trials.",
+  "buyer_persona": "pharma_lifesciences,biotech",
+  "care_stage": "clinical_trials",
+  "automation_level": "partial",
+  "varden_fit": "medium",
+  "region": "US",
+  "country": "US",
+  "funding_stage": "series_c",
+  "traction_signals": [
+    "$156M Series C 2021",
+    "Partnered with major pharma",
+    "Focus on rare diseases",
+    "Y Combinator alum"
+  ],
+  "notes": "Clinical trial optimization startup. Focus on recruitment and site efficiency. Competes with Medidata, Science 37. AI-powered trial design.",
+  "discovery_round": 53,
+  "discovered_by": "sky",
+  "timestamp": "2026-03-11T23:18:00Z"
+}

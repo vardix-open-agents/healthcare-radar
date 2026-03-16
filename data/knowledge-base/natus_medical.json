@@ -1,0 +1,14 @@
+{
+  "company": "Natus Medical",
+  "country": "US",
+  "problem": "Neurology clinics need integrated EEG and EMG diagnostic systems for brain monitoring, nerve conduction studies, and long-term patient monitoring in various clinical settings",
+  "solution": "Comprehensive neurodiagnostic platform including BrainWatch wireless point-of-care EEG, UltraPro EMG/NCS/EP systems, and NeuroWorks EEG software for routine testing, ambulatory EEG, and ICU monitoring",
+  "problem_type": "neurology",
+  "solution_type": "SaaS",
+  "buyer": "clinics",
+  "varden_fit": "medium",
+  "url": "https://www.natus.com",
+  "source": "web",
+  "discovery_round": 118,
+  "discovered_by": "sky"
+}

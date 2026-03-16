@@ -1,0 +1,24 @@
+{
+  "problem_type": "diagnostics_imaging",
+  "count": 3,
+  "entries": [
+    {
+      "id": "mindpulse-2026-056",
+      "company": "MindPulse",
+      "country": "France",
+      "varden_fit": "Moderate \u2014 cognitive screening could be valuable add-on for Varden's primary care partners."
+    },
+    {
+      "id": "nekohealth-2026-012",
+      "company": "Neko Health",
+      "country": "Sweden",
+      "varden_fit": "Low \u2014 consumer-facing preventive screening, requires physical infrastructure. Technology approach in"
+    },
+    {
+      "id": "docrates-2026-022",
+      "company": "Docrates",
+      "country": "Sweden",
+      "varden_fit": "Low \u2014 highly specialized oncology service, not primary care infrastructure. Interesting model but di"
+    }
+  ]
+}

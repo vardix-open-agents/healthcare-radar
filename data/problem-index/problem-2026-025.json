@@ -1,0 +1,16 @@
+{
+  "id": "problem-2026-025",
+  "problem": "Singapore patients book appointments through 5+ different hospital portals with separate logins",
+  "problem_type": "scheduling",
+  "solution_type": "Unified national booking platform, single patient identity, cross-institutional scheduling",
+  "care_stage": "admin",
+  "automation_type": "workflow_automation",
+  "buyer": "health_system",
+  "care_setting": "primary_care",
+  "companies": ["HealthHub", "SingHealth", "NUHS"],
+  "signals": ["Singapore Smart Nation initiative", "National EHR success", "Patient experience focus"],
+  "boring_software": true,
+  "contrarian": false,
+  "url": "https://www.healthhub.sg",
+  "date_added": "2026-03-11"
+}

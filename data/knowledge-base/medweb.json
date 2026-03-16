@@ -1,0 +1,14 @@
+{
+  "company": "Medweb",
+  "country": "US",
+  "problem": "Healthcare systems need secure teledermatology solutions to connect dermatologists with patients in remote locations and reduce wait times for skin condition evaluations",
+  "solution": "Enterprise teledermatology platform with high-resolution image capture, EMR integration, synchronous video visits, and asynchronous store-and-forward consultations for dermatology practices",
+  "problem_type": "dermatology",
+  "solution_type": "SaaS",
+  "buyer": "clinics",
+  "varden_fit": "medium",
+  "url": "https://www.medweb.com",
+  "source": "web",
+  "discovery_round": 106,
+  "discovered_by": "nova"
+}

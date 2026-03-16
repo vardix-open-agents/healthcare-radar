@@ -1,0 +1,29 @@
+{
+  "id": "nursebuddy-2026-042",
+  "title": "NurseBuddy - Home Care Coordination Platform",
+  "company": "NurseBuddy",
+  "country": "Sweden",
+  "region": "Nordics",
+  "segment": "admin",
+  "problem": "Home care workers spend significant time on administrative tasks and travel planning. Care coordination is fragmented.",
+  "solution": "Mobile platform for home care workers enabling visit scheduling, documentation, communication, and care coordination.",
+  "technology": "Mobile app, scheduling, documentation tools",
+  "target_customer": "Home care providers, municipalities",
+  "care_setting": "home",
+  "care_domain": "elderly care",
+  "care_stage": "treatment",
+  "automation_level": "partial",
+  "ai_type": null,
+  "traction_signals": [
+    "Swedish home care platform",
+    "Municipality deployments",
+    "Focus on elderly care"
+  ],
+  "funding": null,
+  "regulatory_notes": "Healthcare data platform, GDPR compliance.",
+  "varden_fit": "Low — home care operations, not primary care marketplace. Different segment.",
+  "source": "Swedish health tech ecosystem",
+  "url": "https://www.nursebuddy.se",
+  "date_added": "2026-03-11",
+  "notes": "Home care operations. Different from clinic marketplace."
+}

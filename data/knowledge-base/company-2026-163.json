@@ -1,0 +1,28 @@
+{
+  "company": "Doctolib (France)",
+  "country": "France",
+  "founded_year": 2013,
+  "category": "Healthcare Infrastructure",
+  "subsector": "Healthcare Scheduling & Practice Management",
+  "description": "French healthcare technology company providing appointment scheduling, practice management, and video consultation platform. Market leader in France and Germany. Used by 300000+ healthcare professionals.",
+  "business_model": "B2B - Practice management platform to healthcare providers",
+  "target_market": "Healthcare providers in France, Germany, Italy",
+  "funding_stage": "Private",
+  "funding_amount_eur": 500000000,
+  "key_investors": "General Atlantic, Accel, Partech, Bpifrance",
+  "employees": "2000+",
+  "customers": "300000+ healthcare providers, 80M+ monthly patients",
+  "revenue_eur": null,
+  "tech_stack": ["Scheduling", "Video consultations", "Patient messaging", "Practice management", "EHR integration"],
+  "integration_points": ["French health system (Carte Vitale)", "German health system", "Lab networks"],
+  "competitive_advantage": "Market leader in France, comprehensive practice management, government partnerships",
+  "boring_software": true,
+  "varden_fit": {
+    "threat_level": "low",
+    "opportunity": "benchmark",
+    "rationale": "European practice management leader - validates comprehensive platform approach"
+  },
+  "data_quality": "high",
+  "sources": ["doctolib.com", "crunchbase.com"],
+  "last_updated": "2026-03-11"
+}

@@ -1,0 +1,16 @@
+{
+  "id": "problem-2026-057",
+  "problem": "Lab results take 2-5 days to reach referring physicians due to fax-based workflows",
+  "problem_type": "data_integration",
+  "solution_type": "Direct EHR-lab integration, automated result routing, real-time notification systems",
+  "care_stage": "diagnosis",
+  "automation_type": "workflow_automation",
+  "buyer": "clinic",
+  "care_setting": "primary_care",
+  "companies": ["Change Healthcare", "LabCorp", "Quest Diagnostics", "Orgnostic"],
+  "signals": ["Fax still dominant for lab results", "Physician frustration with delays", "Patient safety concerns"],
+  "boring_software": true,
+  "contrarian": false,
+  "url": "https://www.changehealthcare.com",
+  "date_added": "2026-03-11"
+}

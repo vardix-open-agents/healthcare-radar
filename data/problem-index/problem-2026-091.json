@@ -1,0 +1,16 @@
+{
+  "id": "problem-2026-091",
+  "problem": "Organ transplant waitlist management uses legacy systems that can't predict organ availability, causing organs to go unused",
+  "problem_type": "data_integration",
+  "solution_type": "AI-powered organ matching, real-time donor-recipient compatibility, predictive waitlist analytics",
+  "care_stage": "treatment",
+  "automation_type": "decision_support",
+  "buyer": "health_system",
+  "care_setting": "transplant",
+  "companies": ["UNOS", "Donor Network West", "OrganOx", "TransMedics", "Xpresys"],
+  "signals": ["Organ shortage crisis", "Extended criteria donors", "Machine perfusion technology"],
+  "boring_software": false,
+  "contrarian": true,
+  "url": "https://unos.org",
+  "date_added": "2026-03-11"
+}

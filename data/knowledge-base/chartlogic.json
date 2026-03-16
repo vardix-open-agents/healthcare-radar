@@ -1,0 +1,14 @@
+{
+  "company": "ChartLogic",
+  "country": "US",
+  "problem": "Medical practices need to transition from paper to electronic records without changing clinical workflows or losing productivity to complex documentation",
+  "solution": "EHR software with voice dictation, practice management, patient portal (Connect), and revenue cycle management services designed to capture clinical encounters without workflow disruption",
+  "problem_type": "practice_management",
+  "solution_type": "SaaS",
+  "buyer": "clinics",
+  "varden_fit": "medium",
+  "url": "https://www.chartlogic.com",
+  "source": "web",
+  "discovery_round": 69,
+  "discovered_by": "sky"
+}

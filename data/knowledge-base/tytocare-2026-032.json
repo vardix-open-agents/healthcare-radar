@@ -1,0 +1,30 @@
+{
+  "id": "tytocare-2026-032",
+  "title": "TytoCare - Remote Examination Devices for Telehealth",
+  "company": "TytoCare",
+  "country": "Israel (EU presence)",
+  "region": "EU",
+  "segment": "diagnostics",
+  "problem": "Video telehealth is limited — doctors cannot physically examine patients, leading to incomplete diagnoses and unnecessary referrals.",
+  "solution": "Connected examination devices (stethoscope, otoscope, thermometer) that allow remote physical exams during video consultations.",
+  "technology": "IoT medical devices, video platform, AI analysis",
+  "target_customer": "Health systems, insurers, employers, consumers",
+  "care_setting": "telehealth",
+  "care_domain": "general, pediatrics",
+  "care_stage": "diagnosis",
+  "automation_level": "partial",
+  "ai_type": "Signal analysis (heart/lung sounds)",
+  "traction_signals": [
+    "Founded 2012, Israel-based",
+    "CE marked in Europe",
+    "Deployed by NHS and European health systems",
+    "$250M+ total funding"
+  ],
+  "funding": "$250M+ total funding",
+  "regulatory_notes": "CE marked medical devices. FDA cleared in US.",
+  "varden_fit": "Moderate — device-focused, but remote examination capability could enhance Varden telehealth offerings through clinic partners.",
+  "source": "Industry knowledge",
+  "url": "https://www.tytocare.com",
+  "date_added": "2026-03-11",
+  "notes": "Hardware + software solution. Strong EU presence."
+}

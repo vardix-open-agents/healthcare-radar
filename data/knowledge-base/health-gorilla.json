@@ -1,0 +1,14 @@
+{
+  "company": "Health Gorilla",
+  "country": "US",
+  "problem": "Healthcare organizations face challenges in securely exchanging patient data across networks, complying with TEFCA and state-level health information exchange requirements, and accessing complete patient records.",
+  "solution": "Health Gorilla operates as a dual-designated QHIN (Qualified Health Information Network) and QHIO, providing national network infrastructure and APIs for secure patient data exchange, enabling compliance with CalHHS DxF and TEFCA while offering value-add data solutions to capture the complete patient journey.",
+  "problem_type": "analytics",
+  "solution_type": "SaaS",
+  "buyer": "providers",
+  "varden_fit": "medium",
+  "url": "https://www.healthgorilla.com",
+  "source": "web",
+  "discovery_round": 97,
+  "discovered_by": "sky"
+}

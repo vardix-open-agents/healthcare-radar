@@ -1,0 +1,14 @@
+{
+  "company": "CareStack",
+  "country": "US",
+  "problem": "DSOs, multi-location dental groups, and private practices need scalable, cost-effective cloud-based practice management with no upsells or add-on software requirements",
+  "solution": "Modern, secure, cloud-based all-in-one dental practice management platform for DSOs and practices of all sizes, featuring practice growth tools, patient experience features, clinical workflows, revenue cycle management, analytics, and AI integration with 2,500+ practices and enterprise-grade security",
+  "problem_type": "dental",
+  "solution_type": "SaaS",
+  "buyer": "dental_clinics",
+  "varden_fit": "medium",
+  "url": "https://www.carestack.com",
+  "source": "web",
+  "discovery_round": 91,
+  "discovered_by": "nova"
+}

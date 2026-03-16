@@ -1,0 +1,14 @@
+{
+  "company": "EnsoData",
+  "country": "US",
+  "problem": "Manual sleep study scoring is time-consuming and prone to inter-scorer variability, creating bottlenecks in sleep clinic workflows",
+  "solution": "AI-powered sleep study scoring and analysis platform that automates PSG scoring, reducing interpretation time and improving diagnostic consistency for sleep clinics",
+  "problem_type": "sleep_medicine",
+  "solution_type": "SaaS",
+  "buyer": "clinics",
+  "varden_fit": "high",
+  "url": "https://www.ensodata.com",
+  "source": "web",
+  "discovery_round": 104,
+  "discovered_by": "nova"
+}

@@ -1,0 +1,14 @@
+{
+  "company": "Coloplast Urology",
+  "country": "DK",
+  "problem": "Patients with urinary retention, incontinence, and post-surgical urological needs require reliable catheterization and bladder management solutions that minimize infection risk and improve quality of life",
+  "solution": "Specialized urology products including intermittent catheters, continence care systems, and penile prostheses designed for patient comfort, ease of use, and reduced UTI risk",
+  "problem_type": "urology",
+  "solution_type": "devices",
+  "buyer": "clinics",
+  "varden_fit": "low",
+  "url": "https://www.coloplast.com/urology",
+  "source": "web",
+  "discovery_round": 112,
+  "discovered_by": "nova"
+}

@@ -1,0 +1,22 @@
+{
+  "company_name": "Flatiron Health",
+  "problem_solved": "Lack of structured oncology data for clinical trials and real-world evidence",
+  "solution_description": "Oncology-specific EHR platform and real-world evidence data network. Curates structured data from cancer centers for research. Acquired by Roche in 2018.",
+  "buyer_persona": "pharma_lifesciences",
+  "care_stage": "clinical_trials,commercial",
+  "automation_level": "partial",
+  "varden_fit": "low",
+  "region": "US",
+  "country": "US",
+  "funding_stage": "acquired",
+  "traction_signals": [
+    "Acquired by Roche for $2.1B",
+    "280+ cancer center partners",
+    "FDA submissions using Flatiron data",
+    "Pioneer in oncology RWE"
+  ],
+  "notes": "Gold standard for oncology real-world evidence. Data used for FDA submissions. Competes with Cota Healthcare, ConcertAI in oncology analytics.",
+  "discovery_round": 53,
+  "discovered_by": "sky",
+  "timestamp": "2026-03-11T23:18:00Z"
+}

@@ -1,0 +1,14 @@
+{
+  "company": "Viewics",
+  "country": "US",
+  "problem": "Healthcare organizations, including oncology practices, lack actionable insights from their operational and clinical data to improve patient care, reduce costs, and optimize laboratory and clinical workflows.",
+  "solution": "End-to-end healthcare analytics platform that aggregates data from multiple sources to surface actionable insights for improving patient care quality, operational efficiency, and financial performance across the healthcare continuum.",
+  "problem_type": "oncology",
+  "solution_type": "SaaS",
+  "buyer": "clinics",
+  "varden_fit": "medium",
+  "url": "https://www.viewics.com",
+  "source": "web",
+  "discovery_round": 108,
+  "discovered_by": "nova"
+}

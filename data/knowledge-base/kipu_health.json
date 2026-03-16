@@ -1,0 +1,14 @@
+{
+  "company": "Kipu Health",
+  "country": "US",
+  "problem": "Behavioral health treatment centers need integrated solutions for admissions, clinical documentation, revenue cycle, and compliance that work together seamlessly across the entire patient journey",
+  "solution": "AI-native behavioral health operating system serving 150,000+ users and 6,000+ facilities globally with CRM for admissions and marketing, EMR with AI-assisted charting, revenue cycle management with real-time benefit verification, compliance management, and patient engagement tools",
+  "problem_type": "behavioral_health",
+  "solution_type": "SaaS",
+  "buyer": "providers",
+  "varden_fit": "medium",
+  "url": "https://www.kipuhealth.com/",
+  "source": "web",
+  "discovery_round": 123,
+  "discovered_by": "sky"
+}

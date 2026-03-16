@@ -1,0 +1,27 @@
+{
+  "company": "Webbeteg (Hungary)",
+  "country": "Hungary",
+  "founded_year": 2008,
+  "category": "Health Information",
+  "subsector": "Patient Education & Symptom Checker",
+  "description": "Hungarian healthcare platform providing health information, symptom checker, and doctor directory. Leading health information website in Hungary with millions of monthly visitors.",
+  "business_model": "B2C - Health information; B2B - Advertising and doctor marketing",
+  "target_market": "Hungarian healthcare consumers",
+  "funding_stage": "Profitable",
+  "funding_amount_eur": null,
+  "key_investors": "Founders, organic growth",
+  "employees": 40,
+  "customers": "2M+ monthly visitors",
+  "revenue_eur": 1500000,
+  "tech_stack": ["Web platform", "Symptom checker AI", "Doctor directory"],
+  "integration_points": ["Hungarian healthcare providers", "Insurance platforms"],
+  "competitive_advantage": "Market leader in Hungarian health information, established brand",
+  "varden_fit": {
+    "threat_level": "low",
+    "opportunity": "partner",
+    "rationale": "Health information platform in Hungary - potential content partner for occupational health"
+  },
+  "data_quality": "medium",
+  "sources": ["webbeteg.hu", "similarweb.com"],
+  "last_updated": "2026-03-11"
+}

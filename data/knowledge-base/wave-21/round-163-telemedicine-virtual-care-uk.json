@@ -1,0 +1,114 @@
+[
+  {
+    "company_name": "Induction Healthcare",
+    "hq_location": "London, United Kingdom",
+    "website_url": "https://www.inductionhealthcare.com",
+    "problem_solved": "Enables NHS Trusts to deliver hybrid healthcare by providing video consultation, patient engagement, and appointment management tools that reduce waiting times and DNAs (Did Not Attends). Their platform helps transition the NHS from analogue to digital-first care delivery.",
+    "customer_buyer": "NHS Trusts, hospitals, GP practices, healthcare providers across the UK",
+    "key_features": [
+      "Video consultation platform (Attend Anywhere integration)",
+      "Patient engagement and appointment management (Zesty)",
+      "50% reduction in Did Not Attends, paper-free workflows"
+    ],
+    "business_model": "SaaS - contracts with NHS Trusts and healthcare organisations",
+    "why_varden_should_care": "Strong NHS market penetration (70% of Trusts use their solutions) demonstrates replicable B2B healthcare platform model. Integration-heavy, EHR-connected approach is applicable to other markets seeking digital care transformation."
+  },
+  {
+    "company_name": "Huma",
+    "hq_location": "London, United Kingdom",
+    "website_url": "https://www.huma.com",
+    "problem_solved": "Enables healthcare providers and pharma to deliver remote patient monitoring, hospital-at-home, and virtual ward programs through a comprehensive digital health platform that connects patients with clinicians for continuous care outside traditional settings.",
+    "customer_buyer": "Healthcare systems, hospitals, pharmaceutical companies, clinical trial sponsors, life sciences organisations",
+    "key_features": [
+      "Remote patient monitoring (RPM) with wearable devices and AI-powered insights",
+      "Hospital-at-home and virtual ward clinical workflows",
+      "Huma Intelligence suite: AI-driven triage, consultations, and clinical documentation"
+    ],
+    "business_model": "SaaS/B2B platform - enterprise contracts with health systems and life sciences; has supported nearly 100 million patients worldwide",
+    "why_varden_should_care": "Enterprise-grade RPM platform with FDA-cleared wearables and proven hospital-at-home deployments. Strong replicability potential for markets adopting decentralised clinical trials and hybrid care models."
+  },
+  {
+    "company_name": "accuRx",
+    "hq_location": "London, United Kingdom",
+    "website_url": "https://www.accurx.com",
+    "problem_solved": "Solves fragmented healthcare communication by providing a unified messaging platform that connects GPs, hospitals, and patients through SMS, video, and digital forms - replacing legacy phone, letter, and pager systems.",
+    "customer_buyer": "GP practices, NHS Trusts, hospitals, community healthcare providers",
+    "key_features": [
+      "Patient messaging and video consultations via SMS (no app download required)",
+      "Integrated forms, questionnaires, and appointment booking",
+      "EHR integration with major NHS systems"
+    ],
+    "business_model": "SaaS - NHS-approved supplier; used by 98% of GP practices and 68% of NHS Trusts",
+    "why_varden_should_care": "Exceptional NHS market dominance (350,000+ users, 54 million patients) shows how simple, low-friction communication tools can achieve near-universal adoption in public health systems. Strong replicability for European markets with similar fragmented care coordination challenges."
+  },
+  {
+    "company_name": "Doctor Care Anywhere",
+    "hq_location": "London, United Kingdom",
+    "website_url": "https://www.doctorcareanywhere.com",
+    "problem_solved": "Provides 24/7 access to virtual GP appointments, physiotherapy, and mental health practitioners for patients who need faster, more convenient care outside of NHS waiting times - primarily serving insured and self-pay populations.",
+    "customer_buyer": "Private medical insurers, employers (as employee benefit), self-pay patients",
+    "key_features": [
+      "24/7 GP video consultations with up to 20-minute appointments",
+      "Direct-access physiotherapy and mental health practitioner bookings",
+      "Multi-specialty virtual care under one platform"
+    ],
+    "business_model": "B2B2C via insurance partners and employers; also direct-to-consumer self-pay",
+    "why_varden_should_care": "Multi-specialty virtual care model replicable for markets with employer-sponsored healthcare or private insurance. Demonstrates bundling GP, physio, and mental health into single virtual care subscription."
+  },
+  {
+    "company_name": "Current Health",
+    "hq_location": "Edinburgh, United Kingdom",
+    "website_url": "https://www.currenthealth.com",
+    "problem_solved": "Enables healthcare systems to safely deliver complex, high-acuity care (including CAR-T therapy, hospital-at-home, and advanced therapies) in outpatient and home settings through continuous remote monitoring and clinical command centre support.",
+    "customer_buyer": "Academic medical centers, health systems, cancer institutes, pharmaceutical companies, clinical trial sponsors",
+    "key_features": [
+      "FDA-cleared continuous wearable monitoring with passive data collection",
+      "AI-powered clinical deterioration detection (CRS, ICANS early warning)",
+      "24/7 clinical command centre with ICU/ED-trained nurses, seamless EHR integration (Epic, Cerner)"
+    ],
+    "business_model": "Enterprise SaaS/managed services - contracts with major US health systems (Mass General Brigham, Sarah Cannon Cancer Institute) and pharma for decentralised trials",
+    "why_varden_should_care": "High-acuity remote care platform for complex therapies demonstrates advanced RPM capabilities beyond chronic disease management. Strong replicability for oncology, cell therapy, and hospital-at-home programs in developed markets."
+  },
+  {
+    "company_name": "DrDoctor",
+    "hq_location": "London, United Kingdom",
+    "website_url": "https://www.drdoctor.co.uk",
+    "problem_solved": "Transforms NHS appointment management by digitising patient scheduling, communication, and care coordination - reducing administrative burden, DNAs, and enabling hybrid (in-person/virtual) care delivery at scale.",
+    "customer_buyer": "NHS Trusts, hospitals, integrated care systems across the UK",
+    "key_features": [
+      "Patient-powered (re)scheduling and appointment management via NHS App and patient portal",
+      "Digital forms, health checks, and automated triage workflows",
+      "Care coordination platform with EHR integration for joined-up pathways"
+    ],
+    "business_model": "SaaS - enterprise contracts with NHS organisations; 35+ million patients, 140+ million appointments managed",
+    "why_varden_should_care": "Proven ability to digitise appointment workflows at health system scale (half of UK hospitals). HybridOS platform approach shows how to build interoperable, rapidly-deployable tools for public healthcare systems undergoing digital transformation."
+  },
+  {
+    "company_name": "Peppy",
+    "hq_location": "London, United Kingdom",
+    "website_url": "https://www.peppy.health",
+    "problem_solved": "Addresses unmet employee health needs in key life stages (fertility, pregnancy, menopause, men's health, women's health) by providing unlimited access to specialist clinicians via app - reducing absence, improving productivity, and strengthening retention.",
+    "customer_buyer": "Employers (HR/benefits teams), insurers",
+    "key_features": [
+      "Unlimited 1-to-1 chats and 40-minute video consultations with specialist clinicians",
+      "Five specialist areas: women's health, men's health, fertility, pregnancy & parenthood, menopause",
+      "Multilingual support, proactive check-ins, and structured care pathways"
+    ],
+    "business_model": "B2B SaaS - employer-paid subscriptions; trusted by 250+ employers supporting 3 million employees",
+    "why_varden_should_care": "Life-stage focused employee health model replicable for markets with competitive labour markets where specialised benefits drive retention. Strong ROI metrics (58% reduction in severe menopause symptoms, 15% work impairment drop) demonstrate value proposition."
+  },
+  {
+    "company_name": "Fertifa",
+    "hq_location": "London, United Kingdom",
+    "website_url": "https://www.fertifa.com",
+    "problem_solved": "Provides comprehensive reproductive healthcare benefits for employees - covering fertility/family-forming, menopause, women's health, and men's reproductive health - through clinical consultations, at-home testing, treatment financing, and clinic network access.",
+    "customer_buyer": "Employers (as employee benefit), HR teams seeking inclusive benefits",
+    "key_features": [
+      "Unlimited clinical consultations with in-house nurses and doctors via app",
+      "At-home fertility testing, diagnostics, and prescription delivery",
+      "Claims management, reimbursement, and global clinic network access"
+    ],
+    "business_model": "B2B SaaS - employer-paid subscriptions with clinical services included; Europe's most comprehensive reproductive healthcare provider for employers",
+    "why_varden_should_care": "Specialised employer benefit model for reproductive health is increasingly demanded in competitive talent markets. Demonstrates how to combine clinical services, diagnostics, and financing into single platform - replicable for other niche health benefit areas."
+  }
+]

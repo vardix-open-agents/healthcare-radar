@@ -1,0 +1,22 @@
+{
+  "company_name": "Datavant",
+  "problem_solved": "Fragmented healthcare data across siloed systems making research and trials difficult",
+  "solution_description": "Healthcare data connectivity platform enabling secure data sharing across organizations. Tokenization technology links patient records while preserving privacy. Acquired Ciox Health in 2021.",
+  "buyer_persona": "pharma_lifesciences",
+  "care_stage": "clinical_trials,commercial",
+  "automation_level": "partial",
+  "varden_fit": "medium",
+  "region": "US",
+  "country": "US",
+  "funding_stage": "series_d",
+  "traction_signals": [
+    "$7B valuation after Ciox merger",
+    "Largest health data network",
+    "40,000+ healthcare facilities",
+    "Trinity Capital backing"
+  ],
+  "notes": "Critical infrastructure for healthcare data interoperability. Competes with IQVIA, Health Catalyst. Tokenization approach enables privacy-preserving data linkage.",
+  "discovery_round": 53,
+  "discovered_by": "sky",
+  "timestamp": "2026-03-11T23:18:00Z"
+}

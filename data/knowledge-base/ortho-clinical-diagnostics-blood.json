@@ -1,0 +1,14 @@
+{
+  "company": "Ortho Clinical Diagnostics",
+  "country": "US",
+  "problem": "Blood banks require high-throughput blood donor screening and pre-transfusion testing to ensure blood product safety while managing large testing volumes efficiently under tight turnaround time requirements.",
+  "solution": "Automated serology testing platforms and blood bank software for donor screening and immunohematology. Their ORTHO VISION Max analyzer and blood bank information systems provide high-volume testing capability with integrated workflow management for transfusion services.",
+  "problem_type": "blood_bank",
+  "solution_type": "SaaS",
+  "buyer": "hospitals",
+  "varden_fit": "low",
+  "url": "https://www.orthoclinicaldiagnostics.com/",
+  "source": "web",
+  "discovery_round": 130,
+  "discovered_by": "sky"
+}

@@ -1,0 +1,14 @@
+{
+  "company": "Lingraphica",
+  "country": "US",
+  "problem": "People with aphasia following stroke or brain injury lose ability to speak and understand language, severely impacting their independence and quality of life.",
+  "solution": "Speech-generating AAC devices specifically designed for aphasia with icon-based language systems, therapy tools, and lifetime support covered by Medicare and insurance.",
+  "problem_type": "speech_therapy",
+  "solution_type": "Device",
+  "buyer": "clinics",
+  "varden_fit": "high",
+  "url": "https://www.lingraphica.com",
+  "source": "web",
+  "discovery_round": 141,
+  "discovered_by": "nova"
+}

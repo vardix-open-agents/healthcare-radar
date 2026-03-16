@@ -1,0 +1,22 @@
+{
+  "id": "life-image-2026-317",
+  "title": "Life Image - Medical Image Sharing Network",
+  "company": "Life Image",
+  "country": "USA",
+  "segment": "infrastructure",
+  "problem": "Medical images trapped in siloed PACS systems; sharing requires CDs or manual transfer",
+  "solution": "Cloud-based image exchange network connecting hospitals, physicians, and patients",
+  "technology": "Cloud platform, DICOM routing, patient portal, API access",
+  "target_customer": "Health systems, insurers, patients, pharma",
+  "care_setting": "all",
+  "care_domain": "diagnostics",
+  "care_stage": "all",
+  "automation_level": "partial",
+  "ai_type": null,
+  "traction_signals": ["10,000+ connected facilities", "40M+ patients", "Raised $50M+"],
+  "funding": "Series C",
+  "regulatory_notes": "HIPAA compliant, FDA 510(k)",
+  "source": "sky-round18-diagnostics",
+  "url": "https://www.lifeimage.com",
+  "date_added": "2026-03-11"
+}

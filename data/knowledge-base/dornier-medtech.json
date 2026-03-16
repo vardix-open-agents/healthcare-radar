@@ -1,0 +1,14 @@
+{
+  "company": "Dornier MedTech",
+  "country": "DE",
+  "problem": "Kidney stone patients require effective non-invasive treatment alternatives to surgery that can break down stones without incisions or lengthy recovery periods",
+  "solution": "Extracorporeal shock wave lithotripsy (ESWL) systems using electromagnetic shock wave technology to fragment kidney stones non-invasively, enabling outpatient treatment with rapid patient recovery",
+  "problem_type": "urology",
+  "solution_type": "devices",
+  "buyer": "hospitals",
+  "varden_fit": "low",
+  "url": "https://www.dornier.com",
+  "source": "web",
+  "discovery_round": 112,
+  "discovered_by": "nova"
+}

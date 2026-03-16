@@ -1,0 +1,16 @@
+{
+  "id": "problem-2026-041",
+  "problem": "Chilean primary care centers (CESFAM) serve 10,000+ patients with 4-hour wait times",
+  "problem_type": "triage",
+  "solution_type": "AI symptom assessment, appointment prioritization, telemedicine triage",
+  "care_stage": "intake",
+  "automation_type": "ai_assisted",
+  "buyer": "health_system",
+  "care_setting": "primary_care",
+  "companies": ["Minsal platforms", "Private telehealth", "CESFAM management tools"],
+  "signals": ["Chile primary care overload", "Public-private partnerships", "Digital health strategy"],
+  "boring_software": false,
+  "contrarian": false,
+  "url": "https://www.minsal.cl",
+  "date_added": "2026-03-11"
+}

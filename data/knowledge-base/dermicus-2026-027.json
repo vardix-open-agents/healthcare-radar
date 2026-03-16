@@ -1,0 +1,29 @@
+{
+  "id": "dermicus-2026-027",
+  "title": "Dermicus - Telemedicine Platform for Dermatology",
+  "company": "Dermicus",
+  "country": "Sweden",
+  "region": "Nordics",
+  "segment": "diagnostics",
+  "problem": "Dermatology wait times are long. GPs struggle to differentiate skin conditions and referrals to specialists take weeks.",
+  "solution": "Telemedicine platform enabling GPs to send images and case data to dermatologists for remote consultation. Streamlines referrals and speeds up diagnosis.",
+  "technology": "Image capture, secure messaging, consultation workflow",
+  "target_customer": "Primary care centers, dermatology clinics",
+  "care_setting": "telehealth",
+  "care_domain": "dermatology",
+  "care_stage": "diagnosis",
+  "automation_level": "none",
+  "ai_type": null,
+  "traction_signals": [
+    "Swedish-based telemedicine platform",
+    "Focus on dermatology consultations",
+    "Used by Swedish primary care centers"
+  ],
+  "funding": null,
+  "regulatory_notes": "Healthcare data security, medical consultation platform.",
+  "varden_fit": "Moderate-High — telemedicine for specialists aligns with Varden's marketplace model. Could integrate specialist consults into platform.",
+  "source": "Swedish health tech knowledge",
+  "url": "https://www.dermicus.com",
+  "date_added": "2026-03-11",
+  "notes": "Specialist telemedicine platform. Example of vertical-specific solution."
+}

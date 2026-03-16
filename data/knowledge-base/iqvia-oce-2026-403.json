@@ -1,0 +1,22 @@
+{
+  "company_name": "IQVIA OCE",
+  "problem_solved": "Omnichannel engagement with healthcare providers in pharma commercial",
+  "solution_description": "Omnichannel Customer Engagement (OCE) platform for life sciences. Combines CRM, content, and analytics for coordinated HCP engagement across channels. Competes with Veeva CRM.",
+  "buyer_persona": "pharma_lifesciences",
+  "care_stage": "commercial",
+  "automation_level": "partial",
+  "varden_fit": "low",
+  "region": "Global",
+  "country": "US",
+  "funding_stage": "public",
+  "traction_signals": [
+    "Part of IQVIA platform",
+    "Growing share vs Veeva",
+    "Integrated with IQVIA data",
+    "Omnichannel focus"
+  ],
+  "notes": "IQVIA's CRM competitor to Veeva. Omnichannel-native design. Leverages IQVIA data assets. Growing presence in pharma commercial.",
+  "discovery_round": 53,
+  "discovered_by": "sky",
+  "timestamp": "2026-03-11T23:18:00Z"
+}

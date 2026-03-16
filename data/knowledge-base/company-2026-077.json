@@ -1,0 +1,27 @@
+{
+  "company": "Doctorcare (Docplanner)",
+  "country": "Poland / Global",
+  "founded_year": 2012,
+  "category": "Practice Management",
+  "subsector": "Healthcare Booking & Practice Management",
+  "description": "World's largest healthcare booking platform operating in 15 countries. Serves 260,000+ doctors, 22,000+ clinics, and 90M+ patients monthly. Strong presence in Poland, Spain, Italy, Turkey, and Latin America.",
+  "business_model": "B2B - SaaS subscription to healthcare providers; B2C free booking for patients",
+  "target_market": "Healthcare providers globally, especially Poland, Spain, Italy, Turkey, Brazil, Mexico",
+  "funding_stage": "Series F",
+  "funding_amount_usd": 450000000,
+  "key_investors": "Insight Partners, One Peak Partners, Goldman Sachs, Fidelity",
+  "employees": 2500,
+  "customers": "260000+ doctors, 22000+ clinics",
+  "revenue_usd": 350000000,
+  "tech_stack": ["Web platform", "Mobile apps", "Practice management software", "EHR"],
+  "integration_points": ["Local EHRs", "Payment systems", "Lab networks", "Insurer systems"],
+  "competitive_advantage": "Largest global footprint, multi-country expertise, full practice management suite",
+  "varden_fit": {
+    "threat_level": "medium",
+    "opportunity": "partner",
+    "rationale": "Potential distribution partner for occupational health in Eastern Europe"
+  },
+  "data_quality": "high",
+  "sources": ["docplanner.com", "doctorcare.es", "crunchbase.com"],
+  "last_updated": "2026-03-11"
+}

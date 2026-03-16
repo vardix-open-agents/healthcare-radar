@@ -1,0 +1,22 @@
+{
+  "company_name": "ESO Solutions",
+  "problem_solved": "EMS agencies, fire departments, and hospitals struggle with disconnected documentation systems, making it difficult to share patient data, ensure compliance, and measure clinical outcomes across the care continuum",
+  "solution_description": "Comprehensive software platform for EMS, Fire, Hospital, and Government including next-generation ePCR, dispatch technology, fire management software, hospital data integration, and patient registry solutions. Auto-generated narrative with AI assists documentation quality and billing accuracy",
+  "buyer_persona": "ems_agencies",
+  "care_stage": "transport",
+  "automation_level": "partial",
+  "varden_fit": "high",
+  "region": "US",
+  "country": "United States",
+  "funding_stage": "private",
+  "traction_signals": [
+    "Trusted by agencies worldwide",
+    "Integration with NERIS for fire reporting",
+    "Real-time EMS-to-hospital data sharing",
+    "AI-powered auto-narrative generation"
+  ],
+  "notes": "End-to-end platform for emergency services documentation. Strong hospital integration for real-time care coordination. Purpose-built by and for emergency responders. High Varden fit for EMS documentation infrastructure.",
+  "discovery_round": 52,
+  "discovered_by": "sky",
+  "timestamp": "2026-03-11T23:20:00Z"
+}

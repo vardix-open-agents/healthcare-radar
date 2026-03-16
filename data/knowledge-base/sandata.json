@@ -1,0 +1,14 @@
+{
+  "company": "Sandata",
+  "country": "US",
+  "problem": "Homecare agencies, I/DD providers, MCOs, and state Medicaid programs struggle with EVV compliance, caregiver scheduling, claims processing, and data visibility across the care continuum",
+  "solution": "Integrated homecare platform pioneered EVV in 1994, offering Fuse agency management software, workforce optimization, claims management, and connectivity between providers, MCOs, and states",
+  "problem_type": "home_health",
+  "solution_type": "SaaS",
+  "buyer": "agencies",
+  "varden_fit": "medium",
+  "url": "https://www.sandata.com",
+  "source": "web",
+  "discovery_round": 95,
+  "discovered_by": "nova"
+}

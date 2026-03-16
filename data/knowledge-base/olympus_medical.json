@@ -1,0 +1,14 @@
+{
+  "company": "Olympus Medical Systems",
+  "country": "JP",
+  "problem": "Endoscopy suites need integrated workflow management that coordinates equipment, imaging, documentation, and patient flow during GI procedures. Fragmented systems reduce efficiency and increase procedural time.",
+  "solution": "Olympus EndoAlpha is an endoscopy workflow management system that integrates endoscopy equipment, image capture, documentation, and patient management. The platform connects GI endoscopy devices, manages procedure scheduling, and provides standardized reporting tools specifically for gastroenterology departments.",
+  "problem_type": "gastroenterology",
+  "solution_type": "SaaS",
+  "buyer": "clinics",
+  "varden_fit": "low",
+  "url": "https://medical.olympusamerica.com",
+  "source": "web",
+  "discovery_round": 113,
+  "discovered_by": "sky"
+}

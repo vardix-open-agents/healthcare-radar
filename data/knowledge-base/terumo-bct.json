@@ -1,0 +1,14 @@
+{
+  "company": "Terumo BCT",
+  "country": "JP",
+  "problem": "Blood centers face inefficiencies in blood component collection and processing, struggling to optimize yield while maintaining quality standards and traceability throughout the manufacturing process.",
+  "solution": "Blood component collection, processing, and management systems including apheresis devices and software for whole blood processing. Their Trima and Spectra Optia systems integrate with blood bank software to optimize collection and provide end-to-end tracking from donor to patient.",
+  "problem_type": "blood_bank",
+  "solution_type": "SaaS",
+  "buyer": "hospitals",
+  "varden_fit": "low",
+  "url": "https://www.terumobct.com/",
+  "source": "web",
+  "discovery_round": 130,
+  "discovered_by": "sky"
+}

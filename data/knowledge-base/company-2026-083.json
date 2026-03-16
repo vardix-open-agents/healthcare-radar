@@ -1,0 +1,27 @@
+{
+  "company": "Tia",
+  "country": "United States",
+  "founded_year": 2016,
+  "category": "Women's Health",
+  "subsector": "Hybrid Women's Healthcare",
+  "description": "US women's health platform combining virtual and in-person care. Operates 10+ clinics offering primary care, OBGYN, mental health, and wellness. Tech-enabled, patient-centered model.",
+  "business_model": "B2C - Membership model + insurance; B2B for employer partnerships",
+  "target_market": "US women aged 25-45, expanding to employers",
+  "funding_stage": "Series B",
+  "funding_amount_usd": 110000000,
+  "key_investors": "Define Ventures, ACME Capital, Torch Capital",
+  "employees": 250,
+  "customers": "100000+ members, 10+ clinic locations",
+  "revenue_usd": 35000000,
+  "tech_stack": ["Mobile app", "Web platform", "EHR", "Booking system"],
+  "integration_points": ["Insurance systems", "Lab networks", "Pharmacy"],
+  "competitive_advantage": "Women-centric care model, hybrid delivery, strong brand loyalty",
+  "varden_fit": {
+    "threat_level": "low",
+    "opportunity": "learn",
+    "rationale": "Reference model for women's health - replicable in European markets"
+  },
+  "data_quality": "high",
+  "sources": ["asktia.com", "crunchbase.com"],
+  "last_updated": "2026-03-11"
+}

@@ -1,0 +1,29 @@
+{
+  "id": "exer-2026-141",
+  "title": "Exer - AI Motion Analysis",
+  "company": "Exer",
+  "country": "USA",
+  "region": "NA",
+  "segment": "motion_analysis",
+  "problem": "Physical therapy assessment and monitoring requires in-person visits, limiting access and continuity of care.",
+  "solution": "AI-powered motion analysis using smartphone cameras for orthopedic and physical therapy assessment and exercise tracking.",
+  "technology": "Computer vision, pose estimation, AI movement analysis, mobile app",
+  "target_customer": "Physical therapists, orthopedic practices, patients",
+  "care_setting": "home_outpatient",
+  "care_domain": "orthopedics",
+  "care_stage": "assessment_rehab",
+  "automation_level": "full",
+  "ai_type": "Computer vision for pose estimation and movement analysis",
+  "traction_signals": [
+    "Launched 2020",
+    "Growing PT and orthopedic customer base",
+    "No wearable required - smartphone only"
+  ],
+  "funding": "$10M+ raised",
+  "regulatory_notes": "No FDA clearance needed for fitness/wellness",
+  "varden_fit": "Moderate - Assessment tool enabling remote orthopedic and PT care. No hardware required.",
+  "source": "Industry knowledge",
+  "url": "https://exer.ai",
+  "date_added": "2026-03-11",
+  "notes": "Software-only motion analysis. Good for remote PT assessment."
+}

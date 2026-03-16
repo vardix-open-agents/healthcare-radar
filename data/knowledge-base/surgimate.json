@@ -1,0 +1,14 @@
+{
+  "company": "Surgimate",
+  "country": "US",
+  "problem": "Surgical practices struggle with case coordination, scheduling inefficiencies, last-minute cancellations, and lost revenue due to poor block time management and fragmented pre-op workflows",
+  "solution": "Cloud-based surgical coordination platform that orchestrates every aspect of surgical scheduling - from block time management to pre-op requirements tracking, reducing cancellations by 25% and scheduling costs by 35%",
+  "problem_type": "orthopedics",
+  "solution_type": "SaaS",
+  "buyer": "clinics",
+  "varden_fit": "medium",
+  "url": "https://www.surgimate.com",
+  "source": "web",
+  "discovery_round": 109,
+  "discovered_by": "sky"
+}

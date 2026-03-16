@@ -1,0 +1,14 @@
+{
+  "company": "Pager Health",
+  "country": "US",
+  "problem": "Healthcare enterprises struggle with fragmented member experiences across multiple point solutions, providers, and care touchpoints, leading to poor engagement and inefficient care navigation",
+  "solution": "AI-powered connected health platform that orchestrates the entire care access journey with Provider Navigator, white-label technology, care navigation, virtual health, and concierge services to unify member experiences across payers and providers",
+  "problem_type": "patient_communication",
+  "solution_type": "SaaS",
+  "buyer": "providers",
+  "varden_fit": "high",
+  "url": "https://www.pagerhealth.com/",
+  "source": "web",
+  "discovery_round": 74,
+  "discovered_by": "sky"
+}

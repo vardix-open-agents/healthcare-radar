@@ -1,0 +1,28 @@
+{
+  "company": "TigerConnect (USA)",
+  "country": "United States",
+  "founded_year": 2010,
+  "category": "Healthcare Infrastructure",
+  "subsector": "Clinical Communication Platform",
+  "description": "Healthcare communication and collaboration platform. Secure messaging, care team coordination, and clinical workflows. HIPAA-compliant communication tool used by 7000+ healthcare organizations.",
+  "business_model": "B2B - Communication platform to healthcare organizations",
+  "target_market": "Hospitals, health systems, physician practices",
+  "funding_stage": "Series C",
+  "funding_amount_usd": 100000000,
+  "key_investors": "Wellington Management, Norwest Venture Partners",
+  "employees": "200+",
+  "customers": "7000+ healthcare organizations",
+  "revenue_usd": null,
+  "tech_stack": ["Secure messaging", "Care team coordination", "Clinical workflows", "EHR integration", "Alert management"],
+  "integration_points": ["EHRs", "Nurse call systems", "Scheduling systems", "On-call schedules"],
+  "competitive_advantage": "Clinical workflow integration, HIPAA-compliant, proven in hospitals",
+  "boring_software": true,
+  "varden_fit": {
+    "threat_level": "low",
+    "opportunity": "partner",
+    "rationale": "Clinical communication - could integrate with occupational health workflows"
+  },
+  "data_quality": "high",
+  "sources": ["tigertext.com", "crunchbase.com"],
+  "last_updated": "2026-03-11"
+}

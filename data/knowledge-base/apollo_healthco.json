@@ -1,0 +1,14 @@
+{
+  "company": "Apollo Health Co",
+  "country": "US",
+  "problem": "Chronic pain is often accompanied by cognitive decline, inflammation, and metabolic dysfunction. Traditional pain management treats symptoms in isolation without addressing the interconnected factors affecting brain health and chronic pain conditions.",
+  "solution": "Precision medicine platform combining the Bredesen Protocol for cognitive health with lifestyle interventions. Identifies 36+ factors (metabolic, nutrient status, inflammation, viruses) affecting brain and body health. Includes KetoFLEX diet, sleep optimization, and stress management for chronic conditions.",
+  "problem_type": "pain_management",
+  "solution_type": "SaaS",
+  "buyer": "clinics",
+  "varden_fit": "medium",
+  "url": "https://www.apollohealthco.com",
+  "source": "web",
+  "discovery_round": 135,
+  "discovered_by": "nova"
+}

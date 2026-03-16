@@ -1,0 +1,33 @@
+{
+  "id": "latam-maternity-platform-2026-235",
+  "title": "LATAM Maternity & Newborn Care Platform",
+  "company": null,
+  "country": "Brazil/Mexico/Colombia/Regional",
+  "region": "LATAM",
+  "segment": "treatment",
+  "problem": "Maternity care in LATAM is fragmented. Prenatal care often inadequate, especially in low-income populations. High rates of maternal mortality (Brazil: 60/100K vs US: 17/100K). No continuous monitoring during pregnancy. Postpartum care minimal. No education on warning signs. C-section rates very high (55% in Brazil vs WHO recommendation 15%).",
+  "solution": "Maternity care platform. Prenatal appointment tracking and reminders. Symptom monitoring (AI triage for warning signs). Educational content (video, articles). Postpartum check-ins. Newborn development tracking. Connection to community health workers. Integration with OB-GYN EMRs.",
+  "technology": "Mobile app, AI symptom triage, appointment scheduling, content delivery, community health worker dashboard, EMR integration",
+  "target_customer": "Health insurers (reduce complications), public health systems, OB-GYN practices, employers (maternity benefits)",
+  "care_setting": "home",
+  "care_domain": "womens_health",
+  "care_stage": "prevention",
+  "automation_level": "assistive",
+  "ai_type": "Symptom triage for warning signs (preeclampsia, etc.)",
+  "traction_signals": [
+    "High maternal mortality rates driving intervention",
+    "Employers investing in maternity benefits",
+    "Proven models (Oula, Cayaba in US)",
+    "Government maternal health initiatives"
+  ],
+  "funding": null,
+  "regulatory_notes": "Medical advice regulations, pregnancy data privacy, integration with public health programs",
+  "varden_fit": "MEDIUM FIT - Consumer-facing but critical public health need. Could partner with Ministry of Health for scale. High impact, potential government contracts.",
+  "source": "Opportunity analysis + market gap identification",
+  "url": null,
+  "date_added": "2026-03-11",
+  "problem_type": "maternal_health",
+  "contrarian": false,
+  "boring_software": false,
+  "notes": "Maternal health is complex but high-impact. Brazil's maternal mortality is 3x US rate. Public health contracts possible. Strong mission-driven angle."
+}

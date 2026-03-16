@@ -1,0 +1,22 @@
+{
+  "id": "inside-tracker-2026-318",
+  "title": "InsideTracker - Personalized Blood Analysis",
+  "company": "InsideTracker",
+  "country": "USA",
+  "segment": "consumer",
+  "problem": "Blood test results generic; no actionable guidance on optimizing health biomarkers",
+  "solution": "AI-powered blood analysis with personalized recommendations for nutrition and lifestyle",
+  "technology": "Biomarker analysis, AI recommendations, longitudinal tracking",
+  "target_customer": "Health-conscious consumers, athletes",
+  "care_setting": "home",
+  "care_domain": "diagnostics",
+  "care_stage": "wellness",
+  "automation_level": "full",
+  "ai_type": "recommendation engine",
+  "traction_signals": ["Raised $120M", "500K+ users", "Pro athlete partnerships"],
+  "funding": "Series D",
+  "regulatory_notes": "CLIA certified labs, not diagnostic device",
+  "source": "sky-round18-diagnostics",
+  "url": "https://www.insidetracker.com",
+  "date_added": "2026-03-11"
+}

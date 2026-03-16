@@ -1,0 +1,29 @@
+{
+  "id": "better-2026-046",
+  "title": "Better (Prescribery) - Digital Prescription Platform",
+  "company": "Better",
+  "country": "Sweden",
+  "region": "Nordics",
+  "segment": "treatment",
+  "problem": "Repeat prescriptions require doctor visits even for stable chronic conditions, creating unnecessary burden.",
+  "solution": "Digital platform enabling repeat prescription renewals through online consultations with doctors.",
+  "technology": "Telemedicine platform, prescription processing",
+  "target_customer": "Patients with chronic conditions",
+  "care_setting": "telehealth",
+  "care_domain": "chronic disease",
+  "care_stage": "treatment",
+  "automation_level": "partial",
+  "ai_type": null,
+  "traction_signals": [
+    "Swedish prescription platform",
+    "Repeat prescription focus",
+    "Online consultations"
+  ],
+  "funding": null,
+  "regulatory_notes": "Licensed healthcare provider, prescription regulations.",
+  "varden_fit": "Moderate — prescription management could complement Varden's clinic partners.",
+  "source": "Swedish health tech ecosystem",
+  "url": "https://www.better.se",
+  "date_added": "2026-03-11",
+  "notes": "Digital prescription renewal model. Similar to UK pharmacy models."
+}

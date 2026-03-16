@@ -1,0 +1,14 @@
+{
+  "company": "TeleClinic",
+  "country": "DE",
+  "problem": "Patients need quick access to medical consultations without visiting physical practices; doctors need tools for telemedicine",
+  "solution": "Telemedicine platform providing online doctor consultations via video, electronic prescriptions, sick leave certificates, and patient-doctor communication tools",
+  "problem_type": "practice_management",
+  "solution_type": "SaaS",
+  "buyer": "clinics",
+  "varden_fit": "medium",
+  "url": "https://www.teleclinic.com",
+  "source": "web research",
+  "discovery_round": 63,
+  "discovered_by": "sky"
+}

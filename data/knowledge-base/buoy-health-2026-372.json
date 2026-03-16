@@ -1,0 +1,23 @@
+{
+  "company_name": "Buoy Health",
+  "problem_solved": "Patients face confusion and anxiety when searching for health information online, often encountering scary or misleading content",
+  "solution_description": "AI-powered symptom checker that helps people figure out health issues and find the right care. Conversational AI asks questions to narrow down symptoms. Content written by clinicians and scientifically vetted. Guides users to appropriate products/services/doctors",
+  "buyer_persona": "patients|health_systems|health_plans",
+  "care_stage": "triage",
+  "automation_level": "partial",
+  "varden_fit": "medium",
+  "region": "US",
+  "country": "US",
+  "funding_stage": "series_b",
+  "traction_signals": [
+    "AI-powered conversational symptom checker",
+    "Content reviewed by doctors, clinicians, nurses, therapists",
+    "Editorial quality standards - clear, actionable, not alarmist",
+    "Clinical research-backed approach",
+    "Consumer-friendly interface"
+  ],
+  "notes": "US-centric consumer symptom checker. Strong editorial standards combat health anxiety from online searching. 'Buoy it' branding suggests consumer-first approach",
+  "discovery_round": 51,
+  "discovered_by": "sky",
+  "timestamp": "2026-03-11T23:24:00Z"
+}

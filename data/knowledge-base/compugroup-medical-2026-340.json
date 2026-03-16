@@ -1,0 +1,22 @@
+{
+  "id": "compugroup-medical-2026-340",
+  "title": "CompuGroup Medical - European Health IT",
+  "company": "CompuGroup Medical",
+  "country": "Germany",
+  "segment": "infrastructure",
+  "problem": "European healthcare fragmented across countries, languages, and systems",
+  "solution": "Integrated HIS, LIS, and practice management for European healthcare market",
+  "technology": "HIS, LIS, practice management, telemedicine, data exchange",
+  "target_customer": "European hospitals, physician practices, labs",
+  "care_setting": "all",
+  "care_domain": "infrastructure",
+  "care_stage": "all",
+  "automation_level": "partial",
+  "ai_type": null,
+  "traction_signals": ["German market leader", "Present in 20+ countries", "€1B+ revenue"],
+  "funding": "Public (ETR: COP)",
+  "regulatory_notes": "GDPR compliant, EU MDR",
+  "source": "sky-round18-diagnostics",
+  "url": "https://www.cgm.com",
+  "date_added": "2026-03-11"
+}

@@ -1,0 +1,14 @@
+{
+  "company": "WoundVision",
+  "country": "US",
+  "problem": "Wound assessment is subjective and error-prone. Paper rulers are inaccurate (96% error rate). Documentation inconsistencies lead to compliance issues, and lack of standardized imaging makes it hard to track healing progress across facilities.",
+  "solution": "Full-service wound imaging and documentation solution with Scout software. Provides physiological documentation (skin temperature measurement), HIPAA-compliant photography and measurement, EMR integration, and scalable standardization across care continuum.",
+  "problem_type": "wound_care",
+  "solution_type": "SaaS",
+  "buyer": "hospitals",
+  "varden_fit": "medium",
+  "url": "https://woundvision.com",
+  "source": "web",
+  "discovery_round": 134,
+  "discovered_by": "sky"
+}

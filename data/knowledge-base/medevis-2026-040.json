@@ -1,0 +1,29 @@
+{
+  "id": "medevis-2026-040",
+  "title": "Medevis - Healthcare Provider Comparison Platform",
+  "company": "Medevis",
+  "country": "Sweden",
+  "region": "Nordics",
+  "segment": "scheduling",
+  "problem": "Patients cannot easily compare healthcare providers based on quality, wait times, or patient reviews.",
+  "solution": "Platform for comparing healthcare providers with patient reviews, quality metrics, and booking capabilities.",
+  "technology": "Comparison platform, booking, patient reviews",
+  "target_customer": "Healthcare providers, patients",
+  "care_setting": "primary_care",
+  "care_domain": "general",
+  "care_stage": "admin",
+  "automation_level": "partial",
+  "ai_type": null,
+  "traction_signals": [
+    "Swedish healthcare comparison",
+    "Quality metrics and reviews",
+    "Provider booking"
+  ],
+  "funding": null,
+  "regulatory_notes": "Healthcare information platform, data compliance.",
+  "varden_fit": "High — comparison and booking aligns with Varden's marketplace. Potential competitor or acquisition target.",
+  "source": "Swedish health tech ecosystem",
+  "url": "https://www.medevis.se",
+  "date_added": "2026-03-11",
+  "notes": "Provider comparison angle is interesting. Differentiation from pure booking."
+}

@@ -1,0 +1,32 @@
+{
+  "id": "company-2026-199",
+  "title": "Push Doctor - Telemedicine Platform UK",
+  "company": "Push Doctor",
+  "country": "United Kingdom",
+  "region": "EU/Europe",
+  "segment": "telehealth",
+  "problem": "UK patients wait weeks for GP appointments. NHS capacity constraints limit access to primary care.",
+  "solution": "Telemedicine platform providing video GP consultations, e-prescriptions, and referrals. NHS and private options.",
+  "technology": "Telemedicine platform, EHR integration, NHS APIs",
+  "target_customer": "UK patients, employers, insurers",
+  "care_setting": "telehealth",
+  "care_domain": "general",
+  "care_stage": "diagnosis",
+  "automation_level": "partial",
+  "ai_type": null,
+  "traction_signals": [
+    "NHS partnerships",
+    "Millions of consultations",
+    "Employer clients"
+  ],
+  "funding": "Series C £30M+",
+  "regulatory_notes": "CQC registered, NHS standards, UK medical regulations",
+  "varden_fit": "HIGH - Telemedicine platform with NHS integration. Infrastructure for primary care access.",
+  "source": "scout-round7",
+  "url": "https://www.pushdoctor.co.uk",
+  "date_added": "2026-03-11",
+  "notes": "boring_software=true, contrarian=false. UK representation. Telemedicine integrated with NHS.",
+  "problem_type": "care_navigation",
+  "boring_software": true,
+  "contrarian": false
+}

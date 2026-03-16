@@ -1,0 +1,32 @@
+{
+  "id": "company-2026-201",
+  "title": "CMR Surgical - Surgical Robotics Platform",
+  "company": "CMR Surgical",
+  "country": "United Kingdom",
+  "region": "EU/Europe",
+  "segment": "treatment",
+  "problem": "Minimally invasive surgery reduces patient trauma but requires expensive robotic systems that most hospitals can't afford.",
+  "solution": "Versatile surgical robot system at lower cost than incumbents. Modular design for broader hospital access.",
+  "technology": "Surgical robotics, haptic feedback, modular design",
+  "target_customer": "Hospitals, surgical centers",
+  "care_setting": "hospital",
+  "care_domain": "surgery",
+  "care_stage": "treatment",
+  "automation_level": "assistive",
+  "ai_type": null,
+  "traction_signals": [
+    "$600M+ funding",
+    "CE marked, FDA approval process",
+    "Deployed in multiple countries"
+  ],
+  "funding": "Series D $600M+",
+  "regulatory_notes": "CE mark, FDA approval pathway, medical device regulations",
+  "varden_fit": "LOW - Surgical robotics. Different segment from Varden but shows medical device innovation in Europe.",
+  "source": "scout-round7",
+  "url": "https://cmrsurgical.com",
+  "date_added": "2026-03-11",
+  "notes": "boring_software=false, contrarian=false. UK/EU representation. Surgical robotics innovation.",
+  "problem_type": "diagnostics_imaging",
+  "boring_software": false,
+  "contrarian": false
+}

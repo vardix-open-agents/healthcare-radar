@@ -1,0 +1,16 @@
+{
+  "id": "problem-2026-086",
+  "problem": "Travel nurses are onboarded manually at each facility, requiring 40+ hours of paperwork and credential verification per assignment",
+  "problem_type": "staffing_workforce",
+  "solution_type": "Universal nurse credentialing, blockchain-based licensure verification, shared competency databases",
+  "care_stage": "administration",
+  "automation_type": "workflow_automation",
+  "buyer": "health_system",
+  "care_setting": "hospital",
+  "companies": ["Nurse License Map", "Aya Healthcare", "Travel Nurse across America", "Fusion Medical", "Trustaff"],
+  "signals": ["Travel nurse market explosion", "Nurse Licensure Compact expansion", "Temporary staffing cost crisis"],
+  "boring_software": true,
+  "contrarian": false,
+  "url": "https://www.ncsbn.org/nurse-licensure-compact.htm",
+  "date_added": "2026-03-11"
+}

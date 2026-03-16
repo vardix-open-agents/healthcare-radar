@@ -1,0 +1,86 @@
+[
+  {
+    "company_name": "LungHealth Ltd",
+    "hq_location": "United Kingdom",
+    "website_url": "https://lunghealth.co.uk",
+    "problem_solved": "Respiratory diseases are often mis-diagnosed or not treated according to guidelines. LungHealth provides clinical decision support software that guides clinicians through consistent, algorithm-guided consultations for asthma and COPD diagnosis and management.",
+    "who_buys_it": "NHS primary care practices, GP surgeries, respiratory clinics, secondary care hospitals",
+    "key_features": [
+      "Algorithm-guided consultations based on NICE/GOLD/BTS/SIGN guidelines",
+      "Clinical decision support for accurate asthma and COPD diagnosis",
+      "Remote patient review capability for telemedicine consultations"
+    ],
+    "business_model": "SaaS - Software licensing to NHS trusts and healthcare providers",
+    "why_varden_should_care": "High replicability - guideline-driven decision support is a proven pattern across specialties. The clinical workflow integration and NHS adoption model can be replicated for other chronic disease management."
+  },
+  {
+    "company_name": "Qureight",
+    "hq_location": "Cambridge and London, United Kingdom",
+    "website_url": "https://www.qureight.com",
+    "problem_solved": "Clinical trials for lung diseases (IPF, PPF, pulmonary hypertension, bronchiectasis) require complex imaging endpoints and data analysis. Qureight accelerates these trials through AI-powered imaging analysis and data curation.",
+    "who_buys_it": "Biopharma companies, clinical trial sponsors, CROs, research hospitals",
+    "key_features": [
+      "AI-powered lung image biomarkers (Lung8TM, Air8TM, Fibr8TM, Glass8TM, Vascul8TM) for clinical trials",
+      "Enterprise-grade imaging CRO platform for rapid patient inclusion and site onboarding",
+      "Real-world data products including synthetic control arms for lung diseases"
+    ],
+    "business_model": "SaaS / Service-based - Imaging CRO services and data products for clinical trials",
+    "why_varden_should_care": "High replicability - AI imaging analysis for clinical trials is applicable across therapeutic areas. The platform approach combining software, AI, and data services creates a scalable model."
+  },
+  {
+    "company_name": "Vitalograph",
+    "hq_location": "Buckingham, United Kingdom",
+    "website_url": "https://vitalograph.com",
+    "problem_solved": "Accurate respiratory diagnostics and lung function testing is essential for diagnosing and managing respiratory conditions. Vitalograph provides spirometry and pulmonary function testing solutions for healthcare and clinical trials.",
+    "who_buys_it": "GP practices, respiratory clinics, hospitals, occupational health providers, clinical trial sponsors, CROs",
+    "key_features": [
+      "Comprehensive spirometry and pulmonary function testing (PFT) devices and software",
+      "comPAS PFT solutions for clinic and hospital diagnostics",
+      "Clinical trial services including respiratory endpoint solutions and home monitoring"
+    ],
+    "business_model": "Hybrid - Hardware device sales + Software licensing (SaaS) + Clinical trial services",
+    "why_varden_should_care": "Moderate replicability - The software platform for respiratory diagnostics and clinical trial data management can be replicated. The hardware component reduces pure software replicability but the software layer is transferable."
+  },
+  {
+    "company_name": "MySpira (Orbital Media and Advertising Ltd)",
+    "hq_location": "Stowmarket, Suffolk, United Kingdom",
+    "website_url": "https://myspira.com",
+    "problem_solved": "93% of asthma sufferers use their metered dose inhalers incorrectly, leading to preventable hospital admissions. MySpira uses augmented reality and gamification to teach children (ages 6-13) proper inhaler technique and asthma management.",
+    "who_buys_it": "NHS GP surgeries, hospitals, schools, pharmacists, parents of children with asthma",
+    "key_features": [
+      "Augmented reality (AR) modules for interactive inhaler technique training",
+      "8 gamified learning modules validated by University of Suffolk research",
+      "NHS Unlimited licensing for healthcare providers"
+    ],
+    "business_model": "SaaS / Licensing - App subscriptions and NHS institutional licensing",
+    "why_varden_should_care": "High replicability - AR-based patient education is applicable across many chronic conditions. The gamification approach for pediatric health education is a proven pattern that can be extended to diabetes, allergies, and other conditions."
+  },
+  {
+    "company_name": "ResMed UK",
+    "hq_location": "Oxford, United Kingdom",
+    "website_url": "https://www.resmed.co.uk",
+    "problem_solved": "Sleep apnea and respiratory care requires ongoing patient monitoring, therapy compliance support, and device management. ResMed provides CPAP devices, masks, and digital health solutions for sleep apnea and chronic respiratory conditions.",
+    "who_buys_it": "Sleep clinics, respiratory departments, hospitals, NHS trusts, patients (via prescription)",
+    "key_features": [
+      "myAir digital health platform for patient monitoring and therapy compliance tracking",
+      "CPAP machines and mask systems for sleep apnea treatment",
+      "Remote patient monitoring and care management software"
+    ],
+    "business_model": "Hybrid - Hardware device sales + Software subscription (myAir platform) + Service contracts",
+    "why_varden_should_care": "Moderate replicability - The digital health platform for remote patient monitoring and therapy compliance is highly replicable across chronic conditions. The hardware component reduces pure software replicability."
+  },
+  {
+    "company_name": "TidalSense",
+    "hq_location": "Cambridge, United Kingdom",
+    "website_url": "https://tidalsense.com",
+    "problem_solved": "Respiratory disease diagnosis and monitoring requires objective, non-invasive measures of lung function. TidalSense develops technology for respiratory diagnostics and remote monitoring of patients with chronic lung conditions.",
+    "who_buys_it": "NHS trusts, respiratory clinics, hospitals, clinical trial sponsors",
+    "key_features": [
+      "Non-invasive respiratory diagnostics technology",
+      "Remote patient monitoring for chronic lung disease management",
+      "AI-powered analysis of respiratory biomarkers"
+    ],
+    "business_model": "SaaS / Device-as-a-Service - Diagnostic technology licensing and remote monitoring subscriptions",
+    "why_varden_should_care": "High replicability - Remote monitoring and diagnostics for chronic conditions is a broadly applicable pattern. The AI-powered biomarker analysis approach can be extended to other disease areas."
+  }
+]

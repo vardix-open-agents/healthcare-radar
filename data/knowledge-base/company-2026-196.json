@@ -1,0 +1,27 @@
+{
+  "company": "Noom (USA)",
+  "country": "United States",
+  "founded_year": 2008,
+  "category": "Digital Therapeutics",
+  "subsector": "Behavior Change Platform",
+  "description": "US behavior change platform for weight management, diabetes prevention, and hypertension. Mobile app with psychology-based programs. Sold directly to consumers and through employers/health plans.",
+  "business_model": "B2C/B2B - Behavior change programs to consumers and employers",
+  "target_market": "Consumers, employers, health plans",
+  "funding_stage": "Series F",
+  "funding_amount_usd": 540000000,
+  "key_investors": "Sequoia Capital, Silver Lake, Samsung, others",
+  "employees": "2000+",
+  "customers": "50M+ downloads, employers, health plans",
+  "revenue_usd": 600000000,
+  "tech_stack": ["Mobile app", "Behavioral psychology", "Coaching", "AI personalization"],
+  "integration_points": ["Employer benefits platforms", "Health plan systems", "Fitness trackers"],
+  "competitive_advantage": "Psychology-based approach, massive user base, clinical validation",
+  "varden_fit": {
+    "threat_level": "low",
+    "opportunity": "partner",
+    "rationale": "Behavior change platform - could complement occupational health programs"
+  },
+  "data_quality": "high",
+  "sources": ["noom.com", "crunchbase.com"],
+  "last_updated": "2026-03-11"
+}

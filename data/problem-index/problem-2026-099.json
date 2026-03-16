@@ -1,0 +1,16 @@
+{
+  "id": "problem-2026-099",
+  "problem": "Pathology labs can't integrate digital slide images with EHR systems, requiring separate logins and manual result transcription",
+  "problem_type": "data_integration",
+  "solution_type": "Digital pathology integration, DICOM/FHIR standards, AI-assisted diagnosis workflows",
+  "care_stage": "diagnosis",
+  "automation_type": "data_integration",
+  "buyer": "health_system",
+  "care_setting": "pathology",
+  "companies": ["Philips Digital Pathology", "Leica Biosystems", "Hamamatsu", "Indica Labs", "PathAI"],
+  "signals": ["Whole slide imaging adoption", "AI pathology validation", "Laboratory workforce shortage"],
+  "boring_software": false,
+  "contrarian": false,
+  "url": "https://www.cap.org",
+  "date_added": "2026-03-11"
+}

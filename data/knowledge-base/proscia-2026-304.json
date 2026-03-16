@@ -1,0 +1,22 @@
+{
+  "id": "proscia-2026-304",
+  "title": "Proscia - Digital Pathology Platform",
+  "company": "Proscia",
+  "country": "USA",
+  "segment": "diagnostics",
+  "problem": "Pathology workflow stuck in analog slide-based process, slow turnaround, limited remote capabilities",
+  "solution": "Cloud-native digital pathology platform enabling remote review, AI integration, and workflow automation",
+  "technology": "Cloud computing, whole slide imaging management, AI integration layer",
+  "target_customer": "Reference labs, hospital pathology departments, pharma",
+  "care_setting": "hospital",
+  "care_domain": "diagnostics",
+  "care_stage": "diagnosis",
+  "automation_level": "partial",
+  "ai_type": null,
+  "traction_signals": ["Raised $37M", "Growing 100% YoY", "Used by Mayo Clinic"],
+  "funding": "Series C",
+  "regulatory_notes": "FDA cleared for primary diagnosis",
+  "source": "sky-round18-diagnostics",
+  "url": "https://www.proscia.com",
+  "date_added": "2026-03-11"
+}

@@ -1,0 +1,16 @@
+{
+  "id": "problem-2026-115",
+  "problem": "Nurse credential verification takes 30-60 days, delaying start dates and causing coverage gaps",
+  "problem_type": "staffing",
+  "solution_type": "Automated credential verification, blockchain-based credentials, universal verification platforms",
+  "care_stage": "admin",
+  "automation_type": "full_automation",
+  "buyer": "hospital",
+  "care_setting": "primary_care",
+  "companies": ["Credly", "Verified Credentials", "PreCheck", "Silencer"],
+  "signals": ["Credentialing backlog", "Onboarding delays", "Compliance risks"],
+  "boring_software": true,
+  "contrarian": false,
+  "url": "https://www.credly.com",
+  "date_added": "2026-03-11"
+}

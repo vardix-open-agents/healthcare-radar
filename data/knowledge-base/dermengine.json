@@ -1,0 +1,14 @@
+{
+  "company": "DermEngine (MetaOptima)",
+  "country": "CA",
+  "problem": "Dermatology practices need intelligent imaging systems to document skin lesions, track changes over time, and facilitate teledermatology consultations for remote patient care",
+  "solution": "Cloud-based dermatology platform with AI-powered lesion analysis, full-body imaging, dermoscopy integration, and teledermatology capabilities for secure provider collaboration",
+  "problem_type": "dermatology",
+  "solution_type": "SaaS",
+  "buyer": "clinics",
+  "varden_fit": "medium",
+  "url": "https://www.dermengine.com",
+  "source": "web",
+  "discovery_round": 106,
+  "discovered_by": "nova"
+}

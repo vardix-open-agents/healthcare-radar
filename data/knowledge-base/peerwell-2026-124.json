@@ -1,0 +1,29 @@
+{
+  "id": "peerwell-2026-124",
+  "title": "PeerWell - Surgical Preparation Platform",
+  "company": "PeerWell",
+  "country": "USA",
+  "region": "NA",
+  "segment": "surgical_optimization",
+  "problem": "Surgical outcomes depend on patient preparation and optimization before surgery, but practices lack tools to ensure patients are ready.",
+  "solution": "Digital pre-habilitation platform that prepares patients for surgery with personalized exercise, nutrition guidance, and education programs.",
+  "technology": "Mobile app, AI personalization, wearable integration, behavior change science",
+  "target_customer": "Orthopedic practices, hospitals, surgical programs",
+  "care_setting": "home",
+  "care_domain": "orthopedics",
+  "care_stage": "prehabilitation",
+  "automation_level": "full",
+  "ai_type": "AI personalization of pre-hab programs",
+  "traction_signals": [
+    "Used by major orthopedic groups",
+    "Proven improvement in surgical outcomes",
+    "Integration with major EHR systems"
+  ],
+  "funding": "$10M+ raised",
+  "regulatory_notes": "No FDA clearance needed, clinical validation completed",
+  "varden_fit": "HIGH - Pre-surgical optimization is key care coordination opportunity. Could expand beyond orthopedics.",
+  "source": "Industry knowledge",
+  "url": "https://peerwell.co",
+  "date_added": "2026-03-11",
+  "notes": "Novel approach to surgical preparation. Strong outcomes data."
+}

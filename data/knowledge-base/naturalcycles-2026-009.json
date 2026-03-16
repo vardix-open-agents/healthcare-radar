@@ -1,0 +1,31 @@
+{
+  "id": "naturalcycles-2026-009",
+  "title": "Natural Cycles - FDA-Approved Digital Birth Control & Femtech Platform",
+  "company": "Natural Cycles",
+  "country": "Sweden",
+  "region": "Nordics",
+  "segment": "monitoring",
+  "problem": "Women lack hormone-free, data-driven contraceptive options. Traditional birth control has side effects; fertility awareness methods are often unreliable.",
+  "solution": "FDA-cleared digital birth control app using temperature tracking and algorithms to predict fertile days. Now expanded to cover full reproductive lifecycle: birth control, pregnancy planning, pregnancy tracking, postpartum, and menopause.",
+  "technology": "Algorithm-based fertility prediction, temperature monitoring, wearable integration",
+  "target_customer": "Women seeking hormone-free contraception, fertility tracking, lifecycle health",
+  "care_setting": "home",
+  "care_domain": "women's health",
+  "care_stage": "prevention",
+  "automation_level": "partial",
+  "ai_type": "ML algorithm",
+  "traction_signals": [
+    "€50.8M Series C funding",
+    "580M SEK raised for wearable development",
+    "FDA-cleared as contraceptive",
+    "Expanding to menopause tracking",
+    "Global user base"
+  ],
+  "funding": "€50.8M Series C + 580M SEK additional",
+  "regulatory_notes": "FDA-cleared as digital contraceptive. CE marked in EU. Expanding regulatory pathway for lifecycle health.",
+  "varden_fit": "LOW - B2C femtech with limited overlap to Varden's B2B clinic marketplace. Interesting for women's health module but different target market. Watch for potential B2B employer/insurance partnerships.",
+  "source": "Sweaty Business + IT-Halsa + Ny Teknik",
+  "url": "https://www.naturalcycles.com",
+  "date_added": "2026-03-11",
+  "notes": "World's first FDA-approved digital contraceptive. Expanding from birth control to full reproductive lifecycle. Developing own wearable hardware. Strong brand in femtech."
+}

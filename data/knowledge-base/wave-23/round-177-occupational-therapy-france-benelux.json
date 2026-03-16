@@ -1,0 +1,138 @@
+[
+  {
+    "company_name": "OT-Pro (Q-Top)",
+    "hq_location": "Belgium",
+    "website_url": "https://q-top.be",
+    "problem_solved": "Occupational therapists lack specialized practice management software tailored to their unique workflows, including functional assessments, rehabilitation planning, and adaptive equipment tracking",
+    "who_buys_it": "Occupational therapy practices, rehabilitation centers, and individual OT practitioners in Belgium and Netherlands",
+    "key_features": [
+      "OT-specific patient management",
+      "Functional assessment documentation tools",
+      "Rehabilitation planning and tracking",
+      "Adaptive equipment inventory management",
+      "Billing and invoicing for OT services",
+      "Multi-disciplinary team collaboration"
+    ],
+    "business_model": "SaaS subscription model with tiered pricing based on practice size and number of therapists",
+    "why_varden_should_care": "Pure-play OT practice management solution in Benelux market; addresses specialized OT workflows not covered by general practice management platforms; strong regional market position with room for expansion"
+  },
+  {
+    "company_name": "Corilus",
+    "hq_location": "Belgium",
+    "website_url": "https://www.corilus.be",
+    "problem_solved": "Healthcare providers, including occupational therapists, need integrated practice management solutions that handle scheduling, documentation, billing, and patient communication in one platform",
+    "who_buys_it": "Physiotherapists, occupational therapists, and other allied health professionals in Belgium",
+    "key_features": [
+      "Care Connect platform for practice management",
+      "Patient scheduling and appointment management",
+      "Electronic health records for therapy documentation",
+      "Billing and insurance claim management",
+      "Patient portal and communication tools",
+      "Integration with Belgian healthcare systems"
+    ],
+    "business_model": "SaaS subscription with per-user or per-practice pricing; additional fees for premium features and integrations",
+    "why_varden_should_care": "Established healthcare IT player in Belgium market with strong network effects; platform serves multiple therapy disciplines including OT; opportunity for strategic partnership or regional expansion"
+  },
+  {
+    "company_name": "MadeWare (Medikad)",
+    "hq_location": "Netherlands",
+    "website_url": "https://www.madeware.nl",
+    "problem_solved": "Occupational therapists and physiotherapists in Netherlands need localized practice management software that integrates with Dutch healthcare systems and regulatory requirements",
+    "who_buys_it": "Occupational therapists, physiotherapists, and rehabilitation centers in Netherlands",
+    "key_features": [
+      "Ergotherapie (OT) specific module",
+      "Dutch healthcare system integration",
+      "Patient dossier management",
+      "Treatment planning and documentation",
+      "Adaptive equipment tracking",
+      "Practice analytics and reporting"
+    ],
+    "business_model": "SaaS subscription model with pricing based on practice size; includes support and updates",
+    "why_varden_should_care": "Dutch market leader in OT practice management; strong local market knowledge and regulatory compliance; potential for expansion into broader rehabilitation management"
+  },
+  {
+    "company_name": "Physitrack",
+    "hq_location": "London, UK (operations across Europe)",
+    "website_url": "https://www.physitrack.com",
+    "problem_solved": "Therapists need efficient way to create and deliver personalized exercise programs, track patient adherence, and monitor rehabilitation progress remotely",
+    "who_buys_it": "Physiotherapists, occupational therapists, rehabilitation centers, and healthcare systems across Europe",
+    "key_features": [
+      "18,000+ video exercise library",
+      "Custom exercise program builder with AI assistance",
+      "Patient app (PhysiApp) for home exercise adherence",
+      "Real-time progress monitoring and pain tracking",
+      "Telehealth video consultations",
+      "Outcomes tracking and analytics"
+    ],
+    "business_model": "Freemium model with 14-day free trial; paid subscription tiers for individual practitioners and enterprise plans for healthcare organizations",
+    "why_varden_should_care": "Market leader in rehabilitation exercise prescription with strong clinical validation (100+ studies); could expand deeper into OT-specific assessments and functional tracking; acquisition target for companies entering European rehabilitation market"
+  },
+  {
+    "company_name": "Sword Health",
+    "hq_location": "Porto, Portugal",
+    "website_url": "https://www.swordhealth.com",
+    "problem_solved": "Traditional MSK care is expensive, inaccessible, and often results in unnecessary surgeries; patients need scalable, AI-powered rehabilitation solutions",
+    "who_buys_it": "Self-insured employers, health plans, and healthcare systems seeking to reduce MSK costs and improve member outcomes",
+    "key_features": [
+      "AI-powered MSK care platform",
+      "Digital physical therapy with real-time feedback",
+      "Doctor of Physical Therapy oversight",
+      "Motion-tracking technology via tablet and wearables",
+      "Preventive care and return-to-work programs",
+      "Outcomes tracking: 67% pain-free, 50% surgery reduction"
+    ],
+    "business_model": "B2B enterprise contracts with employers and health plans; value-based pricing tied to cost savings (3.2:1 ROI validated)",
+    "why_varden_should_care": "High-growth digital therapeutics unicorn with proven clinical outcomes; strong employer channel relationships; could expand into occupational therapy and return-to-work assessment; represents digital health consolidation opportunity"
+  },
+  {
+    "company_name": "Lifen",
+    "hq_location": "Paris, France",
+    "website_url": "https://www.lifen.fr",
+    "problem_solved": "Healthcare providers struggle with fragmented patient data across multiple systems, making care coordination and clinical documentation inefficient",
+    "who_buys_it": "Hospitals, clinics, and healthcare networks in France seeking to integrate and streamline their medical documentation workflows",
+    "key_features": [
+      "Lifen Documents: automated document processing",
+      "Lifen Integration: automated DPI (Digital Patient Record) feeding",
+      "MSSanté email integration",
+      "45M+ documents analyzed annually",
+      "Connected to 1600+ data flows",
+      "Serves 1 in 4 French citizens"
+    ],
+    "business_model": "B2B SaaS contracts with healthcare organizations; pricing based on document volume and integration complexity",
+    "why_varden_should_care": "Leading French healthtech company with strong hospital relationships; infrastructure play for healthcare data interoperability; potential channel partner for OT-specific solutions entering French market"
+  },
+  {
+    "company_name": "Rehab Guru",
+    "hq_location": "United Kingdom",
+    "website_url": "https://www.rehabguru.com",
+    "problem_solved": "Therapists need integrated clinic management that combines scheduling, treatment notes, exercise prescription, and patient communication in one seamless system",
+    "who_buys_it": "Physiotherapists, sports therapists, podiatrists, and multidisciplinary therapy clinics",
+    "key_features": [
+      "All-in-one clinic management platform",
+      "Built-in CRM for patient retention",
+      "Exercise prescription with patient app",
+      "AI-assisted clinical note taking",
+      "Digital forms and document storage",
+      "Booking, invoicing, and payment processing"
+    ],
+    "business_model": "SaaS subscription with pricing tiers based on practice size and features; NHS partnerships for pulmonary rehabilitation programs",
+    "why_varden_should_care": "Comprehensive therapy practice platform with AI capabilities; growing user base across UK and Europe; could expand OT-specific functional assessment modules; potential acquisition target for practice management consolidation"
+  },
+  {
+    "company_name": "Keet Health",
+    "hq_location": "United States (operations in Europe)",
+    "website_url": "https://www.keethealth.com",
+    "problem_solved": "Healthcare providers need patient engagement and outcomes tracking solutions that integrate with clinical workflows and support value-based care initiatives",
+    "who_buys_it": "Physical therapy clinics, occupational therapy practices, and healthcare organizations seeking MIPS compliance and value-based care tools",
+    "key_features": [
+      "MSK prevention and treatment platform",
+      "Patient engagement and outcomes tracking",
+      "Home exercise program delivery",
+      "MIPS/QCDR registry for value-based care",
+      "24/7 therapist-patient communication",
+      "Clinical-grade care coordination"
+    ],
+    "business_model": "SaaS subscription with outcomes registry fees; pricing tied to provider count and MIPS reporting needs",
+    "why_varden_should_care": "Proven platform for MSK patient engagement with outcomes focus; MIPS expertise valuable as value-based care expands; potential for European market expansion with localized regulatory compliance"
+  }
+]

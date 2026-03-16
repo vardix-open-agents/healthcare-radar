@@ -1,0 +1,32 @@
+{
+  "id": "cgmvita-2026-099",
+  "title": "CGM VITA (CompuGroup Medical) - European Healthcare IT",
+  "company": "CompuGroup Medical",
+  "country": "Germany",
+  "region": "EU",
+  "segment": "infrastructure",
+  "problem": "European healthcare providers need integrated practice management, billing, and patient engagement solutions.",
+  "solution": "European healthcare IT platform: EHR, practice management, billing, telematics infrastructure for German healthcare. Integration with statutory health insurance (GKV) systems.",
+  "technology": "EHR, practice management, German telematics infrastructure",
+  "target_customer": "German healthcare providers, practices",
+  "care_setting": "primary_care",
+  "care_domain": "general",
+  "care_stage": "admin",
+  "automation_level": "partial",
+  "ai_type": null,
+  "traction_signals": [
+    "Major German healthcare IT player",
+    "GKV integration for billing",
+    "Practice management market share"
+  ],
+  "funding": "Public company",
+  "regulatory_notes": "GDPR compliant, German telematics standards",
+  "varden_fit": "HIGH — CGM proves healthcare IT in Europe works. However, lacks advanced eligibility verification and prior auth automation.",
+  "source": "Industry knowledge",
+  "url": "https://www.cgm.com",
+  "date_added": "2026-03-11",
+  "problem_type": "claims",
+  "contrarian": true,
+  "boring_software": true,
+  "notes": "CONTRARIAN: European healthcare IT exists but lacks advanced eligibility and prior auth automation. This is the blue ocean."
+}

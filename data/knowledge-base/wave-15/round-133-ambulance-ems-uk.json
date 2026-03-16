@@ -1,0 +1,114 @@
+[
+  {
+    "company_name": "System C Healthcare",
+    "hq_location": "Maidstone, United Kingdom",
+    "website": "https://www.systemc.com",
+    "problem_solved": "Provides integrated electronic patient record (EPR) systems for hospitals and healthcare providers, enabling digital transformation and improved patient outcomes through AI-enabled clinical documentation and care coordination.",
+    "customers": "NHS trusts, hospitals, community health providers, mental health facilities",
+    "key_features": [
+      "CareFlow EPR - cloud-based electronic patient record with AI documentation",
+      "BadgerNet - specialized maternity and neonatal care systems",
+      "CarePlus Child Health - children's health records with immunization tracking"
+    ],
+    "business_model": "SaaS with implementation and support services",
+    "why_varden_cares": "Strong NHS market penetration with integrated care solutions; replicable model for digital patient records in emergency care settings with established clinical workflows"
+  },
+  {
+    "company_name": "EMIS Health (Optum)",
+    "hq_location": "Leeds, United Kingdom",
+    "website": "https://www.emishealth.com",
+    "problem_solved": "Provides clinical systems across primary care, community care, A&E, and pharmacy settings to enable integrated, connected healthcare delivery across the NHS.",
+    "customers": "GP practices, A&E departments, community pharmacies, community health providers",
+    "key_features": [
+      "EMIS Web - integrated clinical system for primary and community care",
+      "#1 A&E clinical system supplier for patient management and tracking",
+      "Community pharmacy management and medicines optimization"
+    ],
+    "business_model": "SaaS subscription with per-user licensing",
+    "why_varden_cares": "Market leader in UK primary care and A&E systems; strong integration capabilities demonstrate replicable patterns for emergency care workflow digitization"
+  },
+  {
+    "company_name": "Totalmobile",
+    "hq_location": "Belfast, United Kingdom (Northern Ireland)",
+    "website": "https://www.totalmobile.com",
+    "problem_solved": "Provides field service management software optimized for healthcare, enabling mobile workforce management, scheduling, and care delivery coordination for NHS and private health providers.",
+    "customers": "NHS trusts, community health providers, homecare services, private healthcare providers",
+    "key_features": [
+      "Dynamic scheduling and workforce rostering for mobile care teams",
+      "Real-time mobile data capture and evidence gathering",
+      "Lone worker protection and compliance tracking"
+    ],
+    "business_model": "SaaS with per-user/per-device licensing",
+    "why_varden_cares": "Field-first approach applicable to ambulance and first responder coordination; proven NHS adoption with measurable efficiency gains"
+  },
+  {
+    "company_name": "Swiftqueue",
+    "hq_location": "London, United Kingdom",
+    "website": "https://www.swiftqueue.co.uk",
+    "problem_solved": "Provides enterprise scheduling platform for healthcare appointments and referrals, enabling efficient patient booking, clinic administration, and referral pathway management.",
+    "customers": "NHS hospitals, clinics, specialist care providers",
+    "key_features": [
+      "24/7 online appointment booking and referral management",
+      "PAS integration via HL7 and bespoke APIs",
+      "Patient self-check-in kiosks and portal access"
+    ],
+    "business_model": "SaaS subscription model",
+    "why_varden_cares": "Appointment scheduling infrastructure relevant for patient transport booking; NHS-standard integrations demonstrate healthcare IT playbook"
+  },
+  {
+    "company_name": "Carebeans (QCS)",
+    "hq_location": "United Kingdom",
+    "website": "https://www.carebeans.co.uk",
+    "problem_solved": "Provides all-in-one digital care management software for care homes and domiciliary care, including care planning, rostering, and staff management.",
+    "customers": "Care homes, domiciliary care providers, supported living services",
+    "key_features": [
+      "Digital care planning with real-time status updates",
+      "Integrated rostering with time and attendance tracking",
+      "Domiciliary care coordination and scheduling"
+    ],
+    "business_model": "SaaS subscription",
+    "why_varden_cares": "Care coordination and rostering platform with NHS assured supplier status; model replicable for non-emergency patient transport scheduling"
+  },
+  {
+    "company_name": "Priority Dispatch Corp (UK operations)",
+    "hq_location": "Salt Lake City, USA (with UK presence)",
+    "website": "https://www.prioritydispatch.net",
+    "problem_solved": "Provides emergency dispatch software and protocols (ProQA) used by emergency communications centers worldwide to standardize call-taking, triage, and resource dispatch.",
+    "customers": "Emergency communications centers, ambulance services, fire departments",
+    "key_features": [
+      "ProQA - standardized emergency call triage and dispatch software",
+      "IAED-approved protocols for medical, fire, and police dispatch",
+      "AQUA - quality improvement and data analysis tools"
+    ],
+    "business_model": "Software licensing with training and certification services",
+    "why_varden_cares": "Global standard for emergency dispatch triage; proven protocol-based approach replicable for other emergency coordination use cases"
+  },
+  {
+    "company_name": "ZOLL Data Systems (UK operations)",
+    "hq_location": "Chelmsford, USA (with UK presence)",
+    "website": "https://www.zolldata.com",
+    "problem_solved": "Provides software and data solutions for EMS, fire, and healthcare to improve clinical, operational, and financial performance through integrated ePCR, billing, and analytics.",
+    "customers": "EMS agencies, fire departments, healthcare billing organizations",
+    "key_features": [
+      "emsCharts - electronic patient care reporting for field crews",
+      "Billing and revenue cycle management for EMS",
+      "Data analytics and quality improvement tools"
+    ],
+    "business_model": "SaaS subscription with transaction fees",
+    "why_varden_cares": "End-to-end EMS data platform from field to billing; demonstrates replicable model for ambulance service digitization"
+  },
+  {
+    "company_name": "ImageTrend (UK operations)",
+    "hq_location": "Lakeville, USA (with UK presence)",
+    "website": "https://www.imagetrend.com",
+    "problem_solved": "Provides emergency management software for EMS, fire, and hospitals to streamline documentation, billing, data sharing, and quality improvement processes.",
+    "customers": "EMS agencies, fire departments, hospitals, emergency management organizations",
+    "key_features": [
+      "Elite ePCR - electronic patient care reporting with mobile access",
+      "Service Bridge - billing and revenue recovery integration",
+      "Hospital Bridge - real-time hospital status and patient tracking"
+    ],
+    "business_model": "SaaS subscription with implementation services",
+    "why_varden_cares": "Comprehensive EMS platform with hospital integration; proven workflow automation patterns applicable to UK ambulance services"
+  }
+]

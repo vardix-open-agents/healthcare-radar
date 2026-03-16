@@ -1,0 +1,22 @@
+{
+  "id": "fuji-pacs-2026-321",
+  "title": "FUJIFILM Synapse - Enterprise PACS",
+  "company": "FUJIFILM Healthcare",
+  "country": "Japan",
+  "segment": "infrastructure",
+  "problem": "Healthcare imaging data explosion overwhelming legacy PACS infrastructure",
+  "solution": "Synapse enterprise PACS with advanced visualization and AI-ready architecture",
+  "technology": "Enterprise PACS, VNA, AI integration, cloud options",
+  "target_customer": "Large health systems, academic centers",
+  "care_setting": "hospital",
+  "care_domain": "diagnostics",
+  "care_stage": "diagnosis",
+  "automation_level": "partial",
+  "ai_type": null,
+  "traction_signals": ["Top 5 PACS globally", "Strong in Asia/EU", "AI development investment"],
+  "funding": "Public (FUJIFILM)",
+  "regulatory_notes": "FDA 510(k) cleared, CE marked",
+  "source": "sky-round18-diagnostics",
+  "url": "https://www.fujifilm.com",
+  "date_added": "2026-03-11"
+}

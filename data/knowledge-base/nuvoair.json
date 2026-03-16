@@ -1,0 +1,14 @@
+{
+  "company": "NuvoAir",
+  "country": "US",
+  "problem": "Patients with COPD, asthma, heart failure, and other cardiopulmonary conditions lack continuous monitoring and personalized care, leading to preventable exacerbations and hospitalizations.",
+  "solution": "Virtual-first cardiopulmonary care platform combining FDA-cleared at-home monitoring devices, personalized care plans, and 24/7 data-driven support for remote patient management across heart, lung, and sleep conditions.",
+  "problem_type": "pulmonology",
+  "solution_type": "SaaS",
+  "buyer": "health plans, providers",
+  "varden_fit": "medium",
+  "url": "https://nuvoair.com",
+  "source": "web",
+  "discovery_round": 115,
+  "discovered_by": "sky"
+}

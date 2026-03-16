@@ -1,0 +1,14 @@
+{
+  "company": "g.tec medical engineering",
+  "country": "AT",
+  "problem": "Research and clinical environments need brain-computer interfaces and high-resolution EEG systems for real-time brain wave analysis and neurorehabilitation",
+  "solution": "Invasive and non-invasive brain-computer interfaces, EEG headsets, biosignal amplifiers, and MATLAB-based rapid prototyping BCI environment for clinical neuroscience applications",
+  "problem_type": "neurology",
+  "solution_type": "SaaS",
+  "buyer": "clinics",
+  "varden_fit": "medium",
+  "url": "https://www.gtec.at",
+  "source": "web",
+  "discovery_round": 118,
+  "discovered_by": "sky"
+}

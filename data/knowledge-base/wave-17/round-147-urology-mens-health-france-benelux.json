@@ -1,0 +1,114 @@
+[
+  {
+    "company_name": "Doctolib",
+    "hq_location": "Paris, France",
+    "website_url": "https://www.doctolib.com",
+    "problem_solved": "Digital appointment booking and practice management platform that streamlines patient scheduling, reduces no-shows, and digitizes clinic operations for medical practices including urologists.",
+    "who_buys_it": "Clinics, private practices, hospitals, and healthcare providers across France and Germany",
+    "key_features": [
+      "Online appointment scheduling with automated reminders",
+      "Video consultation (telemedicine) integration",
+      "Patient queue management and practice analytics"
+    ],
+    "business_model": "SaaS subscription with per-provider pricing",
+    "why_varden_care": "Large established player but replicable model for specialized vertical SaaS; demonstrates strong product-market fit for practice management software in Europe. Their urology-specific workflows could be unbundled into a dedicated urology platform."
+  },
+  {
+    "company_name": "Lifen",
+    "hq_location": "Paris, France",
+    "website_url": "https://www.lifen.fr",
+    "problem_solved": "Digital health platform that automates medical document exchange between healthcare providers, improving coordination for urology departments and specialist clinics.",
+    "who_buys_it": "Hospitals, clinics, radiology centers, and specialist practices",
+    "key_features": [
+      "Secure medical document sharing via email/fax hybrid",
+      "Integration with hospital information systems (DMP compatible)",
+      "Automated patient communication workflows"
+    ],
+    "business_model": "SaaS subscription based on document volume",
+    "why_varden_care": "Strong replicability - secure document exchange is a horizontal need across all medical specialties. The integration with French national health infrastructure (DMP) demonstrates regulatory navigation that can be replicated in other European markets."
+  },
+  {
+    "company_name": "Ksyos",
+    "hq_location": "Amersfoort, Netherlands",
+    "website_url": "https://www.ksyos.com",
+    "problem_solved": "Telemedicine platform enabling remote specialist consultations, including urology teleconsultations, connecting primary care providers with specialists for faster patient diagnosis.",
+    "who_buys_it": "Hospitals, healthcare networks, insurance companies, and regional health organizations",
+    "key_features": [
+      "Store-and-forward telemedicine for specialist consultations",
+      "Integrated diagnostic imaging review",
+      "Secure video consultation capabilities"
+    ],
+    "business_model": "SaaS/transaction-based pricing per consultation",
+    "why_varden_care": "Highly replicable model for connecting GPs with urology specialists. The platform demonstrates how to build specialist networks that could be applied to men's health specifically. Strong presence in Dutch healthcare system shows market validation."
+  },
+  {
+    "company_name": "Minidoc",
+    "hq_location": "Lille, France",
+    "website_url": "https://www.minidoc.fr",
+    "problem_solved": "Practice management software designed for medical specialists including urologists, offering scheduling, billing, and patient record management tailored to specialist workflows.",
+    "who_buys_it": "Private specialist practices, medical centers, and group practices",
+    "key_features": [
+      "Specialty-specific templates and workflows",
+      "Integrated billing and claims management",
+      "Patient portal with appointment booking"
+    ],
+    "business_model": "SaaS subscription with tiered pricing",
+    "why_varden_care": "Directly competitive opportunity - a focused urology-specific version could capture market share from generalist practice management tools. Demonstrates appetite for digital practice tools among French specialists."
+  },
+  {
+    "company_name": "Nightingale (ChipSoft)",
+    "hq_location": "Amsterdam, Netherlands",
+    "website_url": "https://www.chipsoft.nl",
+    "problem_solved": "Comprehensive hospital information system (HIS) with specialized modules for departments including urology, supporting clinical workflows, patient administration, and care coordination.",
+    "who_buys_it": "Hospitals and large healthcare organizations in Netherlands and Belgium",
+    "key_features": [
+      "Department-specific clinical modules including urology",
+      "Integration with national healthcare infrastructure",
+      "Patient journey tracking and care pathway management"
+    ],
+    "business_model": "Enterprise SaaS/license with implementation services",
+    "why_varden_care": "Enterprise market validation for urology-specific software in Benelux hospitals. The modular approach demonstrates how to build specialty-specific solutions on top of general hospital systems - a potential partnership or competitive angle."
+  },
+  {
+    "company_name": "Oxipit",
+    "hq_location": "Vilnius, Lithuania (serves France/Benelux)",
+    "website_url": "https://www.oxipit.ai",
+    "problem_solved": "AI-powered medical imaging analysis platform that assists radiologists and urologists in detecting abnormalities in chest X-rays and other imaging, with expansion into CT and mammography.",
+    "who_buys_it": "Radiology departments, hospitals, and diagnostic imaging centers",
+    "key_features": [
+      "AI-powered anomaly detection in medical images",
+      "Quality assurance automation for radiology",
+      "Integration with PACS systems"
+    ],
+    "business_model": "SaaS with per-scan or subscription pricing",
+    "why_varden_care": "Demonstrates AI-first approach to medical imaging that could be applied specifically to prostate imaging (MRI, ultrasound). The regulatory pathway (CE marking) shows how to navigate European medical device regulations for AI diagnostics."
+  },
+  {
+    "company_name": "Medisprint (Cegedim)",
+    "hq_location": "Paris, France",
+    "website_url": "https://www.cegedim.com",
+    "problem_solved": "Healthcare software and services including practice management, pharmacy solutions, and patient relationship management tools used by specialists including urologists.",
+    "who_buys_it": "Medical practices, pharmacies, hospitals, and healthcare organizations",
+    "key_features": [
+      "Comprehensive practice management suite",
+      "Integration with French healthcare system (Carte Vitale, DMP)",
+      "Patient relationship management tools"
+    ],
+    "business_model": "SaaS subscription with enterprise licensing",
+    "why_varden_care": "Large incumbent demonstrates market size and validates demand for practice management in France. Opportunity exists for more focused, modern, urology-specific solutions that can be more agile than legacy systems."
+  },
+  {
+    "company_name": "HBOMed (HealthBase)",
+    "hq_location": "Ghent, Belgium",
+    "website_url": "https://www.healthbase.be",
+    "problem_solved": "Hospital information system with specialty modules supporting clinical workflows in Belgian hospitals, including urology department management and care pathway optimization.",
+    "who_buys_it": "Hospitals and healthcare networks in Belgium",
+    "key_features": [
+      "Specialty-specific clinical modules",
+      "Belgian healthcare system integration",
+      "Care pathway management and reporting"
+    ],
+    "business_model": "Enterprise license/SaaS with implementation",
+    "why_varden_care": "Belgian market validation for hospital-based urology software. Demonstrates healthcare IT maturity in Benelux that creates opportunity for best-of-breed specialty solutions that integrate with hospital systems."
+  }
+]

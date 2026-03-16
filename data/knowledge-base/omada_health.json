@@ -1,0 +1,14 @@
+{
+  "company": "Omada Health",
+  "country": "US",
+  "problem": "Chronic conditions like diabetes, hypertension, and obesity require continuous lifestyle management support, limited access to personalized coaching and behavior change programs, poor outcomes from episodic care",
+  "solution": "Virtual chronic care platform combining connected health devices (scales, glucometers, blood pressure monitors), personalized coaching from Certified Diabetes Care and Education Specialists, and data-driven behavior change programs",
+  "problem_type": "remote_monitoring",
+  "solution_type": "SaaS",
+  "buyer": "providers",
+  "varden_fit": "medium",
+  "url": "https://www.omadahealth.com",
+  "source": "web",
+  "discovery_round": 76,
+  "discovered_by": "sky"
+}

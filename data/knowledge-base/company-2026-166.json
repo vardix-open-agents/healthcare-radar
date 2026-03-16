@@ -1,0 +1,28 @@
+{
+  "company": "Practo (India)",
+  "country": "India",
+  "founded_year": 2008,
+  "category": "Healthcare Infrastructure",
+  "subsector": "Healthcare Marketplace & SaaS",
+  "description": "Indian healthcare technology company providing doctor discovery, appointment booking, practice management software, and medicine delivery. Largest healthcare platform in India connecting patients with healthcare providers.",
+  "business_model": "B2B/B2C - Marketplace and SaaS to healthcare providers and patients",
+  "target_market": "Indian healthcare providers and patients",
+  "funding_stage": "Series F",
+  "funding_amount_usd": 200000000,
+  "key_investors": "Tencent, Sequoia Capital, Matrix Partners, others",
+  "employees": "1500+",
+  "customers": "100000+ healthcare providers",
+  "revenue_usd": null,
+  "tech_stack": ["Doctor directory", "Appointment scheduling", "Practice management", "Telemedicine", "Pharmacy delivery"],
+  "integration_points": ["Hospital systems", "Pharmacies", "Diagnostic labs", "Insurance providers"],
+  "competitive_advantage": "Market leader in India, comprehensive platform, strong brand recognition",
+  "boring_software": true,
+  "varden_fit": {
+    "threat_level": "low",
+    "opportunity": "benchmark",
+    "rationale": "Indian market leader - demonstrates emerging market healthcare infrastructure"
+  },
+  "data_quality": "high",
+  "sources": ["practo.com", "crunchbase.com"],
+  "last_updated": "2026-03-11"
+}

@@ -1,0 +1,14 @@
+{
+  "company": "Axxess",
+  "country": "US",
+  "problem": "Home health, hospice, and palliative care providers struggle with fragmented workflows, compliance challenges, and inefficient operations that impact care quality and financial performance.",
+  "solution": "AI-powered integrated platform for home health, hospice, and palliative care including EHR, revenue cycle management, CAHPS surveys, and staffing solutions serving 800,000+ users.",
+  "problem_type": "hospice",
+  "solution_type": "SaaS",
+  "buyer": "providers",
+  "varden_fit": "medium",
+  "url": "https://www.axxess.com",
+  "source": "web",
+  "discovery_round": 142,
+  "discovered_by": "sky"
+}

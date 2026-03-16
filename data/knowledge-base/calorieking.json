@@ -1,0 +1,14 @@
+{
+  "company": "CalorieKing",
+  "country": "US",
+  "problem": "Healthcare providers, dietitians, and individuals need access to accurate, verified nutritional data for food tracking and weight management applications",
+  "solution": "Trusted food nutrition database with calorie, fat, and carbohydrate information for brands and restaurants, ControlMyWeight tracking apps for iOS and web, professional food database API for health app development, and educational resources",
+  "problem_type": "nutrition",
+  "solution_type": "SaaS",
+  "buyer": "clinics",
+  "varden_fit": "medium",
+  "url": "https://www.calorieking.com/",
+  "source": "web",
+  "discovery_round": 140,
+  "discovered_by": "sky"
+}

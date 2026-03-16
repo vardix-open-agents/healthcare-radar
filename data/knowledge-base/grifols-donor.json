@@ -1,0 +1,14 @@
+{
+  "company": "Grifols",
+  "country": "ES",
+  "problem": "Plasma collection centers and blood banks struggle with donor management, appointment scheduling, eligibility screening, and regulatory compliance documentation, leading to inefficient collection operations and potential donor attrition.",
+  "solution": "Donor management and plasma collection software including donor screening, physical exam documentation, plasmapheresis tracking, and inventory management. Their systems optimize donor flow, ensure regulatory compliance, and integrate with their plasma-derived therapies production chain.",
+  "problem_type": "blood_bank",
+  "solution_type": "SaaS",
+  "buyer": "hospitals",
+  "varden_fit": "low",
+  "url": "https://www.grifols.com/",
+  "source": "web",
+  "discovery_round": 130,
+  "discovered_by": "sky"
+}

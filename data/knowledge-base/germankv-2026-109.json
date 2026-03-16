@@ -1,0 +1,32 @@
+{
+  "id": "germankv-2026-109",
+  "title": "German Statutory Health Insurance (GKV) - Payer Infrastructure",
+  "company": "German Krankenkassen",
+  "country": "Germany",
+  "region": "EU",
+  "segment": "billing",
+  "problem": "German statutory health insurers (Krankenkassen) need efficient claims processing, coverage verification, and provider reimbursement.",
+  "solution": "GKV billing and claims infrastructure. Unified fee schedules (EBM), claims processing, and provider reimbursement. Integration with practice management systems through telematics infrastructure.",
+  "technology": "EBM fee schedules, claims processing, telematics integration",
+  "target_customer": "German healthcare providers, Krankenkassen",
+  "care_setting": "all",
+  "care_domain": "general",
+  "care_stage": "admin",
+  "automation_level": "partial",
+  "ai_type": null,
+  "traction_signals": [
+    "90% of Germans in statutory insurance",
+    "Unified EBM fee schedule",
+    "Telematics infrastructure integration"
+  ],
+  "funding": "Statutory insurance funds",
+  "regulatory_notes": "German Social Code (SGB), GDPR",
+  "varden_fit": "CRITICAL — German GKV has claims infrastructure but lacks advanced eligibility verification and prior auth automation. This is the opportunity.",
+  "source": "Industry knowledge",
+  "url": "https://www.gkv-spitzenverband.de",
+  "date_added": "2026-03-11",
+  "problem_type": "claims",
+  "contrarian": true,
+  "boring_software": true,
+  "notes": "CONTRARIAN: German GKV processes billions in claims but lacks modern eligibility and prior auth tools. Blue ocean."
+}

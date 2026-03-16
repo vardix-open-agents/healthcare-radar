@@ -1,0 +1,32 @@
+{
+  "id": "paautomation-2026-103",
+  "title": "Prior Authorization Automation - AI-Based Decision Support",
+  "company": "Various Startups",
+  "country": "US",
+  "region": "US",
+  "segment": "admin",
+  "problem": "Prior authorization requires clinical review that is manual, inconsistent, and delays care. Payers and providers need AI to accelerate decisions.",
+  "solution": "AI-powered prior authorization automation. Clinical decision support for authorization requests. Automated determination based on clinical guidelines and medical necessity criteria.",
+  "technology": "ML, clinical guidelines integration, automated decision support",
+  "target_customer": "Health plans, utilization management companies",
+  "care_setting": "all",
+  "care_domain": "general",
+  "care_stage": "admin",
+  "automation_level": "full",
+  "ai_type": "ML for clinical decision support",
+  "traction_signals": [
+    "Growing interest in AI for prior auth",
+    "CMS prior auth reform requirements",
+    "Provider demand for faster decisions"
+  ],
+  "funding": "Various",
+  "regulatory_notes": "Clinical review requirements, CMS regulations",
+  "varden_fit": "CRITICAL — AI-based prior auth automation is the future. European payers need this desperately.",
+  "source": "Industry knowledge",
+  "url": "https://www.cms.gov",
+  "date_added": "2026-03-11",
+  "problem_type": "prior_auth",
+  "contrarian": true,
+  "boring_software": true,
+  "notes": "CONTRARIAN: Prior auth is universally hated. AI automation is the only scalable solution. Zero European players."
+}

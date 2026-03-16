@@ -1,0 +1,99 @@
+{
+  "problem_type": "data_integration",
+  "count": 12,
+  "entries": [
+    {
+      "id": "leyr-2026-036",
+      "company": "Leyr",
+      "country": "Sweden",
+      "varden_fit": "VERY HIGH - Direct infrastructure play. Varden has 15+ EHR integrations - Leyr's unified API"
+    },
+    {
+      "id": "wello-2026-058",
+      "company": "Wello",
+      "country": "Sweden",
+      "varden_fit": "Personal health records integration potential"
+    },
+    {
+      "id": "company-2026-155",
+      "company": "Redox",
+      "country": "USA",
+      "varden_fit": "VERY HIGH - Direct infrastructure play. Varden could use this to accelerate EHR integrations globally.",
+      "boring_software": true,
+      "contrarian": false
+    },
+    {
+      "id": "company-2026-156",
+      "company": "Health Gorilla",
+      "country": "USA",
+      "varden_fit": "HIGH - Infrastructure for data access. Could enable Varden to query external data sources.",
+      "boring_software": true,
+      "contrarian": false
+    },
+    {
+      "id": "company-2026-157",
+      "company": "Orion Health",
+      "country": "New Zealand",
+      "varden_fit": "MEDIUM - Enterprise integration platform. Different scale than Varden but demonstrates market need.",
+      "boring_software": true,
+      "contrarian": false
+    },
+    {
+      "id": "company-2026-158",
+      "company": "DAMO Health",
+      "country": "China",
+      "varden_fit": "LOW - China-specific, regulatory complexity. But demonstrates global need for integration infrastructure.",
+      "boring_software": true,
+      "contrarian": false
+    },
+    {
+      "id": "company-2026-159",
+      "company": "Praxis",
+      "country": "Brazil",
+      "varden_fit": "MEDIUM - Similar infrastructure thesis. Latin America is underrepresented market for Varden expansion.",
+      "boring_software": true,
+      "contrarian": false
+    },
+    {
+      "id": "company-2026-160",
+      "company": "Nuance/Microsoft",
+      "country": "USA",
+      "varden_fit": "MEDIUM - Data capture infrastructure. Could integrate with Varden's intake and documentation flows.",
+      "boring_software": false,
+      "contrarian": false
+    },
+    {
+      "id": "company-2026-161",
+      "company": "MEDISPA",
+      "country": "Turkey",
+      "varden_fit": "LOW - Regional EHR vendor. But shows need for localized integration solutions.",
+      "boring_software": true,
+      "contrarian": false
+    },
+    {
+      "id": "company-2026-162",
+      "company": "InterSystems",
+      "country": "USA",
+      "varden_fit": "MEDIUM - Enterprise competitor at different scale. Validates infrastructure thesis.",
+      "boring_software": true,
+      "contrarian": false
+    },
+    {
+      "id": "company-2026-163",
+      "company": "Particle Health",
+      "country": "USA",
+      "varden_fit": "HIGH - Direct infrastructure play. Similar model to what Varden could offer developers.",
+      "boring_software": true,
+      "contrarian": false
+    },
+    {
+      "id": "company-2026-164",
+      "company": "1upHealth",
+      "country": "USA",
+      "varden_fit": "HIGH - FHIR-native infrastructure. Aligned with modern healthcare data standards.",
+      "boring_software": true,
+      "contrarian": true
+    }
+  ],
+  "notes": "EXPANDED - Now 12 companies solving healthcare data integration. Includes global infrastructure plays (Redox, Health Gorilla), regional solutions (Orion Health APAC, Praxis LatAm, MEDISPA Middle East), and developer-first platforms (Particle Health, 1upHealth). Key infrastructure thesis validated across markets."
+}

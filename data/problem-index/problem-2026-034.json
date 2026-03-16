@@ -1,0 +1,16 @@
+{
+  "id": "problem-2026-034",
+  "problem": "Malaysian GP clinics spend 25% of time on paperwork instead of patient care",
+  "problem_type": "documentation",
+  "solution_type": "AI-assisted documentation, voice-to-text notes, template-based charting",
+  "care_stage": "treatment",
+  "automation_type": "ai_assisted",
+  "buyer": "clinic",
+  "care_setting": "primary_care",
+  "companies": ["BookDoc", "DoctorOnCall", "Local EHR vendors"],
+  "signals": ["Malaysia healthcare digitization", "GP workload concerns", "AI adoption pilots"],
+  "boring_software": false,
+  "contrarian": false,
+  "url": "https://www.bookdoc.com",
+  "date_added": "2026-03-11"
+}

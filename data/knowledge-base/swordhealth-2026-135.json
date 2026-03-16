@@ -1,0 +1,30 @@
+{
+  "id": "swordhealth-2026-135",
+  "title": "SWORD Health - Digital Physical Therapy",
+  "company": "SWORD Health",
+  "country": "Portugal/USA",
+  "region": "EU/NA",
+  "segment": "digital_pt",
+  "problem": "Physical therapy access is limited and costly for musculoskeletal patients, creating barriers to recovery.",
+  "solution": "Digital physical therapy platform with FDA-listed wearable device and AI-powered exercise guidance with remote PT oversight.",
+  "technology": "Wearable motion tracking device, AI coaching, remote physical therapist dashboard",
+  "target_customer": "Employers, health plans",
+  "care_setting": "home_digital",
+  "care_domain": "orthopedics",
+  "care_stage": "rehabilitation",
+  "automation_level": "hybrid",
+  "ai_type": "AI for exercise guidance and form correction",
+  "traction_signals": [
+    "300+ employer clients",
+    "$2B+ valuation",
+    "FDA listed device",
+    "Founded 2015, Porto/San Francisco"
+  ],
+  "funding": "$160M+ raised",
+  "regulatory_notes": "FDA listed Class II medical device",
+  "varden_fit": "HIGH - Digital PT pathway. Model for orthopedic referral-to-digital-treatment. Strong EU presence.",
+  "source": "Industry knowledge",
+  "url": "https://swordhealth.com",
+  "date_added": "2026-03-11",
+  "notes": "Strong digital PT solution. FDA-listed device differentiates from competitors. Good EU base."
+}

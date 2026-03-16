@@ -1,0 +1,130 @@
+[
+  {
+    "company_name": "Systematic A/S",
+    "hq_location": "Aarhus, Denmark",
+    "website_url": "https://systematic.com/",
+    "problem_solved": "Military and civilian emergency medical response coordination - providing digital command and control systems for casualty management, battlefield health tracking, and mass casualty incident coordination",
+    "who_buys_it": "NATO forces, European military medical commands, emergency response agencies, disaster management organizations",
+    "key_features": [
+      "SitaWare Battlefield Health - digital medical command and control system",
+      "Real-time casualty tracking and patient flow management",
+      "Interoperability with NATO and allied forces medical systems",
+      "AI-based speech recognition for documentation in elderly care",
+      "Coordination tools for multi-agency emergency response"
+    ],
+    "business_model": "B2B enterprise software licensing with government/military contracts; implementation and support services",
+    "why_varden_should_care": "Strong positioning in military-civilian emergency response integration; NATO endorsement and active deployment in European defense medical systems; AI documentation capabilities transferable to civilian trauma settings"
+  },
+  {
+    "company_name": "Dedalus Group",
+    "hq_location": "Florence, Italy",
+    "website_url": "https://www.dedalus.com/",
+    "problem_solved": "Integrated hospital information systems including emergency department workflows, trauma documentation, and critical care coordination across European healthcare systems",
+    "who_buys_it": "Hospitals, regional health authorities, national health systems across 40+ countries; particularly strong in DACH, Southern Europe, and UK (NHS)",
+    "key_features": [
+      "Acute Care EHR ranked #1 in KLAS 2026 for DACH and Southern Europe",
+      "Emergency department information systems (EDIS)",
+      "Critical care documentation and ICU management",
+      "Continuum of care platform spanning prevention through follow-up",
+      "FHIR-based interoperability for emergency data sharing"
+    ],
+    "business_model": "B2B enterprise software licensing; SaaS and on-premise deployment; regional/national framework agreements",
+    "why_varden_should_care": "Largest EHR vendor outside the US by contracted beds (470,000+); strong NHS presence (Royal Papworth Hospital); well-positioned for European digital health modernization; comprehensive trauma/critical care capabilities"
+  },
+  {
+    "company_name": "CompuGroup Medical SE (CGM)",
+    "hq_location": "Koblenz, Germany",
+    "website_url": "https://www.cgm.com/",
+    "problem_solved": "Digital health records and clinical information systems for emergency departments, primary care, and specialist services; enabling rapid access to patient history during emergencies",
+    "who_buys_it": "Primary care practices, specialist clinics, hospital emergency departments, occupational health services, laboratories across Europe",
+    "key_features": [
+      "CGM J4 - web-based e-health system for primary and specialist care",
+      "Emergency department patient tracking and documentation",
+      "Telemetry and remote monitoring integration",
+      "40+ years experience in healthcare IT across Europe",
+      "Video consultation capabilities for emergency triage"
+    ],
+    "business_model": "B2B SaaS and on-premise software licensing; subscription and perpetual licenses; implementation services",
+    "why_varden_should_care": "1.6M+ users globally; 85K+ users in Sweden alone; strong Nordic presence; broad European footprint; emergency-to-primary care data continuity valuable for trauma follow-up"
+  },
+  {
+    "company_name": "Better Care (Better)",
+    "hq_location": "Ljubljana, Slovenia",
+    "website_url": "https://www.better.care/",
+    "problem_solved": "Open data platform for healthcare enabling interoperability between emergency systems, hospital EHRs, and regional health information exchanges; resolves data silos in emergency care",
+    "who_buys_it": "Regional health authorities, national e-health initiatives, hospital networks seeking vendor-neutral data platforms",
+    "key_features": [
+      "OpenEHR-based clinical data repository",
+      "Real-time emergency data sharing across facilities",
+      "Low-code app development for emergency workflows",
+      "Interoperability layer for legacy system integration",
+      "Population health analytics for emergency patterns"
+    ],
+    "business_model": "B2B platform licensing; implementation and consulting; marketplace for third-party apps",
+    "why_varden_should_care": "Pioneer in openEHR implementation; growing traction in NHS and European regional health networks; data-first approach aligns with emerging interoperability mandates; enables rapid emergency app development"
+  },
+  {
+    "company_name": "Nexus / Cambio Healthcare Systems",
+    "hq_location": "Stockholm, Sweden",
+    "website_url": "https://www.cambio.se/",
+    "problem_solved": "Comprehensive healthcare information systems including emergency department management, patient flow optimization, and critical care coordination for Swedish and UK markets",
+    "who_buys_it": "NHS trusts in UK, Swedish regional health authorities, hospital networks",
+    "key_features": [
+      "Cambio COSMIC - integrated EHR with emergency module",
+      "Patient administration and emergency tracking",
+      "Clinical decision support for triage",
+      "Interoperability with regional emergency networks",
+      "Mobile access for emergency physicians"
+    ],
+    "business_model": "B2B enterprise licensing; framework agreements with NHS and Swedish regions; SaaS and on-premise options",
+    "why_varden_should_care": "Major NHS supplier; strong Swedish market position; integrated emergency-to-discharge workflows; growing UK footprint amid NHS digital transformation"
+  },
+  {
+    "company_name": "Orion Health",
+    "hq_location": "Auckland, New Zealand (European HQ: London, UK)",
+    "website_url": "https://www.orionhealth.com/",
+    "problem_solved": "Population health management and care coordination platforms that integrate emergency department data with broader health system information for improved patient outcomes",
+    "who_buys_it": "NHS trusts, regional health systems across UK and Europe, integrated care systems (ICSs)",
+    "key_features": [
+      "Amadeus - unified care platform with emergency integration",
+      "Vitalhub - emergency department information system",
+      "Real-time patient tracking and flow management",
+      "Interoperability hub for multi-system emergency data",
+      "Analytics for emergency utilization patterns"
+    ],
+    "business_model": "B2B SaaS platform licensing; implementation services; analytics-as-a-service",
+    "why_varden_should_care": "Strong NHS footprint; EU-UK presence post-Brexit; population health focus aligns with emergency care redesign; interoperability expertise valuable for regional trauma networks"
+  },
+  {
+    "company_name": "Atos / Eviden (Healthcare Division)",
+    "hq_location": "Bezons, France",
+    "website_url": "https://eviden.com/",
+    "problem_solved": "Digital transformation of healthcare including emergency department systems, hospital information systems, and critical care IT infrastructure across Europe",
+    "who_buys_it": "French hospital networks (AP-HP), regional health agencies, European government health ministries",
+    "key_features": [
+      "Hospital information systems with emergency modules",
+      "Clinical data exchange platforms",
+      "Emergency department workflow optimization",
+      "AI and analytics for emergency predictive modeling",
+      "Cloud infrastructure for resilient emergency IT"
+    ],
+    "business_model": "B2B enterprise contracts; digital transformation projects; managed IT services; cloud hosting",
+    "why_varden_should_care": "Major player in French healthcare IT; strong public sector relationships; digital infrastructure expertise critical for emergency system resilience; European sovereign cloud capabilities"
+  },
+  {
+    "company_name": "InterSystems",
+    "hq_location": "Cambridge, MA, USA (European HQ: London, UK)",
+    "website_url": "https://www.intersystems.com/",
+    "problem_solved": "High-performance data platforms for healthcare enabling real-time emergency department analytics, unified patient records, and rapid clinical decision support",
+    "who_buys_it": "Major European hospital networks, emergency departments, regional health information exchanges in UK, Germany, Nordics",
+    "key_features": [
+      "InterSystems IRIS for Health - unified data platform",
+      "HealthShare - interoperability and unified care records",
+      "TrakCare - clinical information system with ED module",
+      "Real-time alerting for critical emergency values",
+      "Integration engine for emergency system connectivity"
+    ],
+    "business_model": "B2B software licensing; platform subscriptions; professional services; partner ecosystem",
+    "why_varden_should_care": "Technology backbone for many European emergency departments; strong interoperability story; real-time capabilities critical for trauma/trauma care; growing presence in European health exchanges"
+  }
+]

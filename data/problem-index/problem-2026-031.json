@@ -1,0 +1,16 @@
+{
+  "id": "problem-2026-031",
+  "problem": "Vietnamese clinics use messaging apps for patient communication, lacking privacy and audit trails",
+  "problem_type": "coordination",
+  "solution_type": "Secure patient messaging platforms, consent management, communication logging",
+  "care_stage": "treatment",
+  "automation_type": "workflow_automation",
+  "buyer": "clinic",
+  "care_setting": "primary_care",
+  "companies": ["Buymed", "Jio Health", "Local telehealth startups"],
+  "signals": ["Vietnam digital health growth", "Zalo healthcare usage", "Data privacy regulations"],
+  "boring_software": true,
+  "contrarian": false,
+  "url": "https://buymed.com",
+  "date_added": "2026-03-11"
+}

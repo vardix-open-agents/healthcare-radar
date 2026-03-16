@@ -1,0 +1,14 @@
+{
+  "company": "Medidata",
+  "country": "US",
+  "problem": "Clinical research demands disconnected systems that fail to connect patient experiences, data workflows, and study operations, resulting in slower drug development and higher costs.",
+  "solution": "Unified life science platform connecting Patient, Data, and Study Experiences with AI-powered automation. Includes eCOA, consent management, decentralized trials, wearable sensors integration. 90% of FDA novel drug approvals in 2025 used Medidata.",
+  "problem_type": "clinical_trials",
+  "solution_type": "SaaS",
+  "buyer": "research_orgs",
+  "varden_fit": "low",
+  "url": "https://www.medidata.com/",
+  "source": "web",
+  "discovery_round": 103,
+  "discovered_by": "sky"
+}

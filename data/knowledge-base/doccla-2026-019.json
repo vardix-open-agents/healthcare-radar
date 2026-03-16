@@ -1,0 +1,30 @@
+{
+  "id": "doccla-2026-019",
+  "title": "Doccla - Virtual Ward Remote Patient Monitoring",
+  "company": "Doccla",
+  "country": "UK",
+  "region": "EU",
+  "segment": "monitoring",
+  "problem": "Hospital capacity is limited. Many patients could be safely monitored at home but hospitals lack infrastructure for remote patient monitoring (RPM).",
+  "solution": "Virtual ward platform providing patients with connected devices (blood pressure, pulse oximeter, etc.) that feed data to clinical dashboards for remote monitoring.",
+  "technology": "IoT devices, cloud platform, clinical dashboards, EHR integration",
+  "target_customer": "Hospitals, NHS trusts, health systems",
+  "care_setting": "home",
+  "care_domain": "general, cardiology, respiratory",
+  "care_stage": "monitoring",
+  "automation_level": "partial",
+  "ai_type": null,
+  "traction_signals": [
+    "Founded 2019, UK-based",
+    "Deployed across multiple NHS trusts",
+    "Virtual ward leader in UK",
+    "Expanded to multiple conditions"
+  ],
+  "funding": "Series A",
+  "regulatory_notes": "Medical device accessories, data handling compliance with NHS standards.",
+  "varden_fit": "Moderate — RPM infrastructure complements primary care. Could integrate with Varden clinics for post-discharge monitoring. Different market (hospital vs primary care).",
+  "source": "Industry knowledge",
+  "url": "https://www.doccla.com",
+  "date_added": "2026-03-11",
+  "notes": "Virtual wards were accelerated by COVID. Growing segment in UK/EU healthcare."
+}

@@ -1,0 +1,112 @@
+{
+  "round": 195,
+  "focus": "Respiratory / Pulmonology (UK)",
+  "date": "2026-03-14",
+  "companies": [
+    {
+      "company_name": "patientMpower",
+      "hq_location": "Dublin, Ireland (operates extensively in UK/NHS)",
+      "website_url": "https://patientmpower.com",
+      "problem_solved": "Lack of real-time visibility into respiratory patient status between clinic visits, leading to delayed interventions for COPD, asthma, and ILD patients. Patients struggle with self-management and medication adherence.",
+      "who_buys_it": "NHS trusts, respiratory clinics, integrated care boards, pulmonology departments, clinical research organizations",
+      "key_features": [
+        "Remote patient monitoring platform for respiratory conditions (COPD, asthma, IPF, ILD)",
+        "Integration with spirometers, pulse oximeters, and other respiratory devices",
+        "Real-time symptom tracking and medication adherence monitoring",
+        "Clinical dashboard for healthcare teams to monitor patient cohorts",
+        "Patient self-management app with education and action plans",
+        "NHS-compliant data platform with CE marking"
+      ],
+      "business_model": "B2B SaaS - Subscription-based platform licensing to NHS trusts and healthcare organizations. Per-patient-per-month pricing model. Also works with pharma for clinical trials.",
+      "why_varden_should_care": "Strong fit for respiratory RPM within NHS virtual ward programs. Established NHS footprint with proven outcomes in COPD/asthma management. Platform integrates multiple respiratory devices, making it a potential hub for comprehensive respiratory care. Growing demand post-COVID for respiratory monitoring solutions."
+    },
+    {
+      "company_name": "Owlstone Medical",
+      "hq_location": "Cambridge, UK",
+      "website_url": "https://www.owlstonemedical.com",
+      "problem_solved": "Late diagnosis of respiratory diseases due to invasive, expensive, and inaccessible diagnostic procedures. Traditional biopsies and imaging are costly and often performed too late.",
+      "who_buys_it": "NHS trusts, diagnostic laboratories, pharmaceutical companies (for drug development), clinical research organizations, specialist respiratory centers",
+      "key_features": [
+        "Breath Biopsy platform for non-invasive disease detection via exhaled breath analysis",
+        "EVOC (Exogenous Volatile Organic Compound) probes for enhanced biomarker detection",
+        "ReCIVA breath sampling device for standardized breath collection",
+        "Focus on lung cancer, asthma, COPD, and inflammatory bowel disease detection",
+        "Partnerships with pharma for companion diagnostics",
+        "Laboratory services for breath biomarker analysis"
+      ],
+      "business_model": "B2B platform + services - Breath biopsy kits and sampling devices sold to clinics/research. Laboratory analysis services. Pharma partnerships for drug development biomarker programs.",
+      "why_varden_should_care": "Pioneering non-invasive respiratory diagnostics with potential to transform early detection paradigm. Technology could significantly reduce healthcare costs by enabling earlier intervention. Strong IP position and growing clinical evidence base. Attractive to pharma partners for companion diagnostics."
+    },
+    {
+      "company_name": "NIOX Group (formerly Circassia)",
+      "hq_location": "Oxford, UK",
+      "website_url": "https://www.niox.com",
+      "problem_solved": "Inaccurate asthma diagnosis and management due to lack of objective inflammation measurement. Many patients are misdiagnosed or on incorrect medication doses.",
+      "who_buys_it": "Primary care practices, respiratory clinics, allergy specialists, pediatric departments, NHS trusts, private healthcare providers",
+      "key_features": [
+        "NIOX VERO and NIOX PRO FeNO (Fractional exhaled Nitric Oxide) monitors",
+        "Point-of-care airway inflammation testing in under 2 minutes",
+        "Guides asthma diagnosis and steroid therapy optimization",
+        "Cloud-based data management (NIOX Insight)",
+        "Portable devices suitable for primary care and community settings",
+        "NICE-recommended technology for asthma management"
+      ],
+      "business_model": "B2B device + consumables - Capital equipment sales (NIOX devices) with recurring revenue from single-patient-use sensors and consumables. Also offers subscription/reagent rental models.",
+      "why_varden_should_care": "Market leader in FeNO testing with strong clinical evidence and NICE backing. Recurring revenue model from consumables provides predictable income. Expansion opportunity into US and emerging markets. Technology reduces asthma exacerbations and healthcare costs through better medication management."
+    },
+    {
+      "company_name": "Vitalograph",
+      "hq_location": "Buckingham, UK (with global operations)",
+      "website_url": "https://vitalograph.com",
+      "problem_solved": "Fragmented and inconsistent lung function testing across healthcare settings. Paper-based workflows and lack of interoperability reduce diagnostic quality and efficiency.",
+      "who_buys_it": "NHS trusts, respiratory clinics, occupational health providers, clinical trials, primary care networks, private hospitals, pharmaceutical companies",
+      "key_features": [
+        "Comprehensive spirometry portfolio (Pneumotrac, ALPHA, asma-1)",
+        "Electronic patient questionnaires and respiratory care pathways",
+        "Vitalograph Spirotrac software for data management and analysis",
+        "Respiratory Sync for EPR/EMR integration",
+        "Quality assurance and training solutions for spirometry",
+        "Specialized solutions for clinical trials and pharmaceutical research"
+      ],
+      "business_model": "B2B devices + software - Hardware sales (spirometers) with software licensing and support contracts. Consumables revenue from sensors/filters. Professional services for training and implementation.",
+      "why_varden_should_care": "Established UK player with 50+ years in respiratory diagnostics. Strong NHS relationships and installed base. Digital transformation opportunity through Spirotrac platform. Clinical trials business provides diversification and pharma partnerships. Growing demand for standardized lung function testing."
+    },
+    {
+      "company_name": "Doccla",
+      "hq_location": "London, UK",
+      "website_url": "https://www.doccla.com",
+      "problem_solved": "Healthcare systems overwhelmed by rising demand with limited capacity. Patients with chronic conditions (including COPD, heart failure) deteriorate at home without early intervention.",
+      "who_buys_it": "NHS trusts, integrated care boards, community health services, virtual ward programs, respiratory departments",
+      "key_features": [
+        "Virtual ward platform with remote patient monitoring",
+        "Integrated device logistics and patient onboarding service",
+        "CQC-registered clinical team for remote monitoring and escalation",
+        "Proactive care pathways for COPD, heart failure, and other chronic conditions",
+        "EPR integration with major NHS systems",
+        "34% reduction in non-elective admissions (BNSSG ICB data)",
+        "£3,900 saved per patient per year (LLR ICB data)"
+      ],
+      "business_model": "B2B managed service - Per-patient-per-day pricing including platform, devices, logistics, and clinical support. Full-service model reduces burden on NHS staff.",
+      "why_varden_should_care": "Europe's leading virtual care provider with 60%+ NHS region coverage. Strong clinical outcomes and cost savings data resonates with NHS priorities. Virtual wards are a key NHS England priority. Respiratory focus with COPD pathways. Recurring revenue model with high patient volumes (2,500+ new patients/month)."
+    },
+    {
+      "company_name": "Huma",
+      "hq_location": "London, UK",
+      "website_url": "https://www.huma.com",
+      "problem_solved": "Fragmented digital health solutions that don't scale. Need for integrated platform spanning remote monitoring, digital therapeutics, and AI-powered insights across multiple therapeutic areas.",
+      "who_buys_it": "Health systems (NHS), pharmaceutical companies, health insurers, governments, clinical research organizations",
+      "key_features": [
+        "Comprehensive digital health platform supporting 100M+ patients globally",
+        "Remote patient monitoring and virtual ward capabilities",
+        "AI-powered screening and diagnostic tools (Huma Intelligence)",
+        "Hi Nurse for 10x clinical productivity improvement",
+        "Hi Studio for rapid regulatory-compliant app development",
+        "Hi Scribe for automated clinical documentation",
+        "Multi-therapeutic area coverage including respiratory"
+      ],
+      "business_model": "B2B platform - Enterprise licensing to health systems and pharma. Platform-as-a-service for digital health app development. Per-patient or enterprise subscription models.",
+      "why_varden_should_care": "Highly scalable platform with global reach and significant venture backing. Strong AI capabilities differentiate from pure RPM players. Multi-therapeutic approach (including respiratory) provides cross-selling opportunities. Regulatory-compliant infrastructure valuable for pharma partnerships. Well-positioned for AI-first healthcare transformation."
+    }
+  ],
+  "notes": "This round focused on UK-based companies in respiratory clinic management, COPD/asthma monitoring, spirometry software, lung function testing, and sleep apnea management. Consumer breathing apps and spirometry manufacturers (hardware-only) were excluded. patientMpower is Irish but included due to significant UK/NHS presence. Sleep apnea-focused UK companies were harder to identify as stand-alone platforms - most sleep apnea solutions are integrated into broader respiratory or general telehealth platforms."
+}

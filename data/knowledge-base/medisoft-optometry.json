@@ -1,0 +1,14 @@
+{
+  "company": "MediSoft Optometry",
+  "country": "GB",
+  "problem": "UK optometry practices require practice management software that integrates with NHS systems and supports optical retail operations",
+  "solution": "Practice management software for UK optometry practices featuring patient records, appointment scheduling, optical dispensing, and NHS claims processing",
+  "problem_type": "optometry",
+  "solution_type": "SaaS",
+  "buyer": "clinics",
+  "varden_fit": "medium",
+  "url": "https://www.medisoft.co.uk",
+  "source": "web",
+  "discovery_round": 110,
+  "discovered_by": "nova"
+}

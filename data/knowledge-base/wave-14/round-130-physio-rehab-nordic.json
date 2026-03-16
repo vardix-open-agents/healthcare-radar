@@ -1,0 +1,100 @@
+[
+  {
+    "company_name": "Joint Academy",
+    "hq_location": "Stockholm, Sweden",
+    "website_url": "https://www.jointacademy.com",
+    "problem_solved": "Provides digital physiotherapy treatment for osteoarthritis and chronic joint pain, reducing the need for in-person visits and enabling remote care. Helps patients manage musculoskeletal conditions through evidence-based exercise programs and personal physiotherapist support via video calls.",
+    "who_buys": "Healthcare payers (regions/municipalities), employers, private patients, and clinics",
+    "key_features": [
+      "Digital osteoarthritis treatment with personal physiotherapist via video calls",
+      "Daily exercise programs with video instructions and progress tracking",
+      "Remote monitoring and outcome measurement showing 46% pain reduction on average"
+    ],
+    "business_model": "B2B2C - SaaS platform sold to healthcare payers and employers; also direct-to-consumer with government subsidy coverage (högkostnadsskydd)",
+    "why_varden_care": "Strong replicability potential - proven digital-first model for chronic MSK conditions that could scale to other markets. Demonstrates how to build payer relationships and integrate with public healthcare systems. Clear outcome measurement creates defensible value proposition."
+  },
+  {
+    "company_name": "Alfa eCare (Clinicbuddy)",
+    "hq_location": "Malmö, Sweden",
+    "website_url": "https://www.alfaecare.se",
+    "problem_solved": "Provides comprehensive clinic management software for private healthcare providers including physiotherapy, rehabilitation, psychology, and aesthetics clinics. Eliminates administrative burden by centralizing booking, patient records, billing, and reporting.",
+    "who_buys": "Private physiotherapy clinics, rehabilitation centers, psychology practices, and aesthetic clinics",
+    "key_features": [
+      "Complete booking and calendar system with online patient self-booking",
+      "Digital medical records (journalsystem) with structured templates",
+      "Financial management with SIE files, region files, insurance payments, and comprehensive reporting"
+    ],
+    "business_model": "SaaS - subscription-based software for clinic management",
+    "why_varden_care": "Demonstrates proven market need for clinic OS in fragmented private healthcare sector. Model is replicable across Nordic markets and potentially broader Europe. Integration ecosystem (Swish, Kuralink, etc.) shows how to build sticky products."
+  },
+  {
+    "company_name": "Physitrack",
+    "hq_location": "Stockholm, Sweden",
+    "website_url": "https://www.physitrack.com",
+    "problem_solved": "Enables physiotherapists to prescribe customized exercise programs to patients through a library of 5,000+ video exercises. Solves the problem of poor patient adherence to home exercise programs by providing engaging, video-based instructions.",
+    "who_buys": "Physiotherapy clinics, rehabilitation centers, hospitals, and individual physiotherapists",
+    "key_features": [
+      "Extensive library of 5,000+ exercise videos with customization options",
+      "Patient app (PhysiApp) for home exercise adherence tracking",
+      "Outcome measurement tools and telehealth integration"
+    ],
+    "business_model": "SaaS - tiered subscription based on clinic size and features; consumer app is free",
+    "why_varden_care": "Category-defining product in exercise prescription space. Strong network effects from exercise library investment. Demonstrates how to build B2B2C value chain in physiotherapy. Global expansion potential with localized content."
+  },
+  {
+    "company_name": "PhysioTools",
+    "hq_location": "Helsinki, Finland",
+    "website_url": "https://www.physiotools.com",
+    "problem_solved": "Provides exercise prescription software for physiotherapists to create and share customized rehabilitation programs. Enables practitioners to quickly build professional exercise handouts for patients, improving treatment compliance.",
+    "who_buys": "Physiotherapy clinics, rehabilitation centers, occupational health providers",
+    "key_features": [
+      "Large database of exercise templates with illustrations and videos",
+      "Customizable exercise programs that can be printed or shared digitally",
+      "Integration with practice management systems and EHR platforms"
+    ],
+    "business_model": "SaaS - subscription-based software for clinics and individual practitioners",
+    "why_varden_care": "Pioneer in digital exercise prescription with established Nordic presence. Demonstrates value of specialized clinical content libraries. Replicable model for building vertical-specific clinical tools."
+  },
+  {
+    "company_name": "Injurymap",
+    "hq_location": "Copenhagen, Denmark",
+    "website_url": "https://www.injurymap.com",
+    "problem_solved": "Provides AI-powered digital exercise therapy for musculoskeletal pain, enabling patients to self-manage conditions like back, neck, and shoulder pain. Reduces need for in-person physiotherapy visits for common conditions.",
+    "who_buys": "Employers (occupational health), health insurers, and individual consumers",
+    "key_features": [
+      "AI-powered assessment to create personalized exercise programs",
+      "Progressive exercise difficulty based on patient feedback and outcomes",
+      "Focus on common MSD conditions (back pain, neck pain, shoulder pain)"
+    ],
+    "business_model": "B2B2C - sold through employers and insurers; also direct-to-consumer subscription",
+    "why_varden_care": "Shows how to build scalable, low-touch digital MSK solution. AI-driven personalization demonstrates differentiation opportunity. Employer channel model is replicable across markets with occupational health systems."
+  },
+  {
+    "company_name": "Terveystalo",
+    "hq_location": "Helsinki, Finland",
+    "website_url": "https://www.terveystalo.com",
+    "problem_solved": "Finland's largest private healthcare provider offering integrated physiotherapy and rehabilitation services alongside occupational health and specialty care. Provides digital booking and telemedicine for physiotherapy services.",
+    "who_buys": "Employers (occupational health contracts), private patients, and municipalities",
+    "key_features": [
+      "Integrated physiotherapy and rehabilitation across 300+ locations",
+      "Digital booking and telemedicine platform for physiotherapy",
+      "Occupational health programs with rehabilitation components"
+    ],
+    "business_model": "Integrated healthcare provider - B2B contracts with employers plus fee-for-service; publicly traded company",
+    "why_varden_care": "Demonstrates scale potential in Nordic private healthcare market. Shows how digital physiotherapy can integrate with broader healthcare delivery. Platform approach to healthcare services."
+  },
+  {
+    "company_name": "Nightingale Health",
+    "hq_location": "Helsinki, Finland",
+    "website_url": "https://nightingalehealth.com",
+    "problem_solved": "Provides AI-driven metabolomics analysis for chronic disease prevention. While not pure physiotherapy, enables data-driven rehabilitation outcome tracking and personalized intervention recommendations for MSK and chronic conditions.",
+    "who_buys": "Healthcare systems, occupational health providers, and preventive health programs",
+    "key_features": [
+      "Blood analysis technology for metabolic health assessment",
+      "AI-powered risk prediction for chronic diseases",
+      "Integration potential with rehabilitation outcome measurement"
+    ],
+    "business_model": "B2B - laboratory services and data analytics platform for healthcare providers",
+    "why_varden_care": "Demonstrates frontier of data-driven rehabilitation and preventive care. Shows how biomarker data can enhance physiotherapy outcomes. Potential integration opportunity for outcome-focused rehab platforms."
+  }
+]

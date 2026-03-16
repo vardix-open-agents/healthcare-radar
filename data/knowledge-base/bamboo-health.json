@@ -1,0 +1,14 @@
+{
+  "company": "Bamboo Health",
+  "country": "US",
+  "problem": "Healthcare providers, payers, and state governments lack real-time visibility into patient care journeys and struggle with care coordination, leading to gaps in care and inefficient prior authorization processes",
+  "solution": "Real-time care intelligence platform with the most powerful care collaboration network in the nation (1B patient encounters, 2,500 hospitals, 50 states), enabling better care coordination and streamlined administrative processes including prior auth support",
+  "problem_type": "prior_authorization",
+  "solution_type": "SaaS",
+  "buyer": "providers",
+  "varden_fit": "high",
+  "url": "https://bamboohealth.com",
+  "source": "web",
+  "discovery_round": 86,
+  "discovered_by": "sky"
+}

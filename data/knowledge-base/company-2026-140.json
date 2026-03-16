@@ -1,0 +1,27 @@
+{
+  "company": "DocPlanner Poland (ZnanyLekarz)",
+  "country": "Poland",
+  "founded_year": 2011,
+  "category": "Practice Management",
+  "subsector": "Doctor Booking & Practice Software",
+  "description": "Polish subsidiary of Docplanner Group operating ZnanyLekarz brand. Leading healthcare marketplace in Poland connecting patients with doctors through booking platform and practice management software.",
+  "business_model": "B2B - SaaS to doctors/clinics; B2C marketplace for patient bookings",
+  "target_market": "Polish healthcare providers and patients",
+  "funding_stage": "Series F (part of Docplanner Group)",
+  "funding_amount_eur": 350000000,
+  "key_investors": "One Peak Partners, Goldman Sachs, Goldentree, Vostok New Global",
+  "employees": 600,
+  "customers": "60000+ doctors, 15000+ clinics",
+  "revenue_eur": 60000000,
+  "tech_stack": ["Web platform", "Mobile apps", "Practice management SaaS", "Calendar integration"],
+  "integration_points": ["Polish NFZ", "Clinic management systems", "Patient apps"],
+  "competitive_advantage": "Market leader in Poland, strong brand recognition, comprehensive platform",
+  "varden_fit": {
+    "threat_level": "medium",
+    "opportunity": "partner",
+    "rationale": "Distribution channel in Poland - could integrate occupational health services"
+  },
+  "data_quality": "medium",
+  "sources": ["docplanner.com", "znanylekarz.pl"],
+  "last_updated": "2026-03-11"
+}

@@ -1,0 +1,14 @@
+{
+  "company": "Macopharma",
+  "country": "FR",
+  "problem": "Blood banks and transfusion services face challenges in traceability of blood products from donation to transfusion, increasing regulatory compliance demands, and managing complex workflows across the blood supply chain.",
+  "solution": "Comprehensive blood bank information system (BIS) that manages the complete blood transfusion cycle including donor management, blood collection, processing, testing, storage, and distribution. Their Inlog software provides full traceability and regulatory compliance for European blood establishments.",
+  "problem_type": "blood_bank",
+  "solution_type": "SaaS",
+  "buyer": "hospitals",
+  "varden_fit": "low",
+  "url": "https://www.macopharma.com/",
+  "source": "web",
+  "discovery_round": 130,
+  "discovered_by": "sky"
+}

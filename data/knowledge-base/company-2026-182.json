@@ -1,0 +1,28 @@
+{
+  "company": "NextGen Healthcare (USA)",
+  "country": "United States",
+  "founded_year": 1974,
+  "category": "Healthcare Infrastructure",
+  "subsector": "EHR & Practice Management",
+  "description": "Publicly traded healthcare IT company providing EHR, practice management, and revenue cycle management solutions. Serves ambulatory care practices with integrated clinical and financial solutions.",
+  "business_model": "B2B - EHR and practice management to physician practices",
+  "target_market": "Ambulatory care practices, specialty practices",
+  "funding_stage": "Public (NASDAQ: NXGN)",
+  "funding_amount_usd": null,
+  "key_investors": "Public company",
+  "employees": "2500+",
+  "customers": "155000+ providers",
+  "revenue_usd": 570000000,
+  "tech_stack": ["EHR", "Practice management", "Revenue cycle management", "Patient engagement", "Analytics"],
+  "integration_points": ["Payer systems", "Labs", "Pharmacies", "HIEs"],
+  "competitive_advantage": "Public company, established brand, ambulatory focus",
+  "boring_software": true,
+  "varden_fit": {
+    "threat_level": "low",
+    "opportunity": "monitor",
+    "rationale": "Established EHR - potential integration partner or competitor"
+  },
+  "data_quality": "high",
+  "sources": ["nextgen.com", "sec.gov"],
+  "last_updated": "2026-03-11"
+}

@@ -1,0 +1,14 @@
+{
+  "company": "Net Health",
+  "country": "US",
+  "problem": "Wound care documentation is fragmented across EHR systems. Compliance and billing are error-prone. Clinical analytics are lacking, making it hard to improve patient outcomes or demonstrate value.",
+  "solution": "#1 wound care EHR software (WoundExpert) with mobile wound imaging analytics. Provides compliance and billing automation, workflow optimization, clinical and operational analytics, patient engagement, and automated wound measurement. 30 years of healthcare software expertise.",
+  "problem_type": "wound_care",
+  "solution_type": "SaaS",
+  "buyer": "clinics",
+  "varden_fit": "high",
+  "url": "https://www.nethealth.com",
+  "source": "web",
+  "discovery_round": 134,
+  "discovered_by": "sky"
+}

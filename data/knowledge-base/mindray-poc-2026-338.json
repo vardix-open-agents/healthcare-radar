@@ -1,0 +1,22 @@
+{
+  "id": "mindray-poc-2026-338",
+  "title": "Mindray - Medical Devices & POC",
+  "company": "Mindray Medical",
+  "country": "China",
+  "segment": "diagnostics",
+  "problem": "Emerging markets need affordable point-of-care diagnostic devices",
+  "solution": "Full range of patient monitoring, in-vitro diagnostics, and medical imaging devices",
+  "technology": "POC analyzers, ultrasound, patient monitors, hematology analyzers",
+  "target_customer": "Hospitals globally, especially emerging markets",
+  "care_setting": "all",
+  "care_domain": "diagnostics",
+  "care_stage": "all",
+  "automation_level": "partial",
+  "ai_type": null,
+  "traction_signals": ["Top Chinese med device", "$5B+ revenue", "Global expansion"],
+  "funding": "Public ( SZSE: 300760)",
+  "regulatory_notes": "FDA 510(k), CE marked",
+  "source": "sky-round18-diagnostics",
+  "url": "https://www.mindray.com",
+  "date_added": "2026-03-11"
+}

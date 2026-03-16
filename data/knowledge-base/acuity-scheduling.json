@@ -1,0 +1,14 @@
+{
+  "company": "Acuity Scheduling",
+  "country": "US",
+  "problem": "Healthcare providers and service businesses need online booking and appointment management with client self-scheduling, automated reminders, and HIPAA-compliant features.",
+  "solution": "Acuity Scheduling (Squarespace) provides online appointment scheduling software with client self-booking, automated reminders, intake forms, payment processing, and HIPAA-compliant features on Premium plans. The platform supports multiple locations, calendar syncing, and integrations with video conferencing and marketing tools.",
+  "problem_type": "scheduling",
+  "solution_type": "SaaS",
+  "buyer": "providers",
+  "varden_fit": "medium",
+  "url": "https://www.acuityscheduling.com/",
+  "source": "web",
+  "discovery_round": 85,
+  "discovered_by": "nova"
+}

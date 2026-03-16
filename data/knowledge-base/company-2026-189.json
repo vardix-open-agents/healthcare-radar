@@ -1,0 +1,28 @@
+{
+  "company": "Kry Livi Tech (Sweden)",
+  "country": "Sweden",
+  "founded_year": 2015,
+  "category": "Healthcare Infrastructure",
+  "subsector": "Proprietary Health Tech Stack",
+  "description": "Kry's internal technology platform powering patient app, clinician EHR, and business operations. Industry-leading stack with 4.9 star patient app rating. Fastest growing digital health company in Europe.",
+  "business_model": "Internal platform (not sold externally)",
+  "target_market": "Internal use for Kry's operations across Europe",
+  "funding_stage": "Series D",
+  "funding_amount_eur": 400000000,
+  "key_investors": "Index Ventures, Creandum, Accel, General Atlantic",
+  "employees": "300+ engineers",
+  "customers": "Internal: 14M+ patient appointments, 3000+ clinicians",
+  "revenue_eur": "N/A (internal)",
+  "tech_stack": ["Custom EHR", "Video platform", "Triage AI", "Scheduling algorithms", "Security stack"],
+  "integration_points": ["NLL (Sweden)", "Regional health systems", "Insurance systems", "Lab networks"],
+  "competitive_advantage": "Purpose-built for hybrid care, high app ratings, security certifications",
+  "boring_software": true,
+  "varden_fit": {
+    "threat_level": "low",
+    "opportunity": "benchmark",
+    "rationale": "Technology benchmark - this is the stack Varden is competing against"
+  },
+  "data_quality": "high",
+  "sources": ["kry.tech", "kry.se"],
+  "last_updated": "2026-03-11"
+}

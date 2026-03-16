@@ -1,0 +1,114 @@
+[
+  {
+    "company_name": "Smart In Media AG",
+    "hq_location": "Cologne, Germany",
+    "website": "https://www.smartinmedia.com",
+    "problem_solved": "Enables pathologists to digitize workflows step-by-step, from microscope digitization to full digital labs, addressing the need for remote diagnostics, AI integration, and telepathology without requiring expensive scanner investments.",
+    "who_buys_it": "Pathology practices, university hospital institutes, hospitals, and dermatology clinics",
+    "key_features": [
+      "PathoZoom® Digital Lab - CE-IVD marked diagnostic platform for remote case review and AI integration",
+      "PathoZoom® Scan & LiveView - Turns existing microscopes into digital scanners in under a minute",
+      "SmartZoom® ClassRoom - Leading e-learning platform for histology education used by 250,000+ students"
+    ],
+    "business_model": "SaaS/perpetual license for software platforms; hardware add-ons for microscope digitization",
+    "why_varden_should_care": "High replicability potential - modular approach allows gradual adoption (digitize microscope first, then expand to full digital lab). Strong DACH market presence (60% of German university hospitals, #1 in Germany). Open API enables AI integration. CE-IVD certified."
+  },
+  {
+    "company_name": "Mindpeak",
+    "hq_location": "Hamburg, Germany",
+    "website": "https://www.mindpeak.ai",
+    "problem_solved": "Automates tedious and time-consuming manual cell counting and biomarker quantification in pathology, enabling pathologists to focus on complex cases while achieving higher reproducibility in IHC scoring.",
+    "who_buys_it": "Pathology labs, university hospitals, diagnostic laboratories, and pharma companies for clinical trials",
+    "key_features": [
+      "AI-powered 0-click solutions for automated tumor identification and biomarker pre-calculation (Ki-67, PD-L1, HER2, ER, PR)",
+      "Deep integration with major pathology software platforms (Sectra, Paige, Augmentiqs, Smart In Media, Tribun Health)",
+      "Standalone AI Console for quick image analysis without full platform integration"
+    ],
+    "business_model": "SaaS licensing with per-case or subscription pricing; deep integration partnerships with platform vendors",
+    "why_varden_should_care": "Pure AI play focused on automation of repetitive tasks - highly replicable across markets. Already deeply integrated with 10+ major pathology platforms, demonstrating platform-agnostic approach. CE-marked algorithms. Reduces case time by 80%+ according to customer testimonials."
+  },
+  {
+    "company_name": "Definiens",
+    "hq_location": "Munich, Germany",
+    "website": "https://www.definiens.com",
+    "problem_solved": "Provides enterprise-scale image analysis for tissue-based diagnostics and drug development, enabling pharmaceutical companies and diagnostic labs to extract quantitative biomarkers from pathology images for companion diagnostics and clinical trials.",
+    "who_buys_it": "Pharmaceutical companies, CROs, diagnostic laboratories, and research institutions",
+    "key_features": [
+      "Tissue Phenomics® - Quantitative analysis of tissue morphology and cellular context for drug development",
+      "Companion diagnostic development - FDA-cleared and CE-IVD marked image analysis for CDx programs",
+      "Scalable enterprise platform for high-throughput analysis of clinical trial samples"
+    ],
+    "business_model": "Enterprise software licensing (perpetual + maintenance); professional services for CDx development",
+    "why_varden_should_care": "Acquired by AstraZeneca in 2019, demonstrating strategic value of pathology AI. Focus on pharma/CDx represents high-value niche. Enterprise-scale approach is replicable for larger health systems. Strong regulatory expertise (FDA cleared, CE-IVD)."
+  },
+  {
+    "company_name": "Sectra (Digital Pathology Module)",
+    "hq_location": "Linköping, Sweden",
+    "website": "https://medical.sectra.com/solutionarea/digital-pathology/",
+    "problem_solved": "Integrates digital pathology into enterprise imaging workflows, enabling pathologists to access and analyze digitized slides within the same platform used for radiology, cardiology, and other medical imaging disciplines.",
+    "who_buys_it": "Hospitals, health systems, and integrated delivery networks seeking unified enterprise imaging",
+    "key_features": [
+      "Unified enterprise imaging platform combining radiology, pathology, cardiology, and ophthalmology",
+      "Sectra One Cloud - SaaS deployment with 99.99% guaranteed uptime",
+      "Sectra Amplifier Services - AI marketplace for vetted third-party pathology AI applications"
+    ],
+    "business_model": "SaaS subscription (Sectra One Cloud) or on-premise licensing; modular add-ons for different specialties",
+    "why_varden_should_care": "Best in KLAS for 13 consecutive years - strong customer satisfaction. Enterprise approach enables cross-departmental integration (pathology + radiology + cardiology). AI marketplace model creates ecosystem play. Strong DACH presence through direct sales and partners."
+  },
+  {
+    "company_name": "3DHISTECH",
+    "hq_location": "Budapest, Hungary",
+    "website": "https://www.3dhistech.com",
+    "problem_solved": "Provides end-to-end digital pathology solutions from slide scanners to software, enabling laboratories to transition from analog to digital workflows with integrated hardware and software from a single vendor.",
+    "who_buys_it": "Pathology laboratories, research institutions, pharmaceutical companies, and diagnostic centers",
+    "key_features": [
+      "PANNORAMIC® scanner family - Range of whole slide scanners from low to high throughput",
+      "CaseViewer - Case management and viewing software with multi-slide navigation",
+      "QuantCenter - Integrated image analysis platform with AI-powered algorithms"
+    ],
+    "business_model": "Hardware (scanners) + software licensing; consumables and service contracts",
+    "why_varden_should_care": "Full-stack solution (hardware + software) reduces integration complexity. Strong presence in DACH region through distribution partners. Competitive pricing vs. larger vendors (Leica, Hamamatsu). Open file format (MRXS) enables third-party software integration."
+  },
+  {
+    "company_name": "Aiforia",
+    "hq_location": "Helsinki, Finland",
+    "website": "https://www.aiforia.com",
+    "problem_solved": "Enables pathologists and researchers to create, validate, and deploy custom AI models for pathology image analysis without requiring programming expertise, democratizing access to deep learning for tissue analysis.",
+    "who_buys_it": "Hospital pathology departments, research institutions, pharmaceutical companies, and veterinary diagnostic labs",
+    "key_features": [
+      "Aiforia® Create - No-code AI model development tool for custom pathology applications",
+      "CE-IVD marked AI applications for clinical diagnostics (lymph node metastasis, gastric cancer, PD-L1)",
+      "Cloud-based platform with SOC 2 Type II and ISO 27001 security certifications"
+    ],
+    "business_model": "SaaS subscription for platform access; tiered pricing for clinical (CE-IVD) vs. research use; custom AI development services",
+    "why_varden_should_care": "No-code AI creation lowers barrier to entry for labs without data science expertise. Journey from research to CE-IVD demonstrates regulatory pathway. University of Bern collaboration shows successful academic-industry model. Cloud-native architecture simplifies deployment."
+  },
+  {
+    "company_name": "Visiopharm",
+    "hq_location": "Copenhagen, Denmark",
+    "website": "https://www.visiopharm.com",
+    "problem_solved": "Provides AI-driven image analysis software for precision pathology in both research and diagnostics, enabling standardized and reproducible quantification of tissue biomarkers across laboratories.",
+    "who_buys_it": "Pharmaceutical companies, research institutions, clinical diagnostic laboratories, and CROs",
+    "key_features": [
+      "Discovery™ - Deep learning platform enabling pathologists to train custom AI apps without coding",
+      "APP Center - Library of 130+ pre-built analysis modules for various tissues and stains",
+      "IVDR certified CE-IVD applications for clinical diagnostics"
+    ],
+    "business_model": "Perpetual software licensing with annual maintenance; subscription for cloud deployment; per-app pricing for APP Center modules",
+    "why_varden_should_care": "20+ years of experience in image analysis (founded 2001). Balance of research and diagnostic offerings provides multiple revenue streams. APP Center model creates recurring value. Phenoplex™ for spatial biology addresses emerging multiplex imaging trend."
+  },
+  {
+    "company_name": "Tribun Health",
+    "hq_location": "Paris, France",
+    "website": "https://www.tribun.health",
+    "problem_solved": "Provides a complete web-based digital pathology platform with AI integration, enabling laboratories to digitize their entire workflow from image acquisition to case sharing and AI-assisted analysis.",
+    "who_buys_it": "Clinical pathology laboratories, hospital pathology departments, and pharmaceutical companies",
+    "key_features": [
+      "CaloPix® - Zero-footprint, cloud-native image management system (CE-IVD, Health Canada approved)",
+      "AI Apps catalog - Integrated marketplace for diagnostic AI applications",
+      "TeleSlide® Patho - Built-in telepathology for remote consultations and second opinions"
+    ],
+    "business_model": "SaaS subscription; AI app marketplace (revenue share with AI developers); professional services",
+    "why_varden_should_care": "3x Best in KLAS winner for digital pathology (2024-2026). Strong DACH presence through partnerships. Platform-agnostic approach (works with any scanner, LIS, storage). Pharma platform for clinical trials represents additional revenue stream."
+  }
+]

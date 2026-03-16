@@ -1,0 +1,32 @@
+{
+  "id": "company-2026-205",
+  "title": "98point6 - AI-Powered Primary Care",
+  "company": "98point6",
+  "country": "USA",
+  "region": "North America",
+  "segment": "telehealth",
+  "problem": "Primary care access is expensive and time-consuming. Patients delay care due to cost and inconvenience.",
+  "solution": "AI-assisted primary care platform. AI handles initial intake, human doctors review and provide diagnosis/treatment. Text-based consultations.",
+  "technology": "AI intake, chat-based consultations, EHR, asynchronous care",
+  "target_customer": "Employers, health plans, consumers",
+  "care_setting": "telehealth",
+  "care_domain": "general",
+  "care_stage": "diagnosis",
+  "automation_level": "partial",
+  "ai_type": "NLP, clinical AI",
+  "traction_signals": [
+    "Employer partnerships",
+    "Text-based primary care",
+    "AI + human doctor model"
+  ],
+  "funding": "Series E $100M+",
+  "regulatory_notes": "HIPAA, state medical licensing, telemedicine regulations",
+  "varden_fit": "HIGH - AI-assisted primary care. Infrastructure for scalable primary care delivery.",
+  "source": "scout-round7",
+  "url": "https://www.98point6.com",
+  "date_added": "2026-03-11",
+  "notes": "boring_software=false, contrarian=true. AI-first primary care with human review. Contrarian: text-based vs video, AI intake vs human triage.",
+  "problem_type": "triage_navigation",
+  "boring_software": false,
+  "contrarian": true
+}

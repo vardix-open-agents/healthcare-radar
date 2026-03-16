@@ -1,0 +1,27 @@
+{
+  "company": "DrDoctor",
+  "country": "United Kingdom",
+  "founded_year": 2012,
+  "category": "Patient Engagement",
+  "subsector": "NHS Patient Communication Platform",
+  "description": "UK healthtech providing patient engagement platform for NHS trusts. Handles 150M+ patient messages annually for appointments, reminders, and care coordination. Deep NHS integration.",
+  "business_model": "B2B - SaaS to NHS trusts and healthcare organizations",
+  "target_market": "NHS trusts, hospitals, and healthcare providers in UK",
+  "funding_stage": "Series B",
+  "funding_amount_gbp": 15000000,
+  "key_investors": "BGF, local VCs",
+  "employees": 80,
+  "customers": "60+ NHS trusts",
+  "revenue_gbp": 10000000,
+  "tech_stack": ["Messaging platform", "Booking system", "Integration APIs", "Analytics"],
+  "integration_points": ["NHS EHRs (EMIS, SystmOne)", "Patient administration systems", "Lab systems"],
+  "competitive_advantage": "Deep NHS integration, trust-level deployment, proven scale",
+  "varden_fit": {
+    "threat_level": "low",
+    "opportunity": "partner",
+    "rationale": "Infrastructure layer in NHS - potential integration partner for patient communication"
+  },
+  "data_quality": "high",
+  "sources": ["drdoctor.com", "crunchbase.com"],
+  "last_updated": "2026-03-11"
+}

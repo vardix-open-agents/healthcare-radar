@@ -1,0 +1,82 @@
+[
+  {
+    "company_name": "Tobii Dynavox",
+    "hq_location": "Stockholm, Sweden",
+    "website_url": "https://www.tobiidynavox.com",
+    "problem_solved": "People with speech and communication disabilities (such as ALS, cerebral palsy, autism, and stroke) cannot communicate effectively, limiting their independence and quality of life",
+    "who_buys_it": "Speech-language pathologists, rehabilitation centers, hospitals, special education programs, and individual patients/families",
+    "key_features": "Augmentative and Alternative Communication (AAC) devices, eye-tracking enabled speech generating devices, symbol-based communication software, text-to-speech technology, eye gaze controlled tablets",
+    "business_model": "Hardware sales (AAC devices), software licensing (communication apps), accessories and support services",
+    "why_varden_should_care": "Market leader in AAC technology with strong Nordic roots; expanding addressable market as aging population increases demand; potential for AI integration to improve prediction and personalization; eye-tracking tech has broader applications in healthcare"
+  },
+  {
+    "company_name": "Demant A/S",
+    "hq_location": "Smørum, Denmark",
+    "website_url": "https://www.demant.com",
+    "problem_solved": "Hearing loss affects communication, social interaction, and cognitive health; accurate diagnosis and effective hearing solutions are needed across the lifecycle",
+    "who_buys_it": "Audiologists, ENT clinics, hearing care professionals, hospitals, diagnostic centers, and end consumers",
+    "key_features": "Hearing aids (Oticon, Bernafon, Sonic brands), diagnostic audiometry equipment (Interacoustics, MAICO), speech-in-noise testing, hearing care clinic network (Audika), pediatric audiology solutions",
+    "business_model": "B2B device sales to hearing care professionals, B2C retail through clinic network, diagnostic equipment sales to healthcare providers",
+    "why_varden_should_care": "World's second-largest hearing healthcare group with DKK 22.9B revenue; vertically integrated from manufacturing to retail; strong in speech-in-noise testing and diagnostic technology; growing telehealth/digital therapy offerings"
+  },
+  {
+    "company_name": "GN Store Nord A/S",
+    "hq_location": "Ballerup, Denmark",
+    "website_url": "https://www.gn.com",
+    "problem_solved": "Hearing impairment and communication challenges require advanced technology solutions that balance performance, discretion, and connectivity",
+    "who_buys_it": "Audiologists, hearing clinics, enterprise customers (headsets), healthcare systems, and end consumers",
+    "key_features": "ReSound hearing aids with advanced speech processing, Jabra audio solutions, Bluetooth connectivity, AI-powered sound adaptation, pediatric hearing solutions, teleaudiology platform",
+    "business_model": "Hearing aid sales through professional channels, enterprise audio solutions, consumer audio products",
+    "why_varden_should_care": "Pioneer in smart hearing technology with strong R&D; ReSound brand has significant market share; expanding into hearing health platforms and remote care; crossover technology with enterprise communications"
+  },
+  {
+    "company_name": "Interacoustics A/S",
+    "hq_location": "Middelfart, Denmark",
+    "website_url": "https://www.interacoustics.com",
+    "problem_solved": "Accurate diagnosis of hearing and balance disorders requires specialized, reliable audiometric and vestibular testing equipment",
+    "who_buys_it": "Audiologists, ENT departments, hospitals, diagnostic clinics, research institutions, and hearing aid dispensers",
+    "key_features": "Audiometers, tympanometers, otoacoustic emission (OAE) systems, auditory brainstem response (ABR) equipment, vestibular diagnostic systems, speech audiometry software, pediatric screening tools",
+    "business_model": "Diagnostic equipment sales, service contracts, software licensing, training and certification programs",
+    "why_varden_should_care": "Subsidiary of Demant with strong standalone brand; leader in diagnostic audiometry equipment; speech testing capabilities relevant to broader speech therapy market; expanding into telehealth diagnostics"
+  },
+  {
+    "company_name": "Widex A/S (part of WS Audiology)",
+    "hq_location": "Lynge, Denmark",
+    "website_url": "https://www.widex.com",
+    "problem_solved": "Hearing loss affects communication, relationships, and cognitive health; users need natural-sounding, personalized hearing solutions",
+    "who_buys_it": "Audiologists, hearing clinics, and end consumers through professional fitting",
+    "key_features": "Natural sound processing technology, AI-powered personalization (Widex Evoke), zero-delay processing, speech enhancement in noise, pediatric hearing solutions, teleaudiology support",
+    "business_model": "Hearing aid sales through audiologist channel, subscription/lease models in some markets, accessories and services",
+    "why_varden_should_care": "Part of WS Audiology (merger with Sivantos), one of world's largest hearing aid companies; strong in AI and machine learning for sound personalization; potential applications in broader speech enhancement technology"
+  },
+  {
+    "company_name": "Oticon A/S",
+    "hq_location": "Smørum, Denmark",
+    "website_url": "https://www.oticon.com",
+    "problem_solved": "Hearing loss and cognitive decline are linked; traditional hearing aids amplify sound but don't support how the brain naturally processes speech",
+    "who_buys_it": "Audiologists, hearing care clinics, and end consumers through professional fitting",
+    "key_features": "BrainHearing technology, speech enhancement algorithms, OpenSound Navigator for spatial hearing, connectivity with smartphones and assistive devices, pediatric solutions, teleaudiology",
+    "business_model": "Hearing aid sales through professional audiologist channel, accessories, support services",
+    "why_varden_should_care": "Flagship brand of Demant group; innovative brain-centric approach to hearing; strong R&D in speech processing; technology platform has applications in broader cognitive health and communication enhancement"
+  },
+  {
+    "company_name": "MAICO Diagnostic GmbH (Demant Group)",
+    "hq_location": "Berlin, Germany (Nordic parent: Demant, Denmark)",
+    "website_url": "https://www.maico-diagnostic.com",
+    "problem_solved": "Reliable, accurate screening and diagnostic equipment for hearing disorders is essential in clinical and educational settings",
+    "who_buys_it": "Audiologists, pediatricians, hospitals, school health programs, occupational health services, and ENT clinics",
+    "key_features": "Screening audiometers, diagnostic audiometers, tympanometers, newborn hearing screening (OAE/ABR), speech audiometry modules, portable diagnostic equipment",
+    "business_model": "Diagnostic equipment sales, service contracts, accessories and consumables",
+    "why_varden_should_care": "Part of Demant's diagnostic division; strong presence in screening and early detection; speech audiometry capabilities directly relevant to speech therapy market; growth potential in telehealth-enabled diagnostics"
+  },
+  {
+    "company_name": "Amplivox Ltd (Demant Group)",
+    "hq_location": "Birmingham, United Kingdom (Nordic parent: Demant, Denmark)",
+    "website_url": "https://www.amplivox.co.uk",
+    "problem_solved": "Affordable, reliable audiometric testing equipment is needed for hearing screening in clinical, occupational, and educational settings",
+    "who_buys_it": "Audiologists, occupational health services, hospitals, school health programs, and general practitioners",
+    "key_features": "Clinical audiometers, screening audiometers, tympanometers, speech audiometry, portable testing equipment, pediatric screening solutions",
+    "business_model": "Diagnostic equipment sales, maintenance contracts, accessories and consumables",
+    "why_varden_should_care": "Part of Demant's diagnostic portfolio; focus on accessible screening solutions; speech testing capabilities; potential for expansion into digital speech assessment tools"
+  }
+]

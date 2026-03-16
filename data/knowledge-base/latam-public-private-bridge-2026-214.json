@@ -1,0 +1,33 @@
+{
+  "id": "latam-public-private-bridge-2026-214",
+  "title": "LATAM Public-Private Healthcare Bridge Infrastructure",
+  "company": null,
+  "country": "Brazil/Mexico/Colombia/Regional",
+  "region": "LATAM",
+  "segment": "admin",
+  "problem": "Public and private healthcare systems in LATAM operate in complete silos. No shared patient records, no unified scheduling, no coordinated referrals. Patients in public system can't easily access private care even when paying out-of-pocket. No mechanisms for public system to contract private capacity during surges. COVID-19 exposed this gap when public systems were overwhelmed.",
+  "solution": "Platform connecting public and private healthcare systems. Shared patient identity/records, unified referral system, capacity sharing marketplace (public system can book private appointments), payment processing for out-of-pocket patients crossing systems. Real-time visibility into both sectors' capacity.",
+  "technology": "API integrations with public health systems, private hospital networks, identity matching, payment processing, capacity management",
+  "target_customer": "Ministry of Health, state health secretariats, private hospital networks, private insurers",
+  "care_setting": "all",
+  "care_domain": "general",
+  "care_stage": "treatment",
+  "automation_level": "partial",
+  "ai_type": null,
+  "traction_signals": [
+    "COVID-19 created emergency capacity sharing",
+    "Government looking for public-private partnerships",
+    "Private sector wants access to SUS patients (150M+)",
+    "Proven models in UK (NHS outsourcing), Spain"
+  ],
+  "funding": null,
+  "regulatory_notes": "Complex regulatory environment spanning public and private sectors, data sharing agreements required",
+  "varden_fit": "HIGH FIT - Infrastructure play at intersection of public and private. Boring B2G/B2B marketplace. Creates network effects. Long sales cycles but defensible position.",
+  "source": "Opportunity analysis + market gap identification",
+  "url": null,
+  "date_added": "2026-03-11",
+  "problem_type": "integration",
+  "contrarian": true,
+  "boring_software": true,
+  "notes": "CONTRARIAN: Everyone avoids government work. But public-private bridge is essential infrastructure. Brazil alone has 150M SUS users and 50M private - they need to talk to each other. Boring but massive."
+}

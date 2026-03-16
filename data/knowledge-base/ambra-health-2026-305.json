@@ -1,0 +1,22 @@
+{
+  "id": "ambra-health-2026-305",
+  "title": "Ambra Health - Cloud PACS",
+  "company": "Ambra Health",
+  "country": "USA",
+  "segment": "infrastructure",
+  "problem": "Legacy PACS systems expensive, on-premise, difficult to share images across organizations",
+  "solution": "Cloud-native medical image management platform with advanced visualization and sharing capabilities",
+  "technology": "Cloud computing, DICOM management, web-based viewers",
+  "target_customer": "Health systems, imaging centers, teleradiology practices",
+  "care_setting": "all",
+  "care_domain": "diagnostics",
+  "care_stage": "diagnosis",
+  "automation_level": "partial",
+  "ai_type": null,
+  "traction_signals": ["Acquired by Intelerad 2023", "400+ enterprise customers", "Processing 6B+ images"],
+  "funding": "Acquired",
+  "regulatory_notes": "FDA 510(k) cleared",
+  "source": "sky-round18-diagnostics",
+  "url": "https://www.ambrahealth.com",
+  "date_added": "2026-03-11"
+}

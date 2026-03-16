@@ -1,0 +1,14 @@
+{
+  "company": "Office Ally",
+  "country": "US",
+  "problem": "Small to mid-size healthcare practices lack affordable tools for insurance eligibility verification, claims management, and revenue recovery leading to bad debt and reimbursement delays",
+  "solution": "All-payer clearinghouse platform with Service Center providing pre-intake insurance eligibility verification, error correction, real-time claim status tracking across 6,100+ payer connections at affordable pricing for 80,000+ healthcare organizations",
+  "problem_type": "insurance_eligibility",
+  "solution_type": "SaaS",
+  "buyer": "providers",
+  "varden_fit": "high",
+  "url": "https://www.officeally.com",
+  "source": "web",
+  "discovery_round": 96,
+  "discovered_by": "sky"
+}

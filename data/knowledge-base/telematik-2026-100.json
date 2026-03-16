@@ -1,0 +1,32 @@
+{
+  "id": "telematik-2026-100",
+  "title": "German Telematics Infrastructure - Healthcare Connectivity",
+  "company": "gematik (German Infrastructure)",
+  "country": "Germany",
+  "region": "EU",
+  "segment": "infrastructure",
+  "problem": "German healthcare needs standardized electronic connectivity between providers, insurers, and patients.",
+  "solution": "Telematics infrastructure connecting all German healthcare stakeholders. Electronic health card (eGK), electronic prescriptions, secure messaging. Basis for healthcare data exchange.",
+  "technology": "eGK smart cards, secure network infrastructure, electronic prescriptions",
+  "target_customer": "All German healthcare providers and insurers",
+  "care_setting": "all",
+  "care_domain": "general",
+  "care_stage": "admin",
+  "automation_level": "partial",
+  "ai_type": null,
+  "traction_signals": [
+    "Mandatory for all German providers",
+    "73 million Germans with eGK",
+    "Electronic prescription rollout"
+  ],
+  "funding": "Government infrastructure",
+  "regulatory_notes": "German federal regulation, GDPR",
+  "varden_fit": "CRITICAL — German telematics proves infrastructure exists but lacks advanced eligibility and prior auth automation. This is the opportunity layer.",
+  "source": "Industry knowledge",
+  "url": "https://www.gematik.de",
+  "date_added": "2026-03-11",
+  "problem_type": "eligibility",
+  "contrarian": true,
+  "boring_software": true,
+  "notes": "CONTRARIAN: Infrastructure exists but no one has built eligibility verification or prior auth on top. This is the blue ocean."
+}

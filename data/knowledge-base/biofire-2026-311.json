@@ -1,0 +1,22 @@
+{
+  "id": "biofire-2026-311",
+  "title": "BioFire - Syndromic Panel Testing",
+  "company": "bioMérieux (BioFire)",
+  "country": "USA/France",
+  "segment": "diagnostics",
+  "problem": "Traditional testing requires multiple individual tests, taking days to identify pathogen causing infection",
+  "solution": "FilmArray multiplex PCR panels test for 20+ pathogens from single sample in 45 minutes",
+  "technology": "Multiplex PCR, cartridge-based testing, integrated sample prep",
+  "target_customer": "Hospital ED, ICU, pediatrics, urgent care",
+  "care_setting": "hospital",
+  "care_domain": "diagnostics",
+  "care_stage": "diagnosis",
+  "automation_level": "full",
+  "ai_type": null,
+  "traction_signals": [">$2B revenue", "80% of US hospitals", "Respiratory panel leader"],
+  "funding": "Subsidiary of bioMérieux (public)",
+  "regulatory_notes": "FDA cleared panels, CLIA waived",
+  "source": "sky-round18-diagnostics",
+  "url": "https://www.biofiredx.com",
+  "date_added": "2026-03-11"
+}

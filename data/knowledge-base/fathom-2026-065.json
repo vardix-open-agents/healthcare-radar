@@ -1,0 +1,14 @@
+{
+  "company": "Fathom",
+  "country": "US",
+  "problem": "Medical coding is a manual, error-prone, and expensive process that directly impacts revenue cycle performance. Inaccurate coding leads to claim denials, delayed reimbursements, compliance risks, and significant administrative overhead for healthcare organizations.",
+  "solution": "Fathom provides an autonomous medical coding platform powered by deep learning and natural language processing. Their AI system automatically extracts information from clinical documentation and assigns accurate medical codes (CPT, ICD-10, HCPCS) with human-level accuracy. The platform reduces coding costs, accelerates billing cycles, minimizes denials, and scales without requiring additional human coders. Fathom integrates with existing EHR and practice management systems.",
+  "problem_type": "claims_billing",
+  "solution_type": "SaaS",
+  "buyer": "providers",
+  "varden_fit": "high",
+  "url": "https://fathomhealth.com",
+  "source": "web research",
+  "discovery_round": 65,
+  "discovered_by": "sky"
+}

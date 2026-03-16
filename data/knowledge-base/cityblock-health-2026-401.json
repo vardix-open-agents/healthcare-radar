@@ -1,0 +1,22 @@
+{
+  "company_name": "Cityblock Health",
+  "problem_solved": "Medicaid and dual-eligible populations face fragmented care with unmet social needs, leading to poor outcomes and high costs for health plans",
+  "solution_description": "Value-based care provider specifically designed for Medicaid and dually-eligible populations. Combines primary care, mental health, and social care services through community health partners (CHPs). In-person and virtual care model with 24/7 access and care coordination",
+  "buyer_persona": "payers",
+  "care_stage": "treatment",
+  "automation_level": "partial",
+  "varden_fit": "very_high",
+  "region": "US",
+  "country": "United States",
+  "funding_stage": "series_d",
+  "traction_signals": [
+    "Multiple clinic locations in underserved communities",
+    "Community Health Partner model for SDOH support",
+    "Partnerships with major Medicaid plans",
+    "Co-founded by former Commonwealth Care Alliance leaders"
+  ],
+  "notes": "Leading value-based care provider for Medicaid. Strong SDOH integration through CHP model. Focus on relationship-based care. Addresses housing, food, childcare, and social needs alongside medical care. High Varden fit - serves complex populations with integrated social/medical care",
+  "discovery_round": 50,
+  "discovered_by": "sky",
+  "timestamp": "2026-03-11T23:20:00Z"
+}

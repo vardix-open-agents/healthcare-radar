@@ -1,0 +1,27 @@
+{
+  "company": "Farmamatic (Spain)",
+  "country": "Spain",
+  "founded_year": 2014,
+  "category": "Pharmacy Tech",
+  "subsector": "Pharmacy Management & E-prescription",
+  "description": "Spanish startup providing pharmacy management software and e-prescription services. Helps pharmacies digitize operations and connect with Spanish national health system's e-prescription network.",
+  "business_model": "B2B - SaaS to pharmacies",
+  "target_market": "Spanish pharmacies",
+  "funding_stage": "Series A",
+  "funding_amount_eur": 3000000,
+  "key_investors": "Spanish VCs, pharmaceutical investors",
+  "employees": 40,
+  "customers": "2000+ pharmacies",
+  "revenue_eur": 4000000,
+  "tech_stack": ["Pharmacy management software", "E-prescription integration", "Inventory management"],
+  "integration_points": ["Spanish e-prescription network", "Wholesaler systems"],
+  "competitive_advantage": "Spanish market leader in pharmacy software, regulatory compliance",
+  "varden_fit": {
+    "threat_level": "low",
+    "opportunity": "partner",
+    "rationale": "Pharmacy infrastructure in Spain - potential partner for medication services"
+  },
+  "data_quality": "low",
+  "sources": ["linkedin.com", "startup databases"],
+  "last_updated": "2026-03-11"
+}

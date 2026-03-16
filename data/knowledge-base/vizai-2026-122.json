@@ -1,0 +1,30 @@
+{
+  "id": "vizai-2026-122",
+  "title": "Viz.ai - AI-Powered Care Coordination Platform",
+  "company": "Viz.ai",
+  "country": "USA",
+  "region": "NA",
+  "segment": "care_coordination",
+  "problem": "Stroke and cardiovascular emergencies require rapid diagnosis and coordinated response across care teams, but delays are common.",
+  "solution": "AI-powered care coordination platform that automatically detects conditions from medical imaging and alerts care teams instantly, enabling rapid response.",
+  "technology": "Deep learning for medical imaging, automated alert systems, care team coordination workflows",
+  "target_customer": "Health systems, stroke centers, cardiology departments, emergency departments",
+  "care_setting": "emergency_inpatient",
+  "care_domain": "cardiology_neurology",
+  "care_stage": "diagnosis_treatment",
+  "automation_level": "full",
+  "ai_type": "Deep learning, computer vision for medical imaging",
+  "traction_signals": [
+    "1000+ hospital deployments",
+    "FDA cleared for stroke, pulmonary embolism, aortic dissection",
+    "Proven to reduce time-to-treatment significantly",
+    "Founded 2016, San Francisco"
+  ],
+  "funding": "$150M+ raised, unicorn valuation",
+  "regulatory_notes": "FDA 510(k) cleared for multiple conditions",
+  "varden_fit": "VERY HIGH - Automated detection + care team coordination is exactly Varden's model. Could expand beyond stroke/cardiology to other specialties.",
+  "source": "Industry knowledge",
+  "url": "https://viz.ai",
+  "date_added": "2026-03-11",
+  "notes": "Best-in-class example of AI + care coordination. Model for specialty care routing."
+}

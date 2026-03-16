@@ -1,0 +1,29 @@
+{
+  "id": "corti-2026-001",
+  "title": "Corti - AI Clinical Decision Support for Emergency Triage",
+  "company": "Corti",
+  "country": "Denmark",
+  "region": "Nordics",
+  "segment": "triage",
+  "problem": "Emergency dispatch centers face triage overload — call takers struggle to quickly and accurately assess patient urgency, leading to delayed or misrouted care.",
+  "solution": "Real-time AI that listens to emergency calls, extracts symptoms, and suggests triage recommendations to dispatchers. Reduces time to decision and improves accuracy.",
+  "technology": "Speech AI, NLP, real-time audio processing",
+  "target_customer": "Emergency dispatch centers, ambulance services",
+  "care_setting": "emergency",
+  "care_domain": "general",
+  "care_stage": "triage",
+  "automation_level": "assistive",
+  "ai_type": "NLP, Speech recognition",
+  "traction_signals": [
+    "Deployed in multiple European dispatch centers",
+    "Used by emergency services in Denmark, Sweden, UK",
+    "$60M Series B funding (2024)"
+  ],
+  "funding": "$60M Series B",
+  "regulatory_notes": "CE marked as medical device support tool. Not fully autonomous — assists human decision-making.",
+  "varden_fit": "Moderate — similar triage logic could apply to primary care booking flow, but emergency context is different. Core technology (real-time audio + triage) could inspire a lighter version for clinic intake.",
+  "source": "Rock Health + Crunchbase",
+  "url": "https://corti.ai",
+  "date_added": "2026-03-11",
+  "notes": "Strong Nordic presence. Could research if they partner with primary care or only emergency."
+}

@@ -1,0 +1,32 @@
+{
+  "id": "company-2026-204",
+  "title": "Heal - House Call Doctor Platform",
+  "company": "Heal",
+  "country": "USA",
+  "region": "North America",
+  "segment": "infrastructure",
+  "problem": "Primary care access requires patients to travel to clinics. Elderly and mobility-limited patients struggle with in-person visits.",
+  "solution": "Platform for booking house call doctor visits. On-demand and scheduled in-home primary care visits with EHR integration.",
+  "technology": "Booking platform, dispatch logistics, mobile EHR",
+  "target_customer": "Patients, especially elderly and families, health plans",
+  "care_setting": "home",
+  "care_domain": "general",
+  "care_stage": "diagnosis",
+  "automation_level": "partial",
+  "ai_type": null,
+  "traction_signals": [
+    "Operating in multiple US metros",
+    "Insurance partnerships",
+    "Hundreds of thousands of house calls"
+  ],
+  "funding": "Series C $100M+",
+  "regulatory_notes": "State medical licensing, HIPAA, house call regulations",
+  "varden_fit": "MEDIUM - House call platform. Shows alternative care delivery model.",
+  "source": "scout-round7",
+  "url": "https://www.heal.com",
+  "date_added": "2026-03-11",
+  "notes": "boring_software=true, contrarian=false. In-home care delivery. Infrastructure for house calls.",
+  "problem_type": "care_navigation",
+  "boring_software": true,
+  "contrarian": false
+}

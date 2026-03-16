@@ -1,0 +1,16 @@
+{
+  "id": "problem-2026-009",
+  "problem": "Care coordinators manually track patient transitions across 5+ systems, causing gaps in care",
+  "problem_type": "coordination",
+  "solution_type": "Unified care management platforms, automated care pathways, cross-system alerts",
+  "care_stage": "treatment",
+  "automation_type": "workflow_automation",
+  "buyer": "health_system",
+  "care_setting": "primary_care",
+  "companies": ["CareHarmony", "Current Health", "Commure"],
+  "signals": ["Value-based care adoption", "ACO growth", "Readmission penalty avoidance"],
+  "boring_software": true,
+  "contrarian": false,
+  "url": "https://www.careharmony.com",
+  "date_added": "2026-03-11"
+}

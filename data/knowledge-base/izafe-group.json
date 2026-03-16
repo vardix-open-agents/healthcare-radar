@@ -1,0 +1,14 @@
+{
+  "company": "iZafe Group (Dosell)",
+  "country": "SE",
+  "problem": "Medication non-adherence among elderly and chronic disease patients leads to poor health outcomes and increased healthcare costs",
+  "solution": "Automated medication dispensing device (Dosell) and digital medication management platform that organizes, reminds, and dispenses medications at scheduled times",
+  "problem_type": "pharmacy",
+  "solution_type": "SaaS",
+  "buyer": "pharmacies",
+  "varden_fit": "medium",
+  "url": "https://www.izafe.se/",
+  "source": "web",
+  "discovery_round": 75,
+  "discovered_by": "nova"
+}

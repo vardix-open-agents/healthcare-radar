@@ -1,0 +1,14 @@
+{
+  "company": "Signos",
+  "country": "US",
+  "problem": "Weight management is often approached without understanding individual metabolic responses, leading to ineffective one-size-fits-all approaches.",
+  "solution": "Signos is a metabolic health platform combining CGM with an AI-powered app that uses millions of data points to predict personal responses to food and movement. The platform provides real-time glucose feedback, personalized nutrition and exercise recommendations, and integrates with Apple Health and Google Health Connect for comprehensive health tracking.",
+  "problem_type": "endocrinology",
+  "solution_type": "SaaS",
+  "buyer": "clinics",
+  "varden_fit": "medium",
+  "url": "https://www.signos.com",
+  "source": "web",
+  "discovery_round": 116,
+  "discovered_by": "nova"
+}

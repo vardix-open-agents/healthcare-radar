@@ -1,0 +1,114 @@
+[
+  {
+    "company_name": "Visiba",
+    "hq_location": "Stockholm, Sweden",
+    "website_url": "https://www.visibacare.com",
+    "problem_solved": "Healthcare providers struggle with inefficient patient communication and manual triage. Visiba provides a digital care platform with AI-powered triage to streamline patient-provider interactions.",
+    "who_buys_it": "Public and private healthcare providers, clinics, hospitals, and health systems",
+    "key_features": [
+      "AI-powered triage system for patient routing",
+      "Video consultation platform with secure messaging",
+      "Multi-party calls with patients, colleagues, and interpreters"
+    ],
+    "business_model": "B2B SaaS platform with subscription-based pricing",
+    "why_varden_should_care": "Strong replicability potential - AI triage and digital care platform model can be adapted to other markets with healthcare provider networks. Founded in 2014, proven in Scandinavian market."
+  },
+  {
+    "company_name": "Kry",
+    "hq_location": "Stockholm, Sweden (with operations in Norway)",
+    "website_url": "https://www.kry.se (Sweden), https://www.kry.no (Norway)",
+    "problem_solved": "Patients face long wait times for doctor appointments while GPs struggle with administrative burdens. Kry offers digital reception and practice management solutions to help GPs work more efficiently.",
+    "who_buys_it": "General practitioners, GP practices, health centers, and healthcare systems",
+    "key_features": [
+      "Digital reception and automated patient communication",
+      "Cloud-based medical records system",
+      "Video consultation and remote care tools"
+    ],
+    "business_model": "Hybrid model - B2C telemedicine services + B2B practice management solutions for healthcare providers",
+    "why_varden_should_care": "High replicability - digital GP practice management and telemedicine model can be applied to markets with GP shortage or inefficient primary care systems. Strong track record across multiple Nordic countries."
+  },
+  {
+    "company_name": "Min Doktor",
+    "hq_location": "Stockholm, Sweden",
+    "website_url": "https://www.mindoktor.se",
+    "problem_solved": "Patients need quick access to healthcare while clinics struggle to manage patient flow efficiently. Min Doktor provides 24/7 digital healthcare access with chat-based consultations.",
+    "who_buys_it": "Healthcare consumers (B2C) and employers for occupational health services",
+    "key_features": [
+      "24/7 chat-based consultations with healthcare professionals",
+      "Digital prescriptions and appointment booking",
+      "Physical clinics for in-person care when needed"
+    ],
+    "business_model": "B2C direct-to-patient services with subscription/pay-per-visit, plus B2B employer health services",
+    "why_varden_should_care": "Moderate replicability - hybrid digital-physical healthcare model with patient engagement focus. Chat-first approach can be adapted to markets with high smartphone penetration and digital health readiness."
+  },
+  {
+    "company_name": "Pihlajalinna",
+    "hq_location": "Helsinki, Finland",
+    "website_url": "https://www.pihlajalinna.fi",
+    "problem_solved": "Patients need integrated healthcare services with easy access to their health information and providers. Pihlajalinna offers a comprehensive health app for managing care journey.",
+    "who_buys_it": "Healthcare consumers (B2C), employers for occupational health, and through public health system partnerships",
+    "key_features": [
+      "Mobile health app with chat reception and health records",
+      "Electronic prescriptions and appointment booking",
+      "Integration with occupational health and travel clinics"
+    ],
+    "business_model": "Hybrid B2C/B2B - direct patient services plus employer and public health partnerships",
+    "why_varden_should_care": "Moderate replicability - integrated health app and care coordination model can be adapted to markets with strong primary care networks. Focus on patient data portability and engagement."
+  },
+  {
+    "company_name": "Mehiläinen",
+    "hq_location": "Helsinki, Finland",
+    "website_url": "https://www.mehilainen.fi",
+    "problem_solved": "Patients need convenient access to healthcare services and their health data. Mehiläinen provides a comprehensive patient portal (OmaMehiläinen) with digital clinic services.",
+    "who_buys_it": "Healthcare consumers (B2C), employers for occupational health, and specialized care services",
+    "key_features": [
+      "OmaMehiläinen patient portal with digital clinic (Digiklinikka)",
+      "24/7 remote healthcare access and prescription renewal",
+      "Comprehensive health records and care coordination"
+    ],
+    "business_model": "Hybrid B2C/B2B - direct patient services, employer health plans, and specialized medical services",
+    "why_varden_should_care": "High replicability - comprehensive patient portal and digital clinic model can be adapted to markets seeking to digitize healthcare delivery. Strong focus on patient satisfaction measurement (NPS)."
+  },
+  {
+    "company_name": "Nightingale Health",
+    "hq_location": "Helsinki, Finland",
+    "website_url": "https://nightingalehealth.com",
+    "problem_solved": "Healthcare systems lack effective tools for preventive care and disease risk assessment. Nightingale provides AI-powered blood analysis technology for predicting disease risks.",
+    "who_buys_it": "Healthcare providers, health systems, and public health organizations for preventive care programs",
+    "key_features": [
+      "Blood analysis technology for disease risk prediction",
+      "Prevention of cardiovascular diseases and chronic conditions",
+      "Integration with public healthcare systems for population health"
+    ],
+    "business_model": "B2B SaaS - providing risk assessment technology to healthcare providers and health systems",
+    "why_varden_should_care": "High replicability - preventive care and risk assessment technology can be applied to markets with aging populations and rising chronic disease burden. Strong clinical validation and regulatory pathway."
+  },
+  {
+    "company_name": "1177 Vårdguiden",
+    "hq_location": "Stockholm, Sweden",
+    "website_url": "https://www.1177.se",
+    "problem_solved": "Patients need a unified portal to access healthcare services, manage appointments, and view health records. 1177 provides a national patient portal for Sweden's healthcare system.",
+    "who_buys_it": "Public healthcare system (government-funded, free to citizens)",
+    "key_features": [
+      "Electronic health records access and prescription management",
+      "Appointment booking and messaging with healthcare providers",
+      "Health information and self-service tools"
+    ],
+    "business_model": "Government-funded public service (not commercial, but serves as infrastructure model)",
+    "why_varden_should_care": "High replicability - national patient portal model can be adapted to other markets implementing healthcare digitization. Demonstrates patient engagement at scale with integrated services."
+  },
+  {
+    "company_name": "Helsenorge",
+    "hq_location": "Oslo, Norway",
+    "website_url": "https://www.helsenorge.no",
+    "problem_solved": "Norwegian citizens need a centralized digital platform to access health services and manage their health data. Helsenorge provides the national health portal for Norway's healthcare system.",
+    "who_buys_it": "Public healthcare system (government-funded, free to citizens)",
+    "key_features": [
+      "Digital health services and prescription renewal",
+      "Appointment booking and proxy access for family members",
+      "Health information and vaccination records"
+    ],
+    "business_model": "Government-funded public service (infrastructure model for national health system)",
+    "why_varden_should_care": "High replicability - national health portal model demonstrates patient engagement infrastructure at scale. Can be adapted to other countries implementing digital health strategies."
+  }
+]

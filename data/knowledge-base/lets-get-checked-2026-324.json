@@ -1,0 +1,22 @@
+{
+  "id": "lets-get-checked-2026-324",
+  "title": "LetsGetChecked - Home Health Testing",
+  "company": "LetsGetChecked",
+  "country": "Ireland/USA",
+  "segment": "consumer",
+  "problem": "Inconvenient lab access; consumers want privacy and convenience for sensitive tests",
+  "solution": "At-home testing kits with clinical oversight and digital results delivery",
+  "technology": "Direct-to-consumer logistics, lab network, digital health platform",
+  "target_customer": "Consumers, employers, health plans",
+  "care_setting": "home",
+  "care_domain": "diagnostics",
+  "care_stage": "screening",
+  "automation_level": "partial",
+  "ai_type": null,
+  "traction_signals": ["Raised $300M+", "Valued >$1B", "Available in 50 states"],
+  "funding": "Series D",
+  "regulatory_notes": "CLIA certified, physician oversight",
+  "source": "sky-round18-diagnostics",
+  "url": "https://www.letsgetchecked.com",
+  "date_added": "2026-03-11"
+}

@@ -1,0 +1,14 @@
+{
+  "company": "Greenway Health (Novare)",
+  "country": "US",
+  "problem": "Rheumatology practices need modern EHR solutions with AI-powered automation to reduce documentation burden, improve clinical workflows, and support value-based care initiatives",
+  "solution": "Novare AI-by-design EHR platform with automated documentation, integrated practice management, patient engagement tools, and specialty-specific workflows designed for ambulatory rheumatology practices",
+  "problem_type": "rheumatology",
+  "solution_type": "SaaS",
+  "buyer": "clinics",
+  "varden_fit": "medium",
+  "url": "https://www.greenwayhealth.com/",
+  "source": "web",
+  "discovery_round": 117,
+  "discovered_by": "nova"
+}

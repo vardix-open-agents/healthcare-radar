@@ -1,0 +1,14 @@
+{
+  "company": "Tempus",
+  "country": "US",
+  "problem": "Physicians lacked access to comprehensive genomic and clinical data to make personalized treatment decisions, and clinical trial matching was fragmented and inefficient",
+  "solution": "AI-powered precision medicine platform combining genomic sequencing with clinical data to provide actionable insights for treatment selection, clinical trial matching, and drug discovery",
+  "problem_type": "genomics",
+  "solution_type": "SaaS",
+  "buyer": "providers",
+  "varden_fit": "low",
+  "url": "https://www.tempus.com",
+  "source": "web",
+  "discovery_round": 133,
+  "discovered_by": "nova"
+}

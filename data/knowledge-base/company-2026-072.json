@@ -1,0 +1,27 @@
+{
+  "company": "Doctolib",
+  "country": "France",
+  "founded_year": 2013,
+  "category": "Practice Management",
+  "subsector": "Healthcare Booking & Practice Management Platform",
+  "description": "Europe's largest healthcare booking platform with 300,000+ healthcare providers. Offers appointment scheduling, video consultations, patient records, and practice management tools.",
+  "business_model": "B2B - SaaS subscription to healthcare providers; B2C free for patients",
+  "target_market": "French and German healthcare providers (GPs, specialists, hospitals)",
+  "funding_stage": "Series F",
+  "funding_amount_eur": 500000000,
+  "key_investors": "General Atlantic, Accel, Eurazeo, Bpifrance",
+  "employees": 2500,
+  "customers": "300000+ healthcare providers, 80M+ monthly patients",
+  "revenue_eur": 300000000,
+  "tech_stack": ["Web platform", "Mobile apps", "Practice management software", "Video consultation"],
+  "integration_points": ["Hospital EHRs", "Lab systems", "Insurance systems", "Health ministry databases"],
+  "competitive_advantage": "Dominant market position in France/Germany, network effects, full practice management suite",
+  "varden_fit": {
+    "threat_level": "medium",
+    "opportunity": "partner",
+    "rationale": "Potential distribution partner in France - controls patient flow to most practices"
+  },
+  "data_quality": "high",
+  "sources": ["doctolib.fr", "doctolib.de", "crunchbase.com"],
+  "last_updated": "2026-03-11"
+}

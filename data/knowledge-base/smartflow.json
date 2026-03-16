@@ -1,0 +1,14 @@
+{
+  "company": "SmartFlow",
+  "country": "US",
+  "problem": "Veterinary practices experience bottlenecks in patient workflow management from admission to discharge, with staff struggling to track treatment progress, access up-to-date information, and share patient details efficiently",
+  "solution": "Workflow optimization software that streamlines every step from admission to discharge, provides comprehensive understanding of patient workflows and treatment progress, enables anywhere-access to current information, and facilitates instant sharing of detailed patient information for improved pet-side care",
+  "problem_type": "veterinary",
+  "solution_type": "SaaS",
+  "buyer": "vet_clinics",
+  "varden_fit": "low",
+  "url": "https://software.idexx.co.uk/smartflow",
+  "source": "web",
+  "discovery_round": 102,
+  "discovered_by": "nova"
+}

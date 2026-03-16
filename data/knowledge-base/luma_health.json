@@ -1,0 +1,14 @@
+{
+  "company": "Luma Health",
+  "country": "US",
+  "problem": "Healthcare organizations struggle with patient access bottlenecks, inefficient scheduling, communication gaps, and manual workflows that delay care and reduce patient satisfaction",
+  "solution": "AI-powered operational platform for healthcare that provides omnichannel messaging, automated scheduling, conversational AI, two-way patient communication, intake management, and payment processing with deep EHR integration",
+  "problem_type": "patient_communication",
+  "solution_type": "SaaS",
+  "buyer": "providers",
+  "varden_fit": "high",
+  "url": "https://www.lumahealth.io/",
+  "source": "web",
+  "discovery_round": 74,
+  "discovered_by": "sky"
+}

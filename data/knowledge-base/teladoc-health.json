@@ -1,0 +1,14 @@
+{
+  "company": "Teladoc Health",
+  "country": "US",
+  "problem": "Patients lack access to timely medical care, and health systems need to extend capacity and deliver unified virtual care experiences",
+  "solution": "Virtual care platform providing 24/7 access to medical providers, primary care, mental health, condition management, and specialty care; B2B platform for hospitals and health systems to expand staffing and patient experience",
+  "problem_type": "primary_care",
+  "solution_type": "SaaS",
+  "buyer": "health_system",
+  "varden_fit": "high",
+  "url": "https://www.teladochealth.com",
+  "source": "web",
+  "discovery_round": 125,
+  "discovered_by": "sky"
+}

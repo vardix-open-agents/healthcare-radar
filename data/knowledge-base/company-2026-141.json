@@ -1,0 +1,27 @@
+{
+  "company": "Modern Health (US - EU Expansion)",
+  "country": "United States",
+  "founded_year": 2017,
+  "category": "Mental Health",
+  "subsector": "Employee Mental Health Platform",
+  "description": "US-based mental health platform for employers expanding in Europe. Offers therapy, coaching, and digital mental health tools. Unicorn status with significant European enterprise customers.",
+  "business_model": "B2B - SaaS subscription to employers",
+  "target_market": "Global enterprises including European employers",
+  "funding_stage": "Series D",
+  "funding_amount_usd": 170000000,
+  "key_investors": "Insight Partners, Founders Fund, Kleiner Perkins",
+  "employees": 500,
+  "customers": "300+ enterprise clients globally",
+  "revenue_usd": 60000000,
+  "tech_stack": ["Web platform", "Mobile app", "Video therapy", "Digital CBT", "Assessment tools"],
+  "integration_points": ["HR systems", "Benefits platforms", "EAP programs"],
+  "competitive_advantage": "Comprehensive mental health solution, clinical validation, global platform",
+  "varden_fit": {
+    "threat_level": "high",
+    "opportunity": "compete",
+    "rationale": "Major mental health competitor expanding in Europe - well-funded and established"
+  },
+  "data_quality": "high",
+  "sources": ["modernhealth.com", "crunchbase.com"],
+  "last_updated": "2026-03-11"
+}

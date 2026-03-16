@@ -1,0 +1,27 @@
+{
+  "company": "Sundhed.dk (Denmark)",
+  "country": "Denmark",
+  "founded_year": 2005,
+  "category": "Digital Health Infrastructure",
+  "subsector": "National Health Portal",
+  "description": "Danish national health portal providing citizens access to health records, appointments, prescriptions, and healthcare information. Public sector infrastructure connecting all Danish healthcare.",
+  "business_model": "Public sector - Government-funded infrastructure",
+  "target_market": "Danish citizens and healthcare providers",
+  "funding_stage": "Government-funded",
+  "funding_amount_dkk": null,
+  "key_investors": "Danish Regions, Ministry of Health",
+  "employees": 150,
+  "customers": "5.8M Danish citizens",
+  "revenue_dkk": 200000000,
+  "tech_stack": ["National health portal", "EHR integration", "E-prescription", "Patient records"],
+  "integration_points": ["All Danish healthcare providers", "National registries", "GP systems"],
+  "competitive_advantage": "National infrastructure, universal access, comprehensive health data",
+  "varden_fit": {
+    "threat_level": "low",
+    "opportunity": "partner",
+    "rationale": "National health infrastructure in Denmark - potential integration point for occupational health"
+  },
+  "data_quality": "high",
+  "sources": ["sundhed.dk"],
+  "last_updated": "2026-03-11"
+}

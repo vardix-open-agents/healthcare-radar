@@ -1,0 +1,14 @@
+{
+  "company": "Maven Clinic",
+  "country": "US",
+  "problem": "Women and families lack access to comprehensive, continuous healthcare support across fertility, pregnancy, parenting, and menopause. Traditional healthcare is episodic, siloed, and fails to address the holistic needs of working families.",
+  "solution": "Digital health platform providing 24/7 virtual care for women and families across all life stages. Offers fertility and family building support, maternity and newborn care, parenting and pediatrics, and menopause care through a network of 30+ provider specialties, with AI-powered insights and care navigation.",
+  "problem_type": "womens_health",
+  "solution_type": "SaaS",
+  "buyer": "employers",
+  "varden_fit": "medium",
+  "url": "https://www.mavenclinic.com/",
+  "source": "web",
+  "discovery_round": 93,
+  "discovered_by": "nova"
+}

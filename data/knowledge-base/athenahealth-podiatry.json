@@ -1,0 +1,14 @@
+{
+  "company": "Athenahealth",
+  "country": "US",
+  "problem": "Podiatry practices of all sizes need a scalable, network-connected EHR and practice management solution that handles complex billing rules, payer contracts, and multi-location operations",
+  "solution": "Athenahealth provides a cloud-based EHR and practice management platform with specialty-specific configurations for podiatry, integrated revenue cycle management, and a nationwide payer network for optimized claims processing",
+  "problem_type": "podiatry",
+  "solution_type": "SaaS",
+  "buyer": "clinics",
+  "varden_fit": "medium",
+  "url": "https://www.athenahealth.com/",
+  "source": "web",
+  "discovery_round": 111,
+  "discovered_by": "sky"
+}

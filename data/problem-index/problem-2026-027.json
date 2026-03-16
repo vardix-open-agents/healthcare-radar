@@ -1,0 +1,16 @@
+{
+  "id": "problem-2026-027",
+  "problem": "Portuguese patients wait 6-12 months for elective surgeries, with no visibility into queue position",
+  "problem_type": "scheduling",
+  "solution_type": "Transparent waitlist management, patient portals, automated updates",
+  "care_stage": "treatment",
+  "automation_type": "workflow_automation",
+  "buyer": "health_system",
+  "care_setting": "specialty",
+  "companies": ["SPMS", "Hospital SaaS vendors", "Private hospital networks"],
+  "signals": ["SNS waiting list crisis", "Political pressure", "Private insurance growth"],
+  "boring_software": true,
+  "contrarian": false,
+  "url": "https://www.sns.gov.pt",
+  "date_added": "2026-03-11"
+}

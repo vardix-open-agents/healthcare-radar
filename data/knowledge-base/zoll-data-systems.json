@@ -1,0 +1,14 @@
+{
+  "company": "ZOLL Data Systems",
+  "country": "US",
+  "problem": "EMS, fire, and healthcare financial organizations need integrated software and data solutions to improve clinical, operational, and financial performance across the emergency care continuum.",
+  "solution": "ZOLL Data Systems provides comprehensive software and data solutions for EMS, fire, and healthcare financial industries, including ePCR, billing, analytics, and data integration platforms to optimize operations and outcomes.",
+  "problem_type": "emergency_services",
+  "solution_type": "SaaS",
+  "buyer": "providers",
+  "varden_fit": "low",
+  "url": "https://www.zolldata.com/",
+  "source": "web",
+  "discovery_round": 94,
+  "discovered_by": "sky"
+}

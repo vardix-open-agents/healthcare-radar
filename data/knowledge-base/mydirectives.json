@@ -1,0 +1,14 @@
+{
+  "company": "MyDirectives",
+  "country": "US",
+  "problem": "Advance care planning documents are often inaccessible when needed most, stored in paper format or scattered systems, preventing patient preferences from being honored in critical moments.",
+  "solution": "Digital advance care planning platform with HITRUST-certified registry enabling creation, storage, and interoperable access to advance directives and POLST forms for individuals, providers, and first responders.",
+  "problem_type": "hospice",
+  "solution_type": "SaaS",
+  "buyer": "providers",
+  "varden_fit": "medium",
+  "url": "https://www.mydirectives.com",
+  "source": "web",
+  "discovery_round": 142,
+  "discovered_by": "sky"
+}

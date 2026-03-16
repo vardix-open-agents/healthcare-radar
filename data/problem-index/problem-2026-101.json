@@ -1,0 +1,16 @@
+{
+  "id": "problem-2026-101",
+  "problem": "Clinical trials enroll 5% of eligible patients due to manual screening and referral processes",
+  "problem_type": "coordination",
+  "solution_type": "Automated trial matching, EHR-based eligibility screening, patient recruitment platforms",
+  "care_stage": "treatment",
+  "automation_type": "ai_assisted",
+  "buyer": "hospital",
+  "care_setting": "specialty",
+  "companies": ["TriNetX", "Deep 6 AI", "Elligo", "Medidata"],
+  "signals": ["Clinical trial delays cost $600K/day", "Patient recruitment challenges", "Diversity in trials mandate"],
+  "boring_software": false,
+  "contrarian": false,
+  "url": "https://www.trinetx.com",
+  "date_added": "2026-03-11"
+}

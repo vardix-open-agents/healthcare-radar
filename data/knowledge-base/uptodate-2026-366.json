@@ -1,0 +1,23 @@
+{
+  "company_name": "UpToDate (Wolters Kluwer)",
+  "problem_solved": "Clinicians need rapid access to evidence-based clinical information at the point of care to make informed treatment decisions",
+  "solution_description": "Leading evidence-based clinical decision support database with 7,600+ expert clinicians, editors, and reviewers. Provides drug information (UpToDate Lexidrug), patient engagement (Emmi), and CME/CE/CPD credits. Available in EHR, mobile, and remote locations",
+  "buyer_persona": "health_systems|clinics|providers",
+  "care_stage": "diagnosis|treatment",
+  "automation_level": "assistive",
+  "varden_fit": "high",
+  "region": "US|EU",
+  "country": "US",
+  "funding_stage": "public",
+  "traction_signals": [
+    "Trusted by 3+ million health professionals worldwide",
+    "100+ research studies proving improved health outcomes",
+    "7,600+ expert clinicians, editors, and reviewers",
+    "CME/CE/CPD credits accepted by dozens of accrediting organizations",
+    "Wolters Kluwer ownership provides enterprise stability"
+  ],
+  "notes": "Gold standard for clinical decision support. Strong evidence base with academic rigor. Enterprise and pro suites available. Global reach with multi-language support potential",
+  "discovery_round": 51,
+  "discovered_by": "sky",
+  "timestamp": "2026-03-11T23:22:00Z"
+}

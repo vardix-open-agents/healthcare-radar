@@ -1,0 +1,14 @@
+{
+  "company": "WellSky",
+  "country": "US",
+  "problem": "Healthcare systems struggle to coordinate whole-person care across providers, payers, and community organizations, leading to gaps in care and poor outcomes for complex patients.",
+  "solution": "AI-powered technology platform providing intelligent care management, predictive analytics, patient engagement, and connected care networks for post-acute and home-based care including hospice.",
+  "problem_type": "hospice",
+  "solution_type": "SaaS",
+  "buyer": "providers",
+  "varden_fit": "medium",
+  "url": "https://www.wellsky.com",
+  "source": "web",
+  "discovery_round": 142,
+  "discovered_by": "sky"
+}

@@ -1,0 +1,30 @@
+{
+  "id": "firstderm-2026-125",
+  "title": "First Derm - Teledermatology Platform",
+  "company": "First Derm (iDoc24)",
+  "country": "Sweden",
+  "region": "EU",
+  "segment": "teledermatology",
+  "problem": "Patients need quick dermatology advice but face long wait times for appointments, delaying diagnosis and treatment.",
+  "solution": "On-demand teledermatology platform connecting patients with board-certified dermatologists for asynchronous consultations within hours.",
+  "technology": "Mobile app, secure image upload, telemedicine platform, store-and-forward technology",
+  "target_customer": "Consumers, employers, health systems",
+  "care_setting": "telemedicine",
+  "care_domain": "dermatology",
+  "care_stage": "triage_diagnosis",
+  "automation_level": "hybrid",
+  "ai_type": null,
+  "traction_signals": [
+    "200K+ cases handled globally",
+    "Presence in 160+ countries",
+    "Average response time <24 hours",
+    "Founded 2009, Sweden"
+  ],
+  "funding": "Private, funding undisclosed",
+  "regulatory_notes": "CE marked in EU, operates globally",
+  "varden_fit": "HIGH - Teledermatology access and routing directly aligns with Varden's model. Good EU expansion opportunity.",
+  "source": "Industry knowledge",
+  "url": "https://firstderm.com",
+  "date_added": "2026-03-11",
+  "notes": "Strong EU presence. Asynchronous model scalable. Good fit for dermatology routing."
+}

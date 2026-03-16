@@ -1,0 +1,16 @@
+{
+  "id": "problem-2026-077",
+  "problem": "Skilled nursing facilities can't access hospital discharge summaries for 48-72 hours, leading to medication errors and rehospitalizations",
+  "problem_type": "data_integration",
+  "solution_type": "Automated discharge summary transmission, SNF-hospital integration platforms, transitional care workflows",
+  "care_stage": "treatment",
+  "automation_type": "data_integration",
+  "buyer": "post_acute",
+  "care_setting": "skilled_nursing",
+  "companies": ["MatrixCare", "PointClickCare", "Brightree", "Net Health", "Optima Healthcare Solutions"],
+  "signals": ["SNF readmission penalties", "Value-based purchasing post-acute", "INTERACT implementation"],
+  "boring_software": true,
+  "contrarian": false,
+  "url": "https://www.cms.gov/Medicare/Provider-Enrollment-and-Certification/CertificationandComplianc/SNFs",
+  "date_added": "2026-03-11"
+}

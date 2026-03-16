@@ -1,0 +1,14 @@
+{
+  "company": "Specialists On Call",
+  "country": "US",
+  "problem": "Hospitals need immediate access to neurologists for stroke patients but often face specialist shortages, particularly during off-hours",
+  "solution": "24/7 telemedicine platform connecting hospitals with board-certified neurologists and other specialists for stroke, emergency, and critical care consultations",
+  "problem_type": "specialty_telemedicine",
+  "solution_type": "SaaS",
+  "buyer": "hospitals",
+  "varden_fit": "low",
+  "url": "https://www.specialistsoncall.com",
+  "source": "web",
+  "discovery_round": 100,
+  "discovered_by": "nova"
+}

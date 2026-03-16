@@ -1,0 +1,14 @@
+{
+  "company": "Cority",
+  "country": "CA",
+  "problem": "Organizations struggle to manage environmental, health, and safety (EHS) data across disparate systems, making it difficult to ensure workplace safety compliance, prevent occupational injuries, and make data-driven decisions about employee health programs.",
+  "solution": "Cority provides a unified EHS+ software platform that integrates occupational health management, safety incident tracking, industrial hygiene monitoring, and compliance reporting with AI-powered analytics to help organizations transform workplace health data into actionable insights.",
+  "problem_type": "occupational_health",
+  "solution_type": "SaaS",
+  "buyer": "employers",
+  "varden_fit": "medium",
+  "url": "https://www.cority.com",
+  "source": "web",
+  "discovery_round": 132,
+  "discovered_by": "sky"
+}

@@ -1,0 +1,16 @@
+{
+  "id": "problem-2026-109",
+  "problem": "Hospital equipment utilization only 40-50%, with idle assets costing hospitals $10M+ annually",
+  "problem_type": "coordination",
+  "solution_type": "Asset tracking platforms, real-time location systems, predictive maintenance, shared equipment pools",
+  "care_stage": "admin",
+  "automation_type": "full_automation",
+  "buyer": "hospital",
+  "care_setting": "primary_care",
+  "companies": ["GE Healthcare", " Philips", "Zebra Technologies", "Stanley Healthcare"],
+  "signals": ["Equipment losses $5K-50K/item", "Maintenance costs 10% of value", "Capital equipment budget constraints"],
+  "boring_software": true,
+  "contrarian": false,
+  "url": "https://www.zebra.com",
+  "date_added": "2026-03-11"
+}

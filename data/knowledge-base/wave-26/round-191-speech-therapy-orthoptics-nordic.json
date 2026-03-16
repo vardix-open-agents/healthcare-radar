@@ -1,0 +1,176 @@
+{
+  "round": 191,
+  "theme": "Speech Therapy / Orthoptics (Nordic)",
+  "region": "Nordic (Sweden, Norway, Denmark, Finland, Iceland)",
+  "date": "2026-03-14",
+  "focus_areas": [
+    "Speech therapy practice management",
+    "Orthodontic practice management",
+    "Dental imaging integration",
+    "Patient communication"
+  ],
+  "exclude": ["Consumer apps", "Pharma"],
+  "companies": [
+    {
+      "company_name": "3Shape",
+      "hq_location": "Copenhagen, Denmark",
+      "website_url": "https://www.3shape.com",
+      "problem_solved": "Traditional dental impressions are uncomfortable, time-consuming, and prone to inaccuracies. Orthodontists and dentists struggle with integrating digital workflows across imaging, treatment planning, and lab communication.",
+      "who_buys_it": "Orthodontists, prosthodontists, general dentists, dental labs, and multi-location dental practices",
+      "key_features": [
+        "TRIOS intraoral scanners with AI-assisted scanning",
+        "Dx Plus AI-assistive diagnostic software",
+        "3Shape Unite - workflow engine for treatment planning",
+        "Orthodontic simulation and treatment visualization",
+        "Integration with major aligner and lab systems",
+        "TRIOS MOVE Pro for patient consultations",
+        "Cloud-based case sharing and collaboration"
+      ],
+      "business_model": "SaaS subscription model with hardware sales. Scanners sold as capital equipment with software subscription fees for continued access to platform features and updates.",
+      "why_varden_should_care": "Leading player in digital dentistry with strong Nordic roots and global expansion. Their AI-assisted diagnostic tools and patient engagement features align with healthcare digitization trends. Strong integration ecosystem with labs, aligners, and practice management systems creates defensible moats."
+    },
+    {
+      "company_name": "Planmeca",
+      "hq_location": "Helsinki, Finland",
+      "website_url": "https://www.planmeca.com",
+      "problem_solved": "Dental practices need integrated imaging, CAD/CAM, and practice management solutions. Fragmented systems create workflow inefficiencies and data silos between different dental specialties.",
+      "who_buys_it": "Dental clinics, orthodontic practices, maxillofacial surgeons, dental schools, and hospital dental departments",
+      "key_features": [
+        "Planmeca Romexis - comprehensive dental software platform",
+        "CBCT 3D imaging with AI-powered diagnostics",
+        "2D/3D imaging equipment with low patient dose",
+        "CAD/CAM solutions for restorative dentistry",
+        "Integrated dental units and equipment",
+        "Cloud-based imaging storage and sharing",
+        "Specialized orthodontic planning tools"
+      ],
+      "business_model": "Hybrid model - hardware equipment sales (imaging devices, dental units) combined with software licensing and service contracts. Enterprise agreements for large dental groups and hospital systems.",
+      "why_varden_should_care": "One of the largest privately-held dental equipment manufacturers globally, headquartered in Finland. Strong in dental imaging integration and AI-assisted diagnostics. Their Romexis platform serves as an end-to-end solution that competes with larger players like DEXIS/Sirona."
+    },
+    {
+      "company_name": "Plandent (Planmeca Group)",
+      "hq_location": "Helsinki, Finland",
+      "website_url": "https://www.plandent.com",
+      "problem_solved": "Dental practices across Nordic and Baltic regions need reliable supply chains, equipment, and software solutions with local support and expertise.",
+      "who_buys_it": "Dental clinics, orthodontic practices, dental laboratories, and healthcare procurement organizations across Nordic and Baltic countries",
+      "key_features": [
+        "Comprehensive dental supplies and materials distribution",
+        "Planmeca equipment sales and installation",
+        "Practice management software integration",
+        "Technical support and maintenance services",
+        "Education and training programs",
+        "Regional presence across 17+ European countries",
+        "Specialized orthodontic supplies and equipment"
+      ],
+      "business_model": "Distribution and services model - equipment sales, consumables distribution, and service contracts. Part of Planmeca Group's integrated dental ecosystem.",
+      "why_varden_should_care": "Key distribution channel for Planmeca Group across Nordic and Baltic markets. Strong regional presence and customer relationships provide insights into dental practice technology adoption patterns."
+    },
+    {
+      "company_name": "Dexis",
+      "hq_location": "Bismarck, North Dakota, USA (with significant European operations)",
+      "website_url": "https://www.dexis.com",
+      "problem_solved": "Dental practices need integrated digital workflows that combine imaging, diagnostics, and patient communication in a single platform. Multiple disconnected systems reduce efficiency and patient engagement.",
+      "who_buys_it": "Orthodontists, general dentists, multi-location dental groups, and DSOs (Dental Service Organizations)",
+      "key_features": [
+        "DEXIS IS ScanFlow - intraoral scanning with AI",
+        "Integrated 2D and 3D imaging platform",
+        "AI-powered diagnostics and treatment planning",
+        "ORTHOPANTOMOGRAPH OP 3D series for orthodontics",
+        "Patient engagement and visualization tools",
+        "Cloud-based case management",
+        "Surgical guide generation"
+      ],
+      "business_model": "SaaS subscription with hardware sales. Software licensing for imaging platform with tiered features. Equipment financing options available.",
+      "why_varden_should_care": "Major player in dental imaging with strong Nordic distribution through Plandent and other partners. Their integrated platform approach demonstrates the consolidation trend in dental technology. AI-powered diagnostics represent key investment thesis area."
+    },
+    {
+      "company_name": "DentalMonitoring",
+      "hq_location": "Paris, France (with significant global presence including Nordic markets)",
+      "website_url": "https://www.dentalmonitoring.com",
+      "problem_solved": "Orthodontic treatment monitoring requires frequent in-person visits. Patients have limited visibility into treatment progress, and practices struggle with patient communication and treatment adherence.",
+      "who_buys_it": "Orthodontists, clear aligner providers, multi-location orthodontic practices, and dental service organizations",
+      "key_features": [
+        "AI-powered remote monitoring of orthodontic treatment",
+        "Smartphone-based intraoral scanning",
+        "Automated treatment progress tracking",
+        "Patient communication and engagement tools",
+        "Practice analytics and outcome prediction",
+        "Integration with major aligner brands",
+        "Virtual consultation capabilities"
+      ],
+      "business_model": "SaaS subscription model with hardware (patented scanning device). Per-patient pricing or practice-level subscriptions. Reached $1B valuation.",
+      "why_varden_should_care": "Unicorn in dental tech with AI-powered remote monitoring. Strong expansion into Nordic orthodontic markets. Demonstrates patient communication and engagement thesis. Hybrid care model (in-person + remote) aligns with healthcare trends."
+    },
+    {
+      "company_name": "TandlægeNet / Tandvårdssystem",
+      "hq_location": "Stockholm, Sweden",
+      "website_url": "https://www.tandlagenet.se",
+      "problem_solved": "Dental practices in Sweden need integrated practice management solutions that handle patient communication, scheduling, billing, and compliance with Swedish healthcare regulations.",
+      "who_buys_it": "Swedish dental clinics, orthodontic practices, and multi-location dental groups",
+      "key_features": [
+        "Practice management for dental clinics",
+        "Patient booking and scheduling",
+        "Electronic health records for dentistry",
+        "Billing and insurance integration",
+        "Patient communication tools",
+        "Compliance with Swedish healthcare regulations",
+        "Integration with dental imaging systems"
+      ],
+      "business_model": "SaaS subscription model with per-user or per-practice pricing. Implementation and support services.",
+      "why_varden_should_care": "Local Nordic player in dental practice management. Understanding of Swedish regulatory requirements and market dynamics. Potential consolidation target as larger players expand in Nordics."
+    },
+    {
+      "company_name": "OrthoApnea",
+      "hq_location": "Gothenburg, Sweden",
+      "website_url": "https://www.orthoapnea.com",
+      "problem_solved": "Sleep apnea diagnosis and treatment requires collaboration between dentists, orthodontists, and sleep specialists. Limited tools exist for integrated sleep medicine workflows in dental practice.",
+      "who_buys_it": "Orthodontists, dentists specializing in sleep medicine, sleep clinics, and ENT specialists",
+      "key_features": [
+        "Orthodontic appliances for sleep apnea treatment",
+        "Patient monitoring and outcome tracking",
+        "Integration with sleep study data",
+        "Treatment planning tools",
+        "Patient communication features",
+        "Collaboration tools for multi-disciplinary care",
+        "Nordic regulatory compliance"
+      ],
+      "business_model": "Product sales (appliances) combined with software subscriptions for monitoring and treatment planning. Distribution through dental suppliers.",
+      "why_varden_should_care": "Niche player at intersection of orthodontics and sleep medicine. Growing awareness of sleep apnea creates market opportunity. Demonstrates specialization trend in orthodontic practice."
+    },
+    {
+      "company_name": "IntraVision Dental",
+      "hq_location": "Oslo, Norway",
+      "website_url": "https://www.intravision.com/dental",
+      "problem_solved": "Dental practices need seamless integration between imaging equipment, practice management systems, and patient communication tools. Vendor lock-in and proprietary formats create interoperability challenges.",
+      "who_buys_it": "Norwegian dental clinics, orthodontic practices, and public dental health services",
+      "key_features": [
+        "Dental imaging integration platform",
+        "Interoperability between imaging vendors",
+        "Cloud-based image storage and sharing",
+        "Practice management system integration",
+        "Patient portal and communication tools",
+        "Nordic language support",
+        "GDPR compliance and data sovereignty"
+      ],
+      "business_model": "SaaS subscription with integration services. Per-clinic or per-user pricing. Enterprise agreements for public health systems.",
+      "why_varden_should_care": "Addresses interoperability challenge in dental IT. Nordic focus with strong regulatory compliance. Integration middleware approach is defensible as imaging vendor ecosystem grows."
+    }
+  ],
+  "summary": {
+    "total_companies": 8,
+    "countries_represented": ["Denmark", "Finland", "Sweden", "Norway"],
+    "key_themes": [
+      "AI-powered diagnostics and treatment planning",
+      "Remote patient monitoring and engagement",
+      "Integration platforms connecting imaging, practice management, and labs",
+      "Nordic regulatory compliance and language support",
+      "Hybrid care models (in-person + virtual)",
+      "Specialization in orthodontics and sleep medicine"
+    ],
+    "market_dynamics": {
+      "consolidation_trend": "Larger players (3Shape, Planmeca, DEXIS) building integrated platforms",
+      "regional_strength": "Nordic companies with strong local presence expanding globally",
+      "technology_trends": ["AI-assisted diagnostics", "Cloud-based workflows", "Remote monitoring", "Patient engagement"]
+    }
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "company": "Vidal",
+  "country": "France",
+  "founded_year": 1922,
+  "category": "Clinical Decision Support",
+  "subsector": "Drug Information & Therapeutic Decision Support",
+  "description": "France's leading drug information provider offering medication databases, therapeutic recommendations, and clinical decision support tools for healthcare professionals and patients.",
+  "business_model": "B2B - Subscriptions to hospitals, pharmacies, clinics; B2C for patient information",
+  "target_market": "French healthcare professionals (doctors, pharmacists, nurses) and patients",
+  "funding_stage": "Profitable",
+  "funding_amount_eur": null,
+  "key_investors": "Private ownership",
+  "employees": 200,
+  "customers": "50000+ healthcare professionals",
+  "revenue_eur": 30000000,
+  "tech_stack": ["Database platform", "Web portal", "Mobile apps", "API for EHR integration"],
+  "integration_points": ["Hospital EHRs", "Pharmacy systems", "Clinical workflows"],
+  "competitive_advantage": "100+ years of trust, official reference in France, comprehensive drug database",
+  "varden_fit": {
+    "threat_level": "low",
+    "opportunity": "partner",
+    "rationale": "Essential infrastructure for French market - potential data partner for medication safety"
+  },
+  "data_quality": "high",
+  "sources": ["vidal.fr"],
+  "last_updated": "2026-03-11"
+}

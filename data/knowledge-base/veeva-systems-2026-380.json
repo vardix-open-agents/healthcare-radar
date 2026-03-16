@@ -1,0 +1,22 @@
+{
+  "company_name": "Veeva Systems",
+  "problem_solved": "Fragmented data and processes across clinical trials, regulatory, and commercial operations in life sciences",
+  "solution_description": "Cloud-based platform suite including Veeva Vault (CTMS, RIM, Safety, eTMF) for clinical/regulatory and Veeva CRM for commercial operations. Industry-standard platform connecting pharma companies with healthcare providers.",
+  "buyer_persona": "pharma_lifesciences",
+  "care_stage": "clinical_trials,commercial",
+  "automation_level": "partial",
+  "varden_fit": "medium",
+  "region": "Global",
+  "country": "US",
+  "funding_stage": "public",
+  "traction_signals": [
+    "Dominant CRM in life sciences",
+    "Vault platform adopted by 1000+ pharma companies",
+    "Market cap ~$30B",
+    "Founded 2007, IPO 2013"
+  ],
+  "notes": "The Salesforce of life sciences. Industry-specific cloud applications with deep regulatory compliance. Key competitor to Oracle Siebel in CRM space. Vault platform competes with Medidata in clinical.",
+  "discovery_round": 53,
+  "discovered_by": "sky",
+  "timestamp": "2026-03-11T23:18:00Z"
+}

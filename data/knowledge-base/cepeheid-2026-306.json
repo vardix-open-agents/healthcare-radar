@@ -1,0 +1,22 @@
+{
+  "id": "cepeheid-2026-306",
+  "title": "Cepheid - Point-of-Care Molecular Diagnostics",
+  "company": "Cepheid (Danaher)",
+  "country": "USA",
+  "segment": "diagnostics",
+  "problem": "Molecular testing requires sending samples to central labs, causing multi-day delays in treatment decisions",
+  "solution": "GeneXpert system provides automated, on-demand molecular testing at point of care in under 90 minutes",
+  "technology": "PCR molecular diagnostics, cartridge-based testing, automated analysis",
+  "target_customer": "Hospitals, urgent care, clinics, ED",
+  "care_setting": "all",
+  "care_domain": "diagnostics",
+  "care_stage": "diagnosis",
+  "automation_level": "full",
+  "ai_type": null,
+  "traction_signals": [">$1B revenue", "50+ FDA cleared tests", "10,000+ placements globally"],
+  "funding": "Public (Danaher subsidiary)",
+  "regulatory_notes": "Multiple FDA 510(k) clearances, CLIA waived tests",
+  "source": "sky-round18-diagnostics",
+  "url": "https://www.cepheid.com",
+  "date_added": "2026-03-11"
+}

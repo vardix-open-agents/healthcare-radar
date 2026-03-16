@@ -1,0 +1,32 @@
+{
+  "id": "elationhealth-2026-090",
+  "title": "Elation Health - Primary Care EHR with Billing Integration",
+  "company": "Elation Health",
+  "country": "US",
+  "region": "US",
+  "segment": "admin",
+  "problem": "Primary care practices need EHR designed for their workflows with integrated billing, eligibility verification, and patient engagement.",
+  "solution": "Primary care-focused EHR with integrated billing, claims management, and patient engagement. Real-time eligibility verification. Clinical-first design for independent practices.",
+  "technology": "Cloud EHR, billing integration, eligibility APIs",
+  "target_customer": "Independent primary care practices, direct primary care",
+  "care_setting": "primary_care",
+  "care_domain": "general",
+  "care_stage": "admin",
+  "automation_level": "partial",
+  "ai_type": null,
+  "traction_signals": [
+    "Primary care-focused EHR",
+    "Independent practice focus",
+    "Integrated billing and eligibility"
+  ],
+  "funding": "Venture backed",
+  "regulatory_notes": "HIPAA compliant, Meaningful Use certified",
+  "varden_fit": "MEDIUM — Elation proves primary care-focused EHR with billing integration works. European primary care needs similar tools.",
+  "source": "Industry knowledge",
+  "url": "https://www.elationhealth.com",
+  "date_added": "2026-03-11",
+  "problem_type": "eligibility",
+  "contrarian": true,
+  "boring_software": true,
+  "notes": "CONTRARIAN: Primary care EHR is crowded but essential. Billing and eligibility integration is key differentiator."
+}

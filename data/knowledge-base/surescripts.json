@@ -1,0 +1,14 @@
+{
+  "company": "Surescripts",
+  "country": "US",
+  "problem": "Healthcare ecosystem lacks interoperability for prescription data, leading to fragmented care, medication errors, inefficient prior authorizations, and poor visibility into patient medication histories and benefits.",
+  "solution": "Nationwide health intelligence network connecting 2.32 million healthcare professionals. Provides intelligent prescribing, automated prior authorization, benefit and price intelligence, and value-based care insights. Processes 30.5 billion network transactions annually with comprehensive drug interaction checking and medication history access.",
+  "problem_type": "medication_management",
+  "solution_type": "SaaS",
+  "buyer": "providers",
+  "varden_fit": "high",
+  "url": "https://surescripts.com",
+  "source": "web",
+  "discovery_round": 101,
+  "discovered_by": "sky"
+}

@@ -1,0 +1,14 @@
+{
+  "company": "Arcadia",
+  "country": "US",
+  "problem": "Healthcare payers and providers lack a unified view of patient populations across disparate data sources (EHRs, claims, SDoH), making it difficult to identify at-risk patients, coordinate care, and achieve value-based care savings.",
+  "solution": "Arcadia offers a healthcare data platform that aggregates disparate healthcare data, provides analytics software to extract meaningful insights, delivers actionable intelligence at the point of care, and automates routine processes to help organizations achieve higher MSSP bonuses and improved care coordination.",
+  "problem_type": "analytics",
+  "solution_type": "SaaS",
+  "buyer": "providers",
+  "varden_fit": "medium",
+  "url": "https://arcadia.io",
+  "source": "web",
+  "discovery_round": 97,
+  "discovered_by": "sky"
+}

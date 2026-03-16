@@ -1,0 +1,16 @@
+{
+  "id": "problem-2026-131",
+  "problem": "Duplicate claim submissions cost $2.7B annually in rework, with manual detection missing 15-20% of duplicates",
+  "problem_type": "duplicate_detection",
+  "solution_type": "AI-powered duplicate detection, claim fingerprinting, real-time deduplication, batch claim screening",
+  "care_stage": "admin",
+  "automation_type": "ai_assisted",
+  "buyer": "health_system",
+  "care_setting": "hospital",
+  "companies": ["Change Healthcare", "Waystar", "Experian Health", "Optum"],
+  "signals": ["$2.7B annual duplicate costs", "15-20% manual detection gaps", "AI fingerprinting pilots", "Real-time screening demand"],
+  "boring_software": true,
+  "contrarian": false,
+  "url": "https://www.cms.gov/duplicate-claims",
+  "date_added": "2026-03-11"
+}

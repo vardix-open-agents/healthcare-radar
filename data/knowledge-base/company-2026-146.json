@@ -1,0 +1,27 @@
+{
+  "company": "Healthera (UK)",
+  "country": "United Kingdom",
+  "founded_year": 2015,
+  "category": "Health Tech",
+  "subsector": "Employee Health Benefits Platform",
+  "description": "UK startup providing AI-powered health benefits platform for employers. Offers personalized health coaching, lab testing, virtual care, and behavioral health support integrated with employer benefit plans.",
+  "business_model": "B2B - Health benefits platform to employers",
+  "target_market": "UK employers seeking comprehensive health benefits solution",
+  "funding_stage": "Seed",
+  "funding_amount_gbp": 2000000,
+  "key_investors": "UK angels, early-stage VCs",
+  "employees": 25,
+  "customers": "80+ companies",
+  "revenue_gbp": 1500000,
+  "tech_stack": ["AI health assistant", "Web platform", "Mobile app", "Lab testing integration"],
+  "integration_points": ["HR systems", "Benefits platforms", "Healthcare providers"],
+  "competitive_advantage": "AI-powered personalization, comprehensive health benefits",
+  "varden_fit": {
+    "threat_level": "medium",
+    "opportunity": "acquire",
+    "rationale": "Direct competitor in UK employer health - potential acquisition target"
+  },
+  "data_quality": "medium",
+  "sources": ["healthera.com", "linkedin.com"],
+  "last_updated": "2026-03-11"
+}

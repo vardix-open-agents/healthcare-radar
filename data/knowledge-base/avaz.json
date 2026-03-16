@@ -1,0 +1,14 @@
+{
+  "company": "Avaz",
+  "country": "IN",
+  "problem": "Children with speech difficulties and special needs in diverse linguistic contexts lack access to affordable AAC tools in their native languages.",
+  "solution": "Picture-based communication app with support for 15+ languages, vocabulary adaptation to child progress, teletherapy integration, and tools for families and professionals.",
+  "problem_type": "speech_therapy",
+  "solution_type": "SaaS",
+  "buyer": "clinics",
+  "varden_fit": "medium",
+  "url": "https://www.avazapp.com",
+  "source": "web",
+  "discovery_round": 141,
+  "discovered_by": "nova"
+}

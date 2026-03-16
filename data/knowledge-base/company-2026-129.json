@@ -1,0 +1,27 @@
+{
+  "company": "Lyyti (Finland)",
+  "country": "Finland",
+  "founded_year": 2007,
+  "category": "Health Tech",
+  "subsector": "Occupational Health Software",
+  "description": "Finnish startup providing occupational health and safety management software for employers. Offers risk assessment, incident reporting, and occupational health record management.",
+  "business_model": "B2B - SaaS subscription to employers",
+  "target_market": "Finnish employers seeking occupational health software",
+  "funding_stage": "Series A",
+  "funding_amount_eur": 3000000,
+  "key_investors": "Finnish VCs, angels",
+  "employees": 40,
+  "customers": "1000+ companies",
+  "revenue_eur": 5000000,
+  "tech_stack": ["Web platform", "Mobile app", "Reporting tools", "Integration APIs"],
+  "integration_points": ["HR systems", "Finnish occupational health services", "Insurance platforms"],
+  "competitive_advantage": "Finnish market leader in occupational health software, regulatory compliance",
+  "varden_fit": {
+    "threat_level": "medium",
+    "opportunity": "partner",
+    "rationale": "Occupational health software in Finland - potential integration partner"
+  },
+  "data_quality": "medium",
+  "sources": ["lyyti.fi", "linkedin.com"],
+  "last_updated": "2026-03-11"
+}

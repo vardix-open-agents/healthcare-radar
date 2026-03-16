@@ -1,0 +1,14 @@
+{
+  "company": "Doctible",
+  "country": "US",
+  "problem": "Healthcare practices face inefficient check-in processes, waiting room bottlenecks, and fragmented patient communication that doesn't meet modern patient expectations for digital convenience.",
+  "solution": "Patient communication platform with HIPAA-compliant digital intake forms, virtual waiting room, mobile-friendly check-in, e-signature collection, text messaging campaigns, and instant alerts when patients submit forms.",
+  "problem_type": "patient_intake",
+  "solution_type": "SaaS",
+  "buyer": "providers",
+  "varden_fit": "high",
+  "url": "https://www.doctible.com/",
+  "source": "web",
+  "discovery_round": 88,
+  "discovered_by": "sky"
+}

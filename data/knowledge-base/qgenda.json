@@ -1,0 +1,14 @@
+{
+  "company": "QGenda",
+  "country": "US",
+  "problem": "Healthcare organizations operate with siloed workforce management systems for credentialing, scheduling, on-call, time & attendance, and capacity management, creating inefficiencies and errors.",
+  "solution": "AI-powered unified workforce management platform for healthcare combining credentialing, scheduling, on-call management, time & attendance, and capacity management for physicians, nurses, and staff.",
+  "problem_type": "healthcare_staffing",
+  "solution_type": "SaaS",
+  "buyer": "health_system",
+  "varden_fit": "low",
+  "url": "https://www.qgenda.com/",
+  "source": "web",
+  "discovery_round": 127,
+  "discovered_by": "sky"
+}

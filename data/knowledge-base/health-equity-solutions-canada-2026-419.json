@@ -1,0 +1,22 @@
+{
+  "company_name": "Health Equity Solutions (Canada)",
+  "problem_solved": "Canadian healthcare systems need tools to identify and address health disparities among Indigenous, racialized, and underserved populations",
+  "solution_description": "Canadian health equity analytics platform. Provides data analytics, benchmarking, and reporting tools to identify health disparities. Supports healthcare organizations in measuring and addressing inequities in care access, quality, and outcomes. Focus on Indigenous health and social determinants",
+  "buyer_persona": "health_systems",
+  "care_stage": "monitoring",
+  "automation_level": "partial",
+  "varden_fit": "high",
+  "region": "Canada",
+  "country": "Canada",
+  "funding_stage": "private",
+  "traction_signals": [
+    "Focus on Indigenous health equity",
+    "Health disparity analytics",
+    "Canadian healthcare partnerships",
+    "Social determinants measurement"
+  ],
+  "notes": "Canadian health equity analytics. High Varden fit - purpose-built for measuring SDOH and disparities. Important for Canadian market. Focus on Indigenous populations is unique and important",
+  "discovery_round": 50,
+  "discovered_by": "sky",
+  "timestamp": "2026-03-11T23:20:00Z"
+}

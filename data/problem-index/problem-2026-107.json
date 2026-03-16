@@ -1,0 +1,16 @@
+{
+  "id": "problem-2026-107",
+  "problem": "Maternal mortality increased 40% in US, with Black women 3x more likely to die than White women",
+  "problem_type": "monitoring",
+  "solution_type": "AI-powered maternal early warning, postpartum monitoring platforms, equity-focused interventions",
+  "care_stage": "monitoring",
+  "automation_type": "ai_assisted",
+  "buyer": "hospital",
+  "care_setting": "primary_care",
+  "companies": ["Cayaba Care", "Maven Clinic", "Kindbody", "Oula Health"],
+  "signals": ["Maternal health disparities", "Medicaid postpartum coverage extension", "Employer maternal health programs"],
+  "boring_software": false,
+  "contrarian": false,
+  "url": "https://www.cayaba.com",
+  "date_added": "2026-03-11"
+}

@@ -1,0 +1,29 @@
+{
+  "id": "tandem-2026-002",
+  "title": "Tandem Health - AI Clinical Documentation Assistant",
+  "company": "Tandem Health",
+  "country": "Sweden",
+  "region": "Nordics",
+  "segment": "admin",
+  "problem": "Clinicians spend up to 50% of their working day on administrative tasks and clinical documentation, leading to burnout and reduced time for patient care.",
+  "solution": "AI medical assistant that captures consultations and prepares structured clinical notes, documents, and codes for review. Building toward an AI-native operating system for European clinics.",
+  "technology": "AI, NLP, Speech recognition, LLM, structured documentation",
+  "target_customer": "Clinics, healthcare providers, primary care",
+  "care_setting": "primary_care",
+  "care_domain": "general",
+  "care_stage": "admin",
+  "automation_level": "assistive",
+  "ai_type": "NLP, LLM, Speech recognition",
+  "traction_signals": [
+    "Featured by Microsoft Pulse for healthcare innovation",
+    "Partnership with Omilon Group for Scandinavia distribution",
+    "Active deployments across Nordic clinics"
+  ],
+  "funding": null,
+  "regulatory_notes": "Designed for safe, compliant use across clinical workflows. GDPR compliant.",
+  "varden_fit": "HIGH - Direct infrastructure play. AI documentation reduces administrative burden. Could integrate with Varden's booking/provider tools to create end-to-end clinic workflow automation. Similar EHR integration challenges = opportunity for Leyr partnership.",
+  "source": "Microsoft Pulse + Tandem Health website",
+  "url": "https://tandemhealth.ai",
+  "date_added": "2026-03-11",
+  "notes": "Founders: Lukas Saari, Oliver Åstrand (Stockholm). Expanding from documentation to full clinical workflow OS. Watch for expansion beyond Sweden."
+}

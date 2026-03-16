@@ -1,0 +1,114 @@
+[
+  {
+    "company_name": "RaySearch Laboratories",
+    "hq_location": "Stockholm, Sweden",
+    "website": "https://www.raysearchlabs.com",
+    "problem_solved": "Develops software for radiation therapy planning and cancer treatment, enabling oncologists to create more precise treatment plans for cancer patients.",
+    "who_buys": "Hospitals, cancer centers, radiation therapy clinics",
+    "key_features": [
+      "RayStation treatment planning system for radiation therapy",
+      "Multi-modality treatment support (IMRT, VMAT, proton therapy, carbon-ion therapy)",
+      "Adaptive radiation therapy capabilities"
+    ],
+    "business_model": "SaaS software licensing with annual maintenance contracts",
+    "why_varden_should_care": "Proven model of specialized oncology software that expanded from radiation therapy planning to broader oncology workflow management. Demonstrates strong replicability in vertical-specific healthcare IT."
+  },
+  {
+    "company_name": "Elekta (ProKnow/Kaiku Health)",
+    "hq_location": "Stockholm, Sweden",
+    "website": "https://www.elekta.com",
+    "problem_solved": "Provides integrated oncology software for radiation therapy management and digital patient monitoring for cancer patients undergoing treatment.",
+    "who_buys": "Hospitals, radiation therapy centers, oncology clinics",
+    "key_features": [
+      "ProKnow cancer care software for radiation therapy workflow",
+      "Kaiku Health digital patient monitoring platform",
+      "Treatment planning and analytics tools"
+    ],
+    "business_model": "SaaS subscription with hardware integration",
+    "why_varden_should_care": "Combines treatment planning with patient monitoring, showing how oncology software can expand into longitudinal patient care. Strong acquisition target (Kaiku acquired by Elekta)."
+  },
+  {
+    "company_name": "ONCOassist",
+    "hq_location": "Dublin, Ireland",
+    "website": "https://oncoassist.com",
+    "problem_solved": "Provides oncology healthcare professionals with mobile tools for clinical decision support, prognostic scoring, and drug information at the point of care.",
+    "who_buys": "Oncologists, oncology departments, cancer centers",
+    "key_features": [
+      "Prognostic scoring tools for chemotherapy decisions",
+      "Drug interaction checker and drug information database",
+      "AJCC cancer staging criteria with licensed TNM staging"
+    ],
+    "business_model": "Freemium mobile app with premium features",
+    "why_varden_should_care": "Demonstrates successful niche product strategy in oncology - started with mobile point-of-care tools and built largest community of oncology professionals. Highly replicable vertical-specific approach."
+  },
+  {
+    "company_name": "Medavis",
+    "hq_location": "Germany",
+    "website": "https://www.medavis.com",
+    "problem_solved": "Provides radiology IT solutions that enhance patient care efficiency through workflow optimization, image management, and teleradiology.",
+    "who_buys": "Hospitals, radiology departments, diagnostic imaging centers",
+    "key_features": [
+      "Radiology Information System (RIS) for workflow management",
+      "AI integration and teleradiology capabilities",
+      "Patient communication and image management tools"
+    ],
+    "business_model": "Enterprise software licensing and SaaS",
+    "why_varden_should_care": "25+ years in radiology IT shows longevity in vertical healthcare software. Part of synava Group alliance - demonstrates partnership/consolidation opportunities in healthcare IT."
+  },
+  {
+    "company_name": "SOPHiA GENETICS",
+    "hq_location": "Rolle, Switzerland",
+    "website": "https://www.sophiagenetics.com",
+    "problem_solved": "AI-driven platform for genomic and radiomic data analysis in oncology and rare diseases, helping hospitals make precision medicine decisions.",
+    "who_buys": "Hospitals, laboratories, biopharma companies",
+    "key_features": [
+      "SOPHiA DDM Platform for multi-modal data analysis",
+      "AI-powered genomic and radiomic analysis with 98-99% accuracy",
+      "Network of 990+ healthcare institutions across 75+ countries"
+    ],
+    "business_model": "SaaS platform with per-analysis pricing",
+    "why_varden_should_care": "Publicly traded (NASDAQ: SOPH) showing market validation for AI-driven oncology software. Platform approach connecting hospitals globally demonstrates network effects potential in healthcare IT."
+  },
+  {
+    "company_name": "Kheiron Medical (acquired by DeepHealth)",
+    "hq_location": "London, United Kingdom",
+    "website": "https://www.kheironmed.com",
+    "problem_solved": "AI-powered breast cancer detection software that assists radiologists in mammography screening and diagnosis.",
+    "who_buys": "Breast screening programs, radiology departments, hospitals",
+    "key_features": [
+      "Mia (Mammography Intelligent Assessment) AI detection system",
+      "Independent reader, concurrent reader, and triage tool capabilities",
+      "Integration with existing mammography workflows"
+    ],
+    "business_model": "SaaS subscription (acquired by DeepHealth/RadNet in 2024)",
+    "why_varden_should_care": "Successful acquisition exit in oncology AI space. Demonstrates value creation in specialized cancer screening AI. Started in UK and expanded globally before acquisition."
+  },
+  {
+    "company_name": "Owkin",
+    "hq_location": "Paris, France",
+    "website": "https://www.owkin.com",
+    "problem_solved": "Uses AI and federated learning for oncology drug discovery, clinical trial optimization, and AI diagnostics for cancer treatment decisions.",
+    "who_buys": "Pharmaceutical companies, hospitals, pathology labs",
+    "key_features": [
+      "MSIntuit CRC - AI diagnostic for colorectal cancer MSI screening",
+      "Dx RlapsRisk BC - breast cancer relapse prediction tool",
+      "K Pro AI research agent for biomedical insights"
+    ],
+    "business_model": "SaaS diagnostics platform and partnership revenue",
+    "why_varden_should_care": "Unicorn status ($1B+ valuation) with EU-approved oncology diagnostics. Federated learning approach enables data collaboration without data sharing - innovative model for healthcare AI."
+  },
+  {
+    "company_name": "Therapixel",
+    "hq_location": "France",
+    "website": "https://www.therapixel.com",
+    "problem_solved": "Develops AI-powered medical imaging software for cancer detection and diagnosis, with focus on breast cancer screening.",
+    "who_buys": "Radiology departments, hospitals, cancer screening programs",
+    "key_features": [
+      "AI algorithms for medical imaging analysis",
+      "Breast cancer detection and diagnosis tools",
+      "Integration with PACS and imaging workflows"
+    ],
+    "business_model": "SaaS software licensing",
+    "why_varden_should_care": "Leading French AI company in medical imaging for oncology. Shows successful niche strategy in cancer imaging AI. Part of growing European digital pathology market."
+  }
+]

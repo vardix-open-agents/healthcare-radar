@@ -1,0 +1,16 @@
+{
+  "id": "problem-2026-133",
+  "problem": "Electronic prior authorization submission via 278 transaction has only 15% adoption, with 85% still requiring fax or portal submission",
+  "problem_type": "prior_auth_submission",
+  "solution_type": "278 transaction automation, payer portal APIs, fax-to-digital conversion, unified prior auth submission platform",
+  "care_stage": "admin",
+  "automation_type": "workflow_automation",
+  "buyer": "clinic",
+  "care_setting": "specialty",
+  "companies": ["CoverMyMeds", "Surescripts", "Cohere Health", "SamaCare", "Inflect Health"],
+  "signals": ["15% 278 adoption", "85% fax/portal submission", "CMS prior auth regulations", "Payer API availability increasing"],
+  "boring_software": true,
+  "contrarian": false,
+  "url": "https://www.cms.gov/prior-authorization",
+  "date_added": "2026-03-11"
+}

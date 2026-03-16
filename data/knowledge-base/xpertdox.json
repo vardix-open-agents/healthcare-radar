@@ -1,0 +1,14 @@
+{
+  "company": "XpertDox",
+  "country": "US",
+  "problem": "Healthcare organizations struggle with slow, inaccurate manual medical coding leading to delayed reimbursements, high denial rates, and increased administrative costs",
+  "solution": "XpertCoding AI-powered autonomous medical coding engine that automatically codes over 94% of claims with >99% accuracy using hybrid AI combining ensemble models, neural networks, and symbolic reasoning with payer guidelines",
+  "problem_type": "medical_coding",
+  "solution_type": "SaaS",
+  "buyer": "providers",
+  "varden_fit": "high",
+  "url": "https://www.xpertdox.com",
+  "source": "web",
+  "discovery_round": 84,
+  "discovered_by": "sky"
+}

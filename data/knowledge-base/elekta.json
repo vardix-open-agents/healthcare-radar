@@ -1,0 +1,14 @@
+{
+  "company": "Elekta",
+  "country": "SE",
+  "problem": "Cancer treatment requires precise radiotherapy delivery, but many clinics lack integrated systems for treatment planning, delivery, and adaptive radiation therapy that can adjust to daily anatomical changes.",
+  "solution": "Comprehensive radiotherapy treatment solutions including linear accelerators, treatment planning systems, and adaptive radiotherapy software that enables precision cancer treatment with real-time imaging and motion management.",
+  "problem_type": "oncology",
+  "solution_type": "SaaS",
+  "buyer": "clinics",
+  "varden_fit": "medium",
+  "url": "https://www.elekta.com",
+  "source": "web",
+  "discovery_round": 108,
+  "discovered_by": "nova"
+}

@@ -1,0 +1,16 @@
+{
+  "id": "problem-2026-135",
+  "problem": "Prior auth requires gathering 10-15 clinical documents from EHR, taking 30-45 minutes per request with high rejection rates for incomplete documentation",
+  "problem_type": "clinical_documentation",
+  "solution_type": "Automated chart review, AI document selection, clinical criteria matching, attachment optimization",
+  "care_stage": "admin",
+  "automation_type": "ai_assisted",
+  "buyer": "clinic",
+  "care_setting": "specialty",
+  "companies": ["Cohere Health", "SamaCare", "Inflect Health", "CoHelm", "AGS Health"],
+  "signals": ["10-15 documents required", "30-45 min gathering time", "High incomplete rejection rate", "AI document selection pilots"],
+  "boring_software": false,
+  "contrarian": false,
+  "url": "https://www.ama-assn.org/prior-auth",
+  "date_added": "2026-03-11"
+}

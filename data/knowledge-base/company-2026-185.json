@@ -1,0 +1,28 @@
+{
+  "company": "Docobo (UK)",
+  "country": "United Kingdom",
+  "founded_year": 2001,
+  "category": "Digital Health Infrastructure",
+  "subsector": "Remote Patient Monitoring Platform",
+  "description": "UK remote patient monitoring and telehealth platform. Provides monitoring devices, platform, and clinical tools for chronic disease management. Used by NHS for remote patient monitoring programs.",
+  "business_model": "B2B - RPM platform to NHS and healthcare organizations",
+  "target_market": "NHS trusts, CCGs, healthcare providers",
+  "funding_stage": "Private",
+  "funding_amount_gbp": null,
+  "key_investors": "Undisclosed",
+  "employees": "50+",
+  "customers": "NHS organizations, UK healthcare providers",
+  "revenue_gbp": null,
+  "tech_stack": ["Remote monitoring", "Telehealth", "Chronic disease management", "GP integration"],
+  "integration_points": ["GP systems", "Hospital systems", "NHS infrastructure"],
+  "competitive_advantage": "NHS-proven, long market presence, integrated monitoring platform",
+  "boring_software": true,
+  "varden_fit": {
+    "threat_level": "low",
+    "opportunity": "monitor",
+    "rationale": "RPM infrastructure - relevant for occupational health monitoring"
+  },
+  "data_quality": "medium",
+  "sources": ["docobo.co.uk"],
+  "last_updated": "2026-03-11"
+}

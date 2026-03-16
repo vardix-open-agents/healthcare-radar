@@ -1,0 +1,22 @@
+{
+  "company_name": "GA Foods",
+  "problem_solved": "Seniors and patients with chronic conditions lack access to nutritious meals, contributing to poor health outcomes and hospital readmissions",
+  "solution_description": "Provider of medically tailored meals and nutrition services for Medicare Advantage, Medicaid, and senior nutrition programs. Delivers frozen meals meeting specific dietary requirements. Works with health plans, Area Agencies on Aging, and PACE programs to provide food-as-medicine solutions",
+  "buyer_persona": "payers",
+  "care_stage": "treatment",
+  "automation_level": "full",
+  "varden_fit": "high",
+  "region": "US",
+  "country": "United States",
+  "funding_stage": "private",
+  "traction_signals": [
+    "Serves Medicare Advantage and Medicaid",
+    "Partners with Area Agencies on Aging",
+    "PACE program provider",
+    "Specialized meals for chronic conditions"
+  ],
+  "notes": "Competitor to Mom's Meals in medically tailored meals space. High Varden fit - food-as-medicine addressing food insecurity. Strong in senior nutrition programs. Evidence-based approach to nutrition interventions",
+  "discovery_round": 50,
+  "discovered_by": "sky",
+  "timestamp": "2026-03-11T23:20:00Z"
+}

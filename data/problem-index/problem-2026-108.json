@@ -1,0 +1,16 @@
+{
+  "id": "problem-2026-108",
+  "problem": "Workers compensation injury reporting takes 3-5 days, delaying treatment and return-to-work",
+  "problem_type": "intake",
+  "solution_type": "Real-time injury reporting, mobile claim submission, employer-employee-provider coordination",
+  "care_stage": "intake",
+  "automation_type": "workflow_automation",
+  "buyer": "employer",
+  "care_setting": "occupational",
+  "companies": ["Corvel", "Sedgwick", "Gallagher Bassett", "Broadspire"],
+  "signals": ["Lost time injury costs $40K+", "RTW delays increase costs 2x", "OSHA reporting requirements"],
+  "boring_software": true,
+  "contrarian": false,
+  "url": "https://www.corvel.com",
+  "date_added": "2026-03-11"
+}

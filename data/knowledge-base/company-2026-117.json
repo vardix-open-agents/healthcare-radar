@@ -1,0 +1,27 @@
+{
+  "company": "ProntoPro (Italy)",
+  "country": "Italy",
+  "founded_year": 2015,
+  "category": "Healthcare Marketplace",
+  "subsector": "Professional Services Platform",
+  "description": "Italian startup operating marketplace connecting consumers with healthcare professionals including doctors, dentists, and therapists. Leading services marketplace in Italy with healthcare as a major vertical.",
+  "business_model": "B2C - Marketplace model; B2B - Marketing services to professionals",
+  "target_market": "Italian consumers seeking healthcare professionals",
+  "funding_stage": "Series B",
+  "funding_amount_eur": 20000000,
+  "key_investors": "United Ventures, Primo Ventures, Vertis SGR",
+  "employees": 150,
+  "customers": "50000+ professionals listed, 5M+ monthly users",
+  "revenue_eur": 12000000,
+  "tech_stack": ["Web platform", "Mobile app", "Review system", "Booking engine"],
+  "integration_points": ["Professional CRMs", "Insurance platforms"],
+  "competitive_advantage": "Market leader in Italy, strong brand, multi-vertical platform",
+  "varden_fit": {
+    "threat_level": "low",
+    "opportunity": "partner",
+    "rationale": "Distribution channel in Italy - could feature occupational health services"
+  },
+  "data_quality": "medium",
+  "sources": ["prontopro.it", "crunchbase.com"],
+  "last_updated": "2026-03-11"
+}

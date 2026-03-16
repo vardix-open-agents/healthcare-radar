@@ -1,0 +1,14 @@
+{
+  "company": "Wellhub",
+  "country": "BR",
+  "problem": "Employers invest in employee wellness benefits but see low engagement and utilization, leading to continued healthcare cost increases, high turnover, and difficulty demonstrating ROI on wellness program investments.",
+  "solution": "Wellhub (formerly Gympass) provides a corporate wellness platform that gives employees access to thousands of gyms, fitness studios, and wellness apps through a single subscription, driving high engagement rates and reducing healthcare costs and turnover through comprehensive wellbeing offerings.",
+  "problem_type": "occupational_health",
+  "solution_type": "SaaS",
+  "buyer": "employers",
+  "varden_fit": "medium",
+  "url": "https://wellhub.com",
+  "source": "web",
+  "discovery_round": 132,
+  "discovered_by": "sky"
+}

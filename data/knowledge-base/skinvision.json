@@ -1,0 +1,14 @@
+{
+  "company": "SkinVision",
+  "country": "NL",
+  "problem": "Patients lack access to quick skin cancer screening and often delay seeking medical attention for suspicious skin lesions, leading to later-stage melanoma diagnoses",
+  "solution": "AI-powered mobile app that analyzes skin photos to detect potential skin cancer risks, providing risk assessments within minutes and connecting users with dermatologists for high-risk cases",
+  "problem_type": "dermatology",
+  "solution_type": "SaaS",
+  "buyer": "clinics",
+  "varden_fit": "medium",
+  "url": "https://www.skinvision.com",
+  "source": "web",
+  "discovery_round": 106,
+  "discovered_by": "nova"
+}

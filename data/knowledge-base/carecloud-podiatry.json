@@ -1,0 +1,14 @@
+{
+  "company": "CareCloud",
+  "country": "US",
+  "problem": "Podiatry practices need modern, cloud-based practice management and EHR solutions that improve operational efficiency, patient experience, and financial performance with specialty-specific workflows",
+  "solution": "CareCloud provides a comprehensive cloud-based platform with EHR, practice management, patient engagement, and revenue cycle management services designed for specialty practices including podiatry with integrated analytics and reporting",
+  "problem_type": "podiatry",
+  "solution_type": "SaaS",
+  "buyer": "clinics",
+  "varden_fit": "medium",
+  "url": "https://www.carecloud.com/",
+  "source": "web",
+  "discovery_round": 111,
+  "discovered_by": "sky"
+}

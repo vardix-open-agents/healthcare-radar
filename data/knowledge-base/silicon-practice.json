@@ -1,0 +1,14 @@
+{
+  "company": "Silicon Practice",
+  "country": "GB",
+  "problem": "NHS GP practices need digital tools to manage patient demand, streamline administrative tasks, and connect patients with healthcare professionals efficiently",
+  "solution": "Patient Flow Manager platform with FootFall dashboard that automates routine tasks, enables online appointment scheduling, and improves patient communication for NHS GP practices",
+  "problem_type": "practice_management",
+  "solution_type": "SaaS",
+  "buyer": "clinics",
+  "varden_fit": "low",
+  "url": "https://siliconpractice.co.uk",
+  "source": "web",
+  "discovery_round": 87,
+  "discovered_by": "nova"
+}

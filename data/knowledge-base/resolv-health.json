@@ -1,0 +1,14 @@
+{
+  "company": "Resolv Health",
+  "country": "US",
+  "problem": "Serious illness conversations are often rushed, not documented properly, and care teams lack tools to systematically identify and address patient goals and preferences",
+  "solution": "Platform for serious illness conversation management with guided protocols, documentation, and analytics to improve advance care planning rates and quality",
+  "problem_type": "palliative_care",
+  "solution_type": "SaaS",
+  "buyer": "providers",
+  "varden_fit": "medium",
+  "url": "https://www.resolvhealth.com",
+  "source": "web",
+  "discovery_round": 121,
+  "discovered_by": "nova"
+}

@@ -1,0 +1,114 @@
+[
+  {
+    "company_name": "Diabeloop",
+    "hq_location": "Paris, France",
+    "website_url": "https://www.diabeloop.fr",
+    "problem_solved": "People with Type 1 diabetes must make dozens of therapeutic decisions daily about insulin dosing. Diabeloop's AI-powered algorithm automates and personalizes insulin delivery, reducing the mental burden of managing diabetes.",
+    "who_buys_it": "Hospitals, diabetes clinics, endocrinology departments, health insurers, and directly to patients through reimbursement programs",
+    "key_features": [
+      "Self-learning AI algorithm for automated insulin dosing",
+      "Integration with continuous glucose monitors (CGM) and insulin pumps",
+      "Cloud-based platform for remote monitoring by healthcare providers"
+    ],
+    "business_model": "Medical device + software (B2B2C) with reimbursement through national health systems (France, Germany, others in Europe)",
+    "why_varden_care": "High replicability - AI-driven personalization of chronic disease treatment is applicable across multiple conditions. The regulatory pathway and reimbursement model have been proven in France and can be replicated in other European markets."
+  },
+  {
+    "company_name": "Luscii",
+    "hq_location": "Amsterdam, Netherlands",
+    "website_url": "https://www.luscii.com",
+    "problem_solved": "Healthcare providers struggle to monitor chronic patients efficiently between appointments, leading to missed deterioration and unnecessary hospital visits. Luscii enables remote monitoring and guidance of patients safely at home.",
+    "who_buys_it": "Hospitals, outpatient clinics, home care organizations, regional care networks",
+    "key_features": [
+      "Disease-agnostic remote patient monitoring platform (one app for multiple conditions)",
+      "Direct integration with Electronic Health Records (EHRs)",
+      "AI-driven alerts for early detection of complications"
+    ],
+    "business_model": "SaaS subscription model for healthcare organizations, per-patient pricing",
+    "why_varden_care": "Excellent replicability - disease-agnostic platform can be deployed across multiple chronic conditions. Already deployed by 85% of Dutch hospitals, proving scalability. The EHR integration model is replicable across different health systems."
+  },
+  {
+    "company_name": "Mediq",
+    "hq_location": "Utrecht, Netherlands",
+    "website_url": "https://www.mediq.com",
+    "problem_solved": "Chronic disease patients face fragmented care with multiple providers, leading to poor coordination and adherence. Mediq provides integrated healthcare and homecare services including medication, medical devices, and nursing support.",
+    "who_buys_it": "Health insurers, governments, home care organizations, and directly to patients",
+    "key_features": [
+      "Integrated pharmacy + medical devices + home care services",
+      "Digital medication management and adherence monitoring",
+      "Multi-country presence across 14 European countries"
+    ],
+    "business_model": "Integrated healthcare services (B2B and B2C) with contracts from health insurers and direct-to-patient sales",
+    "why_varden_care": "Moderate replicability - the integrated care model is proven across multiple countries, but requires significant logistics and infrastructure. The digital medication management component is highly replicable as a standalone platform."
+  },
+  {
+    "company_name": "Resilience Care",
+    "hq_location": "Paris, France",
+    "website_url": "https://www.resilience.care",
+    "problem_solved": "Cancer patients require continuous monitoring during long-term treatment but face gaps between appointments. Resilience provides remote therapeutic monitoring with real-time symptom tracking and automated safety alerts.",
+    "who_buys_it": "Oncology clinics, hospitals, cancer centers, and life sciences companies for clinical trials",
+    "key_features": [
+      "Remote therapeutic monitoring with automated adverse event detection",
+      "Patient-centric app with personalized care pathways",
+      "Real-world evidence generation for clinical research"
+    ],
+    "business_model": "SaaS for healthcare providers + data partnerships with pharmaceutical companies for real-world evidence",
+    "why_varden_care": "High replicability - the remote monitoring and symptom tracking platform is applicable across chronic diseases beyond oncology (psychiatry, immunology already implemented). The dual-revenue model (providers + pharma) is innovative."
+  },
+  {
+    "company_name": "MN Santé",
+    "hq_location": "Paris, France",
+    "website_url": "https://www.mnsante.com",
+    "problem_solved": "Patient follow-up is inconsistent and many patients are lost between appointments, especially in underserved areas. MN Santé provides SMS-based patient monitoring and care coordination accessible to all patients, including those without smartphones.",
+    "who_buys_it": "Hospitals, clinics, regional health agencies, and healthcare networks",
+    "key_features": [
+      "SMS-based patient follow-up (no smartphone required)",
+      "Automated patient journey orchestration across multiple conditions",
+      "Integration with France's national health record system (Mon Espace Santé)"
+    ],
+    "business_model": "SaaS platform for healthcare organizations with per-patient pricing",
+    "why_varden_care": "Very high replicability - the SMS-first approach makes it accessible in low-tech environments and developing markets. The simplicity and universal access model is applicable globally, especially in regions with limited smartphone penetration."
+  },
+  {
+    "company_name": "Nabla",
+    "hq_location": "Paris, France",
+    "website_url": "https://www.nabla.com",
+    "problem_solved": "Healthcare providers spend excessive time on clinical documentation, leading to burnout and less time for patient care. Nabla's AI automatically captures and structures clinical conversations into medical notes.",
+    "who_buys_it": "Individual clinicians, clinics, hospitals, and health systems",
+    "key_features": [
+      "Ambient AI scribe for real-time clinical documentation",
+      "EHR integration with major electronic health record systems",
+      "Specialty-specific note templates (including chronic care management)"
+    ],
+    "business_model": "Freemium SaaS model - free tier for individual clinicians, enterprise pricing for health systems",
+    "why_varden_care": "High replicability - AI-powered documentation is applicable across all medical specialties and geographies. The proven model (55% of users save at least 1 hour per day, 27% reduction in burnout) is compelling for any market."
+  },
+  {
+    "company_name": "Kaia Health",
+    "hq_location": "Munich, Germany (operating across Europe including France and Benelux)",
+    "website_url": "https://www.kaiahealth.com",
+    "problem_solved": "Musculoskeletal pain is a leading cause of chronic disability, but access to physical therapy is limited and expensive. Kaia Health provides digital-first, evidence-based musculoskeletal care through a mobile app.",
+    "who_buys_it": "Employers, health insurers, and health plans",
+    "key_features": [
+      "AI-powered exercise guidance with computer vision technology",
+      "Multimodal treatment combining physical therapy, education, and mindfulness",
+      "Proven clinical outcomes with 3x ROI demonstrated in claims studies"
+    ],
+    "business_model": "B2B SaaS - contracts with employers and health insurers on a per-member basis",
+    "why_varden_care": "High replicability - the digital MSK model is proven across multiple European markets and the US. The employer/insurer buyer model is standard across developed markets. Clinical validation and ROI evidence make it easy to sell to payers."
+  },
+  {
+    "company_name": "Aptar Digital Health (formerly Voluntis)",
+    "hq_location": "Suresnes, France",
+    "website_url": "https://www.aptardigitalhealth.com",
+    "problem_solved": "Pharmaceutical companies lack digital solutions to support patients through complex treatment journeys for chronic diseases. Aptar provides regulated digital therapeutics and patient support programs integrated with drug therapies.",
+    "who_buys_it": "Pharmaceutical companies, biotech firms, and life sciences organizations",
+    "key_features": [
+      "Software as a Medical Device (SaMD) for symptom management and adherence monitoring",
+      "Disease management platforms for oncology, respiratory, immunology, and neurology",
+      "Real-world evidence generation and clinical trial support"
+    ],
+    "business_model": "B2B partnerships with pharmaceutical companies (licensing, co-development, and implementation fees)",
+    "why_varden_care": "High replicability - the digital therapeutics platform is disease-agnostic and can be adapted for any chronic condition. The pharma partnership model is scalable globally. The regulatory expertise in SaMD is a significant competitive advantage."
+  }
+]

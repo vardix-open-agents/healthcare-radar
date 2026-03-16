@@ -1,0 +1,33 @@
+{
+  "id": "r1rcm-2026-075",
+  "title": "R1 RCM - Revenue Operating System for Real-Time Adjudication",
+  "company": "R1 RCM",
+  "country": "US",
+  "region": "US",
+  "segment": "billing",
+  "problem": "Healthcare revenue cycle is fragmented, manual, and slow. Claims take weeks to adjudicate, denials are high, and providers lose revenue to administrative drag.",
+  "solution": "Phare: Healthcare's First Revenue Operating System. AI agents orchestrated across the entire revenue cycle. R37 AI lab builds specialized agents for claims, eligibility, and denials. Goal: real-time adjudication.",
+  "technology": "AI agents, reasoning models, voice AI, capture AI, RPA",
+  "target_customer": "Health systems, hospitals, physician groups",
+  "care_setting": "all",
+  "care_domain": "general",
+  "care_stage": "admin",
+  "automation_level": "full",
+  "ai_type": "AI agents, reasoning, language, voice models",
+  "traction_signals": [
+    "20+ years as RCM operators",
+    "R37 AI lab for innovation",
+    "Operating partnerships with major health systems",
+    "Agentic solutions for AI integration"
+  ],
+  "funding": "Public company (RCM), taken private by TowerBrook",
+  "regulatory_notes": "HIPAA compliant, deep healthcare expertise",
+  "varden_fit": "CRITICAL — R1's concept of a 'Revenue Operating System' with AI agents is exactly the future of healthcare infrastructure. European healthcare systems need this model.",
+  "source": "Web research",
+  "url": "https://www.r1rcm.com",
+  "date_added": "2026-03-11",
+  "problem_type": "claims",
+  "contrarian": true,
+  "boring_software": true,
+  "notes": "CONTRARIAN: Real-time adjudication is the holy grail. R1's AI lab approach shows how to build infrastructure that aligns payer and provider incentives."
+}

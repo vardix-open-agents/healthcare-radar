@@ -1,0 +1,22 @@
+{
+  "id": "icad-mammography-2026-344",
+  "title": "iCAD - Breast Health AI & Radiology",
+  "company": "iCAD",
+  "country": "USA",
+  "segment": "diagnostics",
+  "problem": "Breast cancer detection and treatment planning require multiple specialized tools",
+  "solution": "ProFound AI for 2D/3D mammography plus radiation therapy planning software",
+  "technology": "Deep learning for mammography, CAD, radiation therapy planning",
+  "target_customer": "Breast imaging centers, cancer centers, radiation oncology",
+  "care_setting": "outpatient",
+  "care_domain": "diagnostics",
+  "care_stage": "diagnosis",
+  "automation_level": "full",
+  "ai_type": "computer vision",
+  "traction_signals": ["FDA cleared", "Installed in 50+ countries", "Published clinical data"],
+  "funding": "Public (NASDAQ: ICAD)",
+  "regulatory_notes": "FDA 510(k) cleared, CE marked",
+  "source": "sky-round18-diagnostics",
+  "url": "https://www.icadmed.com",
+  "date_added": "2026-03-11"
+}

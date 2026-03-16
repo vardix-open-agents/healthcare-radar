@@ -1,0 +1,114 @@
+[
+  {
+    "company_name": "Ksyos",
+    "hq_location": "Amsterdam, Netherlands",
+    "website_url": "https://www.ksyos.nl",
+    "problem_solved": "Provides telemedicine solutions enabling remote consultations and diagnostics for healthcare providers, including dermatology, cardiology, and infectious disease screening. Their DTM (Diagnostic TeleMedicine) platform helps clinics scale specialist care without requiring in-person visits.",
+    "customers": "GP practices, hospitals, regional healthcare networks, municipal health services (GGD)",
+    "key_features": [
+      "Teledermatology for remote skin condition diagnosis",
+      "Ambulatory ECG monitoring and cardiac diagnostics",
+      "Integration with Dutch healthcare infrastructure (LSP/Huisartsenposten)"
+    ],
+    "business_model": "SaaS subscription to healthcare providers with per-consult pricing",
+    "varden_potential": "Strong replicability potential - the DTM platform model (telemedicine for specialist diagnostics) could be adapted for sexual health clinics, particularly for remote STI consultation and follow-up care. The Dutch market is mature and willing to pay for digital health solutions."
+  },
+  {
+    "company_name": "Mediq",
+    "hq_location": "Utrecht, Netherlands",
+    "website_url": "https://www.mediq.com",
+    "problem_solved": "Integrated healthcare provider and distributor delivering medical supplies, pharmaceuticals, and care coordination services to patients with chronic conditions. For sexual health specifically, they provide HIV medication delivery, PrEP distribution, and homecare coordination.",
+    "customers": "Patients (direct), pharmacies, hospitals, care institutions, insurers",
+    "key_features": [
+      "Direct-to-patient medication delivery for chronic conditions including HIV",
+      "Integrated care coordination between specialists and primary care",
+      "Digital ordering platforms for B2B healthcare providers"
+    ],
+    "business_model": "Hybrid: product distribution (pharmacy/medical supplies) + care services contracts with insurers/providers",
+    "varden_potential": "Medium replicability - the medication delivery + care coordination model for HIV/PrEP patients is proven but requires strong logistics infrastructure. The digital ordering platform component could be replicated more easily for STI testing kit distribution."
+  },
+  {
+    "company_name": "Vidal (Vidal Group)",
+    "hq_location": "Paris, France",
+    "website_url": "https://www.vidal.fr",
+    "problem_solved": "Provides comprehensive medical information databases and clinical decision support tools for healthcare professionals. Their platform includes drug interaction databases, therapeutic recommendations, and patient education materials covering sexual health treatments including HIV antiretrovirals and PrEP.",
+    "customers": "Hospitals, GP practices, pharmacists, healthcare institutions, pharmaceutical companies",
+    "key_features": [
+      "Vidal Recos - therapeutic recommendation summaries aligned with French health authority guidelines",
+      "Drug interaction and contraindication databases",
+      "Patient education materials for sexual health conditions"
+    ],
+    "business_model": "SaaS subscriptions to healthcare professionals and institutions; content licensing to EHR vendors",
+    "varden_potential": "High replicability potential - the clinical decision support model is universally applicable. Could extend to include sexual health-specific protocols, STI treatment algorithms, and PrEP prescribing guidance. The content licensing model scales well."
+  },
+  {
+    "company_name": "Health Data Hub",
+    "hq_location": "Paris, France",
+    "website_url": "https://www.health-data-hub.fr",
+    "problem_solved": "National health data platform enabling secure, unified access to French healthcare data for research and quality improvement projects. Supports epidemiological research on STI trends, HIV treatment outcomes, and public health surveillance for sexual health.",
+    "customers": "Research institutions, public health agencies, healthcare organizations, academic medical centers",
+    "key_features": [
+      "Secure, compliant access to SNDS (French national health data system)",
+      "Data governance and privacy-preserving analytics infrastructure",
+      "Open-source community and project support"
+    ],
+    "business_model": "Government-funded public infrastructure; free access for approved research projects",
+    "varden_potential": "Low direct replicability (government entity) but the data platform architecture and governance model could inform similar initiatives. The model of secure health data access for research is valuable for STI/HIV epidemiological surveillance systems."
+  },
+  {
+    "company_name": "Labbox",
+    "hq_location": "Bordeaux, France",
+    "website_url": "https://www.labbox.fr",
+    "problem_solved": "B2B supplier of laboratory equipment and consumables to clinical laboratories, including those performing STI testing. Provides procurement simplification and inventory management for diagnostic labs.",
+    "customers": "Clinical laboratories, hospital lab departments, research institutions, diagnostic centers",
+    "key_features": [
+      "Comprehensive catalog of laboratory consumables and equipment",
+      "Express ordering system with real-time stock visibility",
+      "Technical support and product selection assistance"
+    ],
+    "business_model": "E-commerce/distribution with B2B wholesale pricing",
+    "varden_potential": "Low replicability for Varden's software focus - this is a physical product distribution business. However, the digital ordering platform for lab supplies could be adapted for STI self-sampling kit distribution to clinics."
+  },
+  {
+    "company_name": "Alma",
+    "hq_location": "Bordeaux, France",
+    "website_url": "https://www.alma.fr",
+    "problem_solved": "French cooperative providing business software for healthcare, including secure pharmacy preparation processes. Their health software division supports medication safety and traceability, applicable to HIV/PrEP medication management in sexual health clinics.",
+    "customers": "Hospital pharmacies, clinic pharmacies, healthcare institutions, pharmaceutical preparation units",
+    "key_features": [
+      "Pharmaceutical preparation process security and traceability",
+      "Collaborative workflow management for healthcare teams",
+      "Integration with French healthcare IT infrastructure"
+    ],
+    "business_model": "SaaS licensing and on-premise deployment with implementation services",
+    "varden_potential": "Medium replicability - the medication traceability and preparation security software is relevant for PrEP/HIV medication management in sexual health clinics. The cooperative business model is interesting but less relevant for scaling."
+  },
+  {
+    "company_name": "Groupe Softway Medical",
+    "hq_location": "Lyon, France",
+    "website_url": "https://www.groupesoftwaymedical.com",
+    "problem_solved": "Leading French healthcare IT company providing comprehensive EHR systems for hospitals, imaging centers, and laboratories. Their DPI (Dossier Patient Informatisé) covers the full patient journey from primary care to hospital. Relevant to sexual health through infectious disease modules and chronic condition management.",
+    "customers": "Public hospitals, private clinics, imaging centers, clinical laboratories, primary care providers",
+    "key_features": [
+      "Comprehensive EHR/DPI spanning primary care to hospital",
+      "Specialty modules including infectious disease tracking",
+      "HDS-certified hosting and integration with French national health infrastructure (Ségur)"
+    ],
+    "business_model": "Hybrid: software licensing (on-premise/cloud) + hosting services + implementation/support contracts",
+    "varden_potential": "Medium-high replicability - Softway is a major competitor in French hospital IT. Their model of integrated EHR from primary care to hospital is relevant for sexual health clinic management. However, they are a large established player - opportunity may be in specialized sexual health modules that complement their core offerings."
+  },
+  {
+    "company_name": "HealthConnect",
+    "hq_location": "Ghent, Belgium",
+    "website_url": "https://www.healthconnect.be",
+    "problem_solved": "Digital healthcare communication platform connecting hospitals, laboratories, and specialists in Belgium. Provides eForms for structured medical requests, unified messaging for secure communication, and convention management - all relevant for sexual health clinics coordinating with labs for STI testing.",
+    "customers": "Hospitals, clinical laboratories, radiologists, medical specialists, healthcare networks",
+    "key_features": [
+      "eForms for digital lab and radiology request forms",
+      "Unified Messaging for secure healthcare communication",
+      "Convention management for medical agreements"
+    ],
+    "business_model": "SaaS subscription to healthcare organizations with per-transaction pricing for forms/messaging",
+    "varden_potential": "Medium-high replicability - the secure communication platform model for healthcare provider coordination is directly applicable to sexual health clinics. The Belgian eHealth standards are similar to Dutch/French systems, making cross-border replication feasible. Integration with lab ordering is particularly relevant for STI testing workflows."
+  }
+]

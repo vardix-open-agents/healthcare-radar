@@ -1,0 +1,22 @@
+{
+  "id": "qure-ai-2026-312",
+  "title": "Qure.ai - AI Medical Imaging",
+  "company": "Qure.ai",
+  "country": "India",
+  "segment": "diagnostics",
+  "problem": "Radiologist shortage globally, especially in TB-endemic regions; slow diagnosis in critical conditions",
+  "solution": "AI algorithms for chest X-ray, CT head, and lung nodule detection with high accuracy",
+  "technology": "Deep learning, computer vision, automated quantification",
+  "target_customer": "Hospitals, TB programs, teleradiology, pharma trials",
+  "care_setting": "all",
+  "care_domain": "diagnostics",
+  "care_stage": "diagnosis",
+  "automation_level": "full",
+  "ai_type": "computer vision",
+  "traction_signals": ["Deployed in 80+ countries", "WHO endorsed for TB", "Raised $65M"],
+  "funding": "Series D",
+  "regulatory_notes": "FDA cleared, CE marked",
+  "source": "sky-round18-diagnostics",
+  "url": "https://www.qure.ai",
+  "date_added": "2026-03-11"
+}

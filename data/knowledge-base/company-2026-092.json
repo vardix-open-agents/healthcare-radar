@@ -1,0 +1,27 @@
+{
+  "company": "Lumind",
+  "country": "Netherlands",
+  "founded_year": 2021,
+  "category": "Mental Health",
+  "subsector": "Workplace Mental Health Platform",
+  "description": "Dutch early-stage startup providing mental health support platform for employees. Focuses on prevention and early intervention through digital tools and human coaching.",
+  "business_model": "B2B - SaaS subscription to employers",
+  "target_market": "Dutch employers, expanding to Benelux",
+  "funding_stage": "Pre-Seed",
+  "funding_amount_eur": 500000,
+  "key_investors": "Angel investors, Dutch startup funds",
+  "employees": 8,
+  "customers": "25+ pilot customers",
+  "revenue_eur": 200000,
+  "tech_stack": ["Web platform", "Mobile app", "Video coaching"],
+  "integration_points": ["HR systems", "Benefits platforms"],
+  "competitive_advantage": "Fresh approach, Dutch market focus, early-stage agility",
+  "varden_fit": {
+    "threat_level": "low",
+    "opportunity": "acquire",
+    "rationale": "Early-stage acquisition target for quick Dutch market entry - small team, minimal cost"
+  },
+  "data_quality": "low",
+  "sources": ["linkedin.com", "startup databases"],
+  "last_updated": "2026-03-11"
+}

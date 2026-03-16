@@ -1,0 +1,14 @@
+{
+  "company": "Biofourmis",
+  "country": "US",
+  "problem": "Limited access to care outside hospitals, inability to monitor patients remotely during recovery and chronic disease management, high healthcare costs from hospital readmissions",
+  "solution": "AI-powered platform for hospital-at-home and remote patient monitoring, combining wearable biosensors with predictive analytics to enable care delivery outside traditional clinical settings",
+  "problem_type": "remote_monitoring",
+  "solution_type": "SaaS",
+  "buyer": "providers",
+  "varden_fit": "medium",
+  "url": "https://www.biofourmis.com",
+  "source": "web",
+  "discovery_round": 76,
+  "discovered_by": "sky"
+}

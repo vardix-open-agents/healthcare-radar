@@ -1,0 +1,27 @@
+{
+  "company": "Kry Norway (Livi Norway)",
+  "country": "Norway",
+  "founded_year": 2015,
+  "category": "Telemedicine",
+  "subsector": "Video Consultation Platform",
+  "description": "Norwegian subsidiary of Kry/Livi providing video consultation platform connecting patients with doctors. Part of European Kry/Livi network operating across multiple markets.",
+  "business_model": "B2C - Direct to patients; B2B for employer health programs",
+  "target_market": "Norwegian consumers and employers",
+  "funding_stage": "Series D (part of Kry Group)",
+  "funding_amount_eur": 400000000,
+  "key_investors": "Index Ventures, Creandum, Accel, General Atlantic",
+  "employees": 100,
+  "customers": "500000+ registered users in Norway",
+  "revenue_nok": 100000000,
+  "tech_stack": ["Video platform", "Mobile app", "EHR", "E-prescription"],
+  "integration_points": ["Norwegian Helfo (health insurance)", "GP systems", "Hospital systems"],
+  "competitive_advantage": "Part of European Kry network, digital-first approach, brand recognition",
+  "varden_fit": {
+    "threat_level": "medium",
+    "opportunity": "compete",
+    "rationale": "Competitor in Norwegian telemedicine market - well-funded with European backing"
+  },
+  "data_quality": "medium",
+  "sources": ["kry.no", "kry.tech"],
+  "last_updated": "2026-03-11"
+}

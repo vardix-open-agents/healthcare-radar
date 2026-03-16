@@ -1,0 +1,14 @@
+{
+  "company": "Tablet Command",
+  "country": "US",
+  "problem": "Fire and EMS incident commanders lack real-time situational awareness tools for managing resources, tracking accountability, and coordinating response during emergency incidents.",
+  "solution": "Tablet Command provides incident management software with digital command boards, drag-and-drop resource assignment, live maps with GIS layers, CAD integration, checklists, timers, and mobile MDT replacement for fire and EMS.",
+  "problem_type": "emergency_services",
+  "solution_type": "SaaS",
+  "buyer": "providers",
+  "varden_fit": "low",
+  "url": "https://www.tabletcommand.com/",
+  "source": "web",
+  "discovery_round": 94,
+  "discovered_by": "sky"
+}

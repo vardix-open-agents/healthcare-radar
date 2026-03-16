@@ -1,0 +1,27 @@
+{
+  "company": "Livi Employer Health",
+  "country": "United Kingdom",
+  "founded_year": 2015,
+  "category": "Occupational Health",
+  "subsector": "B2B Employee Health Services",
+  "description": "B2B arm of Livi/Kry offering occupational health services to UK employers. Provides video consultations, health assessments, absence management support, and wellness programs.",
+  "business_model": "B2B - Corporate contracts for employee health services",
+  "target_market": "UK employers (SMEs and enterprises)",
+  "funding_stage": "Series D (part of Kry Group)",
+  "funding_amount_eur": 400000000,
+  "key_investors": "Index Ventures, Creandum, Accel, General Atlantic",
+  "employees": "150 (B2B team)",
+  "customers": "500+ UK employers",
+  "revenue_gbp": 15000000,
+  "tech_stack": ["Video platform", "EHR", "Health assessment tools", "Reporting dashboard"],
+  "integration_points": ["HR systems", "Absence management", "Benefits platforms"],
+  "competitive_advantage": "Digital-first approach, GP network, brand recognition, scalable model",
+  "varden_fit": {
+    "threat_level": "high",
+    "opportunity": "compete",
+    "rationale": "Direct competitor in UK occupational health market - well-funded and established"
+  },
+  "data_quality": "medium",
+  "sources": ["livi.co.uk", "kry.tech"],
+  "last_updated": "2026-03-11"
+}

@@ -1,0 +1,16 @@
+{
+  "id": "problem-2026-045",
+  "problem": "Nigerian private hospitals lose 20% of revenue to fraudulent insurance claims",
+  "problem_type": "billing",
+  "solution_type": "AI fraud detection, claims verification, blockchain-based claims processing",
+  "care_stage": "admin",
+  "automation_type": "ai_assisted",
+  "buyer": "hospital",
+  "care_setting": "hospital",
+  "companies": ["Reliance HMO", "Hygeia HMO", "Claims tech startups"],
+  "signals": ["Nigerian health insurance growth", "NHIS fraud concerns", "Insurtech innovation"],
+  "boring_software": false,
+  "contrarian": false,
+  "url": "https://www.reliancehmo.com",
+  "date_added": "2026-03-11"
+}

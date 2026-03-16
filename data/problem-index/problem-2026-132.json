@@ -1,0 +1,16 @@
+{
+  "id": "problem-2026-132",
+  "problem": "Claims scrubbing rules engines require 40-60 hours of monthly maintenance per payer contract, with frequent rule changes causing high denial spikes",
+  "problem_type": "claims_scrubbing",
+  "solution_type": "Automated rule maintenance, AI-based rule learning, payer rule change detection, adaptive scrubbing engines",
+  "care_stage": "admin",
+  "automation_type": "ai_assisted",
+  "buyer": "health_system",
+  "care_setting": "hospital",
+  "companies": ["Waystar", "Change Healthcare", "Experian Health", "McKesson", "Quadax"],
+  "signals": ["40-60 hours monthly maintenance", "Rule change frequency", "Denial spikes post-changes", "Adaptive scrubbing pilots"],
+  "boring_software": true,
+  "contrarian": false,
+  "url": "https://www.hfma.org/claims-scrubbing",
+  "date_added": "2026-03-11"
+}

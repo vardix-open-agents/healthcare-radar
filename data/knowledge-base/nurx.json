@@ -1,0 +1,14 @@
+{
+  "company": "Nurx",
+  "country": "US",
+  "problem": "Women face barriers to accessing reproductive and sexual healthcare, including limited appointment availability, geographic constraints, cost concerns, and stigma around certain treatments like birth control, emergency contraception, and STI care.",
+  "solution": "Telemedicine platform providing online consultations and prescription delivery for women's health needs including birth control (50+ options), emergency contraception, STI testing and treatment, herpes care, dermatology, weight management, and mental health. Medications delivered directly to patients' doors.",
+  "problem_type": "womens_health",
+  "solution_type": "SaaS",
+  "buyer": "patients",
+  "varden_fit": "medium",
+  "url": "https://www.nurx.com/",
+  "source": "web",
+  "discovery_round": 93,
+  "discovered_by": "nova"
+}

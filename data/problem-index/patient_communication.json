@@ -1,0 +1,30 @@
+{
+  "problem_type": "patient_communication",
+  "count": 4,
+  "entries": [
+    {
+      "id": "curoflow-2026-028",
+      "company": "Curoflow",
+      "country": "Sweden",
+      "varden_fit": "High \u2014 care pathway orchestration complements Varden's marketplace. Could help coordinate care acros"
+    },
+    {
+      "id": "doctrin-2026-001",
+      "company": "Doctrin",
+      "country": "Sweden",
+      "varden_fit": "VERY HIGH - Patient intake and communication is core to booking journey. Could enhance pre-booking a"
+    },
+    {
+      "id": "doctrin-2026-013",
+      "company": "Doctrin",
+      "country": "Sweden",
+      "varden_fit": "High \u2014 direct overlap with Varden's care navigation and booking infrastructure. Digital triage + EHR"
+    },
+    {
+      "id": "caretotranslate-2026-010",
+      "company": "Care to Translate",
+      "country": "Norway",
+      "varden_fit": "MODERATE - Infrastructure play addressing multilingual patient populations. Sweden has significant i"
+    }
+  ]
+}

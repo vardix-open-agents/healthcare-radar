@@ -1,0 +1,31 @@
+{
+  "id": "livi-2026-016",
+  "title": "Livi (Kry) - European Telemedicine Platform",
+  "company": "Kry / Livi",
+  "country": "Sweden",
+  "region": "Nordics",
+  "segment": "triage",
+  "problem": "Access to GPs is limited by geography and wait times. Patients need convenient, fast access to medical advice and prescriptions.",
+  "solution": "Video consultation platform connecting patients with GPs, psychologists, and specialists. Also operates physical clinics in Sweden and UK.",
+  "technology": "Video platform, digital health records, EHR integration",
+  "target_customer": "Patients (B2C), health systems (B2B), insurers",
+  "care_setting": "telehealth",
+  "care_domain": "general, mental health",
+  "care_stage": "treatment",
+  "automation_level": "partial",
+  "ai_type": null,
+  "traction_signals": [
+    "Founded 2014, Stockholm",
+    "Europe's leading digital healthcare provider",
+    "16,000+ new patients in Sweden 2024",
+    "Operating in Sweden, Norway, UK, France, Germany",
+    "Best financial results to date in 2024"
+  ],
+  "funding": "$300M+ total funding",
+  "regulatory_notes": "Operating as licensed healthcare provider in each market.",
+  "varden_fit": "Moderate — Livi competes with some Varden clinic partners. However, Livi's infrastructure approach (EHR integrations, booking) is directly relevant. Potential for collaboration or feature inspiration.",
+  "source": "Company website + press",
+  "url": "https://www.livi.co.uk",
+  "date_added": "2026-03-11",
+  "notes": "Livi = Kry's brand outside Sweden/Nordics. Operating physical clinics alongside digital is notable trend."
+}

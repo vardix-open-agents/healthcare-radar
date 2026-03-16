@@ -1,0 +1,27 @@
+{
+  "company": "Pharmacy2U (UK)",
+  "country": "United Kingdom",
+  "founded_year": 1999,
+  "category": "Pharmacy Tech",
+  "subsector": "Online Pharmacy & Prescription Services",
+  "description": "UK's largest online pharmacy providing prescription delivery, online GP services, and medication management. Pioneered online pharmacy services in UK with NHS e-prescription integration.",
+  "business_model": "B2C - Online pharmacy; B2B - Corporate prescription services",
+  "target_market": "UK consumers and employers seeking convenient pharmacy services",
+  "funding_stage": "Private",
+  "funding_amount_gbp": 50000000,
+  "key_investors": "Alliance Boots, private investors",
+  "employees": 600,
+  "customers": "2M+ active patients",
+  "revenue_gbp": 120000000,
+  "tech_stack": ["E-commerce platform", "NHS e-prescription", "Medication management app", "Logistics"],
+  "integration_points": ["NHS Spine", "GP systems", "NHS e-prescription service"],
+  "competitive_advantage": "First mover in UK online pharmacy, NHS integration, national delivery",
+  "varden_fit": {
+    "threat_level": "low",
+    "opportunity": "partner",
+    "rationale": "Major UK pharmacy player - potential partner for medication-related occupational health services"
+  },
+  "data_quality": "high",
+  "sources": ["pharmacy2u.co.uk", "linkedin.com"],
+  "last_updated": "2026-03-11"
+}

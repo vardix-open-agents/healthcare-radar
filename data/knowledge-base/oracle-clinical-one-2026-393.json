@@ -1,0 +1,22 @@
+{
+  "company_name": "Oracle Clinical One",
+  "problem_solved": "Fragmented clinical trial systems with siloed data and manual processes",
+  "solution_description": "Unified clinical trial platform from Oracle including CTMS, EDC, randomization, and supply management. Cloud-based suite integrates with Oracle Health and other Oracle products.",
+  "buyer_persona": "pharma_lifesciences,biotech",
+  "care_stage": "clinical_trials",
+  "automation_level": "partial",
+  "varden_fit": "low",
+  "region": "Global",
+  "country": "US",
+  "funding_stage": "public",
+  "traction_signals": [
+    "Part of Oracle Health",
+    "Cerner integration",
+    "Enterprise pharma clients",
+    "Global deployment"
+  ],
+  "notes": "Oracle's clinical trial offering. Competes with Medidata, Veeva Vault. Legacy Siebel customer base. Cerner acquisition adds healthcare system footprint.",
+  "discovery_round": 53,
+  "discovered_by": "sky",
+  "timestamp": "2026-03-11T23:18:00Z"
+}

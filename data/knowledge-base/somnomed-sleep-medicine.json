@@ -1,0 +1,14 @@
+{
+  "company": "SomnoMed",
+  "country": "AU",
+  "problem": "Sleep apnea patients who cannot tolerate CPAP need alternative treatment options with clinic management and monitoring",
+  "solution": "Oral appliance therapy platform with connected device monitoring and clinic management software for sleep medicine providers treating CPAP-intolerant patients",
+  "problem_type": "sleep_medicine",
+  "solution_type": "SaaS",
+  "buyer": "clinics",
+  "varden_fit": "medium",
+  "url": "https://www.somnomed.com",
+  "source": "web",
+  "discovery_round": 104,
+  "discovered_by": "nova"
+}

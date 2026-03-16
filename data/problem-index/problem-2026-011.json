@@ -1,0 +1,16 @@
+{
+  "id": "problem-2026-011",
+  "problem": "Patients cannot find in-network specialists, delaying care by weeks",
+  "problem_type": "navigation",
+  "solution_type": "Provider directory APIs, AI-powered referral routing, patient navigation platforms",
+  "care_stage": "intake",
+  "automation_type": "ai_assisted",
+  "buyer": "insurer",
+  "care_setting": "specialty",
+  "companies": ["Kyruus", "Doctor.com", "Castlight"],
+  "signals": ["Provider data accuracy regulations", "Patient access rules", "Narrow networks"],
+  "boring_software": false,
+  "contrarian": false,
+  "url": "https://kyruus.com",
+  "date_added": "2026-03-11"
+}

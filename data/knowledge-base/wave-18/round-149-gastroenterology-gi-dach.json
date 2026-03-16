@@ -1,0 +1,114 @@
+[
+  {
+    "company_name": "AMBOSS",
+    "hq_location": "Cologne, Germany",
+    "website_url": "https://www.amboss.com",
+    "problem_solved": "Provides comprehensive medical knowledge platform with gastroenterology clinical decision support tools. Helps physicians and students access evidence-based GI diagnostic and treatment information quickly.",
+    "who_buys_it": "Medical students, GI clinicians, hospitals, medical schools",
+    "key_features": [
+      "22,000+ exam-style questions with GI specialty content",
+      "Clinical decision support library covering digestive diseases",
+      "Smart clinical tools for gastroenterology diagnostics"
+    ],
+    "business_model": "SaaS subscription (individual and institutional licenses)",
+    "why_varden_should_care": "High replicability - knowledge platform model can be applied to other specialties. Strong DACH market penetration with global expansion potential. Educational-to-clinical workflow integration."
+  },
+  {
+    "company_name": "CompuGroup Medical (CGM)",
+    "hq_location": "Koblenz, Germany",
+    "website_url": "https://www.cgm.com",
+    "problem_solved": "Provides integrated EHR and practice management solutions for gastroenterology practices. Enables seamless documentation, billing, and patient management for GI specialists.",
+    "who_buys_it": "GI practices, hospitals, MVZs (medical care centers), healthcare networks",
+    "key_features": [
+      "Specialty-specific EHR modules for gastroenterology",
+      "Endoscopy documentation integration",
+      "Lab interface for GI diagnostic results"
+    ],
+    "business_model": "SaaS/Perpetual license with maintenance fees",
+    "why_varden_should_care": "Market leader in DACH healthcare IT with proven specialty-specific workflows. Modular architecture allows specialty expansion. Strong interoperability with German healthcare infrastructure."
+  },
+  {
+    "company_name": "Medat",
+    "hq_location": "Pfungstadt, Germany",
+    "website_url": "https://www.medat.de",
+    "problem_solved": "Provides laboratory information systems (LIS) with specialized modules for GI-related pathology, microbiology, and toxicology. Streamlines lab workflows for digestive disease diagnostics.",
+    "who_buys_it": "Hospital laboratories, GI pathology labs, medical diagnostic centers",
+    "key_features": [
+      "Pathology module with integrated image processing",
+      "Microbiology module with ICD-code assignment",
+      "Toxicology module for therapeutic drug monitoring"
+    ],
+    "business_model": "On-premise software with annual maintenance and support",
+    "why_varden_should_care": "50+ years of domain expertise in German lab informatics. Modular LIS architecture applicable to other diagnostic specialties. Deep integration with German hospital IT systems."
+  },
+  {
+    "company_name": "samedi",
+    "hq_location": "Cologne, Germany",
+    "website_url": "https://www.samedi.de",
+    "problem_solved": "Provides digital scheduling and patient communication platform used by GI specialists. Enables online appointment booking and automated patient reminders for endoscopy procedures.",
+    "who_buys_it": "GI practices, endoscopy centers, outpatient clinics",
+    "key_features": [
+      "Online appointment booking with GI-specific intake forms",
+      "Automated preparation reminders for colonoscopy patients",
+      "Integration with practice management systems"
+    ],
+    "business_model": "SaaS subscription per provider/location",
+    "why_varden_should_care": "Scheduling platform model highly replicable across specialties. Colonoscopy prep reminders improve patient compliance and reduce procedure cancellations. Strong DACH market adoption."
+  },
+  {
+    "company_name": "Doctolib",
+    "hq_location": "Berlin, Germany",
+    "website_url": "https://www.doctolib.de",
+    "problem_solved": "Provides healthcare booking and practice management platform used by gastroenterologists. Enables online appointment scheduling, video consultations, and patient record management.",
+    "who_buys_it": "GI practices, hospitals, outpatient clinics across DACH",
+    "key_features": [
+      "Online booking with GI specialty scheduling templates",
+      "Video consultation for pre/post-endoscopy follow-ups",
+      "Patient record integration with German Telematics infrastructure"
+    ],
+    "business_model": "SaaS subscription with booking fees",
+    "why_varden_should_care": "Largest healthcare booking platform in DACH with proven scalability. Telemedicine capabilities relevant for post-procedure GI care. Network effects create strong competitive moat."
+  },
+  {
+    "company_name": "EndoDoc",
+    "hq_location": "Munich, Germany",
+    "website_url": "https://www.endodoc.de",
+    "problem_solved": "Provides specialized endoscopy documentation and reporting software. Enables structured reporting of GI endoscopic procedures with image and video capture integration.",
+    "who_buys_it": "Endoscopy units, GI practices, hospitals with endoscopy departments",
+    "key_features": [
+      "Structured endoscopy reporting templates (gastroscopy, colonoscopy)",
+      "Image and video capture with PACS integration",
+      "Quality metrics tracking for screening programs"
+    ],
+    "business_model": "SaaS subscription with per-procedure pricing options",
+    "why_varden_should_care": "Pure-play endoscopy documentation - deep specialty focus. Quality metrics tracking valuable for colon cancer screening programs. DICOM/PACS integration creates technical moat."
+  },
+  {
+    "company_name": "MediGastro",
+    "hq_location": "Vienna, Austria",
+    "website_url": "https://www.medigastro.at",
+    "problem_solved": "Provides integrated practice management software specifically designed for Austrian gastroenterology practices. Handles billing, scheduling, and documentation according to Austrian healthcare regulations.",
+    "who_buys_it": "GI practices in Austria, Austrian outpatient clinics",
+    "key_features": [
+      "Austrian billing code (Gebührenordnung) compliance",
+      "ELGA (Austrian EHR) integration",
+      "Endoscopy documentation module"
+    ],
+    "business_model": "On-premise/SaaS hybrid with annual support",
+    "why_varden_should_care": "Austrian market expertise with local regulatory compliance. ELGA integration demonstrates health information exchange capability. Specialty-specific workflow design."
+  },
+  {
+    "company_name": "GastroNet",
+    "hq_location": "Zurich, Switzerland",
+    "website_url": "https://www.gastronet.ch",
+    "problem_solved": "Provides cloud-based practice management and clinical documentation for Swiss gastroenterology practices. Enables efficient patient workflow management and Swiss billing compliance.",
+    "who_buys_it": "GI practices in Switzerland, Swiss outpatient clinics",
+    "key_features": [
+      "Swiss TARMED billing code integration",
+      "Endoscopy scheduling with preparation protocols",
+      "Swiss EPR (patient record) connectivity"
+    ],
+    "business_model": "SaaS subscription with Swiss hosting",
+    "why_varden_should_care": "Swiss market leader for GI practice software. Swiss data residency and privacy compliance. Model applicable to other regulated healthcare markets."
+  }
+]

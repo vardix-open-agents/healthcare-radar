@@ -1,0 +1,27 @@
+{
+  "company": "Terveystalo (Finland)",
+  "country": "Finland",
+  "founded_year": 2001,
+  "category": "Occupational Health",
+  "subsector": "Private Healthcare Provider",
+  "description": "Largest private healthcare provider in Finland offering comprehensive occupational health services, primary care, and specialist services to employers and individuals. Operates clinics nationwide with strong digital health capabilities.",
+  "business_model": "B2B2C - Occupational health contracts with employers; B2C individual services",
+  "target_market": "Finnish employers (SMEs and enterprises) and individuals",
+  "funding_stage": "Listed (Nasdaq Helsinki)",
+  "funding_amount_eur": null,
+  "key_investors": "Public company",
+  "employees": 6000,
+  "customers": "30000+ corporate clients",
+  "revenue_eur": 600000000,
+  "tech_stack": ["Patient portal", "Mobile app", "EHR", "Occupational health platform", "Telemedicine"],
+  "integration_points": ["Finnish Kela (social insurance)", "Employer HR systems", "Hospital networks"],
+  "competitive_advantage": "Market leader in Finland, comprehensive service network, strong digital capabilities",
+  "varden_fit": {
+    "threat_level": "high",
+    "opportunity": "compete",
+    "rationale": "Major competitor in Finland - established player with strong employer relationships"
+  },
+  "data_quality": "high",
+  "sources": ["terveystalo.com", "nasdaq.com"],
+  "last_updated": "2026-03-11"
+}

@@ -1,0 +1,14 @@
+{
+  "company": "Nox Medical",
+  "country": "IS",
+  "problem": "Sleep clinics need reliable diagnostic equipment with integrated software for conducting and analyzing sleep studies",
+  "solution": "Integrated sleep diagnostic systems including polysomnography equipment, home sleep testing devices, and analysis software for comprehensive sleep medicine clinics",
+  "problem_type": "sleep_medicine",
+  "solution_type": "SaaS",
+  "buyer": "clinics",
+  "varden_fit": "medium",
+  "url": "https://www.noxmedical.com",
+  "source": "web",
+  "discovery_round": 104,
+  "discovered_by": "nova"
+}

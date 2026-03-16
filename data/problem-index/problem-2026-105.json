@@ -1,0 +1,16 @@
+{
+  "id": "problem-2026-105",
+  "problem": "Dermatology wait times 30-90 days, with 5-10% of lesions malignant and time-critical",
+  "problem_type": "scheduling",
+  "solution_type": "Teledermatology triage, AI-powered lesion assessment, fast-track scheduling for malignancies",
+  "care_stage": "diagnosis",
+  "automation_type": "ai_assisted",
+  "buyer": "clinic",
+  "care_setting": "specialty",
+  "companies": ["DermTech", "VisualDx", "First Derm", "Spruce Health"],
+  "signals": ["Dermatologist shortage 10K+", "Skin cancer early detection", "Teledermatology reimbursement"],
+  "boring_software": false,
+  "contrarian": false,
+  "url": "https://www.dermtech.com",
+  "date_added": "2026-03-11"
+}

@@ -1,0 +1,36 @@
+{
+  "problem_type": "medication_management",
+  "count": 5,
+  "entries": [
+    {
+      "id": "halodoc-2026-054",
+      "company": "HaloDoc",
+      "country": "Indonesia (EU expansion interest)",
+      "varden_fit": "Low \u2014 APAC market, different regulatory environment. Interesting model to study."
+    },
+    {
+      "id": "we prescription-2026-021",
+      "company": "LloydsDirect / Echo",
+      "country": "UK",
+      "varden_fit": "Moderate \u2014 pharmacy integration could complement Varden's clinic marketplace. Not core to Varden's v"
+    },
+    {
+      "id": "mindoktor-2026-006",
+      "company": "Min Doktor",
+      "country": "Sweden",
+      "varden_fit": "HIGH - Direct competitor in some areas but potential partner in others. Min Doktor has built patient"
+    },
+    {
+      "id": "healthera-2026-037",
+      "company": "Healthera",
+      "country": "UK",
+      "varden_fit": "Low \u2014 pharmacy-focused, not clinic infrastructure. Different channel."
+    },
+    {
+      "id": "zando-2026-038",
+      "company": "Zando Health",
+      "country": "Germany",
+      "varden_fit": "Moderate \u2014 D2C prescription platform. Different model from B2B marketplace but prescription workflow"
+    }
+  ]
+}

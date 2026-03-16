@@ -1,0 +1,14 @@
+{
+  "company": "Zingit",
+  "country": "US",
+  "problem": "Chiropractic practices lose patients due to inefficient communication, phone tag, missed appointments, poor online reputation, and difficulty attracting new patients",
+  "solution": "Growth-focused chiropractic software with automated HIPAA-compliant 2-way patient communication, centralized messaging inbox, online review management, local SEO tools, and EHR integrations for 150+ systems",
+  "problem_type": "chiropractic",
+  "solution_type": "SaaS",
+  "buyer": "clinics",
+  "varden_fit": "medium",
+  "url": "https://www.zingit.com",
+  "source": "web",
+  "discovery_round": 139,
+  "discovered_by": "nova"
+}

@@ -1,0 +1,14 @@
+{
+  "company": "Prolucent Health",
+  "country": "US",
+  "problem": "Health systems lack integrated technology to manage permanent hiring, internal flexible workforce (IRP), and external agency labor, resulting in fragmented data and excessive labor costs.",
+  "solution": "Workforce optimization platform integrating talent acquisition, internal flexible capacity expansion, external agency management, and workforce analytics with deep integrations to HRIS/WFM systems.",
+  "problem_type": "healthcare_staffing",
+  "solution_type": "SaaS",
+  "buyer": "health_system",
+  "varden_fit": "low",
+  "url": "https://www.prolucent.com/",
+  "source": "web",
+  "discovery_round": 127,
+  "discovered_by": "sky"
+}

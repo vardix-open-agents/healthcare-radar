@@ -1,0 +1,14 @@
+{
+  "company": "EcoOnline",
+  "country": "NO",
+  "problem": "Organizations need to protect their workforce and manage health and safety compliance across multiple sites but struggle with fragmented systems that don't provide real-time visibility into safety performance, incident trends, and compliance status.",
+  "solution": "EcoOnline provides a cloud-based safety and sustainability suite that helps organizations manage EHS compliance, incident reporting, risk assessments, and chemical safety with intuitive dashboards, mobile access, and automated reporting to improve workplace safety outcomes.",
+  "problem_type": "occupational_health",
+  "solution_type": "SaaS",
+  "buyer": "employers",
+  "varden_fit": "medium",
+  "url": "https://www.ecoonline.com",
+  "source": "web",
+  "discovery_round": 132,
+  "discovered_by": "sky"
+}

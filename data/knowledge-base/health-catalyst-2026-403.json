@@ -1,0 +1,22 @@
+{
+  "company_name": "Health Catalyst",
+  "problem_solved": "Healthcare organizations struggle to aggregate and analyze data from multiple sources to identify disparities, measure outcomes, and drive improvement",
+  "solution_description": "Healthcare analytics and data platform unifying clinical, financial, and operational data. AI-assisted benchmarking and insights for identifying improvement opportunities. Includes clinical analytics library, performance management, and workflow automation tools",
+  "buyer_persona": "health_systems",
+  "care_stage": "monitoring",
+  "automation_level": "partial",
+  "varden_fit": "medium",
+  "region": "US",
+  "country": "United States",
+  "funding_stage": "public",
+  "traction_signals": [
+    "Public company (NASDAQ: HCAT)",
+    "Serves major health systems",
+    "AI-assisted analytics capabilities",
+    "Built-in clinical analytics library"
+  ],
+  "notes": "Healthcare analytics leader. Can support SDOH measurement and health equity analytics but not purpose-built for SDOH. Strong data infrastructure and analytics capabilities. Medium Varden fit - more general analytics vs. SDOH-specific",
+  "discovery_round": 50,
+  "discovered_by": "sky",
+  "timestamp": "2026-03-11T23:20:00Z"
+}

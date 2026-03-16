@@ -1,0 +1,14 @@
+{
+  "company": "Medicai",
+  "country": "IL",
+  "problem": "Medical imaging data is siloed across different systems, making it difficult for patients and healthcare providers to access and share diagnostic images and reports",
+  "solution": "Cloud-based medical imaging platform that enables secure storage, sharing, and viewing of DICOM images and medical records, connecting patients, doctors, and imaging centers with integrated viewer and collaboration tools",
+  "problem_type": "practice_management",
+  "solution_type": "SaaS",
+  "buyer": "clinics",
+  "varden_fit": "medium",
+  "url": "https://www.medicai.com",
+  "source": "web",
+  "discovery_round": 77,
+  "discovered_by": "sky"
+}

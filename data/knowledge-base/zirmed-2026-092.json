@@ -1,0 +1,32 @@
+{
+  "id": "zirmed-2026-092",
+  "title": "Waystar (formerly ZirMed) - Claims and Revenue Cycle Management",
+  "company": "Waystar (formerly ZirMed)",
+  "country": "US",
+  "region": "US",
+  "segment": "billing",
+  "problem": "Healthcare providers need comprehensive claims management, denial prevention, and patient payment solutions.",
+  "solution": "Claims management, eligibility verification, denial prevention, patient payments, and analytics. AI-powered platform for revenue cycle optimization.",
+  "technology": "AI-powered claims management, clearinghouse, analytics",
+  "target_customer": "Healthcare providers of all sizes",
+  "care_setting": "all",
+  "care_domain": "general",
+  "care_stage": "admin",
+  "automation_level": "full",
+  "ai_type": "AI for claims and denials",
+  "traction_signals": [
+    "Merged ZirMed and Navicure to form Waystar",
+    "AI-powered platform",
+    "Major market share in RCM"
+  ],
+  "funding": "Public company",
+  "regulatory_notes": "HIPAA compliant",
+  "varden_fit": "HIGH — ZirMed was a pioneer in cloud-based RCM. The merged Waystar entity is the leader.",
+  "source": "Industry knowledge",
+  "url": "https://www.waystar.com",
+  "date_added": "2026-03-11",
+  "problem_type": "claims",
+  "contrarian": true,
+  "boring_software": true,
+  "notes": "CONTRARIAN: Cloud-based RCM is now standard. European healthcare needs similar cloud-first approaches."
+}

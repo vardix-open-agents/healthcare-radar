@@ -1,0 +1,33 @@
+{
+  "id": "latam-dental-saas-2026-240",
+  "title": "LATAM Dental Practice Management Gap",
+  "company": null,
+  "country": "Brazil/Mexico/Colombia/Regional",
+  "region": "LATAM",
+  "segment": "admin",
+  "problem": "Dental practices in LATAM use outdated practice management software or none at all. No online booking. Manual appointment reminders. Paper records. No imaging integration. No patient communication tools. Brazil alone has 300,000+ dentists, mostly in small practices. Underserved market.",
+  "solution": "Modern dental practice management SaaS. Online booking. Automated SMS/WhatsApp reminders. Digital imaging integration (X-rays, intraoral cameras). Patient portal. Treatment planning. Billing and insurance claims. Analytics dashboard. Mobile app for dentists.",
+  "technology": "Cloud-based EMR, booking system, imaging integration, SMS automation, billing, analytics, mobile app",
+  "target_customer": "Independent dental practices, dental chains, dental schools",
+  "care_setting": "dental",
+  "care_domain": "dental",
+  "care_stage": "admin",
+  "automation_level": "full",
+  "ai_type": null,
+  "traction_signals": [
+    "300K+ dentists in Brazil alone",
+    "Low software penetration in dental",
+    "Dental chains expanding",
+    "Proven models (Dentrix, Curve Dental in US)"
+  ],
+  "funding": null,
+  "regulatory_notes": "Dental practice regulations, patient data privacy",
+  "varden_fit": "MEDIUM FIT - Dental SaaS is crowded in US but underserved in LATAM. Horizontal play - apply to other specialties. Recurring revenue, high retention.",
+  "source": "Opportunity analysis + market gap identification",
+  "url": null,
+  "date_added": "2026-03-11",
+  "problem_type": "practice_management",
+  "contrarian": false,
+  "boring_software": true,
+  "notes": "Dental SaaS is classic boring software. But 300K dentists in Brazil is a big market. Low penetration = opportunity. High retention once adopted."
+}

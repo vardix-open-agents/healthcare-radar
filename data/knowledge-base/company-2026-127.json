@@ -1,0 +1,27 @@
+{
+  "company": "DocTool (Denmark)",
+  "country": "Denmark",
+  "founded_year": 2016,
+  "category": "Practice Communication",
+  "subsector": "GP Communication Platform",
+  "description": "Danish startup providing communication platform for general practitioners and patients. Offers secure messaging, video consultations, and appointment booking for Danish GP practices.",
+  "business_model": "B2B - SaaS to GP practices",
+  "target_market": "Danish general practitioners and healthcare providers",
+  "funding_stage": "Seed",
+  "funding_amount_dkk": 10000000,
+  "key_investors": "Danish angels, VF Venture",
+  "employees": 25,
+  "customers": "200+ GP practices",
+  "revenue_dkk": 15000000,
+  "tech_stack": ["Web platform", "Secure messaging", "Video conferencing", "EHR integration"],
+  "integration_points": ["Danish sundhed.dk", "GP EHR systems", "Hospital systems"],
+  "competitive_advantage": "Danish market focus, regulatory compliance, GP workflow integration",
+  "varden_fit": {
+    "threat_level": "low",
+    "opportunity": "partner",
+    "rationale": "GP communication platform in Denmark - potential partner for occupational health delivery"
+  },
+  "data_quality": "low",
+  "sources": ["linkedin.com", "startup databases"],
+  "last_updated": "2026-03-11"
+}

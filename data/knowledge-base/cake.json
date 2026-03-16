@@ -1,0 +1,14 @@
+{
+  "company": "Cake",
+  "country": "US",
+  "problem": "End-of-life planning is often avoided or delayed due to discomfort with the topic, leaving families unprepared and patients without documented preferences",
+  "solution": "Consumer-facing digital platform that helps individuals plan for end-of-life, including advance directives, legacy planning, and family conversations about death and dying",
+  "problem_type": "palliative_care",
+  "solution_type": "SaaS",
+  "buyer": "providers",
+  "varden_fit": "medium",
+  "url": "https://www.joincake.com",
+  "source": "web",
+  "discovery_round": 121,
+  "discovered_by": "nova"
+}

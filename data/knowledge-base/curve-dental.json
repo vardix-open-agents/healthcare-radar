@@ -1,0 +1,14 @@
+{
+  "company": "Curve Dental",
+  "country": "US",
+  "problem": "Dental practices need modern, cloud-based practice management solutions that work for startups, single-location, and multi-location practices without expensive server infrastructure",
+  "solution": "All-in-one cloud-based dental software platform that eliminates upfront server costs, reduces IT expenses, and provides fast implementation with comprehensive scheduling, clinical workflows, and patient management features",
+  "problem_type": "dental",
+  "solution_type": "SaaS",
+  "buyer": "dental_clinics",
+  "varden_fit": "medium",
+  "url": "https://www.curvedental.com",
+  "source": "web",
+  "discovery_round": 91,
+  "discovered_by": "nova"
+}

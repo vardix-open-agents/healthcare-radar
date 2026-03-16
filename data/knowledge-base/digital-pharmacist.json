@@ -1,0 +1,14 @@
+{
+  "company": "Digital Pharmacist",
+  "country": "US",
+  "problem": "Pharmacies struggle with digital patient engagement, online presence, prescription refill workflows, and competing with larger chains in the digital space",
+  "solution": "Digital Pharmacist provides a comprehensive cloud-based digital engagement platform including branded websites, mobile apps, patient engagement tools, digital marketing, IVR systems, and reputation management. Integrates with 70+ pharmacy management systems",
+  "problem_type": "retail_pharmacy",
+  "solution_type": "SaaS",
+  "buyer": "pharmacies",
+  "varden_fit": "medium",
+  "url": "https://www.digitalpharmacist.com",
+  "source": "web",
+  "discovery_round": 128,
+  "discovered_by": "sky"
+}

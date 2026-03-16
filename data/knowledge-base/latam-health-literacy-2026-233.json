@@ -1,0 +1,33 @@
+{
+  "id": "latam-health-literacy-2026-233",
+  "title": "LATAM Health Literacy & Education Gap",
+  "company": null,
+  "country": "Brazil/Mexico/Colombia/Regional",
+  "region": "LATAM",
+  "segment": "prevention",
+  "problem": "Health literacy in LATAM is low, especially in lower socioeconomic groups. Patients don't understand their conditions, medications, or treatment plans. This leads to poor adherence, preventable complications, and unnecessary ER visits. No culturally-appropriate patient education materials at scale. Doctors don't have time to explain fully.",
+  "solution": "Health education platform with culturally-adapted content. Video explainers for common conditions (diabetes, hypertension, pregnancy). Medication information sheets. Procedure preparation materials. Multilingual (Spanish, Portuguese, indigenous languages). Integration with EMR to auto-recommend content. Patient comprehension tracking.",
+  "technology": "Video content library, mobile app, EMR integration, content recommendation engine, comprehension quizzes, multilingual TTS",
+  "target_customer": "Hospital systems, health insurers (reduce complications), pharmaceutical companies (medication education), Ministry of Health",
+  "care_setting": "all",
+  "care_domain": "general",
+  "care_stage": "prevention",
+  "automation_level": "partial",
+  "ai_type": "Content recommendation based on patient profile",
+  "traction_signals": [
+    "Low health literacy documented across LATAM",
+    "Patient education reduces complications (proven)",
+    "Smartphone video consumption high",
+    "Proven models (K Health, Healthwise in US)"
+  ],
+  "funding": null,
+  "regulatory_notes": "Medical accuracy requirements, patient data privacy",
+  "varden_fit": "MEDIUM FIT - Content-heavy but has infrastructure component (delivery platform, EMR integration). Could license to insurers and hospital systems.",
+  "source": "Opportunity analysis + market gap identification",
+  "url": null,
+  "date_added": "2026-03-11",
+  "problem_type": "education",
+  "contrarian": false,
+  "boring_software": false,
+  "notes": "Health education is unglamorous but impactful. Culturally-appropriate content is key. Partner with medical societies for credibility."
+}

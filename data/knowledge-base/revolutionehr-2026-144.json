@@ -1,0 +1,29 @@
+{
+  "id": "revolutionehr-2026-144",
+  "title": "RevolutionEHR - Eye Care Practice Platform",
+  "company": "RevolutionEHR",
+  "country": "USA",
+  "region": "NA",
+  "segment": "ophthalmology_ehr",
+  "problem": "Optometry and ophthalmology practices need integrated EHR and practice management designed for eye care workflows.",
+  "solution": "Cloud-based EHR and practice management platform specifically designed for optometry and ophthalmology practices.",
+  "technology": "Cloud EHR, practice management, optical dispensing integration, patient portal",
+  "target_customer": "Optometry practices, ophthalmology practices",
+  "care_setting": "outpatient_eye_care",
+  "care_domain": "ophthalmology",
+  "care_stage": "care_delivery",
+  "automation_level": "full",
+  "ai_type": null,
+  "traction_signals": [
+    "Major player in eye care EHR",
+    "Comprehensive practice management",
+    "Cloud-based"
+  ],
+  "funding": "Private",
+  "regulatory_notes": "ONC-certified EHR, HIPAA compliant",
+  "varden_fit": "Moderate - Specialty practice management for eye care. Could be integration partner or model.",
+  "source": "Industry knowledge",
+  "url": "https://revolutionehr.com",
+  "date_added": "2026-03-11",
+  "notes": "Established ophthalmology/optometry EHR. Strong in optical dispensing integration."
+}

@@ -1,0 +1,14 @@
+{
+  "company": "Avetta",
+  "country": "US",
+  "problem": "Organizations struggle to ensure that contractors and suppliers in their supply chain meet safety standards, maintain proper certifications, and follow workplace health and safety protocols, creating liability and safety risks.",
+  "solution": "Avetta provides a contractor risk management and supply chain safety platform that streamlines contractor qualification, training management, and compliance verification, ensuring workers are properly trained and organizations maintain consistent safety standards across their entire supply chain.",
+  "problem_type": "occupational_health",
+  "solution_type": "SaaS",
+  "buyer": "employers",
+  "varden_fit": "medium",
+  "url": "https://www.avetta.com",
+  "source": "web",
+  "discovery_round": 132,
+  "discovered_by": "sky"
+}

@@ -1,0 +1,23 @@
+{
+  "company_name": "Suki",
+  "problem_solved": "Endless administrative tasks and documentation burden reduce clinician presence and contribute to burnout",
+  "solution_description": "Ambient clinical intelligence platform that handles documentation, coding, and clinical tasks. Works across desktop and mobile (iOS/Android) for 100+ specialties. Adapts to various care settings and integrates with all major EHRs. Provides ambient listening and voice commands",
+  "buyer_persona": "health_systems|clinics|providers",
+  "care_stage": "treatment",
+  "automation_level": "partial",
+  "varden_fit": "high",
+  "region": "US",
+  "country": "US",
+  "funding_stage": "series_c",
+  "traction_signals": [
+    "70% increase in practice satisfaction",
+    "72% reduction in time spent taking notes",
+    "69% reduction in feelings of burnout",
+    "5% reduction in amended encounters",
+    "Average $3,200 increase in incremental monthly revenue per user"
+  ],
+  "notes": "Strong ROI metrics with documented practice satisfaction improvements. Multi-platform support. Revenue increase signals strong clinical adoption",
+  "discovery_round": 51,
+  "discovered_by": "sky",
+  "timestamp": "2026-03-11T23:22:00Z"
+}

@@ -1,0 +1,28 @@
+{
+  "company": "Curofy (India)",
+  "country": "India",
+  "founded_year": 2014,
+  "category": "Healthcare Infrastructure",
+  "subsector": "Physician Networking Platform",
+  "description": "Indian physician networking and medical learning platform. Doctors use platform to discuss cases, access medical content, and communicate with peers. Medical news and CME platform for healthcare professionals.",
+  "business_model": "B2B - Platform to pharmaceutical companies for marketing to physicians",
+  "target_market": "Indian physicians, pharmaceutical companies",
+  "funding_stage": "Acquired",
+  "funding_amount_usd": 15000000,
+  "key_investors": "Acquired by 1MG",
+  "employees": "50+",
+  "customers": "400000+ doctors",
+  "revenue_usd": null,
+  "tech_stack": ["Physician network", "Case discussion", "Medical news", "CME platform", "Pharma marketing"],
+  "integration_points": ["Pharmaceutical marketing systems", "Medical education"],
+  "competitive_advantage": "Largest physician network in India, engagement, pharmaceutical reach",
+  "boring_software": true,
+  "varden_fit": {
+    "threat_level": "low",
+    "opportunity": "monitor",
+    "rationale": "Physician network in emerging market - demonstrates doctor engagement models"
+  },
+  "data_quality": "medium",
+  "sources": ["curofy.com", "crunchbase.com"],
+  "last_updated": "2026-03-11"
+}

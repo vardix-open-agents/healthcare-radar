@@ -1,0 +1,33 @@
+{
+  "id": "latam-clinical-trials-2026-231",
+  "title": "LATAM Clinical Trial Recruitment Gap",
+  "company": null,
+  "country": "Brazil/Mexico/Colombia/Regional",
+  "region": "LATAM",
+  "segment": "admin",
+  "problem": "Clinical trial recruitment in LATAM is slow and inefficient. No centralized patient registry for trials. Manual chart review to find eligible patients. Recruitment delays cost pharma millions per day. Diverse populations (important for trial validity) are underrepresented. Brazil's SUS has 150M patients but no easy way to identify trial candidates.",
+  "solution": "Clinical trial patient matching platform. Automated screening of EMR data against trial criteria. Patient registry for trial interest. Secure matching with trial sites. Recruitment analytics. Integration with hospital research departments. Compliance with trial regulations.",
+  "technology": "EMR data extraction, trial eligibility algorithms, patient portal, secure messaging, analytics, GCP compliance",
+  "target_customer": "Pharmaceutical companies, CROs (contract research organizations), hospital research departments, clinical trial sites",
+  "care_setting": "all",
+  "care_domain": "general",
+  "care_stage": "treatment",
+  "automation_level": "partial",
+  "ai_type": "Trial eligibility matching algorithms",
+  "traction_signals": [
+    "Pharma shifting trials to LATAM (cost, diversity)",
+    "Recruitment delays costly ($600K-$8M per day)",
+    "SUS patient population attractive for trials",
+    "Proven models (Deep 6 AI, TriNetX in US)"
+  ],
+  "funding": null,
+  "regulatory_notes": "Clinical trial regulations (GCP), IRB/ethics board requirements, patient consent",
+  "varden_fit": "MEDIUM FIT - Niche but high-value. Pharma pays well for recruitment acceleration. Could start with Brazil (largest patient population) and expand.",
+  "source": "Opportunity analysis + market gap identification",
+  "url": null,
+  "date_added": "2026-03-11",
+  "problem_type": "research",
+  "contrarian": false,
+  "boring_software": false,
+  "notes": "Clinical trial tech is specialized but lucrative. Brazil's SUS population is massive untapped resource for trials. Pharma will pay for access."
+}

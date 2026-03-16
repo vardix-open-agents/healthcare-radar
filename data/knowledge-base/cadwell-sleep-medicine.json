@@ -1,0 +1,14 @@
+{
+  "company": "Cadwell",
+  "country": "US",
+  "problem": "Sleep clinics and neurology practices need integrated diagnostic systems for EEG and polysomnography with streamlined reporting",
+  "solution": "Diagnostic equipment and software platform for sleep studies, EEG, and EMG with cloud-based data management and reporting tools for sleep medicine clinics",
+  "problem_type": "sleep_medicine",
+  "solution_type": "SaaS",
+  "buyer": "clinics",
+  "varden_fit": "medium",
+  "url": "https://www.cadwell.com",
+  "source": "web",
+  "discovery_round": 104,
+  "discovered_by": "nova"
+}

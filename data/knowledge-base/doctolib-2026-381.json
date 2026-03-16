@@ -1,0 +1,23 @@
+{
+  "company_name": "Doctolib",
+  "problem_solved": "Fragmented healthcare access with poor scheduling systems and limited digital front door for patients",
+  "solution_description": "European healthcare platform offering appointment scheduling, video consultations, and practice management software. Originally French, now expanded across DACH region. Serves both public and private healthcare providers. Patient-facing app and B2B practice software",
+  "buyer_persona": "health_systems|clinics|patients",
+  "care_stage": "triage",
+  "automation_level": "partial",
+  "varden_fit": "medium",
+  "region": "EU",
+  "country": "France",
+  "funding_stage": "series_f",
+  "traction_signals": [
+    "Major European healthcare platform",
+    "Appointment scheduling and video consultations",
+    "Practice management software",
+    "Public and private sector adoption",
+    "DACH region expansion from French base"
+  ],
+  "notes": "Leading European healthcare scheduling/telemedicine platform. French roots with German expansion. Not yet Nordic-focused but model is transferable. Strong patient digital front door",
+  "discovery_round": 51,
+  "discovered_by": "sky",
+  "timestamp": "2026-03-11T23:26:00Z"
+}

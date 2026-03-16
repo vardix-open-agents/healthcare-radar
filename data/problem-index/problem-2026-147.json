@@ -1,0 +1,16 @@
+{
+  "id": "problem-2026-147",
+  "problem": "Plan-specific coverage rules vary by 200+ criteria per payer, causing high denial rates for non-covered services",
+  "problem_type": "plan_rules",
+  "solution_type": "Plan rule engines, AI rule interpretation, coverage prediction, service-specific verification",
+  "care_stage": "admin",
+  "automation_type": "ai_assisted",
+  "buyer": "health_system",
+  "care_setting": "hospital",
+  "companies": ["Change Healthcare", "Experian Health", "Waystar", "Availity"],
+  "signals": ["200+ criteria per payer", "High denial rates", "Rule complexity", "AI rule learning pilots"],
+  "boring_software": true,
+  "contrarian": false,
+  "url": "https://www.cms.gov/plan-rules",
+  "date_added": "2026-03-11"
+}

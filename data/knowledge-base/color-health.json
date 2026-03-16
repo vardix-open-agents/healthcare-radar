@@ -1,0 +1,14 @@
+{
+  "company": "Color Health",
+  "country": "US",
+  "problem": "Cancer screening and genetic testing were fragmented, expensive, and difficult to access, leading to delayed diagnoses and poor outcomes",
+  "solution": "Population-scale genetic testing and cancer screening platform providing accessible, affordable genetic insights to enable early detection and personalized cancer care",
+  "problem_type": "genomics",
+  "solution_type": "SaaS",
+  "buyer": "providers",
+  "varden_fit": "low",
+  "url": "https://www.color.com",
+  "source": "web",
+  "discovery_round": 133,
+  "discovered_by": "nova"
+}

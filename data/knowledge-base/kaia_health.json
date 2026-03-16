@@ -1,0 +1,14 @@
+{
+  "company": "Kaia Health",
+  "country": "DE",
+  "problem": "Musculoskeletal pain is a leading cause of disability and healthcare costs. Access to evidence-based multimodal treatment including physical therapy is limited, with long wait times and high costs.",
+  "solution": "Digital-first MSK care platform delivering multimodal treatment (exercise therapy, education, mindfulness) through a mobile app. Programs developed by Doctors of Physical Therapy, with proven clinical outcomes across 11 trials and 3x ROI demonstrated in claims studies.",
+  "problem_type": "pain_management",
+  "solution_type": "SaaS",
+  "buyer": "employers",
+  "varden_fit": "high",
+  "url": "https://www.kaiahealth.com",
+  "source": "web",
+  "discovery_round": 135,
+  "discovered_by": "nova"
+}

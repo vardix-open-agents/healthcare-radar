@@ -1,0 +1,27 @@
+{
+  "company": "Aide (Norway)",
+  "country": "Norway",
+  "founded_year": 2019,
+  "category": "Mental Health",
+  "subsector": "Digital Mental Health Platform",
+  "description": "Norwegian startup providing digital mental health platform for employers. Offers therapy, coaching, and mental wellness tools for employees through a subscription model.",
+  "business_model": "B2B - SaaS subscription to employers",
+  "target_market": "Norwegian employers seeking mental health support for employees",
+  "funding_stage": "Seed",
+  "funding_amount_nok": 15000000,
+  "key_investors": "Norwegian angels, StartupLab",
+  "employees": 20,
+  "customers": "100+ companies",
+  "revenue_nok": 12000000,
+  "tech_stack": ["Web platform", "Mobile app", "Video therapy", "Assessment tools"],
+  "integration_points": ["HR systems", "EAP programs"],
+  "competitive_advantage": "Norwegian market focus, clinical validation, affordable pricing",
+  "varden_fit": {
+    "threat_level": "low",
+    "opportunity": "acquire",
+    "rationale": "Mental health platform in Norway - potential acquisition for Norwegian market entry"
+  },
+  "data_quality": "low",
+  "sources": ["linkedin.com", "startup databases"],
+  "last_updated": "2026-03-11"
+}

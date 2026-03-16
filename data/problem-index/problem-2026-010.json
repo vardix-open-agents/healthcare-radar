@@ -1,0 +1,16 @@
+{
+  "id": "problem-2026-010",
+  "problem": "Insurance eligibility verification requires 15-20 minutes per patient, causing claim delays",
+  "problem_type": "eligibility",
+  "solution_type": "Real-time eligibility APIs, automated benefits verification, payer integrations",
+  "care_stage": "admin",
+  "automation_type": "workflow_automation",
+  "buyer": "clinic",
+  "care_setting": "primary_care",
+  "companies": ["Availity", "Change Healthcare", "Eligible"],
+  "signals": ["Payer-provider friction costs", "Real-time claims adjudication pilots", "FHIR adoption"],
+  "boring_software": true,
+  "contrarian": false,
+  "url": "https://www.availity.com",
+  "date_added": "2026-03-11"
+}

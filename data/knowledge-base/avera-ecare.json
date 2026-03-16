@@ -1,0 +1,14 @@
+{
+  "company": "Avera eCARE",
+  "country": "US",
+  "problem": "Rural and critical access hospitals lack access to specialty physicians including neonatologists for NICU care and neurologists for stroke treatment",
+  "solution": "Telemedicine network providing 24/7 access to specialists for emergency, neonatal (tele-NICU), and stroke care, serving rural hospitals across the US",
+  "problem_type": "specialty_telemedicine",
+  "solution_type": "SaaS",
+  "buyer": "hospitals",
+  "varden_fit": "low",
+  "url": "https://averaecare.org",
+  "source": "web",
+  "discovery_round": 100,
+  "discovered_by": "nova"
+}

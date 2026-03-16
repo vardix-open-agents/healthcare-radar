@@ -1,0 +1,14 @@
+{
+  "company": "Wellmo",
+  "country": "FI",
+  "problem": "Healthcare payers and insurers struggle to deliver personalized digital health services and engage citizens in preventive health across fragmented service ecosystems",
+  "solution": "Cloud-based content-agnostic platform enabling insurers to integrate any content, service, or software into individually tailored digital health services with mobile apps, proven with AXA Germany, Länsförsäkringar Sweden, and LocalTapiola Finland",
+  "problem_type": "ehealth_infrastructure",
+  "solution_type": "SaaS",
+  "buyer": "payers",
+  "varden_fit": "high",
+  "url": "https://www.wellmo.com",
+  "source": "web research",
+  "discovery_round": 66,
+  "discovered_by": "nova"
+}

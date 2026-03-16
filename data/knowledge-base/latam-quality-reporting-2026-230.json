@@ -1,0 +1,33 @@
+{
+  "id": "latam-quality-reporting-2026-230",
+  "title": "LATAM Quality Measurement & Reporting Gap",
+  "company": null,
+  "country": "Brazil/Mexico/Colombia/Regional",
+  "region": "LATAM",
+  "segment": "admin",
+  "problem": "Healthcare quality measurement in LATAM is immature. No standardized quality metrics. No public reporting of outcomes. Patients can't compare providers. No pay-for-performance systems. Quality improvement is ad-hoc. This limits value-based care adoption and allows poor-quality providers to persist.",
+  "solution": "Healthcare quality measurement platform. Automated extraction of quality metrics from EMR. Risk-adjusted outcome reporting. Provider scorecards. Public transparency portal (like CMS Hospital Compare). Integration with payer value-based contracts. Quality improvement recommendations.",
+  "technology": "EMR data extraction, NLP for unstructured data, risk adjustment algorithms, visualization dashboards, public portal",
+  "target_customer": "Ministry of Health (public reporting), health insurers (VBC), hospital systems (quality improvement), accreditation bodies",
+  "care_setting": "all",
+  "care_domain": "general",
+  "care_stage": "treatment",
+  "automation_level": "partial",
+  "ai_type": "NLP for clinical data extraction, quality prediction",
+  "traction_signals": [
+    "Value-based care emerging in private insurance",
+    "Government push for transparency",
+    "Hospital systems seeking quality improvement",
+    "Accreditation becoming more rigorous"
+  ],
+  "funding": null,
+  "regulatory_notes": "Quality reporting regulations, data standardization requirements",
+  "varden_fit": "HIGH FIT - Quality measurement is infrastructure for value-based care. B2B/B2G software. Long-term contracts with government and insurers. Defensible through data assets.",
+  "source": "Opportunity analysis + market gap identification",
+  "url": null,
+  "date_added": "2026-03-11",
+  "problem_type": "quality",
+  "contrarian": true,
+  "boring_software": true,
+  "notes": "CONTRARIAN + BOREALING: Quality reporting is invisible infrastructure. But it's essential for value-based care. Government contracts are large and stable. Very boring but very valuable."
+}

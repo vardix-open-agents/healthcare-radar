@@ -1,0 +1,16 @@
+{
+  "id": "problem-2026-096",
+  "problem": "Medical residents work 80-hour weeks with inefficient task allocation, spending 30% of time on non-educational clerical work",
+  "problem_type": "staffing_workforce",
+  "solution_type": "Resident workflow optimization, AI-powered task delegation, educational time protection",
+  "care_stage": "administration",
+  "automation_type": "workflow_automation",
+  "buyer": "health_system",
+  "care_setting": "hospital",
+  "companies": ["MedHub", "New Innovations", "E*Value", "Residency Manager", "ACGME tools"],
+  "signals": ["Resident burnout epidemic", "Duty hour restrictions", "GME funding scrutiny"],
+  "boring_software": true,
+  "contrarian": false,
+  "url": "https://www.acgme.org",
+  "date_added": "2026-03-11"
+}

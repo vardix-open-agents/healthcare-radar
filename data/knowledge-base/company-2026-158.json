@@ -1,0 +1,28 @@
+{
+  "company": "Zocdoc (USA)",
+  "country": "United States",
+  "founded_year": 2007,
+  "category": "Healthcare Infrastructure",
+  "subsector": "Patient Scheduling Marketplace",
+  "description": "Healthcare appointment booking platform connecting patients with doctors. Marketplace for finding and booking appointments with physicians. Offers real-time availability, insurance verification, and patient reviews.",
+  "business_model": "B2B - Subscription to healthcare providers, marketplace to patients",
+  "target_market": "Independent physicians, group practices, patients",
+  "funding_stage": "Series D",
+  "funding_amount_usd": 223000000,
+  "key_investors": "Founders Fund, Atomico, Khosla Ventures",
+  "employees": "500+",
+  "customers": "50000+ providers",
+  "revenue_usd": null,
+  "tech_stack": ["Appointment scheduling", "Insurance verification", "Patient reviews", "Provider directory"],
+  "integration_points": ["Practice management systems", "EHRs", "Payer directories"],
+  "competitive_advantage": "Consumer brand, patient acquisition platform, real-time scheduling",
+  "boring_software": true,
+  "varden_fit": {
+    "threat_level": "low",
+    "opportunity": "benchmark",
+    "rationale": "Scheduling marketplace - validates patient self-scheduling trend"
+  },
+  "data_quality": "high",
+  "sources": ["zocdoc.com", "crunchbase.com"],
+  "last_updated": "2026-03-11"
+}

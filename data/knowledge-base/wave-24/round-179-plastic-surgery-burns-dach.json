@@ -1,0 +1,147 @@
+{
+  "round": 179,
+  "theme": "Plastic Surgery / Burns (DACH)",
+  "region": "DACH (Germany, Austria, Switzerland)",
+  "focus_areas": [
+    "Plastic surgery practice management",
+    "Burn wound documentation",
+    "Before/after imaging",
+    "Surgical planning"
+  ],
+  "exclusions": [
+    "Consumer beauty apps",
+    "Pharma"
+  ],
+  "companies": [
+    {
+      "company_name": "Brainlab",
+      "hq_location": "Munich, Germany",
+      "website_url": "https://www.brainlab.com",
+      "problem_solved": "Complex surgical planning and navigation for cranial, maxillofacial, and plastic reconstructive procedures requires precise 3D visualization and intraoperative guidance",
+      "who_buys_it": "Hospitals, academic medical centers, plastic surgery departments, cranio-maxillofacial surgeons",
+      "key_features": [
+        "3D surgical planning software for cranial procedures",
+        "Intraoperative navigation systems",
+        "Image-guided surgery solutions",
+        "Integration with CT/MRI imaging",
+        "Mixed reality visualization for surgical planning"
+      ],
+      "business_model": "Medical device sales with software licensing, service contracts, and training",
+      "why_varden_should_care": "Leading DACH-based player in surgical planning software with strong presence in cranio-maxillofacial surgery; digital surgery platform potential for expansion into AI-assisted planning"
+    },
+    {
+      "company_name": "KLS Martin Group",
+      "hq_location": "Tuttlingen, Germany",
+      "website_url": "https://www.klsmartin.com",
+      "problem_solved": "Plastic and cranio-maxillofacial surgeons need specialized instruments, implants, and digital solutions for complex reconstructive procedures",
+      "who_buys_it": "Plastic surgeons, maxillofacial surgeons, hospitals, surgical centers",
+      "key_features": [
+        "Complete portfolio for CMF surgery",
+        "Surgical lasers and instruments",
+        "Patient-specific implants",
+        "Digital surgical planning solutions",
+        "Distraction osteogenesis systems"
+      ],
+      "business_model": "Medical device manufacturing and sales with surgical instruments and digital solutions",
+      "why_varden_should_care": "Established DACH medical device company with comprehensive CMF portfolio; expanding into digital surgery and patient-specific solutions"
+    },
+    {
+      "company_name": "Medartis",
+      "hq_location": "Basel, Switzerland",
+      "website_url": "https://www.medartis.com",
+      "problem_solved": "Cranio-maxillofacial and hand surgeons need precise, adaptable osteosynthesis systems for fracture fixation and reconstructive procedures",
+      "who_buys_it": "Plastic surgeons, maxillofacial surgeons, hand surgeons, trauma centers, hospitals",
+      "key_features": [
+        "APTOS cranio-maxillofacial fixation system",
+        "Modular plate systems for facial reconstruction",
+        "Titanium and biodegradable implant options",
+        "Patient-specific solutions",
+        "3D planning integration"
+      ],
+      "business_model": "Medical device manufacturing with focus on specialized osteosynthesis implants",
+      "why_varden_should_care": "Swiss precision engineering in CMF implants; strong R&D focus and potential for digital integration"
+    },
+    {
+      "company_name": "Crisalix",
+      "hq_location": "Lausanne, Switzerland",
+      "website_url": "https://www.crisalix.com",
+      "problem_solved": "Patients struggle to visualize potential surgical outcomes, and surgeons need better tools for consultation and outcome prediction",
+      "who_buys_it": "Plastic surgeons, aesthetic clinics, cosmetic surgery practices",
+      "key_features": [
+        "3D and 4D simulation from standard 2D photos",
+        "Breast, body, and facial procedure simulation",
+        "Patient consultation tools",
+        "Outcome visualization for multiple procedures",
+        "Integration with practice management"
+      ],
+      "business_model": "SaaS subscription for surgeons and clinics; patient-pay simulation services",
+      "why_varden_should_care": "Leading 3D simulation platform for plastic surgery with Swiss headquarters; strong patient engagement angle and potential for AI-enhanced prediction"
+    },
+    {
+      "company_name": "Swiss4ward",
+      "hq_location": "Zurich, Switzerland",
+      "website_url": "https://www.swiss4ward.com",
+      "problem_solved": "Dermatology and plastic surgery practices need specialized digital tools for patient assessment, data collection, and disease management",
+      "who_buys_it": "Dermatologists, plastic surgeons, dermatology clinics, research institutions",
+      "key_features": [
+        "PRIDD - dermatology-specific questionnaire tools",
+        "IR TEN - chronic disease registry and data collection",
+        "Hautkompass - interactive evidence-based programs",
+        "OncoTobee - dermato-oncology patient management platform",
+        "Custom app development for dermatology"
+      ],
+      "business_model": "Software development services and platform licensing",
+      "why_varden_should_care": "Swiss digital health company focused on dermatology with potential expansion into plastic surgery documentation and patient management"
+    },
+    {
+      "company_name": "Merz Aesthetics",
+      "hq_location": "Frankfurt am Main, Germany",
+      "website_url": "https://www.merz.com",
+      "problem_solved": "Aesthetic medicine practitioners need reliable injectable products and devices for minimally invasive facial rejuvenation and body contouring",
+      "who_buys_it": "Plastic surgeons, dermatologists, aesthetic medicine practitioners, medical spas",
+      "key_features": [
+        "Dermal fillers and neurotoxin products",
+        "Body contouring devices",
+        "Skin revitalization solutions",
+        "Training and education programs",
+        "Practice support services"
+      ],
+      "business_model": "Medical device and pharmaceutical sales with training and support services",
+      "why_varden_should_care": "Major German aesthetic medicine player with 110+ year heritage; strong portfolio in injectables and devices for plastic surgery practices"
+    },
+    {
+      "company_name": "Erbe Elektromedizin",
+      "hq_location": "Tübingen, Germany",
+      "website_url": "https://www.erbe-med.com",
+      "problem_solved": "Plastic and reconstructive surgeons need precise electrosurgical tools for tissue cutting, coagulation, and ablation with minimal thermal damage",
+      "who_buys_it": "Hospitals, surgical centers, plastic surgery departments, ambulatory surgery centers",
+      "key_features": [
+        "Advanced electrosurgery units",
+        "Vessel sealing technology",
+        "Plasma surgery for precise tissue ablation",
+        "Cryo technology for skin lesions",
+        "Hydrosurgery systems"
+      ],
+      "business_model": "Medical device manufacturing and sales with service and training contracts",
+      "why_varden_should_care": "German medical technology leader since 1851; strong in electrosurgery with applications in plastic and reconstructive procedures"
+    },
+    {
+      "company_name": "MedSkin Solutions Dr. Suwelack",
+      "hq_location": "Billerbeck, Germany",
+      "website_url": "https://www.medskin-suwelack.com",
+      "problem_solved": "Post-surgical skin care and wound healing require specialized products with proven clinical efficacy for optimal recovery",
+      "who_buys_it": "Plastic surgeons, dermatologists, aesthetic clinics, medical spas, hospitals",
+      "key_features": [
+        "Native collagen masks for post-surgical healing",
+        "Premium skin care for medical use",
+        "Algae-based products for skin regeneration",
+        "Private label manufacturing",
+        "Clinically proven formulations"
+      ],
+      "business_model": "Private label manufacturing and premium skincare product sales",
+      "why_varden_should_care": "German company specializing in post-surgical and medical skin care; strong clinical foundation and potential for integration with plastic surgery recovery protocols"
+    }
+  ],
+  "research_date": "2026-03-14",
+  "notes": "DACH region has strong representation in medical devices for plastic surgery and cranio-maxillofacial procedures. Software/digital solutions emerging (Crisalix, Swiss4ward) but practice management and burn-specific documentation remain underserved. Wound documentation companies like ARANZ Medical (New Zealand) and Smith+Nephew have DACH presence but are not headquartered in the region."
+}

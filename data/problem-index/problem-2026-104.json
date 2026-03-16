@@ -1,0 +1,16 @@
+{
+  "id": "problem-2026-104",
+  "problem": "Employee health screening programs have 20-30% participation rates, limiting population health insights",
+  "problem_type": "monitoring",
+  "solution_type": "Digital health screening platforms, incentives integration, mobile biometric collection",
+  "care_stage": "admin",
+  "automation_type": "workflow_automation",
+  "buyer": "employer",
+  "care_setting": "occupational",
+  "companies": ["Wellness 360", "Wellable", "Virgin Pulse", "Welltok"],
+  "signals": ["Employer health costs $15K/employee", "Preventive care ROI", "Employee engagement challenges"],
+  "boring_software": true,
+  "contrarian": false,
+  "url": "https://www.wellness360.com",
+  "date_added": "2026-03-11"
+}

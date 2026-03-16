@@ -1,0 +1,14 @@
+{
+  "company": "DocuTech",
+  "country": "US",
+  "problem": "Pharmacies need document management, prescription label printing, patient information handouts, and regulatory compliance documentation systems",
+  "solution": "DocuTech provides pharmacy document management and printing solutions including prescription labels, patient education materials, medication guides, and compliance documentation for retail pharmacies",
+  "problem_type": "retail_pharmacy",
+  "solution_type": "SaaS",
+  "buyer": "pharmacies",
+  "varden_fit": "low",
+  "url": "https://www.docutech.com",
+  "source": "web",
+  "discovery_round": 128,
+  "discovered_by": "sky"
+}

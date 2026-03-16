@@ -1,0 +1,16 @@
+{
+  "id": "problem-2026-019",
+  "problem": "Romanian patients travel 100+ km to major cities for specialist appointments",
+  "problem_type": "navigation",
+  "solution_type": "Telemedicine platforms, mobile clinics, regional hub-and-spoke networks",
+  "care_stage": "intake",
+  "automation_type": "workflow_automation",
+  "buyer": "health_system",
+  "care_setting": "telehealth",
+  "companies": ["Medicai", "Sensomatic", "Digital Clinics Romania"],
+  "signals": ["Romania healthcare access gaps", "EU cohesion funds", "Rural health disparities"],
+  "boring_software": false,
+  "contrarian": false,
+  "url": "https://medicai.com",
+  "date_added": "2026-03-11"
+}

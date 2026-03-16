@@ -1,0 +1,14 @@
+{
+  "company": "Paytient",
+  "country": "US",
+  "problem": "Patients delay or skip care due to out-of-pocket costs, leading to worse health outcomes and lost revenue for providers",
+  "solution": "Healthcare payment solution offering 0% interest payment plans with no credit check, enabling patients to pay for care over time while providers get paid in full, improving employee retention and productivity",
+  "problem_type": "patient_payments",
+  "solution_type": "financing",
+  "buyer": "providers",
+  "varden_fit": "high",
+  "url": "https://www.paytient.com",
+  "source": "web",
+  "discovery_round": 99,
+  "discovered_by": "sky"
+}

@@ -1,0 +1,14 @@
+{
+  "company": "Swift Medical",
+  "country": "CA",
+  "problem": "Chronic wound care management lacks standardized assessment, documentation inconsistencies lead to poor healing outcomes, and clinicians struggle to accurately measure wound healing progress across large patient populations.",
+  "solution": "AI-powered digital wound care management platform with calibrated wound imaging, automated measurement, and clinical workflow optimization. Platform includes mobile wound imaging app and provider portal for coordinated care across settings.",
+  "problem_type": "wound_care",
+  "solution_type": "SaaS",
+  "buyer": "clinics",
+  "varden_fit": "high",
+  "url": "https://swiftmedical.com",
+  "source": "web",
+  "discovery_round": 134,
+  "discovered_by": "sky"
+}

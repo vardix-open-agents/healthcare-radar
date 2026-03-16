@@ -1,0 +1,23 @@
+{
+  "company_name": "Patchs AI",
+  "problem_solved": "Primary care access constrained by administrative burden and inefficient patient communication",
+  "solution_description": "UK-based AI platform for general practice that automates patient triage, admin tasks, and documentation. Works within NHS workflows to streamline patient requests and clinical prioritization. GP-focused with NHS integration",
+  "buyer_persona": "clinics|health_systems|providers",
+  "care_stage": "triage",
+  "automation_level": "partial",
+  "varden_fit": "high",
+  "region": "UK",
+  "country": "UK",
+  "funding_stage": "series_a",
+  "traction_signals": [
+    "NHS-integrated platform",
+    "GP-focused solution",
+    "Automated patient triage",
+    "Admin task automation",
+    "UK primary care market presence"
+  ],
+  "notes": "UK/NHS focus with GP automation. NHS integration model relevant for public healthcare systems. AI triage and admin automation similar to needs in Nordic primary care",
+  "discovery_round": 51,
+  "discovered_by": "sky",
+  "timestamp": "2026-03-11T23:26:00Z"
+}

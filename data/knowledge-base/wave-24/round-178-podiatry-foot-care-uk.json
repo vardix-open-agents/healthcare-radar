@@ -1,0 +1,178 @@
+[
+  {
+    "company_name": "WriteUpp",
+    "hq_location": "London, UK",
+    "website_url": "https://www.writeupp.com",
+    "problem_solved": "Private podiatry clinics and allied health professionals lack affordable, intuitive practice management software that handles patient records, scheduling, video consultations, and billing without enterprise-level complexity and cost",
+    "who_buys_it": "Independent podiatrists, chiropodists, foot health practitioners, multi-disciplinary clinics, private healthcare practices (1-50 clinicians), practice managers, clinic owners",
+    "key_features": [
+      "ISO27001-certified practice management platform",
+      "Patient electronic health records with image/photo attachments for wound tracking",
+      "Online booking system with 24/7 patient self-scheduling",
+      "Video consultation capabilities built-in",
+      "Automated SMS and email appointment reminders",
+      "Invoicing and payment processing (Stripe integration)",
+      "Dedicated iOS mobile app for clinicians",
+      "Custom forms and clinical templates",
+      "GDPR-compliant data handling",
+      "Multi-clinician scheduling and team management",
+      "30+ healthcare specialty templates including podiatry-specific workflows"
+    ],
+    "business_model": "SaaS subscription - Flex (pay-per-user), Solo (£27.95/mo for single clinician), Group (£45.95/mo+ for 2+ clinicians); 30-day free trial available",
+    "why_varden_should_care": "UK-based practice management software serving 50,000+ clinicians across 30+ specialties including podiatry. Strong product-market fit evidenced by podiatrist testimonials. Mobile-first approach with dedicated app (unique in UK market). ISO27001 certification and GDPR compliance essential for UK healthcare. Image attachment feature valuable for wound/ulcer documentation and progress tracking. Growing demand for digital transformation in independent podiatry practices post-COVID. Affordable pricing attractive to fragmented SMB podiatry market. Potential for vertical expansion deeper into podiatry-specific features and orthotic management."
+  },
+  {
+    "company_name": "PPM (Podiatry Practice Management)",
+    "hq_location": "Stoke-on-Trent, UK",
+    "website_url": "https://www.ppmsoftware.co.uk",
+    "problem_solved": "UK podiatry practices need specialised software that handles clinical documentation, patient management, and practice administration specific to podiatry workflows and NHS requirements",
+    "who_buys_it": "Private podiatry clinics, NHS podiatry departments, community foot health services, podiatric surgeons, biomechanics clinics, practice managers",
+    "key_features": [
+      "Podiatry-specific clinical templates",
+      "Patient demographic and medical history management",
+      "Appointment scheduling and diary management",
+      "Treatment planning and progress tracking",
+      "Orthotic prescription management",
+      "Nail surgery documentation",
+      "Biomechanical assessment recording",
+      "Billing and invoice generation",
+      "Reporting and analytics",
+      "Multi-location practice support",
+      "NHS contract management"
+    ],
+    "business_model": "SaaS subscription - tiered pricing based on practice size and modules required; perpetual license option available",
+    "why_varden_should_care": "Specialist podiatry software provider with deep domain expertise in UK market. Long-standing relationships with NHS podiatry departments and private practices. Orthotic prescription management feature addresses growing orthotics market. Biomechanical assessment tools valuable for sports podiatry and diabetic foot services. Fragmented UK podiatry market (5,000+ practitioners) ripe for consolidation. Potential for integration with foot imaging and diabetic foot monitoring platforms. NHS focus provides stable revenue base."
+  },
+  {
+    "company_name": "Podiatry Software (Cliniko)",
+    "hq_location": "Melbourne, Australia (UK operations)",
+    "website_url": "https://www.cliniko.com",
+    "problem_solved": "Allied health practitioners including podiatrists need a simple, all-in-one practice management solution that works across multiple devices without expensive setup or training",
+    "who_buys_it": "Independent podiatrists, multi-disciplinary allied health clinics, physiotherapy-podiatry hybrid practices, new practice owners, locum podiatrists",
+    "key_features": [
+      "Cloud-based practice management",
+      "Online booking with customisable intake forms",
+      "Video telehealth consultations",
+      "Clinical notes with podiatry templates",
+      "Appointment scheduling and reminders",
+      "Patient management and CRM",
+      "Invoicing and payment processing",
+      "Multi-location and multi-practitioner support",
+      "Mobile-responsive design",
+      "Two-factor authentication",
+      "API access for integrations"
+    ],
+    "business_model": "SaaS subscription - flat monthly fee per practitioner (~$50 AUD/mo); free trial available; no setup fees",
+    "why_varden_should_care": "Fast-growing allied health practice management platform with global footprint. Strong presence in UK podiatry and physiotherapy markets. Simple, flat-fee pricing model attractive to independent practitioners. Telehealth capabilities increasingly important post-pandemic. API-first approach enables integration with specialised podiatry tools. Expanding UK market share through word-of-mouth referrals. Potential acquisition target for larger healthcare IT platforms seeking allied health capabilities."
+  },
+  {
+    "company_name": "Footmaxx UK",
+    "hq_location": "London, UK (North American parent)",
+    "website_url": "https://www.footmaxx.co.uk",
+    "problem_solved": "Podiatrists and orthopaedic specialists need accurate, efficient systems for gait analysis, foot biomechanical assessment, and custom orthotic prescription without expensive hardware",
+    "who_buys_it": "Private podiatry clinics, orthopaedic practices, sports medicine centres, biomechanics labs, NHS orthotics departments, physiotherapy clinics",
+    "key_features": [
+      "Computerised gait analysis platform",
+      "Metascan pressure mapping technology",
+      "Custom orthotic prescription software",
+      "3D foot scanning and modelling",
+      "Patient education visualisation tools",
+      "Cloud-based prescription management",
+      "Orthotic ordering and tracking system",
+      "Outcome measurement tools",
+      "Integration with practice management systems",
+      "Mobile tablet-based assessments",
+      "White-label orthotic manufacturing network"
+    ],
+    "business_model": "Software licensing + hardware sales (pressure plates, scanners) + per-orthotic ordering fees; subscription for cloud platform",
+    "why_varden_should_care": "Technology-enabled orthotics company bridging assessment software and custom device manufacturing. Proprietary gait analysis technology differentiates from competitors. Subscription model creates recurring revenue. Integration with manufacturing creates full-stack solution. Growing demand for biomechanical assessment in diabetic foot care and sports medicine. Potential for AI-powered gait analysis and automated orthotic recommendations. UK market growing as NHS outsources orthotics services."
+  },
+  {
+    "company_name": "Silhouette (ARANZ Medical)",
+    "hq_location": "Christchurch, New Zealand (UK distributor network)",
+    "website_url": "https://www.aranzmedical.com",
+    "problem_solved": "Diabetic foot clinics, wound care specialists, and podiatrists need accurate, consistent wound measurement and tracking that doesn't rely on ruler-based estimates or subjective assessments",
+    "who_buys_it": "NHS diabetic foot clinics, hospital wound care departments, community podiatry services, tissue viability nurses, diabetic foot multidisciplinary teams, research institutions",
+    "key_features": [
+      "FDA-cleared wound imaging and measurement device",
+      "3D wound measurement (area, depth, volume)",
+      "SilhouetteStar camera technology",
+      "SilhouetteConnect software platform",
+      "Automated wound progress tracking",
+      "Standardised wound photography",
+      "EHR/EMR integration capabilities",
+      "Clinical decision support",
+      "Research-grade accuracy (<5% measurement error)",
+      "HIPAA/GDPR compliant data storage",
+      "Mobile tablet interface"
+    ],
+    "business_model": "Medical device hardware sales + software subscription; enterprise licensing for hospital networks; per-device pricing",
+    "why_varden_should_care": "Market leader in digital wound measurement with FDA clearance and CE marking. Critical technology for diabetic foot ulcer monitoring - £1.1B annual NHS spend on diabetic foot disease. Objective wound measurement reduces variation and improves outcomes. Strong evidence base with 70+ peer-reviewed publications. NHS adoption growing through diabetic foot networks. Hardware + software + data = high switching costs. Potential for AI-powered healing prediction and treatment recommendations. Strategic fit with diabetic foot care pathway management platforms."
+  },
+  {
+    "company_name": "Swift Medical (Swift Health)",
+    "hq_location": "Toronto, Canada (UK operations)",
+    "website_url": "https://www.swiftmedical.com",
+    "problem_solved": "Community nurses, podiatrists, and wound care clinicians need mobile wound assessment tools that work offline and integrate with electronic health records for diabetic foot ulcer documentation",
+    "who_buys_it": "Community health providers, NHS trusts, home care organisations, podiatry services, tissue viability teams, wound care specialists, diabetic foot MDTs",
+    "key_features": [
+      "Swift Wound smartphone app for iOS/Android",
+      "AI-powered wound measurement from photos",
+      "Automatic wound area, length, width calculation",
+      "Tissue type classification",
+      "Offline capability for home visits",
+      "EHR integration (Epic, Cerner, System C)",
+      "Standardised wound photography",
+      "Progress tracking and trending",
+      "Secure cloud storage",
+      "Audit trail and compliance reporting",
+      "Nurse and podiatrist workflows"
+    ],
+    "business_model": "SaaS subscription - per-user licensing; enterprise agreements for NHS trusts; free tier for individual clinicians",
+    "why_varden_should_care": "AI-native wound imaging company with strong mobile focus - critical for community podiatry and home visits. Growing adoption in UK NHS trusts for diabetic foot services. Offline capability essential for community practitioners. Integration with major EHRs reduces friction. AI measurement accuracy matches or exceeds manual methods. Potential to become standard for diabetic foot ulcer documentation. Partnership opportunities with diabetic foot care platforms. Mobile-first approach aligns with community care delivery model."
+  },
+  {
+    "company_name": "Diabeto (Surgicalls)",
+    "hq_location": "London, UK",
+    "website_url": "https://www.diabeto.co.uk",
+    "problem_solved": "Diabetic patients and their care teams need connected monitoring tools that automatically sync blood glucose data to enable early intervention in diabetic complications including foot problems",
+    "who_buys_it": "NHS diabetic services, GP practices, diabetic clinics, endocrinology departments, podiatry diabetic foot services, diabetic patients (DTC), clinical commissioning groups",
+    "key_features": [
+      "Bluetooth glucose meter connectivity",
+      "Automatic data sync to smartphone app",
+      "Cloud-based data repository",
+      "Integration with diabetes management platforms",
+      "Caregiver sharing and alerts",
+      "Historical trending and analytics",
+      "Integration with NHS systems",
+      "HbA1c estimation algorithms",
+      "Food logging and insulin tracking",
+      "API for third-party integration",
+      "GDPR-compliant data handling"
+    ],
+    "business_model": "Device sales (Bluetooth dongle) + freemium app; B2B licensing to NHS trusts and CCGs; data insights services",
+    "why_varden_should_care": "Connected diabetes monitoring platform addressing root cause of diabetic foot complications. Integration potential with podiatry EMR and diabetic foot screening tools. NHS England push for diabetes remote monitoring creates market opportunity. Blood glucose control directly impacts diabetic foot ulcer risk. Patient-generated health data valuable for risk stratification. Potential acquisition target for larger diabetes management platforms. UK focus aligns with NHS digital transformation priorities."
+  },
+  {
+    "company_name": "Podiatry Matters",
+    "hq_location": "Manchester, UK",
+    "website_url": "https://www.podiatrymatters.com",
+    "problem_solved": "Podiatrists need education, resources, professional community, and clinical decision support tools to stay current with best practices in diabetic foot care and podiatric medicine",
+    "who_buys_it": "Private podiatrists, NHS podiatry staff, podiatry students, podiatric surgeons, foot health practitioners, clinic owners, podiatry professional bodies",
+    "key_features": [
+      "Online education and CPD courses",
+      "Clinical guidelines and protocols",
+      "Podiatry community forum",
+      "Podcast and webinar content",
+      "Diabetic foot care resources",
+      "Product reviews and recommendations",
+      "Practice management guidance",
+      "Clinical case discussions",
+      "Job board and recruitment",
+      "Industry news and updates",
+      "Professional networking"
+    ],
+    "business_model": "Freemium membership - free content + premium subscription for courses and advanced resources; advertising; sponsored content; event tickets",
+    "why_varden_should_care": "Leading UK podiatry education and community platform - reaches majority of UK practitioners. Strong brand recognition and trust in podiatry community. Potential distribution channel for podiatry software and products. CPD delivery platform valuable for mandatory training compliance. Community insights inform product development for podiatry software. Growing audience as podiatry profession expands. Potential for integration with practice management systems for in-workflow education. Strategic acquisition target for healthcare IT companies entering podiatry market."
+  }
+]

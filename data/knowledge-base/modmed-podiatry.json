@@ -1,0 +1,14 @@
+{
+  "company": "ModMed (Modernizing Medicine)",
+  "country": "US",
+  "problem": "Podiatry practices struggle with generic EHR systems that lack foot-specific documentation, imaging integration, and procedure templates for treatments like orthotics, wound care, and foot surgery",
+  "solution": "ModMed EMA provides an AI-powered, specialty-specific EHR and practice management platform for podiatry with foot-specific templates, integrated orthotic device ordering, wound care documentation, and practice analytics",
+  "problem_type": "podiatry",
+  "solution_type": "SaaS",
+  "buyer": "clinics",
+  "varden_fit": "medium",
+  "url": "https://www.modmed.com/specialties/podiatry-ehr/",
+  "source": "web",
+  "discovery_round": 111,
+  "discovered_by": "sky"
+}

@@ -1,0 +1,14 @@
+{
+  "company": "eClinicalWorks",
+  "country": "US",
+  "problem": "Healthcare organizations need integrated solutions for EHR, telehealth, and patient engagement that scale across facilities",
+  "solution": "Comprehensive cloud EHR system with telehealth solutions, patient engagement software, AI-powered medical scribe (Sunoh.ai), and 24/7 AI contact center (healow Genie)",
+  "problem_type": "primary_care",
+  "solution_type": "SaaS",
+  "buyer": "health_system",
+  "varden_fit": "high",
+  "url": "https://www.eclinicalworks.com",
+  "source": "web",
+  "discovery_round": 125,
+  "discovered_by": "sky"
+}

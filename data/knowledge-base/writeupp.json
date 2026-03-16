@@ -1,0 +1,14 @@
+{
+  "company": "WriteUpp",
+  "country": "GB",
+  "problem": "Allied health professionals and private clinics need a simple, secure practice management system for patient records, scheduling, and invoicing without complex enterprise software",
+  "solution": "ISO27001-certified practice management software with patient records, online booking, video consultations, invoicing, and a dedicated mobile app for healthcare practitioners across 30+ specialties",
+  "problem_type": "practice_management",
+  "solution_type": "SaaS",
+  "buyer": "clinics",
+  "varden_fit": "medium",
+  "url": "https://www.writeupp.com",
+  "source": "web",
+  "discovery_round": 87,
+  "discovered_by": "nova"
+}

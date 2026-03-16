@@ -1,0 +1,27 @@
+{
+  "company": "Docrates",
+  "country": "Finland",
+  "founded_year": 2007,
+  "category": "Specialist Care",
+  "subsector": "Private Cancer Hospital & Diagnostics",
+  "description": "Finnish private cancer hospital and comprehensive diagnostic center. Offers cancer treatment, imaging, laboratory services, and specialist consultations. First private cancer hospital in Finland.",
+  "business_model": "B2C - Direct to patients; B2B for employer health services",
+  "target_market": "Finnish patients and employers seeking fast access to specialist care",
+  "funding_stage": "Profitable",
+  "funding_amount_eur": null,
+  "key_investors": "Private ownership",
+  "employees": 300,
+  "customers": "50000+ patients annually",
+  "revenue_eur": 50000000,
+  "tech_stack": ["Hospital information system", "Imaging systems", "Patient portal"],
+  "integration_points": ["Finnish health system", "Occupational health providers", "Insurers"],
+  "competitive_advantage": "First private cancer hospital, comprehensive diagnostics, premium service quality",
+  "varden_fit": {
+    "threat_level": "low",
+    "opportunity": "partner",
+    "rationale": "Referral partner for complex cases - complements primary occupational health"
+  },
+  "data_quality": "medium",
+  "sources": ["docrates.com"],
+  "last_updated": "2026-03-11"
+}

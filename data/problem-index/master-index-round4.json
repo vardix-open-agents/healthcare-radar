@@ -1,0 +1,227 @@
+{
+  "generated": "2026-03-11T22:22:00Z",
+  "synthesis_round": 4,
+  "total_entries": 348,
+  "growth_from_round_3": 212,
+  "growth_percentage": 156,
+  "time_since_last_synthesis_minutes": 35,
+  "problem_types": {
+    "other": 146,
+    "infrastructure": 25,
+    "revenue_cycle": 20,
+    "booking_scheduling": 19,
+    "data_integration": 19,
+    "diagnostics_imaging": 16,
+    "diagnostics": 13,
+    "medication_management": 13,
+    "treatment_delivery": 12,
+    "admin": 10,
+    "remote_monitoring": 10,
+    "mental_health_access": 7,
+    "patient_communication": 6,
+    "treatment": 6,
+    "eligibility_verification": 5,
+    "chronic_disease": 5,
+    "documentation": 4,
+    "triage_navigation": 4,
+    "monitoring": 3,
+    "staffing_workforce": 3,
+    "scheduling": 1,
+    "triage": 1
+  },
+  "buyer_types": {
+    "other": 153,
+    "health_systems": 100,
+    "clinics_practices": 41,
+    "patients_consumers": 28,
+    "providers_general": 10,
+    "pharma_lifesciences": 6,
+    "payers": 4,
+    "hospitals": 3,
+    "primary_care": 3
+  },
+  "care_stages": {
+    "admin": 69,
+    "diagnosis": 53,
+    "treatment": 33,
+    "prevention": 9,
+    "monitoring": 8,
+    "all": 8,
+    "screening": 8,
+    "triage": 6,
+    "care_delivery": 4,
+    "screening_diagnosis": 3,
+    "rehabilitation": 2,
+    "acute_care": 2,
+    "N/A": 2,
+    "recovery": 1,
+    "prehab_rehab": 1,
+    "prehabilitation": 1,
+    "assessment_rehab": 1,
+    "diagnosis_treatment": 1,
+    "wellness": 1,
+    "navigation": 1,
+    "research": 1,
+    "chronic_management": 1,
+    "triage_diagnosis": 1,
+    "unknown": 131
+  },
+  "automation_levels": {
+    "partial": 111,
+    "full": 77,
+    "assistive": 14,
+    "hybrid": 8,
+    "none": 7,
+    "unknown": 131
+  },
+  "convergence_threshold": 5,
+  "strategic_zones": {
+    "infrastructure": 25,
+    "revenue_cycle": 20,
+    "booking_scheduling": 19,
+    "data_integration": 19,
+    "diagnostics_cluster": 29
+  },
+  "boring_software_count": 50,
+  "contrarian_count": 3,
+  "regions": {
+    "Nordics": 41,
+    "LATAM": 36,
+    "US": 32,
+    "EU": 27,
+    "NA": 23
+  },
+  "top_countries": {
+    "USA": 48,
+    "Sweden": 38,
+    "US": 32,
+    "Brazil/Mexico/Colombia": 28,
+    "United States": 28,
+    "United Kingdom": 25,
+    "Germany": 17,
+    "UK": 10,
+    "Finland": 9,
+    "France": 9,
+    "Netherlands": 9
+  },
+  "top_opportunities": [
+    {
+      "rank": 1,
+      "company": "Leyr",
+      "score": 8.7,
+      "action": "ACQUIRE",
+      "problem": "data_integration",
+      "country": "Sweden"
+    },
+    {
+      "rank": 2,
+      "company": "Doktor.se",
+      "score": 8.5,
+      "action": "PARTNER",
+      "problem": "infrastructure",
+      "country": "Sweden"
+    },
+    {
+      "rank": 3,
+      "company": "Livi (Kry)",
+      "score": 8.5,
+      "action": "MONITOR",
+      "problem": "booking_scheduling",
+      "country": "Sweden"
+    },
+    {
+      "rank": 4,
+      "company": "Kry",
+      "score": 8.5,
+      "action": "PARTNER",
+      "problem": "infrastructure",
+      "country": "Sweden"
+    },
+    {
+      "rank": 5,
+      "company": "Curoflow",
+      "score": 8.2,
+      "action": "PARTNER",
+      "problem": "infrastructure",
+      "country": "Sweden"
+    },
+    {
+      "rank": 6,
+      "company": "Min Doktor",
+      "score": 8.2,
+      "action": "EVALUATE",
+      "problem": "infrastructure",
+      "country": "Sweden"
+    },
+    {
+      "rank": 7,
+      "company": "Vidhing",
+      "score": 8.2,
+      "action": "PARTNER",
+      "problem": "infrastructure",
+      "country": "Sweden"
+    },
+    {
+      "rank": 8,
+      "company": "Doctrin",
+      "score": 8.1,
+      "action": "ACQUIRE",
+      "problem": "patient_communication",
+      "country": "Sweden"
+    },
+    {
+      "rank": 9,
+      "company": "First Derm",
+      "score": 8.1,
+      "action": "PARTNER",
+      "problem": "booking_scheduling",
+      "country": "Sweden"
+    },
+    {
+      "rank": 10,
+      "company": "Force Therapeutics",
+      "score": 7.8,
+      "action": "STUDY MODEL",
+      "problem": "other",
+      "country": "USA"
+    }
+  ],
+  "contrarian_opportunities": [
+    {
+      "opportunity": "Staffing/Workforce Management",
+      "companies": 3,
+      "demand": "CRITICAL",
+      "varden_fit": "HIGH"
+    },
+    {
+      "opportunity": "Documentation/AI Scribing",
+      "companies": 4,
+      "demand": "HIGH",
+      "varden_fit": "VERY HIGH"
+    },
+    {
+      "opportunity": "Chronic Disease Coordination",
+      "companies": 5,
+      "demand": "HIGH",
+      "varden_fit": "MEDIUM-HIGH"
+    }
+  ],
+  "strategic_questions": [
+    "Nordic revenue cycle gap - build vs acquire?",
+    "Infrastructure consolidation - roll-up vs partnerships?",
+    "Problem classification gap - invest in better taxonomy?"
+  ],
+  "immediate_actions": [
+    "Contact Leyr for acquisition discussions",
+    "Contact Doctrin for partnership/acquisition",
+    "Map Nordic revenue cycle landscape",
+    "Improve problem classification",
+    "Score Force Therapeutics model"
+  ],
+  "next_synthesis_trigger": {
+    "threshold_entries": 150,
+    "threshold_minutes": 60,
+    "next_milestone": 498,
+    "estimated_time_minutes": 45
+  }
+}

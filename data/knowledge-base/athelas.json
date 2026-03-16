@@ -1,0 +1,14 @@
+{
+  "company": "Athelas",
+  "country": "US",
+  "problem": "Medical practices struggle with documentation burden, revenue cycle inefficiencies, claim denials, and disconnected healthcare workflows that impact financial performance",
+  "solution": "AI-powered platform combining ambient AI scribing with automatic CPT/ICD-10 coding generation, revenue cycle management with AI denial defense, and an integrated EHR to streamline clinical and financial operations",
+  "problem_type": "medical_coding",
+  "solution_type": "SaaS",
+  "buyer": "providers",
+  "varden_fit": "high",
+  "url": "https://athelas.com",
+  "source": "web",
+  "discovery_round": 84,
+  "discovered_by": "sky"
+}

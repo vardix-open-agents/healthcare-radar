@@ -1,0 +1,86 @@
+[
+  {
+    "company_name": "Dermicus (Göransson Instrument AB)",
+    "hq_location": "Stockholm, Sweden",
+    "website": "https://www.dermicus.com",
+    "problem_solved": "Enables secure remote consultations between healthcare providers and dermatologists for faster diagnosis of skin conditions and wounds. Reduces wait times for specialist dermatology opinions from weeks to hours.",
+    "customers": "Primary care clinics, hospitals, dermatology specialists, wound care centers",
+    "key_features": [
+      "AI-powered image analysis for skin lesion assessment",
+      "Secure teledermatology platform with high-resolution image sharing",
+      "Telewound management for chronic wound monitoring"
+    ],
+    "business_model": "B2B SaaS - subscription-based platform licensing to healthcare providers",
+    "why_varden_should_care": "Strong replicability potential: the teledermatology model can be applied in other markets with similar healthcare access challenges. The AI-assisted image analysis component could be adapted for other diagnostic use cases."
+  },
+  {
+    "company_name": "FirstDerm (formerly iDoc24)",
+    "hq_location": "Stockholm, Sweden",
+    "website": "https://www.firstderm.com",
+    "problem_solved": "Provides asynchronous online dermatology consultations, allowing patients to receive expert dermatologist opinions within 24-48 hours without needing to visit a clinic in person.",
+    "customers": "Healthcare providers, insurance companies, employers, direct-to-consumer",
+    "key_features": [
+      "Store-and-forward teledermatology platform",
+      "Board-certified dermatologist network for consultations",
+      "Integration with employer health programs and insurance"
+    ],
+    "business_model": "B2B2C SaaS - subscription fees from healthcare providers/employers, per-consultation fees",
+    "why_varden_should_care": "Asynchronous teledermatology model is highly scalable and replicable across geographies. The platform demonstrates how to build a network of specialists and deliver care efficiently outside traditional clinical settings."
+  },
+  {
+    "company_name": "Kry (Livi)",
+    "hq_location": "Stockholm, Sweden",
+    "website": "https://www.kry.se",
+    "problem_solved": "Provides integrated digital and physical healthcare services, including dermatology consultations via video, reducing barriers to accessing specialist care and improving patient outcomes.",
+    "customers": "Patients (direct), healthcare systems, regional health authorities",
+    "key_features": [
+      "24/7 video consultations with dermatologists and GPs",
+      "Integrated digital-first primary care with physical clinic network",
+      "Digital prescription renewal and follow-up care"
+    ],
+    "business_model": "B2C/B2B - patient fees (subsidized by national healthcare), contracts with regional health authorities",
+    "why_varden_should_care": "Demonstrates the hybrid digital-physical care model that's becoming standard in modern healthcare. The dermatology component shows how specialty care can be integrated into broader primary care platforms."
+  },
+  {
+    "company_name": "Bokadirekt",
+    "hq_location": "Stockholm, Sweden",
+    "website": "https://www.bokadirekt.se",
+    "problem_solved": "Provides an online booking and management platform for beauty, aesthetic, and wellness clinics, streamlining appointment scheduling and client management for service providers.",
+    "customers": "Aesthetic clinics, beauty salons, wellness centers, skin care providers",
+    "key_features": [
+      "Online booking and appointment management",
+      "Client relationship management (CRM) tools",
+      "Marketing and promotional features for clinics"
+    ],
+    "business_model": "B2B SaaS - monthly subscription fees to clinics/salons",
+    "why_varden_should_care": "While focused on beauty/aesthetics rather than clinical dermatology, the platform demonstrates how to build a marketplace and practice management solution for aesthetic clinics. The model could be adapted for medical dermatology practices."
+  },
+  {
+    "company_name": "Medixine",
+    "hq_location": "Helsinki, Finland",
+    "website": "https://www.medixine.com",
+    "problem_solved": "Provides remote patient monitoring software for chronic condition management, which can be applied to chronic skin conditions requiring ongoing monitoring and care coordination.",
+    "customers": "Healthcare providers, hospitals, chronic care management organizations, pharmaceutical companies",
+    "key_features": [
+      "Remote patient monitoring platform with device integration",
+      "Automated triage and alerts for healthcare providers",
+      "Multi-condition support including chronic disease management"
+    ],
+    "business_model": "B2B SaaS - platform licensing to healthcare organizations",
+    "why_varden_should_care": "The remote monitoring model can be applied to chronic dermatological conditions (psoriasis, eczema, chronic wounds). Demonstrates how to integrate monitoring devices with clinical workflows and reduce manual workload for providers."
+  },
+  {
+    "company_name": "VisBook (Spa Management Module)",
+    "hq_location": "Stockholm, Sweden",
+    "website": "https://visbook.com",
+    "problem_solved": "Provides integrated spa and wellness management as part of a broader hotel property management system, including booking, treatment scheduling, and client management for aesthetic/wellness facilities.",
+    "customers": "Hotels with spa facilities, wellness resorts, aesthetic clinics",
+    "key_features": [
+      "Integrated spa booking and treatment management",
+      "Package booking (accommodation + spa + treatments)",
+      "Multi-department coordination for hospitality businesses"
+    ],
+    "business_model": "B2B SaaS - subscription-based PMS with spa module",
+    "why_varden_should_care": "While hospitality-focused, demonstrates how to manage aesthetic/wellness services in an integrated business context. The spa management component shows operational patterns that could apply to medical aesthetic clinics."
+  }
+]

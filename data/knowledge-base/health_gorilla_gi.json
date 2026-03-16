@@ -1,0 +1,14 @@
+{
+  "company": "Health Gorilla",
+  "country": "US",
+  "problem": "Gastroenterology practices need efficient lab ordering and results management for GI-specific tests including H. pylori, Celiac panels, liver function tests, and fecal calprotectin. Fragmented lab systems slow diagnosis and treatment.",
+  "solution": "Health Gorilla provides a health data network and lab ordering platform that connects GI practices with laboratories nationwide. Their platform enables electronic ordering of GI-related lab tests, automated result delivery, and integration with EHR systems, streamlining the diagnostic workflow for gastroenterology.",
+  "problem_type": "gastroenterology",
+  "solution_type": "SaaS",
+  "buyer": "clinics",
+  "varden_fit": "medium",
+  "url": "https://www.healthgorilla.com",
+  "source": "web",
+  "discovery_round": 113,
+  "discovered_by": "sky"
+}

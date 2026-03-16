@@ -1,0 +1,30 @@
+{
+  "id": "biotelemetry-2026-140",
+  "title": "BioTelemetry - Remote Cardiac Monitoring",
+  "company": "BioTelemetry (Philips)",
+  "country": "USA",
+  "region": "NA",
+  "segment": "cardiac_monitoring",
+  "problem": "Remote cardiac monitoring services are fragmented and lack integrated care pathways for timely clinical intervention.",
+  "solution": "Comprehensive remote cardiac monitoring with devices, monitoring services, and AI-powered analytics for arrhythmia detection.",
+  "technology": "Remote monitoring devices, AI arrhythmia detection, 24/7 monitoring centers, care coordination platform",
+  "target_customer": "Cardiologists, health systems, health plans",
+  "care_setting": "home_ambulatory",
+  "care_domain": "cardiology",
+  "care_stage": "monitoring",
+  "automation_level": "hybrid",
+  "ai_type": "AI for arrhythmia detection",
+  "traction_signals": [
+    "Acquired by Philips (2021)",
+    "$450M+ annual revenue",
+    "Major US remote monitoring provider",
+    "Founded 1999"
+  ],
+  "funding": "Acquired by Philips",
+  "regulatory_notes": "FDA cleared devices and monitoring services",
+  "varden_fit": "Moderate - Monitoring service with care coordination component. Creates continuous data flow for cardiology.",
+  "source": "Industry knowledge",
+  "url": "https://biotelemetry.com",
+  "date_added": "2026-03-11",
+  "notes": "Major player in remote cardiac monitoring. Integrated with Philips cardiology ecosystem."
+}

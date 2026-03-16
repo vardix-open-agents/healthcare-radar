@@ -1,0 +1,29 @@
+{
+  "id": "kontigo-2026-007",
+  "title": "Kontigo Care - AI-Powered Addiction Treatment Platform",
+  "company": "Kontigo Care",
+  "country": "Sweden",
+  "region": "Nordics",
+  "segment": "treatment",
+  "problem": "Addiction treatment is resource-intensive, often lacks continuous monitoring, and has high relapse rates. Traditional treatment doesn't scale.",
+  "solution": "AI-powered eHealth platform (Previct®) for addiction treatment. Provides continuous digital support, monitoring, and personalized interventions.",
+  "technology": "AI, eHealth platform, continuous monitoring, predictive analytics",
+  "target_customer": "Addiction treatment centers, healthcare systems, municipalities",
+  "care_setting": "home",
+  "care_domain": "addiction medicine",
+  "care_stage": "treatment",
+  "automation_level": "partial",
+  "ai_type": "ML, predictive analytics",
+  "traction_signals": [
+    "Return to growth with rising profitability (Q3 2025)",
+    "Active deployments in Swedish healthcare",
+    "Listed company (public markets access)"
+  ],
+  "funding": "Public company (Redeye coverage)",
+  "regulatory_notes": "CE marking as medical device. Operates within Swedish addiction treatment framework.",
+  "varden_fit": "LOW-MODERATE - Specialized clinical tool for addiction. Not infrastructure play. Could potentially integrate as specialty module but limited overlap with Varden's primary care focus. Interesting for AI-driven behavior change approach.",
+  "source": "Redeye research + company coverage",
+  "url": "https://www.redeye.se/research/1135096/kontigo-care-q3-review-back-to-growth-with-profitability-on-the-rise",
+  "date_added": "2026-03-11",
+  "notes": "Public company - financials available. Niche focus on addiction but interesting AI behavior change model. Research: clinical outcomes, market size in Nordics."
+}

@@ -1,0 +1,30 @@
+{
+  "id": "accurx-2026-020",
+  "title": "AccuRx - NHS GP Practice Communication Platform",
+  "company": "AccuRx",
+  "country": "UK",
+  "region": "EU",
+  "segment": "admin",
+  "problem": "GP practices struggle to communicate efficiently with patients. Phone lines are overwhelmed, administrative burden is high, and patients can't easily reach their practice.",
+  "solution": "Messaging and workflow platform for GP practices. SMS-based patient communication, online consultations, administrative tools, and NHS integrations.",
+  "technology": "Messaging platform, NHS integrations, workflow automation",
+  "target_customer": "GP practices, primary care networks, NHS trusts",
+  "care_setting": "primary_care",
+  "care_domain": "general",
+  "care_stage": "admin",
+  "automation_level": "partial",
+  "ai_type": null,
+  "traction_signals": [
+    "Founded 2016, London-based",
+    "Used by 98% of GP practices in England",
+    "NHS-integrated platform",
+    "Massive scale in UK primary care"
+  ],
+  "funding": "$35M+ total funding",
+  "regulatory_notes": "NHS integrations, GDPR compliance, data security standards.",
+  "varden_fit": "High — direct parallel to Varden's clinic communication infrastructure. AccuRx's success proves market demand for practice-facing communication tools. Lessons applicable to Swedish market.",
+  "source": "Industry knowledge",
+  "url": "https://www.accurx.com",
+  "date_added": "2026-03-11",
+  "notes": "Outstanding market penetration in UK. Best practice example for practice communication tools."
+}

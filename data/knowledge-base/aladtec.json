@@ -1,0 +1,14 @@
+{
+  "company": "Aladtec",
+  "country": "US",
+  "problem": "Fire, EMS, law enforcement, and corrections agencies struggle with complex 24/7 rotational scheduling, union compliance, labor rules, and shift coverage management.",
+  "solution": "Aladtec (now part of TCP Software) provides automated 24/7 scheduling software for public safety agencies, ensuring shift coverage, union/labor compliance, fatigue management, and employee self-service scheduling.",
+  "problem_type": "emergency_services",
+  "solution_type": "SaaS",
+  "buyer": "providers",
+  "varden_fit": "low",
+  "url": "https://tcpsoftware.com/products/aladtec/",
+  "source": "web",
+  "discovery_round": 94,
+  "discovered_by": "sky"
+}

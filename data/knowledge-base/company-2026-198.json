@@ -1,0 +1,32 @@
+{
+  "id": "company-2026-198",
+  "title": "Doctorcare - Practice Management Software",
+  "company": "Doctorcare",
+  "country": "United Kingdom",
+  "region": "EU/Europe",
+  "segment": "admin",
+  "problem": "UK medical practices need integrated tools for practice management, patient communication, and workflow optimization.",
+  "solution": "Practice management software for UK GPs: scheduling, patient records, messaging, reporting, and NHS integration.",
+  "technology": "Practice management, EHR, patient communication, NHS APIs",
+  "target_customer": "UK general practices, NHS clinics",
+  "care_setting": "primary_care",
+  "care_domain": "general",
+  "care_stage": "admin",
+  "automation_level": "partial",
+  "ai_type": null,
+  "traction_signals": [
+    "Used by UK practices",
+    "NHS integration",
+    "Growing adoption"
+  ],
+  "funding": "Private",
+  "regulatory_notes": "NHS standards, UK healthcare regulations, GDPR",
+  "varden_fit": "MEDIUM - Practice management for UK market. Shows small practice needs.",
+  "source": "scout-round7",
+  "url": "https://www.doctorcare.co.uk",
+  "date_added": "2026-03-11",
+  "notes": "boring_software=true, contrarian=false. UK/EU representation. Practice management software.",
+  "problem_type": "documentation",
+  "boring_software": true,
+  "contrarian": false
+}

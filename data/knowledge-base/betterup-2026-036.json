@@ -1,0 +1,30 @@
+{
+  "id": "betterup-2026-036",
+  "title": "BetterUp - Digital Coaching and Mental Wellness Platform",
+  "company": "BetterUp",
+  "country": "US (EU presence)",
+  "region": "EU",
+  "segment": "treatment",
+  "problem": "Employers struggle to support employee mental health and professional development. Traditional coaching is expensive and not scalable.",
+  "solution": "Digital platform connecting employees with professional coaches for mental wellness, career development, and leadership coaching.",
+  "technology": "Video coaching platform, AI matching, content library",
+  "target_customer": "Employers (B2B enterprise)",
+  "care_setting": "telehealth",
+  "care_domain": "mental health, wellness",
+  "care_stage": "prevention",
+  "automation_level": "partial",
+  "ai_type": "Matching algorithms",
+  "traction_signals": [
+    "Founded 2013, US-based",
+    "$300M+ total funding",
+    "Global enterprise clients",
+    "European operations"
+  ],
+  "funding": "$300M+ (Series E)",
+  "regulatory_notes": "Coaching platform, not clinical therapy. Different regulatory path.",
+  "varden_fit": "Low — employer wellness/coaching, not clinical healthcare. Different market segment.",
+  "source": "Industry knowledge",
+  "url": "https://www.betterup.com",
+  "date_added": "2026-03-11",
+  "notes": "Enterprise coaching market. Adjacent to clinical mental health."
+}

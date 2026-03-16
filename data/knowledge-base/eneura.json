@@ -1,0 +1,14 @@
+{
+  "company": "eNeura",
+  "country": "US",
+  "problem": "Migraine patients seek non-pharmacological treatment options without medication side effects for both acute migraine attacks and prevention",
+  "solution": "sTMS (single-pulse Transcranial Magnetic Stimulation) migraine therapy device with SAVI Smart Diary for personalized treatment that stops and prevents migraine attacks",
+  "problem_type": "neurology",
+  "solution_type": "SaaS",
+  "buyer": "clinics",
+  "varden_fit": "medium",
+  "url": "https://www.eneura.com",
+  "source": "web",
+  "discovery_round": 118,
+  "discovered_by": "sky"
+}

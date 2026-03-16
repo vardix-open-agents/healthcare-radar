@@ -1,0 +1,32 @@
+{
+  "id": "insuranceverification-2026-110",
+  "title": "Insurance Verification Services - BPO for Healthcare",
+  "company": "Various BPO Providers",
+  "country": "US/India/Philippines",
+  "region": "Global",
+  "segment": "admin",
+  "problem": "Insurance eligibility verification is time-consuming. Many providers outsource to specialized BPO companies.",
+  "solution": "Outsourced insurance verification services. Phone-based eligibility checks, benefits verification, prior authorization support. Technology-enabled BPO model.",
+  "technology": "BPO services, workflow tools, payer portals",
+  "target_customer": "Healthcare providers, health systems",
+  "care_setting": "all",
+  "care_domain": "general",
+  "care_stage": "admin",
+  "automation_level": "none",
+  "ai_type": null,
+  "traction_signals": [
+    "Large market for outsourced verification",
+    "Cost arbitrage model",
+    "Technology-enabled services"
+  ],
+  "funding": "Various",
+  "regulatory_notes": "HIPAA compliant, PHI handling",
+  "varden_fit": "HIGH — BPO proves eligibility verification is valuable. European healthcare could use similar services with AI augmentation.",
+  "source": "Industry knowledge",
+  "url": "https://www.hfma.org",
+  "date_added": "2026-03-11",
+  "problem_type": "eligibility",
+  "contrarian": true,
+  "boring_software": true,
+  "notes": "CONTRARIAN: Insurance verification BPO proves market demand. AI automation could replace manual services."
+}

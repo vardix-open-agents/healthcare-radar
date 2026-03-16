@@ -1,0 +1,22 @@
+{
+  "id": "pro-medicus-2026-314",
+  "title": "Pro Medicus - High-Performance Imaging",
+  "company": "Pro Medicus (Visage Imaging)",
+  "country": "Australia",
+  "segment": "infrastructure",
+  "problem": "Legacy PACS cannot handle growing imaging volumes and AI integration requirements",
+  "solution": "Visage 7 enterprise imaging platform with best-in-class performance and native AI integration",
+  "technology": "High-performance streaming, vendor-neutral archive, AI-ready platform",
+  "target_customer": "Academic medical centers, large health systems",
+  "care_setting": "hospital",
+  "care_domain": "diagnostics",
+  "care_stage": "diagnosis",
+  "automation_level": "partial",
+  "ai_type": null,
+  "traction_signals": [">$1B market cap", "Mayo Clinic partnership", "40%+ revenue growth"],
+  "funding": "Public (ASX: PME)",
+  "regulatory_notes": "FDA 510(k) cleared, CE marked",
+  "source": "sky-round18-diagnostics",
+  "url": "https://www.promedicus.com",
+  "date_added": "2026-03-11"
+}

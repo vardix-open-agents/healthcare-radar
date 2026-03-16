@@ -1,0 +1,14 @@
+{
+  "company": "KPA",
+  "country": "US",
+  "problem": "Automotive dealerships and industrial businesses struggle to maintain EHS compliance, manage workplace safety programs, and train employees on safety protocols while dealing with complex, constantly changing regulatory requirements.",
+  "solution": "KPA provides Vera Suite, an all-in-one EHS compliance software platform combined with expert consulting services and online training, helping organizations track incidents, conduct inspections, manage hazards, and maintain compliance with configurable dashboards and real-time data.",
+  "problem_type": "occupational_health",
+  "solution_type": "SaaS",
+  "buyer": "employers",
+  "varden_fit": "medium",
+  "url": "https://kpa.io",
+  "source": "web",
+  "discovery_round": 132,
+  "discovered_by": "sky"
+}

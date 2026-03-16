@@ -1,0 +1,14 @@
+{
+  "company": "Future Family",
+  "country": "US",
+  "problem": "Fertility treatments are prohibitively expensive and patients lack guidance navigating financing and treatment options",
+  "solution": "Fertility financing platform offering up to $50K loans, clinic matching, dedicated fertility nurse coaching, and baby-or-money-back reimbursement programs",
+  "problem_type": "fertility",
+  "solution_type": "SaaS",
+  "buyer": "patients",
+  "varden_fit": "medium",
+  "url": "https://www.futurefamily.com",
+  "source": "web",
+  "discovery_round": 138,
+  "discovered_by": "sky"
+}

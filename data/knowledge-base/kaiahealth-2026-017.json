@@ -1,0 +1,30 @@
+{
+  "id": "kaiahealth-2026-017",
+  "title": "Kaia Health - Digital Musculoskeletal Therapeutics",
+  "company": "Kaia Health",
+  "country": "Germany",
+  "region": "EU",
+  "segment": "treatment",
+  "problem": "Musculoskeletal (MSK) conditions like back pain affect millions but access to physical therapy is limited, expensive, and inconvenient. Opioid over-prescription is a major concern.",
+  "solution": "FDA-cleared digital therapeutics app combining AI-powered motion tracking, personalized exercise programs, and health coaching for MSK conditions.",
+  "technology": "Computer vision for movement tracking, AI personalization, mobile app",
+  "target_customer": "Employers (B2B), health insurers, patients (B2C)",
+  "care_setting": "home",
+  "care_domain": "musculoskeletal, pain management",
+  "care_stage": "treatment",
+  "automation_level": "partial",
+  "ai_type": "Computer vision, ML",
+  "traction_signals": [
+    "Founded 2016, Munich-based",
+    "FDA-cleared digital therapeutic",
+    "Covered by multiple US and German insurers",
+    "Available in US, UK, Germany"
+  ],
+  "funding": "$75M+ total funding",
+  "regulatory_notes": "FDA-cleared as digital therapeutic. CE marked in Europe.",
+  "varden_fit": "Low-Moderate — consumer-facing DTx, not clinic infrastructure. However, partnership with MSK specialists on Varden marketplace could be interesting.",
+  "source": "Industry knowledge",
+  "url": "https://www.kaiahealth.com",
+  "date_added": "2026-03-11",
+  "notes": "Digital therapeutics category leader in MSK. Good example of regulated DTx pathway."
+}

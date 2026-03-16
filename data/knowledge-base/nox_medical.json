@@ -1,0 +1,14 @@
+{
+  "company": "Nox Medical",
+  "country": "IS",
+  "problem": "Sleep disorders are strongly linked to chronic pain conditions, yet sleep diagnostics remain complex, uncomfortable, and inaccessible for many patients, particularly children.",
+  "solution": "Next-generation sleep diagnostics devices (Nox A1 PSG system for polysomnography, Nox T3s for home sleep testing) that simplify sleep studies while delivering precise measurements. Portable systems enable comfortable at-home and in-lab testing to diagnose sleep disorders that exacerbate chronic pain.",
+  "problem_type": "pain_management",
+  "solution_type": "medical_device",
+  "buyer": "hospitals",
+  "varden_fit": "low",
+  "url": "https://noxmedical.com",
+  "source": "web",
+  "discovery_round": 135,
+  "discovered_by": "nova"
+}

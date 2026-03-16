@@ -1,0 +1,22 @@
+{
+  "company_name": "Gravie",
+  "problem_solved": "Small and midsize businesses face disproportionate healthcare costs and limited plan options compared to large enterprises",
+  "solution_description": "Health benefits platform for SMBs offering level-funded health plans with zero-cost coverage for common services. Flagship Comfort plan provides 94% of office visits at no cost. Also offers ICHRA (Individual Coverage HRA) solutions with 29% average employer savings",
+  "buyer_persona": "patients",
+  "care_stage": "monitoring",
+  "automation_level": "partial",
+  "varden_fit": "low",
+  "region": "US",
+  "country": "United States",
+  "funding_stage": "series_c",
+  "traction_signals": [
+    "94% zero-dollar office visits for Comfort members",
+    "15% average employer savings",
+    "97% employer satisfaction rate",
+    "87 net promoter score from brokers"
+  ],
+  "notes": "Health insurance/benefits platform for SMBs. Not SDOH-focused but addresses cost barriers to care. Featured at Davos 2026. Low Varden fit - more about plan design and cost management vs. SDOH infrastructure",
+  "discovery_round": 50,
+  "discovered_by": "sky",
+  "timestamp": "2026-03-11T23:20:00Z"
+}

@@ -1,0 +1,33 @@
+{
+  "id": "latam-patient-identity-2026-223",
+  "title": "LATAM Patient Identity & Record Matching Crisis",
+  "company": null,
+  "country": "Brazil/Mexico/Colombia/Regional",
+  "region": "LATAM",
+  "segment": "infrastructure",
+  "problem": "Patient identity management in LATAM is fragmented. No universal patient identifier. Same patient has different records at different facilities. Duplicate records common (up to 20% in some hospitals). Medical errors from mismatched records. No way to aggregate patient history across providers. This is foundational infrastructure missing across the region.",
+  "solution": "Patient identity matching platform using probabilistic matching + biometrics. Creates universal patient ID within healthcare ecosystem. Links records across facilities. Patient-controlled health passport on mobile. Integration layer for EMRs to query patient history.",
+  "technology": "Probabilistic record matching algorithms, biometric verification (fingerprint, facial recognition), blockchain/distributed ledger for identity, FHIR APIs, mobile app",
+  "target_customer": "Ministry of Health (national identity), hospital systems, health insurers, EMR vendors",
+  "care_setting": "all",
+  "care_domain": "general",
+  "care_stage": "admin",
+  "automation_level": "full",
+  "ai_type": "ML-based record matching, identity verification",
+  "traction_signals": [
+    "Every healthcare system struggles with identity",
+    "Estonia, India proved national health ID systems work",
+    "Smartphone biometrics enable verification",
+    "Data protection laws create compliance need"
+  ],
+  "funding": null,
+  "regulatory_notes": "Privacy regulations (LGPD, etc.), biometric data protection, government approval for national ID systems",
+  "varden_fit": "CRITICAL FIT - Patient identity is foundational infrastructure. Every other system depends on it. Government contracts possible. High technical complexity creates moat.",
+  "source": "Opportunity analysis + market gap identification",
+  "url": null,
+  "date_added": "2026-03-11",
+  "problem_type": "identity",
+  "contrarian": true,
+  "boring_software": true,
+  "notes": "CONTRARIAN + BOREALING: Patient identity is the most boring backend infrastructure possible. But it's critical - without it, nothing else works. Estonia proved the model. Massive government contracts possible."
+}

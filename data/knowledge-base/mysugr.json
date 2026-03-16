@@ -1,0 +1,14 @@
+{
+  "company": "mySugr",
+  "country": "AT",
+  "problem": "Daily diabetes management is complex and burdensome, requiring constant logging of blood glucose, medications, food, and activity, leading to poor adherence and glycemic control.",
+  "solution": "User-friendly diabetes management app and ecosystem created by people with diabetes for people with diabetes. Integrates with Accu-Chek devices and CGMs for automatic logging, provides glucose insights, bolus calculator (Class IIb medical device), and pump control. Acquired by Roche in 2017, serving 7M+ registered accounts with 4.6-star user experience rating. Proven clinical efficacy in improving glycemic control.",
+  "problem_type": "chronic_care",
+  "solution_type": "SaaS",
+  "buyer": "providers",
+  "varden_fit": "medium",
+  "url": "https://www.mysugr.com",
+  "source": "web",
+  "discovery_round": 89,
+  "discovered_by": "nova"
+}

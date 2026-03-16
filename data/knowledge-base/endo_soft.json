@@ -1,0 +1,14 @@
+{
+  "company": "EndoSoft",
+  "country": "US",
+  "problem": "Endoscopy units lack specialized software for documenting procedures, managing images, and generating standardized reports that meet clinical and regulatory requirements. Traditional documentation is time-consuming and inconsistent across providers.",
+  "solution": "EndoSoft provides endoscopy reporting and image management software specifically designed for GI endoscopy units. Their platform includes procedure documentation templates, image capture and annotation, pathology ordering integration, and compliance reporting tools that streamline endoscopy workflow and improve documentation quality.",
+  "problem_type": "gastroenterology",
+  "solution_type": "SaaS",
+  "buyer": "clinics",
+  "varden_fit": "medium",
+  "url": "https://www.endosoft.com",
+  "source": "web",
+  "discovery_round": 113,
+  "discovered_by": "sky"
+}

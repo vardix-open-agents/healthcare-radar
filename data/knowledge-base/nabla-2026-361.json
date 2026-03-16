@@ -1,0 +1,23 @@
+{
+  "company_name": "Nabla",
+  "problem_solved": "Healthcare providers face documentation burden that consumes hours daily, contributing to burnout and reducing time for patient care",
+  "solution_description": "AI-powered ambient scribe that captures patient encounters and generates structured clinical notes in seconds. Offers dictation mode, customizable note templates, and EHR integrations. 55% of users save at least 1 hour in documentation time",
+  "buyer_persona": "providers|clinics|health_systems",
+  "care_stage": "treatment",
+  "automation_level": "partial",
+  "varden_fit": "high",
+  "region": "EU|US",
+  "country": "France",
+  "funding_stage": "series_b",
+  "traction_signals": [
+    "85,000+ clinicians using the platform",
+    "55% of users saved at least 1 hour in documentation time",
+    "27% reduction in burnout reported by users",
+    "1.5x more appointments per month enabled",
+    "Processing time <10s for complex encounters"
+  ],
+  "notes": "Strong European presence with French headquarters. Fast processing latency (2-3x faster than competitors). Well-suited for multi-problem encounters. Growing US presence",
+  "discovery_round": 51,
+  "discovered_by": "sky",
+  "timestamp": "2026-03-11T23:21:00Z"
+}

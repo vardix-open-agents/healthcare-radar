@@ -1,0 +1,22 @@
+{
+  "company_name": "IQVIA",
+  "problem_solved": "Fragmented healthcare data, inefficient clinical trials, and lack of real-world evidence",
+  "solution_description": "Integrated platform combining clinical trial services, real-world evidence, healthcare data, and analytics. Formed from merger of IMS Health and Quintiles. Largest provider of RWE data globally.",
+  "buyer_persona": "pharma_lifesciences,biotech",
+  "care_stage": "clinical_trials,commercial",
+  "automation_level": "partial",
+  "varden_fit": "low",
+  "region": "Global",
+  "country": "US",
+  "funding_stage": "public",
+  "traction_signals": [
+    "Market cap ~$40B",
+    "Largest clinical research organization",
+    "67,000+ employees",
+    "Powers majority of pharma analytics"
+  ],
+  "notes": "Healthcare data giant. OCE (Omnichannel Customer Engagement) CRM competes with Veeva. Real-world evidence from claims/EHR data. Formerly IMS Health + Quintiles.",
+  "discovery_round": 53,
+  "discovered_by": "sky",
+  "timestamp": "2026-03-11T23:18:00Z"
+}

@@ -1,0 +1,16 @@
+{
+  "id": "problem-2026-003",
+  "problem": "Patient intake forms require 15-20 minutes per visit, causing delays and duplicate data entry",
+  "problem_type": "intake",
+  "solution_type": "Digital pre-visit questionnaires, EHR autofill, mobile-first intake",
+  "care_stage": "intake",
+  "automation_type": "workflow_automation",
+  "buyer": "clinic",
+  "care_setting": "primary_care",
+  "companies": ["Doctrin", "Phreesia", "Livi"],
+  "signals": ["Patient satisfaction improvements", "Staff time savings", "COVID acceleration"],
+  "boring_software": true,
+  "contrarian": false,
+  "url": "https://doctrin.se",
+  "date_added": "2026-03-11"
+}

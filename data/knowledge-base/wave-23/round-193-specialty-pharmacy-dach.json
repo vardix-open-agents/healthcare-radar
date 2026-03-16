@@ -1,0 +1,146 @@
+[
+  {
+    "company_name": "CGM LAUER (CompuGroup Medical)",
+    "hq_location": "Eltville, Germany",
+    "website_url": "https://www.cgm.com/deu_de/loesungen/apotheke.html",
+    "problem_solved": "German pharmacies, hospital pharmacies, and pharmaceutical facilities lack integrated software solutions for inventory management, prescription processing, billing, and regulatory compliance. Fragmented systems create inefficiencies and compliance risks.",
+    "who_buys_it": "Community pharmacies, hospital pharmacies, pharmaceutical wholesalers, and pharmacy chains across Germany and DACH region.",
+    "key_features": [
+      "CGM STELLA - Next-generation pharmacy management software",
+      "LAUER-TAXE - Drug pricing database with 720K+ products",
+      "MediCheck Connect - Medication safety and interaction checking",
+      "Pharmacy logistics and inventory management",
+      "Prescription processing and billing integration",
+      "Botendienst - Courier service coordination",
+      "Integration with German telematics infrastructure"
+    ],
+    "business_model": "SaaS subscription model with tiered pricing based on pharmacy size and modules. Implementation and training services as one-time fees. LAUER-TAXE licensing for drug pricing data. Enterprise contracts for hospital pharmacy networks.",
+    "why_varden_should_care": "Undisputed market leader in German pharmacy software with 70+ years experience (Lauer-Fischer + CompuGroup Medical merger). Strong regulatory moat with deep integration into German healthcare infrastructure. Platform approach covers community pharmacy, hospital pharmacy, and specialty drug management. AI-enabled features emerging with MediCheck Connect."
+  },
+  {
+    "company_name": "Medapharm AG",
+    "hq_location": "Lyssach, Switzerland",
+    "website_url": "https://www.medapharm.ch",
+    "problem_solved": "Swiss pharmacies and hospital pharmacies need specialized software that complies with Swissmedic regulations, handles Swiss drug pricing (SwissINDEX), and integrates with Swiss health insurance billing systems (Tarmed).",
+    "who_buys_it": "Community pharmacies, hospital pharmacies (Spitalapotheken), and specialized pharmacy centers across Switzerland.",
+    "key_features": [
+      "Swissmedic-compliant pharmacy management system",
+      "SwissINDEX drug database integration",
+      "Tarmed billing integration for Swiss insurance",
+      "Inventory management with Swiss pricing",
+      "Prescription processing and validation",
+      "Hospital pharmacy module for inpatient dispensing",
+      "Multi-location support for pharmacy chains"
+    ],
+    "business_model": "Perpetual licensing with annual maintenance fees. Implementation and training services. SwissINDEX data subscription. Tiered pricing for community vs hospital pharmacy versions.",
+    "why_varden_should_care": "Leading Swiss pharmacy software provider with deep regulatory knowledge of Swiss healthcare system. Swiss market has unique requirements (Swissmedic, Tarmed) that create barriers to entry for non-Swiss vendors. Strong position in hospital pharmacy segment with specialized modules."
+  },
+  {
+    "company_name": "Pharmos GmbH",
+    "hq_location": "Mörfelden-Walldorf, Germany",
+    "website_url": "https://www.pharmos.de",
+    "problem_solved": "Hospital pharmacies need specialized software for clinical pharmacy services, compounding pharmacy operations, cytotoxic drug preparation, and integration with hospital information systems (KIS) for medication management.",
+    "who_buys_it": "Hospital pharmacies, university hospital pharmacy departments, compounding pharmacies, and oncology centers across Germany.",
+    "key_features": [
+      "Hospital pharmacy management system (Krankenhausapotheke)",
+      "Compounding pharmacy module (Rezeptur) with formulation database",
+      "Cytotoxic drug preparation tracking (Zytostatika)",
+      "Clinical pharmacy documentation and intervention tracking",
+      "Medication safety and allergy checking",
+      "HIS/KIS integration (SAP, Cerner, MEDICOM)",
+      "Supply chain management for hospital formulary"
+    ],
+    "business_model": "Enterprise licensing for hospital systems with per-bed or per-transaction pricing. Implementation services, training, and ongoing support contracts. Annual maintenance fees for software updates.",
+    "why_varden_should_care": "Specialized focus on hospital pharmacy (not community pharmacy) creates defensible niche. Compounding pharmacy module addresses growing demand for personalized medicine. Cytotoxic drug tracking required for oncology centers - high regulatory barrier. HIS integration capabilities position for broader hospital IT ecosystem."
+  },
+  {
+    "company_name": "Brainwave AG",
+    "hq_location": "Volketswil, Switzerland",
+    "website_url": "https://www.brainwave.ch",
+    "problem_solved": "Swiss hospitals need integrated clinical software for medication management, clinical documentation, and pharmacy operations that meets Swiss quality standards and regulatory requirements.",
+    "who_buys_it": "Swiss hospitals, university hospitals, rehabilitation clinics, and psychiatric clinics requiring integrated medication management and clinical pharmacy solutions.",
+    "key_features": [
+      "Medication management system for inpatient care",
+      "Clinical pharmacy documentation and intervention tracking",
+      "Drug interaction checking and allergy alerts",
+      "Integration with Swiss hospital information systems",
+      "Swissmedic-compliant medication database",
+      "Clinical decision support for pharmacists",
+      "Quality management and reporting tools"
+    ],
+    "business_model": "SaaS subscription with per-bed pricing for hospitals. Implementation and consulting services. Annual maintenance and support contracts. Module-based pricing for different clinical pharmacy functions.",
+    "why_varden_should_care": "Strong position in Swiss hospital market with integrated medication management. Focus on clinical pharmacy (not just dispensing) aligns with growing emphasis on pharmaceutical care. Swiss market has limited competition due to regulatory requirements. Potential expansion into adjacent clinical decision support areas."
+  },
+  {
+    "company_name": "GSD Gesundheitsdienstleistungen GmbH",
+    "hq_location": "Dortmund, Germany",
+    "website_url": "https://www.gsd.de",
+    "problem_solved": "German pharmacies need comprehensive software for pharmacy operations, inventory management, prescription processing, and integration with statutory health insurance billing while maintaining regulatory compliance.",
+    "who_buys_it": "Community pharmacies, pharmacy chains, and pharmacy cooperatives across Germany.",
+    "key_features": [
+      "Comprehensive pharmacy management software",
+      "Prescription processing and validation",
+      "Inventory management with automatic reordering",
+      "German statutory health insurance billing integration",
+      "LAUER-TAXE pricing database integration",
+      "Patient counseling documentation",
+      "Pharmacy marketing and customer management tools"
+    ],
+    "business_model": "SaaS subscription model with monthly fees based on pharmacy size. Implementation and training services. Additional fees for add-on modules and marketing tools.",
+    "why_varden_should_care": "Established German pharmacy software provider with strong market presence. Comprehensive solution covering all pharmacy operations. Integration capabilities with German healthcare infrastructure. Position to benefit from German pharmacy market consolidation."
+  },
+  {
+    "company_name": "Medion GmbH",
+    "hq_location": "Marburg, Germany",
+    "website_url": "https://www.medion.de",
+    "problem_solved": "German pharmacies need reliable, cost-effective pharmacy management software with essential features for daily operations, billing, and inventory management without complex enterprise functionality.",
+    "who_buys_it": "Independent community pharmacies, small pharmacy chains, and new pharmacy startups in Germany seeking affordable software solutions.",
+    "key_features": [
+      "Core pharmacy management functions",
+      "Prescription processing and billing",
+      "Inventory management and ordering",
+      "German health insurance integration",
+      "Patient database and counseling documentation",
+      "LAUER-TAXE integration for pricing",
+      "Simple, user-friendly interface"
+    ],
+    "business_model": "Affordable SaaS subscription targeting small to medium pharmacies. Lower implementation costs. Basic support included with premium support available.",
+    "why_varden_should_care": "Value-oriented positioning addresses underserved segment of small independent pharmacies. Price-sensitive market segment with limited switching. Opportunity to move customers upmarket with additional modules. Potential acquisition target for larger pharmacy software players."
+  },
+  {
+    "company_name": "SAP Healthcare (Pharmacy Solutions)",
+    "hq_location": "Walldorf, Germany",
+    "website_url": "https://www.sap.com/healthcare",
+    "problem_solved": "Large hospital networks and healthcare systems need enterprise-grade pharmacy management that integrates seamlessly with broader hospital ERP, supply chain, and clinical systems.",
+    "who_buys_it": "Large hospital networks, university hospitals, healthcare systems, and multi-facility healthcare organizations in DACH region.",
+    "key_features": [
+      "SAP S/4HANA for Healthcare with pharmacy modules",
+      "Enterprise medication management",
+      "Hospital supply chain integration",
+      "Pharmaceutical inventory and procurement",
+      "Financial and controlling integration",
+      "Regulatory compliance and reporting",
+      "Analytics and business intelligence"
+    ],
+    "business_model": "Enterprise licensing with significant implementation costs. Annual maintenance fees (typically 17-22% of license). Consulting and implementation services. Long-term contracts with large healthcare systems.",
+    "why_varden_should_care": "Dominant enterprise ERP player expanding healthcare-specific solutions. Hospital pharmacy integration with ERP creates high switching costs. Large existing customer base in German hospitals. Partner ecosystem provides implementation capabilities. Best fit for large, complex healthcare systems requiring integrated solutions."
+  },
+  {
+    "company_name": "Medavis GmbH",
+    "hq_location": "Sulzbach, Germany",
+    "website_url": "https://www.medavis.de",
+    "problem_solved": "Radiology departments and hospital pharmacies need integrated software for medication safety in contrast agent administration, documentation of pharmaceutical interventions, and workflow coordination between radiology and pharmacy departments.",
+    "who_buys_it": "Radiology departments, diagnostic centers, and hospital pharmacies requiring integrated medication safety and contrast agent management.",
+    "key_features": [
+      "Radiology information system (RIS) with pharmacy integration",
+      "Contrast agent management and documentation",
+      "Medication safety checking for radiopharmaceuticals",
+      "Allergy and interaction checking for contrast agents",
+      "Documentation of pharmaceutical interventions",
+      "Integration with hospital pharmacy systems",
+      "Regulatory compliance for radiopharmaceuticals"
+    ],
+    "business_model": "SaaS and perpetual licensing options. Per-study or per-modality pricing for radiology. Integration services for hospital pharmacy connectivity. Annual maintenance and support.",
+    "why_varden_should_care": "Unique positioning at intersection of radiology and pharmacy. Growing use of contrast agents and radiopharmaceuticals requires specialized safety tools. Integration play between radiology and pharmacy creates network effects. Addressable market expanding with growth in diagnostic imaging and nuclear medicine."
+  }
+]

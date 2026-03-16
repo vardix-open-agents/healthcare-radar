@@ -1,0 +1,22 @@
+{
+  "company_name": "Mom's Meals",
+  "problem_solved": "Patients with chronic conditions and nutrition insecurity lack access to medically appropriate meals, leading to poor health outcomes and higher healthcare costs",
+  "solution_description": "Nation's most comprehensive food-as-medicine solutions provider delivering medically tailored meals, nutrition counseling, produce boxes, and pantry items directly to patients' homes. 9 disease-specific menus with 60+ meal options designed by registered dietitians",
+  "buyer_persona": "health_systems",
+  "care_stage": "treatment",
+  "automation_level": "full",
+  "varden_fit": "high",
+  "region": "US",
+  "country": "United States",
+  "funding_stage": "acquired",
+  "traction_signals": [
+    "Caregivers Home-Delivered Meals Service of the Year 2025",
+    "Donated 60,000 meals in 2025 to nutrition insecure individuals",
+    "Evidence-based outcomes showing reduced total cost of care",
+    "USDA and FDA-inspected facilities"
+  ],
+  "notes": "Leading medically tailored meals provider. Part of food-as-medicine movement. Serves Medicare Advantage, Medicaid, and health plan members. Acquired by PurFoods. Strong evidence base for health outcomes and cost reduction",
+  "discovery_round": 50,
+  "discovered_by": "sky",
+  "timestamp": "2026-03-11T23:20:00Z"
+}

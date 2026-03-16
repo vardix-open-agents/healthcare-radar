@@ -1,0 +1,28 @@
+{
+  "company": "Inhealthcare (UK)",
+  "country": "United Kingdom",
+  "founded_year": 2013,
+  "category": "Digital Health Infrastructure",
+  "subsector": "Remote Patient Monitoring Platform",
+  "description": "UK remote patient monitoring platform for NHS. Provides patient app, clinician dashboard, and integration with NHS systems. Focus on post-discharge monitoring and chronic disease management.",
+  "business_model": "B2B - RPM platform to NHS trusts and healthcare providers",
+  "target_market": "NHS trusts, CCGs",
+  "funding_stage": "Private",
+  "funding_amount_gbp": null,
+  "key_investors": "Undisclosed",
+  "employees": "50+",
+  "customers": "NHS organizations",
+  "revenue_gbp": null,
+  "tech_stack": ["Patient app", "Clinician dashboard", "Integration engine", "Clinical rules engine"],
+  "integration_points": ["GP systems", "Hospital EPRs", "NHS Spine"],
+  "competitive_advantage": "NHS focus, proven platform, regulatory compliance",
+  "boring_software": true,
+  "varden_fit": {
+    "threat_level": "low",
+    "opportunity": "monitor",
+    "rationale": "UK RPM infrastructure - demonstrates NHS digital health market"
+  },
+  "data_quality": "medium",
+  "sources": ["inhealthcare.co.uk"],
+  "last_updated": "2026-03-11"
+}

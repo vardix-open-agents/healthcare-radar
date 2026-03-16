@@ -1,0 +1,14 @@
+{
+  "company": "Lightbeam Health Solutions",
+  "country": "US",
+  "problem": "ACOs, MSOs, payers, and health systems struggle to succeed in value-based care due to fragmented patient data, difficulty identifying at-risk populations, and inability to close care gaps efficiently while managing costs.",
+  "solution": "Lightbeam Health Solutions provides an AI-enabled population health management platform serving 45M+ patients, offering risk adjustment optimization, quality measure optimization, remote patient monitoring, automated patient engagement, and provider score carding, delivering $5B+ in gross savings with 8-10X increase in care manager capacity.",
+  "problem_type": "analytics",
+  "solution_type": "SaaS",
+  "buyer": "providers",
+  "varden_fit": "medium",
+  "url": "https://www.lightbeamhealth.com",
+  "source": "web",
+  "discovery_round": 97,
+  "discovered_by": "sky"
+}

@@ -1,0 +1,14 @@
+{
+  "company": "MaximEyes",
+  "country": "US",
+  "problem": "Ophthalmology practices require comprehensive practice management software that handles the unique needs of eye care including optical retail and surgery scheduling",
+  "solution": "All-in-one ophthalmology practice management and EHR solution featuring electronic health records, practice management, optical dispensing, and surgery center management",
+  "problem_type": "optometry",
+  "solution_type": "SaaS",
+  "buyer": "clinics",
+  "varden_fit": "medium",
+  "url": "https://www.maximeyes.com",
+  "source": "web",
+  "discovery_round": 110,
+  "discovered_by": "nova"
+}

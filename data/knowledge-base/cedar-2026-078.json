@@ -1,0 +1,33 @@
+{
+  "id": "cedar-2026-078",
+  "title": "Cedar - AI-Powered Patient Financial Engagement",
+  "company": "Cedar",
+  "country": "US",
+  "region": "US",
+  "segment": "billing",
+  "problem": "Patient billing is confusing, frustrating, and leads to poor collections. Patients don't understand their coverage, struggle with payment options, and providers lose revenue.",
+  "solution": "Cedar Intelligence platform for patient financial engagement. Pre-visit payments, post-visit billing, Medicaid/ACA enrollment, denials resolution, Kora AI voice agent. Personalized financial interactions powered by healthcare-specific AI.",
+  "technology": "Cedar Intelligence (healthcare-specific AI), Kora voice AI, ML for personalization",
+  "target_customer": "Health systems, physician groups, clinician service agencies",
+  "care_setting": "all",
+  "care_domain": "general",
+  "care_stage": "admin",
+  "automation_level": "full",
+  "ai_type": "Healthcare-specific AI for financial engagement, voice AI",
+  "traction_signals": [
+    "1.3B+ patient payment interactions",
+    "58M+ patients served",
+    "$13.6B+ patient payments processed",
+    "Major health system clients"
+  ],
+  "funding": "Well-funded startup, major health system clients",
+  "regulatory_notes": "HIPAA compliant, integrated with EHRs",
+  "varden_fit": "HIGH — Cedar proves AI can transform patient financial experience. European healthcare systems need similar engagement tools for multi-payer environments.",
+  "source": "Web research",
+  "url": "https://www.cedar.com",
+  "date_added": "2026-03-11",
+  "problem_type": "claims",
+  "contrarian": true,
+  "boring_software": true,
+  "notes": "CONTRARIAN: Patient billing is unsexy but directly impacts revenue and patient experience. Cedar's healthcare-specific AI is the model."
+}

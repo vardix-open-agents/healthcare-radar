@@ -1,0 +1,14 @@
+{
+  "company": "Elvie",
+  "country": "GB",
+  "problem": "New mothers lack access to discreet, efficient, and technology-enabled breastfeeding and pelvic health solutions. Traditional breast pumps are bulky, loud, and difficult to use, while pelvic floor training lacks proper guidance and tracking.",
+  "solution": "Smart women's health devices including wearable, silent breast pumps (Elvie Pump, Elvie Stride) with app-connected control, and the Elvie Trainer for pelvic floor exercises. Products feature app integration for tracking, guidance, and optimization, with hospital-grade performance in compact designs.",
+  "problem_type": "womens_health",
+  "solution_type": "device",
+  "buyer": "patients",
+  "varden_fit": "low",
+  "url": "https://www.elvie.com/",
+  "source": "web",
+  "discovery_round": 93,
+  "discovered_by": "nova"
+}

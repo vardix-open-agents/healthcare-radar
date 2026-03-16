@@ -1,0 +1,22 @@
+{
+  "id": "quest-diagnostics-2026-333",
+  "title": "Quest Diagnostics - Reference Lab Platform",
+  "company": "Quest Diagnostics",
+  "country": "USA",
+  "segment": "infrastructure",
+  "problem": "Physicians need easy ordering and result access from major reference labs",
+  "solution": "Quanum platform for lab ordering, results, and care coordination",
+  "technology": "Lab network, physician portal, integration tools, data analytics",
+  "target_customer": "Physicians, health systems, employers",
+  "care_setting": "all",
+  "care_domain": "diagnostics",
+  "care_stage": "all",
+  "automation_level": "full",
+  "ai_type": null,
+  "traction_signals": ["Largest US reference lab", "$10B+ revenue", "500K+ physicians"],
+  "funding": "Public (DGX)",
+  "regulatory_notes": "CLIA certified, CAP accredited",
+  "source": "sky-round18-diagnostics",
+  "url": "https://www.questdiagnostics.com",
+  "date_added": "2026-03-11"
+}

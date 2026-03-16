@@ -1,0 +1,27 @@
+{
+  "company": "Medicover",
+  "country": "Poland",
+  "founded_year": 1994,
+  "category": "Occupational Health",
+  "subsector": "Private Healthcare Provider",
+  "description": "Leading private healthcare provider in Central & Eastern Europe offering occupational health services, preventive care, and comprehensive medical services to employers and individuals. Operates across Poland, Romania, and other CEE markets.",
+  "business_model": "B2B2C - Subscription-based healthcare services to employers",
+  "target_market": "CEE employers (Poland, Romania, etc.) seeking private healthcare for employees",
+  "funding_stage": "Listed (Warsaw Stock Exchange)",
+  "funding_amount_eur": null,
+  "key_investors": "Public company, founding family stake",
+  "employees": 12000,
+  "customers": "20000+ corporate clients",
+  "revenue_eur": 800000000,
+  "tech_stack": ["Patient portal", "Mobile app", "EHR", "Occupational health platform"],
+  "integration_points": ["HR systems", "National health systems", "Insurance platforms"],
+  "competitive_advantage": "Market leader in CEE, comprehensive service offering, strong brand, physical + digital",
+  "varden_fit": {
+    "threat_level": "high",
+    "opportunity": "compete",
+    "rationale": "Major competitor in CEE - established player with strong employer relationships"
+  },
+  "data_quality": "high",
+  "sources": ["medicover.pl", "medicover.com"],
+  "last_updated": "2026-03-11"
+}

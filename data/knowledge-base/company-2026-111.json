@@ -1,0 +1,27 @@
+{
+  "company": "DrMax (Czech Republic / CEE)",
+  "country": "Czech Republic",
+  "founded_year": 2005,
+  "category": "Pharmacy",
+  "subsector": "Pharmacy Chain & Digital Services",
+  "description": "Largest pharmacy chain in Central Europe operating 1000+ pharmacies across Czech Republic, Slovakia, Poland, and Serbia. Offers digital prescription services, e-commerce, and patient support programs.",
+  "business_model": "B2C - Pharmacy retail; B2B - Corporate health programs",
+  "target_market": "CEE consumers and employers seeking pharmacy services",
+  "funding_stage": "Private Equity (Penta Investments)",
+  "funding_amount_eur": null,
+  "key_investors": "Penta Investments",
+  "employees": 8000,
+  "customers": "1000+ pharmacies, millions of customers",
+  "revenue_eur": 1500000000,
+  "tech_stack": ["E-commerce platform", "E-prescription", "Loyalty app", "Inventory management"],
+  "integration_points": ["National e-prescription systems", "Insurance platforms", "Employer benefit programs"],
+  "competitive_advantage": "Largest CEE pharmacy network, digital capabilities, regional presence",
+  "varden_fit": {
+    "threat_level": "low",
+    "opportunity": "partner",
+    "rationale": "Major pharmacy infrastructure in CEE - potential partner for medication-related occupational health services"
+  },
+  "data_quality": "high",
+  "sources": ["drmax.eu", "drmax.cz"],
+  "last_updated": "2026-03-11"
+}

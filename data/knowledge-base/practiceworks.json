@@ -1,0 +1,14 @@
+{
+  "company": "PracticeWorks",
+  "country": "US",
+  "problem": "Dental practices need integrated practice management tools including payment processing, patient communication, prescription management, insurance claims, and imaging",
+  "solution": "Comprehensive dental practice management software by Carestream Dental with integrated payment manager, patient manager, prescription manager, insights manager, eClaims, eVerifications, and cloud-based imaging for complete practice operations",
+  "problem_type": "dental",
+  "solution_type": "SaaS",
+  "buyer": "dental_clinics",
+  "varden_fit": "medium",
+  "url": "https://www.practiceworks.com",
+  "source": "web",
+  "discovery_round": 91,
+  "discovered_by": "nova"
+}

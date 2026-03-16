@@ -1,0 +1,16 @@
+{
+  "id": "problem-2026-089",
+  "problem": "Patient-generated health data (wearables, apps) exists in silos and isn't integrated into clinical decision-making",
+  "problem_type": "data_integration",
+  "solution_type": "Patient-generated health data APIs, consumer health platform integration, clinical validation pipelines",
+  "care_stage": "diagnosis",
+  "automation_type": "data_integration",
+  "buyer": "health_system",
+  "care_setting": "mixed",
+  "companies": ["Apple Health", "Fitbit Health Solutions", "Withings", "Validic", "Rally Health"],
+  "signals": ["Wearable adoption acceleration", "Digital biomarker validation", "Remote patient monitoring expansion"],
+  "boring_software": false,
+  "contrarian": true,
+  "url": "https://www.fda.gov/medical-devices/digital-health-center-excellence",
+  "date_added": "2026-03-11"
+}

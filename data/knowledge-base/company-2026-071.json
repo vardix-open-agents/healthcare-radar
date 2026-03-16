@@ -1,0 +1,27 @@
+{
+  "company": "Livi (Kry International)",
+  "country": "United Kingdom / France / Norway",
+  "founded_year": 2015,
+  "category": "Telemedicine",
+  "subsector": "Multi-country Digital Healthcare Provider",
+  "description": "Europe's leading digital healthcare provider operating across UK, France, and Norway. Combines digital technology with clinical expertise to serve NHS, health insurers, and patients. Part of Kry Group.",
+  "business_model": "B2B2C - NHS partnerships + Private insurers + Direct to patient",
+  "target_market": "UK (NHS and private), France (private), Norway (public system)",
+  "funding_stage": "Series D",
+  "funding_amount_eur": 400000000,
+  "key_investors": "Index Ventures, Creandum, Accel, General Atlantic",
+  "employees": 3000,
+  "customers": "6M+ patient consultations",
+  "revenue_eur": 250000000,
+  "tech_stack": ["Mobile app", "Web platform", "Proprietary EHR", "Video conferencing", "AI triage"],
+  "integration_points": ["NHS systems", "BankID (Sweden)", "French health system", "EHRs"],
+  "competitive_advantage": "Pan-European presence, proprietary tech stack, largest digital GP network, 4.9 app rating",
+  "varden_fit": {
+    "threat_level": "high",
+    "opportunity": "compete",
+    "rationale": "Major competitor in UK and France - strong brand, scale, and tech capabilities"
+  },
+  "data_quality": "high",
+  "sources": ["livi.co.uk", "kry.tech", "kry.se"],
+  "last_updated": "2026-03-11"
+}

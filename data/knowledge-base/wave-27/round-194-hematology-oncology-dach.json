@@ -1,0 +1,211 @@
+{
+  "round": 194,
+  "wave": 27,
+  "focus": "Hematology / Oncology (DACH)",
+  "region": "Germany, Austria, Switzerland",
+  "research_date": "2026-03-14",
+  "companies": [
+    {
+      "company_name": "MEDAVIS GmbH",
+      "hq_location": "Darmstadt, Germany",
+      "website_url": "https://www.medavis.com",
+      "problem_solved": "Lack of integrated laboratory information systems for radiology and diagnostic workflows, including hematology/oncology diagnostics that require seamless data flow between departments",
+      "who_buys_it": "Hospitals, diagnostic centers, oncology clinics, radiology departments, laboratory networks",
+      "key_features": [
+        "Radiology Information System (RIS)",
+        "Laboratory Information System (LIS) integration",
+        "AI integration for diagnostics",
+        "Teleradiology capabilities",
+        "Patient communication tools",
+        "Image management and PACS integration",
+        "Workflow optimization for oncology diagnostics",
+        "Multi-site deployment capabilities",
+        "Integration with oncology EHR systems",
+        "Hematology diagnostic workflow support"
+      ],
+      "business_model": "B2B SaaS and on-premise licensing; implementation services; annual maintenance and support contracts; per-module pricing for specialized oncology/hematology features",
+      "why_varden_should_care": "Part of the synava Group alliance, making it a potential acquisition target or consolidation play in the fragmented DACH healthcare IT market; strong position in radiology-oncology diagnostic workflows; 25+ years of domain expertise; growing demand for AI-integrated diagnostic platforms in oncology"
+    },
+    {
+      "company_name": "CompuGroup Medical SE",
+      "hq_location": "Koblenz, Germany",
+      "website_url": "https://www.cgm.com",
+      "problem_solved": "Fragmented healthcare IT systems across DACH region; need for integrated EHR and practice management solutions including oncology and hematology practice workflows",
+      "who_buys_it": "Primary care practices, specialist oncology clinics, hospitals, laboratories, corporate health services, children's health services across Germany, Austria, and Switzerland",
+      "key_features": [
+        "CGM J4 - comprehensive EHR platform",
+        "Oncology documentation and treatment planning modules",
+        "Laboratory information system integration",
+        "Video consultation capabilities (CGM Video)",
+        "Patient portal and engagement tools",
+        "Interoperability with hospital systems",
+        "Chemotherapy protocol management",
+        "Hematology practice management",
+        "Multi-language support for DACH region",
+        "Cloud and on-premise deployment options"
+      ],
+      "business_model": "B2B SaaS subscription model; per-user/per-module licensing; implementation and training services; long-term support contracts; serves both public and private healthcare sectors",
+      "why_varden_should_care": "Leading e-health player in DACH with 1.6M users across 60 countries and 85K users in Sweden alone; strong M&A activity (recent Zymego partnership); positioned for growth as healthcare digitization accelerates in DACH; comprehensive oncology module portfolio"
+    },
+    {
+      "company_name": "Dedalus Group",
+      "hq_location": "Florence, Italy (with major DACH operations in Germany, Austria, Switzerland)",
+      "website_url": "https://www.dedalus.com",
+      "problem_solved": "Need for comprehensive, interoperable healthcare IT platforms that connect primary care, diagnostics, oncology treatment, and follow-up care across the patient continuum",
+      "who_buys_it": "Hospitals, regional healthcare systems, oncology centers, diagnostic laboratories, rehabilitation centers across DACH and Southern Europe",
+      "key_features": [
+        "Ranked #1 in KLAS 2026 for Acute Care EHR in DACH and Southern Europe",
+        "Complete continuum of care platform",
+        "Oncology treatment planning and documentation",
+        "Laboratory and diagnostic information systems",
+        "AI integration with Aiforia partnership for pathology",
+        "FHIR-based interoperability",
+        "540M+ population served across 40 countries",
+        "470,000 beds supported through EMR solutions",
+        "4B+ diagnostic results per year from 5,700 labs",
+        "Regional screening program management"
+      ],
+      "business_model": "Enterprise B2B licensing; regional healthcare system contracts; SaaS and managed services; implementation and consulting; long-term maintenance agreements",
+      "why_varden_should_care": "Most contracted EHR beds outside US for 3 consecutive years (KLAS Research); dominant in DACH oncology IT; strategic AI partnerships; likely acquisition target for US players wanting DACH footprint; strong in laboratory-oncology integration"
+    },
+    {
+      "company_name": "iTI Solutions GmbH",
+      "hq_location": "Mannheim, Germany",
+      "website_url": "https://www.itisolutions.de",
+      "problem_solved": "Specialized oncology documentation, chemotherapy planning, and blood bank management software for German cancer centers and hematology practices",
+      "who_buys_it": "Oncology practices, cancer centers, hematology clinics, blood banks, transfusion medicine departments, university hospitals",
+      "key_features": [
+        "Oncology documentation system (Onko-DOC)",
+        "Chemotherapy planning and protocol management",
+        "Blood bank management software (Blutspende)",
+        "Hematology practice management",
+        "Integration with German cancer registries",
+        "Clinical trial documentation support",
+        "Tumor board management tools",
+        "Quality assurance reporting",
+        "Drug interaction checking for oncology",
+        "German cancer society certification support"
+      ],
+      "business_model": "Specialized B2B licensing for oncology/hematology; per-specialty module pricing; annual maintenance; implementation and training services; support for German regulatory compliance",
+      "why_varden_should_care": "Deep specialization in German oncology workflows; regulatory moat with German cancer registry integrations; potential roll-up opportunity in fragmented oncology IT market; blood bank software creates cross-selling opportunity with LIS vendors"
+    },
+    {
+      "company_name": "Swisslab GmbH",
+      "hq_location": "Berlin, Germany",
+      "website_url": "https://www.swisslab.de",
+      "problem_solved": "Need for comprehensive laboratory information systems with specialized modules for hematology, oncology, and transfusion medicine in German-speaking markets",
+      "who_buys_it": "Hospital laboratories, reference laboratories, blood donation centers, hematology departments, oncology diagnostic labs, university medical centers",
+      "key_features": [
+        "Comprehensive LIS platform",
+        "Hematology module with blood count integration",
+        "Oncology laboratory workflow support",
+        "Transfusion medicine and blood bank module",
+        "Microbiology and pathology integration",
+        "Interface to analyzers and instruments",
+        "Quality management system",
+        "German laboratory regulatory compliance",
+        "Multi-site laboratory networks",
+        "Emergency laboratory workflows"
+      ],
+      "business_model": "B2B licensing; modular pricing by laboratory specialty; implementation services; annual support contracts; instrument interface licensing",
+      "why_varden_should_care": "Strong hematology/blood bank focus in DACH market; regulatory moat with German laboratory standards; potential acquisition target for larger LIS vendors wanting DACH hematology specialization; installed base in major German hospitals"
+    },
+    {
+      "company_name": "Freyr Solutions GmbH",
+      "hq_location": "Munich, Germany",
+      "website_url": "https://www.freyr-solutions.com",
+      "problem_solved": "Laboratory information management for specialized diagnostics including oncology and hematology laboratories requiring complex workflow automation",
+      "who_buys_it": "Diagnostic laboratories, oncology centers, hematology clinics, pathology laboratories, reference laboratories in DACH region",
+      "key_features": [
+        "Modern cloud-based LIS architecture",
+        "Oncology diagnostic workflow automation",
+        "Hematology analyzer integration",
+        "Molecular diagnostics support",
+        "Quality control and accreditation tools",
+        "Reporting and analytics for oncology",
+        "Interoperability with EHR systems",
+        "Mobile access for laboratory staff",
+        "Scalable for multi-site deployments",
+        "German data privacy compliance (DSGVO)"
+      ],
+      "business_model": "Cloud SaaS subscription; per-test or per-sample pricing tiers; implementation and migration services; ongoing support and updates included in subscription",
+      "why_varden_should_care": "Modern cloud-native architecture differentiates from legacy LIS vendors; growing demand for cloud-based oncology diagnostics; potential acquisition target for larger healthcare IT companies wanting modern LIS technology"
+    },
+    {
+      "company_name": "Labosoft GmbH",
+      "hq_location": "Dortmund, Germany",
+      "website_url": "https://www.labosoft.de",
+      "problem_solved": "Specialized laboratory software for medical diagnostics including hematology and oncology laboratories requiring flexible, customizable solutions",
+      "who_buys_it": "Medical laboratories, hematology practices, oncology diagnostic centers, hospital laboratories, pathology departments",
+      "key_features": [
+        "Flexible LIS platform",
+        "Hematology workflow support",
+        "Oncology sample tracking",
+        "Custom report generation",
+        "Analyzer interfaces",
+        "Quality management tools",
+        "Billing and invoicing integration",
+        "German healthcare billing (GOÄ/EBM) support",
+        "Multi-user and multi-site capabilities",
+        "Audit trail and compliance reporting"
+      ],
+      "business_model": "Perpetual licensing with annual maintenance; implementation services; customization and integration services; training and support packages",
+      "why_varden_should_care": "Established player in German laboratory market; customization capability creates sticky customer relationships; potential roll-up target in fragmented German LIS market; hematology specialization creates niche moat"
+    },
+    {
+      "company_name": "Oracle Health (formerly Cerner)",
+      "hq_location": "Kansas City, USA (with major DACH operations)",
+      "website_url": "https://www.oracle.com/industries/health/",
+      "problem_solved": "Comprehensive oncology EHR, chemotherapy planning, and integrated cancer care management for large hospital systems and cancer centers in DACH region",
+      "who_buys_it": "Large university hospitals, comprehensive cancer centers, multi-hospital systems, regional healthcare networks in Germany, Austria, and Switzerland",
+      "key_features": [
+        "Millennium oncology platform",
+        "Chemotherapy order management",
+        "Oncology clinical documentation",
+        "Cancer registry integration",
+        "Tumor staging and tracking",
+        "Clinical trial management",
+        "Population health for oncology",
+        "Patient portal for cancer patients",
+        "Analytics and outcomes tracking",
+        "Integration with diagnostic systems"
+      ],
+      "business_model": "Enterprise licensing; large-scale implementation contracts; annual maintenance; consulting and optimization services; cloud hosting options",
+      "why_varden_should_care": "Major player in DACH oncology IT through university hospital installations; Oracle acquisition creates potential for technology modernization and cross-selling; competing against local players creates partnership/acquisition opportunities with regional specialists"
+    }
+  ],
+  "summary": {
+    "total_companies": 8,
+    "focus_areas_covered": {
+      "hematology_practice_management": 5,
+      "oncology_ehr": 8,
+      "chemotherapy_planning": 3,
+      "blood_bank_management": 3,
+      "lab_information_systems": 6
+    },
+    "market_characteristics": [
+      "Fragmented market with mix of global players (Oracle Health, Dedalus) and regional specialists (iTI, Swisslab)",
+      "Strong regulatory requirements create barriers to entry for non-DACH vendors",
+      "German cancer registry integration is a key differentiator for oncology software",
+      "Blood bank and transfusion medicine highly regulated, creating specialist vendors",
+      "Cloud transition ongoing but slower than US due to data privacy concerns",
+      "Interoperability with legacy hospital systems remains a challenge",
+      "AI integration for oncology diagnostics emerging as key trend"
+    ],
+    "investment_themes": [
+      "Roll-up opportunity for regional oncology/hematology IT specialists",
+      "Modern cloud-native LIS platforms disrupting legacy vendors",
+      "AI-enabled oncology diagnostics integration creating value",
+      "Cross-border expansion within DACH region",
+      "Consolidation of fragmented laboratory IT market",
+      "Specialized oncology documentation for German cancer centers",
+      "Blood bank software as cross-sell opportunity with LIS vendors"
+    ]
+  },
+  "excluded_types": [
+    "Consumer health apps",
+    "Pharmaceutical companies",
+    "Medical device manufacturers (unless software-focused)",
+    "General EHR vendors without oncology specialization"
+  ]
+}

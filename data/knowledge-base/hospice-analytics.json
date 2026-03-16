@@ -1,0 +1,14 @@
+{
+  "company": "Hospice Analytics",
+  "country": "US",
+  "problem": "Hospice providers lack access to comprehensive market data and competitive intelligence needed to identify growth opportunities and improve access to quality hospice care.",
+  "solution": "Data analytics platform providing instant access to customized reports from 60+ billion Medicare claims, cost reports, and national sources for hospice market analysis and strategic planning.",
+  "problem_type": "hospice",
+  "solution_type": "SaaS",
+  "buyer": "providers",
+  "varden_fit": "medium",
+  "url": "https://www.nationalhospiceanalytics.com",
+  "source": "web",
+  "discovery_round": 142,
+  "discovered_by": "sky"
+}

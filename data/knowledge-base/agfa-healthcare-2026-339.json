@@ -1,0 +1,22 @@
+{
+  "id": "agfa-healthcare-2026-339",
+  "title": "Agfa HealthCare - Enterprise Imaging",
+  "company": "Agfa HealthCare",
+  "country": "Belgium",
+  "segment": "infrastructure",
+  "problem": "Hospitals need integrated imaging IT across radiology, cardiology, and other specialties",
+  "solution": "Enterprise Imaging platform with PACS, VNA, and reporting tools",
+  "technology": "Enterprise PACS, VNA, multi-specialty imaging, AI integration",
+  "target_customer": "Hospitals, health systems, imaging centers",
+  "care_setting": "hospital",
+  "care_domain": "diagnostics",
+  "care_stage": "diagnosis",
+  "automation_level": "partial",
+  "ai_type": null,
+  "traction_signals": ["Global top 5 PACS", "Strong in EU", "3500+ sites"],
+  "funding": "Private (subsidiary)",
+  "regulatory_notes": "FDA 510(k), CE marked",
+  "source": "sky-round18-diagnostics",
+  "url": "https://www.agfa.com/healthcare",
+  "date_added": "2026-03-11"
+}

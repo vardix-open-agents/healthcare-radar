@@ -1,0 +1,16 @@
+{
+  "id": "problem-2026-066",
+  "problem": "UAE hospitals can't access patient medication histories when treating medical tourists, causing drug interaction risks",
+  "problem_type": "data_integration",
+  "solution_type": "International health data exchange, patient-controlled records, blockchain medication history",
+  "care_stage": "treatment",
+  "automation_type": "data_integration",
+  "buyer": "health_system",
+  "care_setting": "hospital",
+  "companies": ["PureHealth", "Mubadala Health", "Aster DM Healthcare", "NMC Health"],
+  "signals": ["Dubai Health Experience (DXH)", "Medical tourism growth", "UAE digital health strategy"],
+  "boring_software": false,
+  "contrarian": true,
+  "url": "https://www.mohap.gov.ae",
+  "date_added": "2026-03-11"
+}

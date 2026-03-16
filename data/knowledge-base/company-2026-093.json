@@ -1,0 +1,27 @@
+{
+  "company": "HealthBank",
+  "country": "Germany",
+  "founded_year": 2017,
+  "category": "Healthcare Infrastructure",
+  "subsector": "Secure Health Data Platform",
+  "description": "German healthtech providing secure data infrastructure for healthcare organizations. Offers API-based platform for health data exchange, consent management, and interoperability.",
+  "business_model": "B2B - Platform-as-a-Service to healthcare organizations",
+  "target_market": "German healthcare providers, insurers, pharma companies",
+  "funding_stage": "Series A",
+  "funding_amount_eur": 10000000,
+  "key_investors": "German VCs, healthtech funds",
+  "employees": 50,
+  "customers": "100+ healthcare organizations",
+  "revenue_eur": 5000000,
+  "tech_stack": ["API platform", "Consent management", "Data exchange", "Security infrastructure"],
+  "integration_points": ["EHRs", "Insurer systems", "Pharma systems", "Research platforms"],
+  "competitive_advantage": "GDPR-compliant infrastructure, German market trust, API-first approach",
+  "varden_fit": {
+    "threat_level": "low",
+    "opportunity": "partner",
+    "rationale": "Infrastructure layer - could be foundation for Varden's German data operations"
+  },
+  "data_quality": "medium",
+  "sources": ["healthbank.de", "linkedin.com"],
+  "last_updated": "2026-03-11"
+}

@@ -1,0 +1,62 @@
+{
+  "company_name": "Tandem Health",
+  "website": "https://tandemhealth.ai",
+  "hq_location": "Stockholm, Sweden",
+  "founded_year": 2021,
+  "category": "Medical Coding Automation",
+  "subcategories": [
+    "AI Medical Coding",
+    "Clinical Documentation",
+    "Revenue Cycle Management"
+  ],
+  "description": "Tandem Health is a Swedish healthcare AI company that provides an AI medical assistant for clinical documentation and medical coding. The platform listens during patient consultations and automatically generates structured clinical notes with ICD-10 and SNOMED coding suggestions. Their Coding Assistant module has received MDR Class IIa certification, making it one of the first AI medical coding solutions to achieve this regulatory milestone in Europe.",
+  "value_proposition": "Automates medical coding and clinical documentation to reduce administrative burden on healthcare providers, saving hours of daily administrative work and improving coding accuracy.",
+  "technology": [
+    "AI/ML",
+    "Speech Recognition",
+    "Natural Language Processing",
+    "Medical Coding (ICD-10, SNOMED)"
+  ],
+  "target_customers": [
+    "Healthcare organizations",
+    "Hospitals",
+    "Primary care clinics",
+    "Specialty practices"
+  ],
+  "geographic_focus": [
+    "Sweden",
+    "Nordic countries",
+    "Europe"
+  ],
+  "funding_status": "Series A",
+  "funding_amount": "Undisclosed",
+  "key_investors": [],
+  "employees": "50-100",
+  "traction": "Used by over 5,000 healthcare organizations in Europe",
+  "competitors": [
+    "Nuance DAX",
+    "Abridge",
+    "DeepScribe"
+  ],
+  "varden_relevance": {
+    "replication_potential": "HIGH",
+    "key_learnings": [
+      "MDR Class IIa certification demonstrates regulatory pathway for AI coding tools in EU",
+      "Multi-specialty support with 50+ specialties shows broad applicability",
+      "No audio storage - privacy-first approach critical for EU healthcare market",
+      "Integration with EMR systems essential for adoption"
+    ],
+    "similarities_to_varden": [
+      "Focus on reducing administrative burden",
+      "AI-powered automation of manual tasks",
+      "Healthcare provider-focused"
+    ]
+  },
+  "data_sources": [
+    "https://tandemhealth.ai",
+    "https://www.medtechmagazine.se"
+  ],
+  "last_updated": "2026-03-14",
+  "discovered_round": 62,
+  "discovered_by": "nova"
+}

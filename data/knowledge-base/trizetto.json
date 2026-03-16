@@ -1,0 +1,14 @@
+{
+  "company": "TriZetto (Cognizant)",
+  "country": "US",
+  "problem": "Health plans and providers struggle with fragmented core administration systems, inefficient claims processing, and lack of interoperability across the healthcare value chain",
+  "solution": "Healthcare administration platform serving 200M+ members and 200+ health plans with 4.4B annual transactions providing core administration, claims management, eligibility verification, and payer-provider connectivity solutions",
+  "problem_type": "insurance_eligibility",
+  "solution_type": "SaaS",
+  "buyer": "providers",
+  "varden_fit": "high",
+  "url": "https://www.cognizant.com/trizetto",
+  "source": "web",
+  "discovery_round": 96,
+  "discovered_by": "sky"
+}

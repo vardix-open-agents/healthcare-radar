@@ -1,0 +1,22 @@
+{
+  "company_name": "ZeOmega",
+  "problem_solved": "Health plans and providers need integrated platforms to manage population health and coordinate care across medical and social services",
+  "solution_description": "Population health management platform with SDOH integration capabilities. Provides care management, utilization management, and analytics for value-based care. Includes social determinants data integration and community resource connections. Serves Medicare Advantage, Medicaid, and commercial populations",
+  "buyer_persona": "payers",
+  "care_stage": "monitoring",
+  "automation_level": "partial",
+  "varden_fit": "high",
+  "region": "US",
+  "country": "United States",
+  "funding_stage": "private",
+  "traction_signals": [
+    "Serves Medicare Advantage and Medicaid plans",
+    "SDOH data integration capabilities",
+    "Care management and utilization management",
+    "Population health analytics"
+  ],
+  "notes": "Population health platform with SDOH capabilities. High Varden fit - integrates SDOH into population health management. Strong in value-based care. Less well-known than competitors but established player in payer market",
+  "discovery_round": 50,
+  "discovered_by": "sky",
+  "timestamp": "2026-03-11T23:20:00Z"
+}

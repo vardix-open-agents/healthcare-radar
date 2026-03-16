@@ -1,0 +1,33 @@
+{
+  "id": "covermymeds-2026-087",
+  "title": "CoverMyMeds - Prior Authorization Platform (McKesson)",
+  "company": "CoverMyMeds (McKesson)",
+  "country": "US",
+  "region": "US",
+  "segment": "admin",
+  "problem": "Prior authorization for medications is manual, time-consuming, and delays patient access to needed treatments. Providers, pharmacists, and payers need efficient electronic prior auth workflows.",
+  "solution": "Electronic prior authorization platform connecting providers, pharmacists, and payers. Streamlined prior auth submission and processing. Integrated with EHRs and pharmacy systems. Now part of McKesson.",
+  "technology": "E-prescribing integration, prior auth APIs, EHR integration",
+  "target_customer": "Providers, pharmacies, health plans, PBMs",
+  "care_setting": "all",
+  "care_domain": "general",
+  "care_stage": "admin",
+  "automation_level": "partial",
+  "ai_type": null,
+  "traction_signals": [
+    "Largest prior authorization platform in US",
+    "Acquired by McKesson",
+    "Used by most major health plans",
+    "Integrated with EHR systems"
+  ],
+  "funding": "Acquired by McKesson for $1.1B+",
+  "regulatory_notes": "HIPAA compliant, NCPDP SCRIPT standards",
+  "varden_fit": "CRITICAL — CoverMyMeds proves electronic prior auth is essential infrastructure. European healthcare systems lack any equivalent platform.",
+  "source": "Web research",
+  "url": "https://www.covermymeds.com",
+  "date_added": "2026-03-11",
+  "problem_type": "prior_auth",
+  "contrarian": true,
+  "boring_software": true,
+  "notes": "CONTRARIAN: Prior authorization is universally hated but essential. Electronic automation is the only solution. Zero European players."
+}

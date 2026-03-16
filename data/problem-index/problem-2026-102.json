@@ -1,0 +1,16 @@
+{
+  "id": "problem-2026-102",
+  "problem": "Blood pressure readings at clinic visits inaccurate due to white coat hypertension in 15-30% of patients",
+  "problem_type": "diagnostics",
+  "solution_type": "Ambulatory blood pressure monitoring, home BP device integration, clinical workflow alerts",
+  "care_stage": "diagnosis",
+  "automation_type": "manual_augmentation",
+  "buyer": "clinic",
+  "care_setting": "primary_care",
+  "companies": ["Omron", "Withings", "iHealth", "BioTelemetry"],
+  "signals": ["Hypertension misdiagnosis costs", "Home monitoring reimbursement", "Remote patient monitoring programs"],
+  "boring_software": true,
+  "contrarian": true,
+  "url": "https://www.omronhealthcare.com",
+  "date_added": "2026-03-11"
+}

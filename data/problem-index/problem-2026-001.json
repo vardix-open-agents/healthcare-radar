@@ -1,0 +1,16 @@
+{
+  "id": "problem-2026-001",
+  "problem": "Healthcare appointment no-shows waste 5-20% of clinic capacity, costing millions annually per health system",
+  "problem_type": "scheduling",
+  "solution_type": "Automated appointment reminders, waitlist management, predictive no-show models",
+  "care_stage": "admin",
+  "automation_type": "workflow_automation",
+  "buyer": "clinic",
+  "care_setting": "primary_care",
+  "companies": ["Zymego", "DrDoctor", "Livi"],
+  "signals": ["Universal problem across all markets", "Quantified ROI", "NHS adoption"],
+  "boring_software": true,
+  "contrarian": false,
+  "url": "https://zymego.com",
+  "date_added": "2026-03-11"
+}

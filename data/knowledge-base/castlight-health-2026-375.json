@@ -1,0 +1,24 @@
+{
+  "company_name": "Castlight Health",
+  "problem_solved": "Employees struggle to navigate complex healthcare benefits, leading to poor outcomes, missed preventive care, and higher costs",
+  "solution_description": "Comprehensive healthcare navigation platform that guides members to better health, boosts engagement, consolidates benefits, and contains costs. Combines AI-powered app with live Care Guides. Nearly two decades of data and machine learning for personalization. NPS score of 67",
+  "buyer_persona": "health_plans|employers",
+  "care_stage": "triage",
+  "automation_level": "partial",
+  "varden_fit": "medium",
+  "region": "US",
+  "country": "US",
+  "funding_stage": "public",
+  "traction_signals": [
+    "37% more likely to close cancer screening gaps",
+    "21% more likely to get annual wellness visit",
+    "$33.83 decrease in monthly spending per Care Guide user",
+    "20% less likely to have avoidable ED visits",
+    "1.5-3.2% medical savings",
+    "NPS score of 67"
+  ],
+  "notes": "Employer/health plan focus rather than provider-facing. Strong ROI metrics for navigation and preventive care. Human Care Guides complement AI. US employer model may not translate directly to Nordic systems",
+  "discovery_round": 51,
+  "discovered_by": "sky",
+  "timestamp": "2026-03-11T23:24:00Z"
+}

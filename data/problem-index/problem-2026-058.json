@@ -1,0 +1,16 @@
+{
+  "id": "problem-2026-058",
+  "problem": "Specialist referrals result in 30% of patients never reaching specialists due to lost paperwork",
+  "problem_type": "data_integration",
+  "solution_type": "Automated referral tracking, bi-directional EHR integration, closed-loop referral systems",
+  "care_stage": "coordination",
+  "automation_type": "workflow_automation",
+  "buyer": "clinic",
+  "care_setting": "primary_care",
+  "companies": ["ReferralMD", "Par8o", "Eception", "Luma Health"],
+  "signals": ["Referral leakage costs", "Specialist access delays", "Patient drop-off rates"],
+  "boring_software": false,
+  "contrarian": false,
+  "url": "https://www.referralmd.com",
+  "date_added": "2026-03-11"
+}

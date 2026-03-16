@@ -1,0 +1,14 @@
+{
+  "company": "Anthem Tele-Neonatology",
+  "country": "US",
+  "problem": "Community hospitals with NICUs lack round-the-clock access to neonatologists, leading to unnecessary transfers and delayed specialized care for premature infants",
+  "solution": "Tele-NICU platform connecting community hospital NICUs with board-certified neonatologists for remote consultations, monitoring, and treatment guidance",
+  "problem_type": "specialty_telemedicine",
+  "solution_type": "SaaS",
+  "buyer": "hospitals",
+  "varden_fit": "low",
+  "url": "https://www.anthemtelehealth.com",
+  "source": "web",
+  "discovery_round": 100,
+  "discovered_by": "nova"
+}

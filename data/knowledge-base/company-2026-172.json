@@ -1,0 +1,28 @@
+{
+  "company": "Waystar (USA)",
+  "country": "United States",
+  "founded_year": 2017,
+  "category": "Healthcare Infrastructure",
+  "subsector": "Revenue Cycle Management Platform",
+  "description": "Healthcare revenue cycle management platform formed by merger of Navicure and ZirMed. Provides claims processing, payment posting, denial management, and patient payments. Used by 500000+ healthcare providers.",
+  "business_model": "B2B - RCM platform to healthcare providers",
+  "target_market": "Health systems, hospitals, physician practices",
+  "funding_stage": "Private Equity owned",
+  "funding_amount_usd": null,
+  "key_investors": "EQT Partners, Bain Capital",
+  "employees": "1000+",
+  "customers": "500000+ providers, 1000+ health systems",
+  "revenue_usd": null,
+  "tech_stack": ["Claims management", "Denial management", "Payment posting", "Patient payments", "Analytics"],
+  "integration_points": ["Payer systems", "EHRs", "Practice management", "Patient engagement platforms"],
+  "competitive_advantage": "Scale, AI-powered automation, comprehensive RCM suite",
+  "boring_software": true,
+  "varden_fit": {
+    "threat_level": "low",
+    "opportunity": "benchmark",
+    "rationale": "RCM leader - demonstrates market for billing automation"
+  },
+  "data_quality": "high",
+  "sources": ["waystar.com", "crunchbase.com"],
+  "last_updated": "2026-03-11"
+}

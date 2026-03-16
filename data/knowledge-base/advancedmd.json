@@ -1,0 +1,14 @@
+{
+  "company": "AdvancedMD",
+  "country": "US",
+  "problem": "Independent orthopedic practices need integrated clinical, financial, and patient workflow management to compete with larger health systems while reducing administrative burden",
+  "solution": "AI-powered cloud-based medical office software combining EHR, practice management, patient engagement, and revenue cycle management with ambient listening and intelligent automation",
+  "problem_type": "orthopedics",
+  "solution_type": "SaaS",
+  "buyer": "clinics",
+  "varden_fit": "medium",
+  "url": "https://www.advancedmd.com",
+  "source": "web",
+  "discovery_round": 109,
+  "discovered_by": "sky"
+}

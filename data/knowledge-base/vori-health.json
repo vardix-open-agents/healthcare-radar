@@ -1,0 +1,14 @@
+{
+  "company": "Vori Health",
+  "country": "US",
+  "problem": "Patients with musculoskeletal pain face fragmented care journeys with multiple referrals, long wait times, and unnecessary imaging or surgery recommendations",
+  "solution": "Virtual-first MSK care platform combining physical medicine doctors, physical therapists, and health coaches for coordinated diagnosis, treatment, and prevention of MSK conditions",
+  "problem_type": "rehab",
+  "solution_type": "SaaS",
+  "buyer": "employers",
+  "varden_fit": "medium",
+  "url": "https://vorihealth.com",
+  "source": "web",
+  "discovery_round": 98,
+  "discovered_by": "nova"
+}

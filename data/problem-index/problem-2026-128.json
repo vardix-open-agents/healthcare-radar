@@ -1,0 +1,16 @@
+{
+  "id": "problem-2026-128",
+  "problem": "Out-of-network claims have 40-60% denial rate and require manual single-case agreement negotiation, taking 7-14 days",
+  "problem_type": "oon_claims",
+  "solution_type": "Out-of-network rate prediction, automated negotiation, gap coverage verification, patient liability estimation",
+  "care_stage": "admin",
+  "automation_type": "ai_assisted",
+  "buyer": "health_system",
+  "care_setting": "specialty",
+  "companies": ["MultiPlan", "Zelis", "Phynd", "Establishment Labs"],
+  "signals": ["40-60% OON denial rate", "7-14 day negotiation delays", "Surprise billing regulations", "Single-case agreements manual"],
+  "boring_software": true,
+  "contrarian": true,
+  "url": "https://www.cms.gov/no-surprises",
+  "date_added": "2026-03-11"
+}

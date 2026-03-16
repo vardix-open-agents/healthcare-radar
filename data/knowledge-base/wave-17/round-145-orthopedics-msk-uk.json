@@ -1,0 +1,86 @@
+[
+  {
+    "company_name": "EQL",
+    "hq_location": "London, United Kingdom",
+    "website": "https://eql.ai",
+    "problem_solved": "EQL addresses the bottleneck in MSK care where patients face long wait times for physiotherapy appointments. Their Phio platform uses AI to triage patients remotely, providing immediate access to guided physiotherapy exercises while routing complex cases to appropriate specialists.",
+    "who_buys_it": "NHS trusts, private healthcare providers, insurers (B2B2C model)",
+    "key_features": [
+      "AI-powered MSK triage and assessment platform",
+      "Digital physiotherapy with exercise prescription and progress tracking",
+      "Integration with clinical workflows for seamless handoffs to human therapists"
+    ],
+    "business_model": "SaaS subscription to healthcare providers and insurers",
+    "why_varden_should_care": "High replicability - the AI triage model can be adapted to other clinical pathways (dermatology, mental health triage). The NHS validation provides a strong template for entering other public health systems."
+  },
+  {
+    "company_name": "Imorphics",
+    "hq_location": "Manchester, United Kingdom",
+    "website": "https://www.imorphics.com",
+    "problem_solved": "Imorphics solves the challenge of accurate surgical planning in orthopedics by using AI to analyze medical imaging (CT/MRI) and create precise 3D models for joint replacement surgery planning. Acquired by Stryker in 2024.",
+    "who_buys_it": "Hospitals, orthopedic surgeons, medical device companies (B2B)",
+    "key_features": [
+      "AI-powered segmentation of medical images for orthopedic applications",
+      "3D modeling for personalized surgical planning",
+      "Statistical shape modeling for predicting bone morphology"
+    ],
+    "business_model": "B2B licensing to medical device manufacturers and hospitals (acquired by Stryker)",
+    "why_varden_should_care": "Demonstrates successful exit to major medical device player. The imaging AI technology stack is replicable across other surgical specialties beyond orthopedics (neurosurgery, cardiac surgery)."
+  },
+  {
+    "company_name": "Physitrack",
+    "hq_location": "London, United Kingdom",
+    "website": "https://www.physitrack.com",
+    "problem_solved": "Physitrack addresses the inefficiency of traditional physiotherapy exercise prescription by providing clinicians with a digital platform to create customized home exercise programs, track patient adherence, and conduct telehealth sessions - all in one integrated system.",
+    "who_buys_it": "Physiotherapy clinics, NHS trusts, private practices, rehabilitation centers",
+    "key_features": [
+      "Library of 18,000+ video exercises with customizable programs",
+      "Patient adherence tracking through PhysiApp (patient-facing app with 3M+ downloads)",
+      "Integrated telehealth and outcome measurement tools"
+    ],
+    "business_model": "SaaS subscription (freemium model with paid tiers for teams/organizations)",
+    "why_varden_should_care": "High replicability - the exercise prescription + adherence tracking model can be applied to other therapeutic areas (occupational therapy, speech therapy, cardiac rehab). Strong NHS traction validates the model."
+  },
+  {
+    "company_name": "Bioliberty",
+    "hq_location": "Edinburgh, United Kingdom",
+    "website": "https://www.bioliberty.com",
+    "problem_solved": "Bioliberty addresses the shortage of physical therapists and the rising demand for rehabilitation services by developing soft robotic gloves combined with AI-powered gamified therapy exercises, enabling patients to complete more therapy independently while clinicians monitor progress remotely.",
+    "who_buys_it": "Rehabilitation hospitals, physiotherapy clinics, home care providers",
+    "key_features": [
+      "Soft robotic glove for assisted hand therapy",
+      "Gamified therapy exercises with AI-powered progression",
+      "Remote clinician monitoring and data analytics"
+    ],
+    "business_model": "Hardware-as-a-Service (device rental) with SaaS subscription for software platform",
+    "why_varden_should_care": "Replicable model combining hardware + software for rehabilitation. The gamification + AI insights approach can be applied to other rehabilitation devices (lower limb, spinal). Scottish base offers access to UK innovation grants."
+  },
+  {
+    "company_name": "Huma",
+    "hq_location": "London, United Kingdom",
+    "website": "https://www.huma.com",
+    "problem_solved": "Huma addresses the fragmentation in healthcare delivery by providing a modular platform for remote patient monitoring, digital therapeutics, and care coordination - enabling health systems to deploy virtual wards, hospital-at-home programs, and chronic disease management at scale.",
+    "who_buys_it": "Health systems, pharmaceutical companies, health insurers, governments (B2B/B2G)",
+    "key_features": [
+      "AI-powered remote patient monitoring platform supporting 100M+ patients globally",
+      "Regulated digital therapeutics (SaMD) with clinical validation",
+      "Virtual ward and hospital-at-home care coordination tools"
+    ],
+    "business_model": "SaaS platform with per-patient pricing; partnership model with pharma for clinical trials",
+    "why_varden_should_care": "Massive scale (100M+ patients) demonstrates platform viability. Modular architecture allows replication across therapeutic areas. Strong UK/regulatory positioning (MHRA, FDA) provides template for digital therapeutics regulatory pathway."
+  },
+  {
+    "company_name": "Lexacom",
+    "hq_location": "St. Albans, United Kingdom",
+    "website": "https://www.lexacom.co.uk",
+    "problem_solved": "Lexacom addresses the administrative burden in healthcare by providing workflow management, speech recognition, and ambient AI tools that streamline clinical documentation - reducing time spent on paperwork and improving accuracy in referrals and letters.",
+    "who_buys_it": "NHS trusts, GP practices, specialist clinics, hospitals",
+    "key_features": [
+      "AI-powered speech recognition for clinical dictation",
+      "Workflow management for letter production and referral processing",
+      "Ambient AI for capturing clinical information from conversations"
+    ],
+    "business_model": "SaaS subscription with per-user pricing",
+    "why_varden_should_care": "Replicable across all medical specialties, not just MSK. The workflow + speech recognition + ambient AI stack can be adapted for surgical documentation, physiotherapy notes, and multi-disciplinary team coordination. Strong NHS customer base."
+  }
+]

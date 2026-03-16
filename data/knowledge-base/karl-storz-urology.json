@@ -1,0 +1,14 @@
+{
+  "company": "KARL STORZ Urology",
+  "country": "DE",
+  "problem": "Urological surgeons require precision endoscopic instruments for minimally invasive procedures that enable complex surgeries through natural orifices or small incisions",
+  "solution": "Complete urology endoscopy systems including cystoscopes, resectoscopes, laparoscopic instruments, and ENDOCAM 3D visualization for TURP, nephrectomy, and robotic-assisted procedures",
+  "problem_type": "urology",
+  "solution_type": "devices",
+  "buyer": "hospitals",
+  "varden_fit": "low",
+  "url": "https://www.karlstorz.com/urology",
+  "source": "web",
+  "discovery_round": 112,
+  "discovered_by": "nova"
+}

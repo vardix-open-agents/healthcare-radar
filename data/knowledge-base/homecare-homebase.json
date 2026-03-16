@@ -1,0 +1,14 @@
+{
+  "company": "Homecare Homebase",
+  "country": "US",
+  "problem": "Home health and hospice agencies face regulatory burden, documentation inefficiencies, and care coordination challenges that impact patient outcomes and agency profitability",
+  "solution": "Comprehensive home health and hospice EMR and management platform with point-of-care documentation, billing, scheduling, and compliance tools",
+  "problem_type": "palliative_care",
+  "solution_type": "SaaS",
+  "buyer": "providers",
+  "varden_fit": "medium",
+  "url": "https://www.hchb.com",
+  "source": "web",
+  "discovery_round": 121,
+  "discovered_by": "nova"
+}

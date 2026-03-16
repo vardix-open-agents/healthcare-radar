@@ -1,0 +1,23 @@
+{
+  "company_name": "Mindler",
+  "problem_solved": "Long wait times and limited access to mental health services, especially for non-acute conditions",
+  "solution_description": "Swedish digital mental health platform offering video therapy, CBT programs, and psychiatric consultations. Partners with Swedish regions to provide digital mental healthcare. Integrated with Tandem Health for AI-powered documentation",
+  "buyer_persona": "health_systems|patients|clinics",
+  "care_stage": "triage|treatment",
+  "automation_level": "partial",
+  "varden_fit": "very_high",
+  "region": "Nordics",
+  "country": "Sweden",
+  "funding_stage": "series_c",
+  "traction_signals": [
+    "Partnership with Tandem Health for AI documentation",
+    "Swedish regional partnerships",
+    "Digital CBT programs",
+    "Video therapy platform",
+    "Integration with public mental health services"
+  ],
+  "notes": "Strong Swedish mental health platform. Tandem Health partnership shows ecosystem collaboration. Public system integration model relevant for Vården",
+  "discovery_round": 51,
+  "discovered_by": "sky",
+  "timestamp": "2026-03-11T23:26:00Z"
+}

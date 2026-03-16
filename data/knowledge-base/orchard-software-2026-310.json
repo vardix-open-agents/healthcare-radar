@@ -1,0 +1,22 @@
+{
+  "id": "orchard-software-2026-310",
+  "title": "Orchard Software - Lab Information System",
+  "company": "Orchard Software",
+  "country": "USA",
+  "segment": "infrastructure",
+  "problem": "Mid-size labs need flexible LIS without enterprise price tag; integration with EHRs challenging",
+  "solution": "Orchard Harvest LIS providing comprehensive lab management with open API architecture",
+  "technology": "LIS software, lab workflow management, EHR integration",
+  "target_customer": "Hospital labs, reference labs, physician groups",
+  "care_setting": "all",
+  "care_domain": "diagnostics",
+  "care_stage": "diagnosis",
+  "automation_level": "partial",
+  "ai_type": null,
+  "traction_signals": ["1000+ labs using Orchard", "30+ years in market", "Strong integration capabilities"],
+  "funding": "Private",
+  "regulatory_notes": "CLIA compliant, supporting CAP accreditation",
+  "source": "sky-round18-diagnostics",
+  "url": "https://www.orchardsoft.com",
+  "date_added": "2026-03-11"
+}

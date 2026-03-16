@@ -1,0 +1,22 @@
+{
+  "id": "intelerad-2026-309",
+  "title": "Intelerad - Enterprise Imaging & PACS",
+  "company": "Intelerad Medical Systems",
+  "country": "Canada",
+  "segment": "infrastructure",
+  "problem": "Radiology groups and teleradiology practices need scalable, performant imaging infrastructure",
+  "solution": "Cloud and on-premise PACS with advanced workflow, visualization, and reporting tools",
+  "technology": "PACS, VNA, teleradiology platform, zero-footprint viewer",
+  "target_customer": "Radiology groups, teleradiology companies, health systems",
+  "care_setting": "all",
+  "care_domain": "diagnostics",
+  "care_stage": "diagnosis",
+  "automation_level": "partial",
+  "ai_type": null,
+  "traction_signals": ["Acquired Ambra Health 2023", "300+ teleradiology customers", "Global presence"],
+  "funding": "Private (acquired by TPG Capital)",
+  "regulatory_notes": "FDA 510(k) cleared, MDR compliant",
+  "source": "sky-round18-diagnostics",
+  "url": "https://www.intelerad.com",
+  "date_added": "2026-03-11"
+}

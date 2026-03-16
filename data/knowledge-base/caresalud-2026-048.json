@@ -1,0 +1,29 @@
+{
+  "id": "caresalud-2026-048",
+  "title": "CareSalud - Healthcare Staffing Platform",
+  "company": "CareSalud",
+  "country": "Spain",
+  "region": "EU",
+  "segment": "admin",
+  "problem": "Healthcare staffing is inefficient. Facilities struggle to find qualified temporary staff quickly.",
+  "solution": "Platform connecting healthcare facilities with qualified temporary staff for last-minute shifts and planned coverage.",
+  "technology": "Staffing marketplace, credential verification, scheduling",
+  "target_customer": "Healthcare facilities, healthcare workers",
+  "care_setting": "hospital",
+  "care_domain": "general",
+  "care_stage": "admin",
+  "automation_level": "partial",
+  "ai_type": null,
+  "traction_signals": [
+    "Spanish healthcare staffing platform",
+    "Focus on temporary staffing",
+    "Facility and worker matching"
+  ],
+  "funding": null,
+  "regulatory_notes": "Healthcare credential verification, employment regulations.",
+  "varden_fit": "Low — staffing marketplace, not patient-facing. Different segment.",
+  "source": "EU health tech ecosystem",
+  "url": "https://www.caresalud.com",
+  "date_added": "2026-03-11",
+  "notes": "Healthcare staffing platform. Not directly relevant to Varden."
+}

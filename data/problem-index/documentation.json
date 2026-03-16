@@ -1,0 +1,42 @@
+{
+  "problem_type": "documentation",
+  "count": 6,
+  "entries": [
+    {
+      "id": "zombie-2026-030",
+      "company": "Zombie AI",
+      "country": "Sweden",
+      "varden_fit": "Moderate \u2014 admin automation for clinics. Could integrate with Varden's clinic tools."
+    },
+    {
+      "id": "leyr-2026-003",
+      "company": "Leyr",
+      "country": "Sweden",
+      "varden_fit": "VERY HIGH - Direct infrastructure play. Varden has 15+ EHR integrations - Leyr's model could acceler"
+    },
+    {
+      "id": "accurx-2026-020",
+      "company": "AccuRx",
+      "country": "UK",
+      "varden_fit": "High \u2014 direct parallel to Varden's clinic communication infrastructure. AccuRx's success proves mark"
+    },
+    {
+      "id": "tandem-2026-002",
+      "company": "Tandem Health",
+      "country": "Sweden",
+      "varden_fit": "HIGH - Direct infrastructure play. AI documentation reduces administrative burden. Could integrate w"
+    },
+    {
+      "id": "vidhing-2026-047",
+      "company": "Vidhing",
+      "country": "Sweden",
+      "varden_fit": "High \u2014 video consultation infrastructure could power Varden's telehealth offerings."
+    },
+    {
+      "id": "heidorn-2026-029",
+      "company": "Heidorn",
+      "country": "Sweden",
+      "varden_fit": "Moderate \u2014 documentation tool for clinics. Could be valuable add-on for Varden clinic partners."
+    }
+  ]
+}

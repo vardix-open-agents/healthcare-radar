@@ -1,0 +1,16 @@
+{
+  "id": "problem-2026-119",
+  "problem": "Allied health professionals (PT, OT, SLP) scheduling fragmented across separate systems from nursing",
+  "problem_type": "staffing",
+  "solution_type": "Unified therapy scheduling platforms, interdisciplinary coordination tools, mobile scheduling",
+  "care_stage": "treatment",
+  "automation_type": "workflow_automation",
+  "buyer": "hospital",
+  "care_setting": "specialty",
+  "companies": ["WebPT", "Raintree Systems", "Therapy Brands", "Optima Healthcare"],
+  "signals": ["Therapy profession growth", "Rehabilitation demand", "Value-based rehab outcomes"],
+  "boring_software": true,
+  "contrarian": false,
+  "url": "https://www.webpt.com",
+  "date_added": "2026-03-11"
+}

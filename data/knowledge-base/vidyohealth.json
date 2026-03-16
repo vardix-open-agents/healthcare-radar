@@ -1,0 +1,14 @@
+{
+  "company": "VidyoHealth (Enghouse Video)",
+  "country": "US",
+  "problem": "Healthcare organizations need reliable, secure video communication that integrates with EHR systems and medical devices",
+  "solution": "HIPAA and GDPR-compliant video conferencing platform designed for telehealth with seamless EHR integration supporting various virtual care scenarios from rural healthcare to specialty consultations",
+  "problem_type": "telemedicine",
+  "solution_type": "SaaS",
+  "buyer": "providers",
+  "varden_fit": "high",
+  "url": "https://www.enghousevideo.com/video-conferencing-solutions/industry/telehealth",
+  "source": "web",
+  "discovery_round": 73,
+  "discovered_by": "nova"
+}

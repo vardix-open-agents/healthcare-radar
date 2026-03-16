@@ -1,0 +1,32 @@
+{
+  "id": "ntthrivify-2026-094",
+  "title": "nThrive - Healthcare Revenue Cycle Management",
+  "company": "nThrive",
+  "country": "US",
+  "region": "US",
+  "segment": "billing",
+  "problem": "Healthcare organizations need comprehensive revenue cycle management from patient access to claims resolution.",
+  "solution": "End-to-end revenue cycle solutions: patient access, coding, claims management, denials, and analytics. Technology-enabled services with AI augmentation.",
+  "technology": "RCM platform, analytics, AI for coding and denials",
+  "target_customer": "Health systems, hospitals, physician groups",
+  "care_setting": "all",
+  "care_domain": "general",
+  "care_stage": "admin",
+  "automation_level": "partial",
+  "ai_type": "AI for coding and denial prediction",
+  "traction_signals": [
+    "Comprehensive RCM platform",
+    "Technology-enabled services model",
+    "Analytics capabilities"
+  ],
+  "funding": "Private company",
+  "regulatory_notes": "HIPAA compliant",
+  "varden_fit": "HIGH — nThrive's end-to-end RCM model is applicable to European multi-payer systems.",
+  "source": "Industry knowledge",
+  "url": "https://www.nthrive.com",
+  "date_added": "2026-03-11",
+  "problem_type": "claims",
+  "contrarian": true,
+  "boring_software": true,
+  "notes": "CONTRARIAN: End-to-end RCM is essential infrastructure. European healthcare needs similar comprehensive solutions."
+}

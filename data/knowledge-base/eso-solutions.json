@@ -1,0 +1,14 @@
+{
+  "company": "ESO Solutions",
+  "country": "US",
+  "problem": "EMS agencies struggle with fragmented operations, disconnected ePCR systems, manual scheduling, and lack of actionable analytics to improve patient care and operational efficiency.",
+  "solution": "ESO provides an integrated EMS software platform covering scheduling, asset management, checklists, ePCR documentation, and analytics - all in one unified system designed specifically for emergency medical services.",
+  "problem_type": "emergency_services",
+  "solution_type": "SaaS",
+  "buyer": "providers",
+  "varden_fit": "low",
+  "url": "https://www.eso.com/",
+  "source": "web",
+  "discovery_round": 94,
+  "discovered_by": "sky"
+}

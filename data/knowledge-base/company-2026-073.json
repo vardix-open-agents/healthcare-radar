@@ -1,0 +1,27 @@
+{
+  "company": "Headspace for Work",
+  "country": "United States / Global",
+  "founded_year": 2010,
+  "category": "Employee Mental Health",
+  "subsector": "B2B Mindfulness & Meditation Platform",
+  "description": "Enterprise version of popular meditation app offering mindfulness training, sleep tools, and mental health support for employees. Used by 3000+ organizations including Starbucks, Adobe, and Hyatt.",
+  "business_model": "B2B - SaaS subscription sold to HR/benefits teams",
+  "target_market": "Enterprises (500+ employees) globally",
+  "funding_stage": "Public (merged with Ginger to form Headspace Health)",
+  "funding_amount_usd": 320000000,
+  "key_investors": "Now publicly traded; formerly backed by Spectrum Equity, Times Bridge",
+  "employees": 1500,
+  "customers": "3000+ enterprise clients, 70M+ individual users",
+  "revenue_usd": 300000000,
+  "tech_stack": ["Mobile app", "Web platform", "AI coaching", "Content management"],
+  "integration_points": ["HRIS systems", "Benefits platforms", "EAP programs"],
+  "competitive_advantage": "Consumer brand recognition, clinical validation, comprehensive mental health suite",
+  "varden_fit": {
+    "threat_level": "low",
+    "opportunity": "partner",
+    "rationale": "Complementary to occupational health - could bundle with Varden services"
+  },
+  "data_quality": "high",
+  "sources": ["headspace.com", "crunchbase.com"],
+  "last_updated": "2026-03-11"
+}

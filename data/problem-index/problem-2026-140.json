@@ -1,0 +1,16 @@
+{
+  "id": "problem-2026-140",
+  "problem": "Retroactive authorization requests have 60% denial rate and require manual justification, taking 14-21 days to resolve",
+  "problem_type": "retroactive_auth",
+  "solution_type": "Retroactive auth prediction, automated justification generation, deadline monitoring, appeal workflow integration",
+  "care_stage": "admin",
+  "automation_type": "ai_assisted",
+  "buyer": "health_system",
+  "care_setting": "hospital",
+  "companies": ["CoverMyMeds", "Change Healthcare", "Waystar", "Cohere Health"],
+  "signals": ["60% retroactive denial rate", "14-21 day resolution", "Manual justification required", "Deadline monitoring demand"],
+  "boring_software": true,
+  "contrarian": false,
+  "url": "https://www.cms.gov/retroactive-auth",
+  "date_added": "2026-03-11"
+}

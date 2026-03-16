@@ -1,0 +1,14 @@
+{
+  "company": "Genea Biomedx",
+  "country": "AU",
+  "problem": "IVF labs need specialized equipment for embryo incubation, witnessing, and workflow management to optimize outcomes and prevent errors",
+  "solution": "IVF lab technology including Geri benchtop incubator with time-lapse, Gems embryo culture media, Gidget witnessing system, Guardian traceability, and Genie genetic analysis",
+  "problem_type": "fertility",
+  "solution_type": "SaaS",
+  "buyer": "clinics",
+  "varden_fit": "medium",
+  "url": "https://www.geneabiomedx.com",
+  "source": "web",
+  "discovery_round": 138,
+  "discovered_by": "sky"
+}

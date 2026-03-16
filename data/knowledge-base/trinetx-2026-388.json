@@ -1,0 +1,22 @@
+{
+  "company_name": "TriNetX",
+  "problem_solved": "Difficulty finding eligible patients for clinical trials and designing optimal trial protocols",
+  "solution_description": "Global clinical trial network connecting healthcare organizations with pharma for patient recruitment and trial design. Real-time EHR data from 200M+ patients across 150+ healthcare orgs.",
+  "buyer_persona": "pharma_lifesciences,biotech",
+  "care_stage": "clinical_trials",
+  "automation_level": "partial",
+  "varden_fit": "medium",
+  "region": "Global",
+  "country": "US",
+  "funding_stage": "series_d",
+  "traction_signals": [
+    "$180M+ raised",
+    "200M+ patient records",
+    "25 of top 25 pharma clients",
+    "150+ healthcare org partners"
+  ],
+  "notes": "Leading clinical trial patient finding network. Competes with IQVIA, Datavant. EHR network effects create moat. Critical for trial feasibility and recruitment.",
+  "discovery_round": 53,
+  "discovered_by": "sky",
+  "timestamp": "2026-03-11T23:18:00Z"
+}

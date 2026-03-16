@@ -1,0 +1,14 @@
+{
+  "company": "DrDoctor",
+  "country": "GB",
+  "problem": "NHS hospitals struggle with appointment management, patient communication, and demand validation, leading to high DNA rates and inefficient resource utilization",
+  "solution": "Hybrid healthcare platform (HybridOS) with patient-powered scheduling, automated validation, digital correspondence, and care coordination for NHS trusts to manage 140M+ appointments",
+  "problem_type": "practice_management",
+  "solution_type": "SaaS",
+  "buyer": "clinics",
+  "varden_fit": "low",
+  "url": "https://www.drdoctor.co.uk",
+  "source": "web",
+  "discovery_round": 87,
+  "discovered_by": "nova"
+}

@@ -1,0 +1,109 @@
+[
+  {
+    "company_name": "SkinVision",
+    "hq_location": "Amsterdam, Netherlands",
+    "website_url": "https://www.skinvision.com",
+    "problem_solved": "Early detection of skin cancer through AI-powered analysis of skin lesions and moles using smartphone photos",
+    "who_buys_it": "Individuals concerned about skin health, health insurance companies, and healthcare providers in Nordic countries (Sweden, Norway, Denmark, Finland)",
+    "key_features": [
+      "AI-powered skin cancer detection with 90%+ sensitivity",
+      "Photo analysis of moles and skin spots",
+      "Risk assessment within minutes",
+      "Integration with dermatologists for professional review",
+      "3+ million users worldwide",
+      "5+ million skin checks performed"
+    ],
+    "business_model": "B2C subscription (individual users) and B2B partnerships with health insurers and healthcare systems",
+    "why_varden_should_care": "While headquartered in Netherlands, SkinVision has significant Nordic market presence and represents a successful model for dermatology-focused digital health. Demonstrates validated AI approach to skin condition screening, which could inform investment theses in similar dermatology tech platforms."
+  },
+  {
+    "company_name": "Kry (Livi)",
+    "hq_location": "Stockholm, Sweden",
+    "website_url": "https://www.kry.se",
+    "problem_solved": "Provides accessible digital and physical healthcare services, reducing wait times and improving access to medical professionals including dermatologists",
+    "who_buys_it": "Individuals seeking quick access to healthcare, regional healthcare systems, and employers offering health benefits",
+    "key_features": [
+      "Digital consultations via video/chat with doctors, psychologists, nurses, and physiotherapists",
+      "34+ physical healthcare centers across Sweden",
+      "Prescription renewal and management",
+      "Integration with Swedish healthcare system",
+      "Fast access (within 2 minutes for digital consultations)",
+      "4.9 rating in App Store",
+      "14+ million healthcare encounters"
+    ],
+    "business_model": "B2C (direct patient consultations) and B2G (partnerships with regional healthcare authorities in Sweden, Norway, and other European countries)",
+    "why_varden_should_care": "Leading Nordic digital health platform with proven model for hybrid digital/physical care delivery. While not dermatology-specific, Kry demonstrates the scalability of digital health in Nordic markets and could expand dermatology services. Strong track record with 14M+ encounters validates the digital health model in Nordics."
+  },
+  {
+    "company_name": "Visbook",
+    "hq_location": "Gothenburg, Sweden",
+    "website_url": "https://visbook.com",
+    "problem_solved": "Comprehensive spa and wellness center management, including booking, guest management, and integration with hotel operations",
+    "who_buys_it": "Spa facilities, wellness centers, aesthetic clinics, and hotels offering spa services across Scandinavia",
+    "key_features": [
+      "Integrated booking system for spa treatments and appointments",
+      "Guest management and CRM functionality",
+      "Integration with hotel PMS (Property Management System)",
+      "Package booking (accommodation, meals, spa treatments)",
+      "Resource and staff scheduling",
+      "Financial management and accounting integration",
+      "Mobile app for operations management"
+    ],
+    "business_model": "SaaS subscription model targeting spa and wellness facilities",
+    "why_varden_should_care": "While primarily focused on spa/hotel wellness operations, Visbook serves aesthetic clinics in the Nordics and demonstrates the market for practice management software in the wellness/beauty space. Could represent an opportunity to understand the Nordic wellness market or explore expansion into medical aesthetics."
+  },
+  {
+    "company_name": "Treatwell",
+    "hq_location": "London, UK (with significant Nordic operations)",
+    "website_url": "https://www.treatwell.com",
+    "problem_solved": "Online marketplace and practice management software for beauty salons, spas, and aesthetic clinics",
+    "who_buys_it": "Beauty salons, spas, aesthetic clinics, and wellness centers across Europe including Nordic countries",
+    "key_features": [
+      "Online booking platform for customers",
+      "Practice management software (Treatwell Connect)",
+      "Customer relationship management",
+      "Staff scheduling and management",
+      "Inventory management",
+      "Marketing tools and customer acquisition",
+      "Integration with major European markets"
+    ],
+    "business_model": "SaaS subscription for practice management software plus commission on marketplace bookings",
+    "why_varden_should_care": "Leading European beauty/wellness marketplace with practice management capabilities. While not Nordic-specific, has presence in multiple European markets. Demonstrates the B2B2C model for aesthetic/wellness services and could provide market intelligence on clinic management needs."
+  },
+  {
+    "company_name": "Docplanner Group",
+    "hq_location": "Warsaw, Poland (with Nordic presence)",
+    "website_url": "https://www.docplanner.com",
+    "problem_solved": "Digital practice management and patient acquisition platform for healthcare providers including dermatologists and aesthetic clinics",
+    "who_buys_it": "Healthcare providers, dermatologists, aesthetic clinics, and medical practices across Europe including Nordic countries",
+    "key_features": [
+      "Practice management software",
+      "Online appointment booking",
+      "Patient communication tools",
+      "Electronic health records",
+      "Telemedicine capabilities",
+      "Patient review platform",
+      "Marketing and patient acquisition tools"
+    ],
+    "business_model": "SaaS subscription for practice management plus listing fees on marketplace platform",
+    "why_varden_should_care": "Leading European healthcare practice management platform with presence across multiple markets. While not Nordic-specific, demonstrates the business model for clinic management software and could have insights into dermatology practice needs. Potential acquisition target or market entrant for Nordic dermatology space."
+  },
+  {
+    "company_name": "Mindbody",
+    "hq_location": "San Luis Obispo, California, USA (with global operations including Nordics)",
+    "website_url": "https://www.mindbodyonline.com",
+    "problem_solved": "Comprehensive business management software for wellness, beauty, and aesthetic businesses",
+    "who_buys_it": "Wellness studios, aesthetic clinics, beauty salons, and fitness centers globally including Nordic countries",
+    "key_features": [
+      "Appointment scheduling and management",
+      "Client management and CRM",
+      "Staff management and scheduling",
+      "Point of sale and payment processing",
+      "Marketing automation",
+      "Performance analytics and reporting",
+      "Mobile app for business owners"
+    ],
+    "business_model": "SaaS subscription model with tiered pricing based on features and business size",
+    "why_varden_should_care": "Global leader in wellness/beauty business management software. While US-based, has international presence and demonstrates the feature set needed for aesthetic clinic management. Could provide market intelligence on the needs of aesthetic clinics or represent a potential acquirer of Nordic clinic software companies."
+  }
+]

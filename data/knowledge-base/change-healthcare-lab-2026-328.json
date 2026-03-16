@@ -1,0 +1,22 @@
+{
+  "id": "change-healthcare-lab-2026-328",
+  "title": "Change Healthcare - Lab Revenue & Interoperability",
+  "company": "Change Healthcare (UnitedHealth)",
+  "country": "USA",
+  "segment": "infrastructure",
+  "problem": "Lab claims submission, denial management, and connectivity require fragmented solutions",
+  "solution": "Comprehensive lab revenue cycle and interoperability platform",
+  "technology": "Claims management, EDI, lab interfaces, PACS, RIS",
+  "target_customer": "Labs, radiology groups, health systems",
+  "care_setting": "all",
+  "care_domain": "infrastructure",
+  "care_stage": "all",
+  "automation_level": "full",
+  "ai_type": null,
+  "traction_signals": ["Largest healthcare IT company", "Billion+ transactions daily", "Acquired by UHG"],
+  "funding": "Public (subsidiary)",
+  "regulatory_notes": "HIPAA compliant, ONC certified",
+  "source": "sky-round18-diagnostics",
+  "url": "https://www.changehealthcare.com",
+  "date_added": "2026-03-11"
+}

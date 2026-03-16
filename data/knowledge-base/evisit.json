@@ -1,0 +1,14 @@
+{
+  "company": "eVisit",
+  "country": "US",
+  "problem": "Healthcare delivery systems need to coordinate virtual care services efficiently while managing capacity surges and improving access",
+  "solution": "Unified virtual care platform that connects people, processes, and technology to improve access, efficiency, and outcomes for commercial and public healthcare delivery systems",
+  "problem_type": "telemedicine",
+  "solution_type": "SaaS",
+  "buyer": "providers",
+  "varden_fit": "high",
+  "url": "https://evisit.com/",
+  "source": "web",
+  "discovery_round": 73,
+  "discovered_by": "nova"
+}

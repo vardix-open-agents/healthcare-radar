@@ -1,0 +1,16 @@
+{
+  "id": "problem-2026-117",
+  "problem": "Emergency department physicians work 12-hour shifts with unpredictable patient volumes, causing burnout",
+  "problem_type": "staffing",
+  "solution_type": "ED staffing optimization, real-time volume prediction, flexible shift models",
+  "care_stage": "admin",
+  "automation_type": "ai_assisted",
+  "buyer": "hospital",
+  "care_setting": "emergency",
+  "companies": ["Envision Healthcare", "TeamHealth", "Sound Physicians", "ApolloMD"],
+  "signals": ["ED physician burnout 60%", "Contract labor costs", "Quality of life concerns"],
+  "boring_software": false,
+  "contrarian": false,
+  "url": "https://www.envisionhealth.com",
+  "date_added": "2026-03-11"
+}

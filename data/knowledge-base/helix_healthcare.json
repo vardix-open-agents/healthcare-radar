@@ -1,0 +1,14 @@
+{
+  "company": "Helix Healthcare",
+  "country": "AE",
+  "problem": "UAE healthcare providers need integrated technology solutions to manage patient data, appointments, billing, and clinical workflows while complying with local regulations",
+  "solution": "Integrated healthcare management platform offering EMR, patient portal, appointment scheduling, billing, and analytics for clinics and healthcare facilities in UAE, with support for Arabic language and local regulatory compliance",
+  "problem_type": "practice_management",
+  "solution_type": "SaaS",
+  "buyer": "clinics",
+  "varden_fit": "medium",
+  "url": "https://www.helixhealthcare.io",
+  "source": "web",
+  "discovery_round": 77,
+  "discovered_by": "sky"
+}

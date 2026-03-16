@@ -1,0 +1,14 @@
+{
+  "company": "Castor",
+  "country": "NL",
+  "problem": "Clinical trial data capture is fragmented across multiple systems, with complex EDC platforms that are difficult to use and slow to deploy, delaying research timelines.",
+  "solution": "Unified eClinical data management platform with EDC (electronic data capture), eCOA/ePRO, eConsent, and decentralized clinical trial capabilities. Self-service platform that enables study deployment in weeks with 100% customer satisfaction and 50,000+ users.",
+  "problem_type": "clinical_trials",
+  "solution_type": "SaaS",
+  "buyer": "research_orgs",
+  "varden_fit": "low",
+  "url": "https://www.castoredc.com/",
+  "source": "web",
+  "discovery_round": 103,
+  "discovered_by": "sky"
+}

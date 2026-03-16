@@ -1,0 +1,16 @@
+{
+  "id": "problem-2026-106",
+  "problem": "Pediatric vaccination records scattered across 5-10 providers, causing immunization gaps",
+  "problem_type": "documentation",
+  "solution_type": "Immunization registries, vaccine record aggregation, school entry requirement verification",
+  "care_stage": "admin",
+  "automation_type": "workflow_automation",
+  "buyer": "clinic",
+  "care_setting": "primary_care",
+  "companies": ["Scientific Technologies Corporation", "AIM", "IIS", "Epic Immunization"],
+  "signals": ["Vaccine-preventable disease outbreaks", "Immunization rates declining", "School vaccination mandates"],
+  "boring_software": true,
+  "contrarian": false,
+  "url": "https://www.stchome.com",
+  "date_added": "2026-03-11"
+}

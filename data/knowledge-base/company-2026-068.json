@@ -1,0 +1,27 @@
+{
+  "company": "Push Doctor (Square Health)",
+  "country": "United Kingdom",
+  "founded_year": 2013,
+  "category": "Telemedicine",
+  "subsector": "NHS & Private Video Consultation",
+  "description": "UK's first platform to provide video consultations via smartphone. Now part of Square Health, serving both NHS patients and private patients. CQC-rated Outstanding.",
+  "business_model": "B2B2C - NHS partnerships + Private pay; B2B for corporate health",
+  "target_market": "UK consumers via NHS; corporate clients for employee health",
+  "funding_stage": "Acquired",
+  "funding_amount_gbp": 30000000,
+  "key_investors": "Acquired by Square Health (Bupa-backed)",
+  "employees": 100,
+  "customers": "2M+ consultations delivered",
+  "revenue_gbp": 15000000,
+  "tech_stack": ["Mobile app", "Web platform", "Video conferencing", "GP clinical system integration"],
+  "integration_points": ["EMIS", "SystmOne", "NHS systems", "Private health insurers"],
+  "competitive_advantage": "First-mover in UK telemedicine, NHS partnerships, CQC Outstanding rating",
+  "varden_fit": {
+    "threat_level": "medium",
+    "opportunity": "partner",
+    "rationale": "UK market entry partner - established NHS relationships and regulatory compliance"
+  },
+  "data_quality": "high",
+  "sources": ["pushdoctor.co.uk", "squarehealth.com"],
+  "last_updated": "2026-03-11"
+}

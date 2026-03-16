@@ -1,0 +1,14 @@
+{
+  "company": "NextGen Healthcare",
+  "country": "US",
+  "problem": "Specialty hematology practices need EHR systems with configurable workflows for blood disorder diagnosis, treatment planning, and long-term patient monitoring that adapt to practice-specific needs.",
+  "solution": "Specialty-focused cloud EHR with ambient AI clinical documentation, hematology-specific templates, intelligent patient engagement tools, and integrated revenue cycle management for blood disorder clinics.",
+  "problem_type": "hematology",
+  "solution_type": "SaaS",
+  "buyer": "clinics",
+  "varden_fit": "medium",
+  "url": "https://www.nextgen.com",
+  "source": "web",
+  "discovery_round": 120,
+  "discovered_by": "sky"
+}

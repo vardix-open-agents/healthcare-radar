@@ -1,0 +1,23 @@
+{
+  "company_name": "DeepScribe",
+  "problem_solved": "Clinical documentation burden leads to physician burnout, reduced patient face-time, and delayed billing cycles",
+  "solution_description": "Ambient AI medical scribe that automatically listens to natural patient conversations and produces fully formatted clinical notes. Specializes in oncology with 4 million oncology visits captured per year. Offers specialty-specific AI for longitudinal care",
+  "buyer_persona": "health_systems|clinics|providers",
+  "care_stage": "treatment",
+  "automation_level": "partial",
+  "varden_fit": "high",
+  "region": "US",
+  "country": "US",
+  "funding_stage": "series_b",
+  "traction_signals": [
+    "Leading ambient system for cancer care",
+    "4 million oncology visits captured per year",
+    "Specialty-specific AI for oncology, cardiology, orthopedics",
+    "99% transcription accuracy",
+    "Customizable chart notes with EHR integration"
+  ],
+  "notes": "Strong oncology focus with specialty-specific models. Ideal for specialty practices requiring longitudinal care documentation. US-centric but expansion-ready",
+  "discovery_round": 51,
+  "discovered_by": "sky",
+  "timestamp": "2026-03-11T23:21:00Z"
+}

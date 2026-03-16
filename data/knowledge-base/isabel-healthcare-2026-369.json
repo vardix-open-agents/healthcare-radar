@@ -1,0 +1,23 @@
+{
+  "company_name": "Isabel Healthcare",
+  "problem_solved": "Diagnostic errors and delayed triage lead to poor patient outcomes and inefficient resource utilization",
+  "solution_description": "Differential diagnosis tool that converts patient signs and symptoms into a list of relevant diseases or triage advice without endless questions. Three products: Isabel DDx Companion (for clinicians), Isabel Self-Triage (for patients/institutions), and Isabel Clinical Educator (for teaching). Used in 90+ countries, 14 languages. API available since 2010",
+  "buyer_persona": "health_systems|clinics|providers|patients",
+  "care_stage": "triage|diagnosis",
+  "automation_level": "assistive",
+  "varden_fit": "very_high",
+  "region": "US|EU|UK",
+  "country": "UK",
+  "funding_stage": "series_a",
+  "traction_signals": [
+    "Used in 90+ countries",
+    "Available in 14 languages",
+    "API available since 2010",
+    "Extensively validated diagnostic accuracy",
+    "Pioneering machine learning since 1999"
+  ],
+  "notes": "Strong UK presence with global reach. Multi-language support (14 languages) ideal for diverse populations. Self-triage product fits NHS digital front door strategy. Clinical educator tool valuable for training",
+  "discovery_round": 51,
+  "discovered_by": "sky",
+  "timestamp": "2026-03-11T23:23:00Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "aidoc-2026-301",
+  "title": "Aidoc - AI Radiology Triage",
+  "company": "Aidoc",
+  "country": "Israel",
+  "segment": "diagnostics",
+  "problem": "Radiologists face alert fatigue and delayed critical findings in high-volume imaging workflows",
+  "solution": "AI-powered triage and notification system that prioritizes urgent CT/CTA cases for immediate review",
+  "technology": "Computer vision, deep learning for medical imaging",
+  "target_customer": "Hospital radiology departments, teleradiology groups",
+  "care_setting": "hospital",
+  "care_domain": "diagnostics",
+  "care_stage": "diagnosis",
+  "automation_level": "full",
+  "ai_type": "computer vision",
+  "traction_signals": ["50+ FDA clearances", "Deployed in 1000+ sites", "Raised $250M+"],
+  "funding": "Series D",
+  "regulatory_notes": "FDA 510(k) cleared for multiple algorithms",
+  "source": "sky-round18-diagnostics",
+  "url": "https://www.aidoc.com",
+  "date_added": "2026-03-11"
+}

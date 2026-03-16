@@ -1,0 +1,22 @@
+{
+  "company_name": "Insilico Medicine",
+  "problem_solved": "High cost and time required for drug target identification and molecule design",
+  "solution_description": "AI platform for end-to-end drug discovery using generative AI for target identification, molecule design, and clinical trial prediction. Has internal pipeline and pharma partnerships.",
+  "buyer_persona": "pharma_lifesciences,biotech",
+  "care_stage": "research",
+  "automation_level": "assistive",
+  "varden_fit": "medium",
+  "region": "Global",
+  "country": "Hong Kong",
+  "funding_stage": "series_d",
+  "traction_signals": [
+    "$400M+ raised",
+    "First AI-designed drug in clinic",
+    "FEP+ technology partnership",
+    "Generative AI pioneer"
+  ],
+  "notes": "Leading generative AI drug discovery company. PandaOmics for target ID, Chemistry42 for molecule design. Asian HQ with global presence. Competes with BenevolentAI, Recursion.",
+  "discovery_round": 53,
+  "discovered_by": "sky",
+  "timestamp": "2026-03-11T23:18:00Z"
+}

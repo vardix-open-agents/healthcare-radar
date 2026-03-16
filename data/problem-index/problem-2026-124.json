@@ -1,0 +1,16 @@
+{
+  "id": "problem-2026-124",
+  "problem": "Coordination of benefits (COB) between multiple insurers takes 20-40 days per claim, with 8% of patients having multiple coverage",
+  "problem_type": "cob_automation",
+  "solution_type": "Automated COB discovery, payer hierarchy determination, crossover claims routing, real-time benefits coordination",
+  "care_stage": "admin",
+  "automation_type": "workflow_automation",
+  "buyer": "health_system",
+  "care_setting": "hospital",
+  "companies": ["Change Healthcare", "Experian Health", "Waystar", "R1 RCM", "GeBBS Healthcare"],
+  "signals": ["8% multi-coverage patients", "20-40 day COB delays", "Crossover claims automation pilots", "Medicare-secondary payer rules"],
+  "boring_software": true,
+  "contrarian": false,
+  "url": "https://www.cms.gov/coordination-benefits",
+  "date_added": "2026-03-11"
+}

@@ -1,0 +1,33 @@
+{
+  "id": "latam-chronic-disease-management-2026-220",
+  "title": "LATAM Chronic Disease Management Infrastructure",
+  "company": null,
+  "country": "Brazil/Mexico/Colombia/Regional",
+  "region": "LATAM",
+  "segment": "treatment",
+  "problem": "Chronic diseases (diabetes, hypertension, COPD) are epidemic in LATAM, causing 70%+ of deaths. But chronic care is episodic - patients only seen when problems become acute. No continuous monitoring, no proactive outreach, no care coordination between visits. This leads to preventable complications and hospitalizations.",
+  "solution": "Chronic disease management platform with continuous monitoring. Patient mobile app for symptom tracking, vital signs logging (connected devices), medication adherence. AI-powered risk scoring to identify patients needing intervention. Care coordinator dashboard for population health management. Automated check-ins between visits.",
+  "technology": "Mobile app, IoT device integration (glucometers, BP monitors), AI risk prediction, care coordinator dashboard, EMR integration, telemedicine",
+  "target_customer": "Health insurers (reduce hospitalization), self-insured employers, integrated delivery networks, primary care practices",
+  "care_setting": "home",
+  "care_domain": "chronic",
+  "care_stage": "treatment",
+  "automation_level": "assistive",
+  "ai_type": "Risk prediction models, anomaly detection, personalized recommendations",
+  "traction_signals": [
+    "Diabetes epidemic: 30M+ diabetics in Brazil alone",
+    "Hypertension affects 25% of LATAM adults",
+    "Value-based care trends in private insurance",
+    "Remote patient monitoring adoption post-COVID"
+  ],
+  "funding": null,
+  "regulatory_notes": "Medical device regulations for connected devices, clinical decision support rules",
+  "varden_fit": "CRITICAL FIT - Chronic care management is core to value-based care. This is infrastructure layer that insurers will pay for. Reduces hospitalization costs. High retention, recurring revenue.",
+  "source": "Opportunity analysis + market gap identification",
+  "url": null,
+  "date_added": "2026-03-11",
+  "problem_type": "chronic",
+  "contrarian": false,
+  "boring_software": false,
+  "notes": "Chronic disease management is complex but essential. Onduo, Livongo, Omada proved model in US. LATAM has no equivalent. Massive opportunity given disease burden."
+}

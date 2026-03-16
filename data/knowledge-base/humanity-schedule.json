@@ -1,0 +1,14 @@
+{
+  "company": "Humanity Schedule",
+  "country": "US",
+  "problem": "Healthcare organizations and enterprises need dynamic employee scheduling that handles compliance, labor cost management, and demand forecasting while improving employee satisfaction.",
+  "solution": "Humanity Schedule (TCP Software) provides dynamic employee scheduling software with AI-powered demand forecasting, auto-scheduling, compliance management, and labor cost optimization. The platform includes mobile apps for employee self-service, shift trading, and time-off requests, with integrations to major payroll and HCM systems.",
+  "problem_type": "scheduling",
+  "solution_type": "SaaS",
+  "buyer": "providers",
+  "varden_fit": "medium",
+  "url": "https://tcpsoftware.com/products/humanity/",
+  "source": "web",
+  "discovery_round": 85,
+  "discovered_by": "nova"
+}

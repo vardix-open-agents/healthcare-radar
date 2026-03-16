@@ -1,0 +1,33 @@
+{
+  "id": "latam-telemedicine-api-2026-234",
+  "title": "LATAM Telemedicine White-Label Infrastructure",
+  "company": null,
+  "country": "Brazil/Mexico/Colombia/Regional",
+  "region": "LATAM",
+  "segment": "infrastructure",
+  "problem": "Every healthcare company in LATAM wants to add telemedicine, but building from scratch is expensive. No white-label telemedicine infrastructure providers. Companies either build custom (slow, expensive) or use generic video tools (not HIPAA-compliant, no healthcare features). No easy way to integrate video consults into existing healthcare apps.",
+  "solution": "White-label telemedicine platform. Embeddable video consultation widget. Complete backend (scheduling, payments, EMR integration, prescriptions). Developer API. Customizable branding. Compliance built-in. Twilio Video + healthcare features. 'Stripe for telemedicine' model.",
+  "technology": "WebRTC video, API-first architecture, embeddable widgets, EMR integrations, payment processing, compliance layer",
+  "target_customer": "Healthcare app developers, hospital systems, insurers, pharmaceutical companies (tele-detailing), telemedicine startups",
+  "care_setting": "telehealth",
+  "care_domain": "general",
+  "care_stage": "diagnosis",
+  "automation_level": "partial",
+  "ai_type": null,
+  "traction_signals": [
+    "Telemedicine adoption permanent post-COVID",
+    "Every healthcare company adding virtual care",
+    "Developer-first infrastructure trends",
+    "Proven models (Teladoc API, Vonage, Daily.co)"
+  ],
+  "funding": null,
+  "regulatory_notes": "Telemedicine regulations vary by country, medical device regulations for diagnostic features",
+  "varden_fit": "CRITICAL FIT - Infrastructure layer for telemedicine. Developer API business model. Highly scalable. This is exactly what Varden should build.",
+  "source": "Opportunity analysis + market gap identification",
+  "url": null,
+  "date_added": "2026-03-11",
+  "problem_type": "infrastructure",
+  "contrarian": true,
+  "boring_software": true,
+  "notes": "CONTRARIAN + BOREALING: Building telemedicine infrastructure for others to use. Incredibly boring. But it's the picks and shovels of telemedicine boom. API businesses have amazing margins."
+}

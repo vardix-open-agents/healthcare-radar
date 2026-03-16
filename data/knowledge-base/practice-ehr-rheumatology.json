@@ -1,0 +1,14 @@
+{
+  "company": "Practice EHR",
+  "country": "US",
+  "problem": "Small to mid-size rheumatology practices need affordable, easy-to-use EHR and practice management software without the complexity and cost of enterprise solutions",
+  "solution": "Specialty-focused EHR platform with intuitive interface, integrated billing and scheduling, customizable templates for rheumatology workflows, and affordable pricing designed for independent practices",
+  "problem_type": "rheumatology",
+  "solution_type": "SaaS",
+  "buyer": "clinics",
+  "varden_fit": "medium",
+  "url": "https://www.practiceehr.com/",
+  "source": "web",
+  "discovery_round": 117,
+  "discovered_by": "nova"
+}

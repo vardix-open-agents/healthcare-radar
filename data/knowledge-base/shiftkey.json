@@ -1,0 +1,14 @@
+{
+  "company": "ShiftKey",
+  "country": "US",
+  "problem": "Healthcare facilities face unpredictable staffing gaps and rely on traditional agencies, while licensed healthcare professionals lack flexibility and control over their work schedules.",
+  "solution": "Technology platform connecting licensed healthcare professionals with facilities for flexible shift-based work, featuring bid-based scheduling, instant payment, and AI-powered workforce management tools (SAMI).",
+  "problem_type": "healthcare_staffing",
+  "solution_type": "SaaS",
+  "buyer": "health_system",
+  "varden_fit": "low",
+  "url": "https://www.shiftkey.com/",
+  "source": "web",
+  "discovery_round": 127,
+  "discovered_by": "sky"
+}

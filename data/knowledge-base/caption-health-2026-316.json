@@ -1,0 +1,22 @@
+{
+  "id": "caption-health-2026-316",
+  "title": "Caption Health - AI-Guided Ultrasound",
+  "company": "Caption Health",
+  "country": "USA",
+  "segment": "diagnostics",
+  "problem": "Ultrasound requires expert sonographers; shortage limits access to cardiac imaging",
+  "solution": "AI software guiding any clinician to capture diagnostic-quality echocardiograms",
+  "technology": "AI guidance, automated image acquisition, interpretation support",
+  "target_customer": "Primary care, urgent care, hospitalists",
+  "care_setting": "all",
+  "care_domain": "diagnostics",
+  "care_stage": "diagnosis",
+  "automation_level": "full",
+  "ai_type": "computer vision",
+  "traction_signals": ["FDA De Novo 2020", "Acquired by GE 2023", "10,000+ scans"],
+  "funding": "Acquired (GE Healthcare)",
+  "regulatory_notes": "FDA De Novo clearance for AI-guided echo",
+  "source": "sky-round18-diagnostics",
+  "url": "https://www.captionhealth.com",
+  "date_added": "2026-03-11"
+}

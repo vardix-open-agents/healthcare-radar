@@ -1,0 +1,14 @@
+{
+  "company": "Practice Fusion",
+  "country": "US",
+  "problem": "Small hematology practices need affordable, intuitive EHR solutions for blood disorder documentation, lab order management, and patient tracking without complex implementation requirements.",
+  "solution": "Cloud-based EHR platform with e-prescribing, charting tools, lab integrations, and billing services designed for small practices managing hematology and blood disorder patients.",
+  "problem_type": "hematology",
+  "solution_type": "SaaS",
+  "buyer": "clinics",
+  "varden_fit": "medium",
+  "url": "https://www.practicefusion.com",
+  "source": "web",
+  "discovery_round": 120,
+  "discovered_by": "sky"
+}

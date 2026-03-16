@@ -1,0 +1,14 @@
+{
+  "company": "Asahi Kasei Medical",
+  "country": "JP",
+  "problem": "Blood banks and clinical laboratories need reliable systems for blood component processing and therapeutic apheresis, with integrated data management for quality control and regulatory compliance in transfusion medicine.",
+  "solution": "Blood processing systems and software for therapeutic apheresis and blood component separation. Their Plasmaflo and OctoNova systems include integrated software for procedure documentation, inventory tracking, and quality management in blood establishments.",
+  "problem_type": "blood_bank",
+  "solution_type": "SaaS",
+  "buyer": "hospitals",
+  "varden_fit": "low",
+  "url": "https://www.asahi-kasei.com/",
+  "source": "web",
+  "discovery_round": 130,
+  "discovered_by": "sky"
+}

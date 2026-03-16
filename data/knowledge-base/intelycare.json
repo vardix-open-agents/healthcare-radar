@@ -1,0 +1,14 @@
+{
+  "company": "IntelyCare",
+  "country": "US",
+  "problem": "Post-acute care facilities face chronic nursing shortages and rely on expensive staffing agencies, while nurses lack flexibility in their work schedules and career development.",
+  "solution": "AI-powered staffing platform offering per-diem, local contract, career placement, and travel nursing opportunities with employer-sponsored benefits and training for nursing professionals.",
+  "problem_type": "healthcare_staffing",
+  "solution_type": "SaaS",
+  "buyer": "health_system",
+  "varden_fit": "low",
+  "url": "https://www.intelycare.com/",
+  "source": "web",
+  "discovery_round": 127,
+  "discovered_by": "sky"
+}

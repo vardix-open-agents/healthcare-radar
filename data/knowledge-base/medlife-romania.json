@@ -1,0 +1,14 @@
+{
+  "company": "MedLife",
+  "country": "RO",
+  "problem": "Romanian patients lack integrated access to private healthcare services and appointment booking",
+  "solution": "Digital platform and mobile app for appointment scheduling, medical test results, and integrated healthcare services across clinics",
+  "problem_type": "practice_management",
+  "solution_type": "SaaS",
+  "buyer": "clinics",
+  "varden_fit": "medium",
+  "url": "https://www.medlife.ro",
+  "source": "web",
+  "discovery_round": 72,
+  "discovered_by": "sky"
+}

@@ -1,0 +1,14 @@
+{
+  "company": "eKare",
+  "country": "US",
+  "problem": "Traditional wound assessment lacks accuracy and precision. Clinical workflows are inefficient. Patient engagement is low. Data silos prevent research insights and quality improvement.",
+  "solution": "Digital wound care platform with AI-powered imaging, measurement, and assessment. Fully-integrated suite for wound documentation, eVisits, and remote patient monitoring. SMART on FHIR integration with Epic, Cerner, Medidata Rave.",
+  "problem_type": "wound_care",
+  "solution_type": "SaaS",
+  "buyer": "clinics",
+  "varden_fit": "high",
+  "url": "https://ekare.ai",
+  "source": "web",
+  "discovery_round": 134,
+  "discovered_by": "sky"
+}

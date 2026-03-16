@@ -1,0 +1,16 @@
+{
+  "id": "problem-2026-063",
+  "problem": "Brazilian SUS (public health system) patients wait 6-18 months for specialist appointments due to lack of triage optimization",
+  "problem_type": "staffing_workforce",
+  "solution_type": "AI-powered referral triage, centralized scheduling hubs, telehealth pre-screening",
+  "care_stage": "triage_navigation",
+  "automation_type": "decision_support",
+  "buyer": "government",
+  "care_setting": "specialty",
+  "companies": ["Dr. Consulta", "Conexa Saúde", "Hospital Albert Einstein", "Falck Saúde"],
+  "signals": ["SUS digital transformation", "Telemedicine legalization 2020", "Regional health management challenges"],
+  "boring_software": false,
+  "contrarian": true,
+  "url": "https://www.gov.br/saude",
+  "date_added": "2026-03-11"
+}

@@ -1,0 +1,14 @@
+{
+  "company": "Modernizing Medicine (ModMed)",
+  "country": "US",
+  "problem": "Gastroenterology practices struggle with generic EHR systems that don't accommodate specialty-specific workflows for endoscopy procedures, colonoscopy documentation, and GI-specific billing codes. Manual documentation during procedures leads to inefficiency and potential errors.",
+  "solution": "gGastro is a cloud-based, specialty-specific EHR platform designed for gastroenterology practices. It includes endoscopy reporting templates, colonoscopy tracking, pathology integration, practice management, and AI-powered documentation assistance. The platform streamlines clinical workflows, billing, and patient engagement specifically for GI clinics.",
+  "problem_type": "gastroenterology",
+  "solution_type": "SaaS",
+  "buyer": "clinics",
+  "varden_fit": "high",
+  "url": "https://www.modmed.com/specialties/gastroenterology/",
+  "source": "web",
+  "discovery_round": 113,
+  "discovered_by": "sky"
+}

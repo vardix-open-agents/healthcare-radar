@@ -1,0 +1,27 @@
+{
+  "company": "Energem (Finland)",
+  "country": "Finland",
+  "founded_year": 2018,
+  "category": "Mental Health",
+  "subsector": "Employee Mental Health Platform",
+  "description": "Finnish startup providing AI-powered mental health platform for employees. Offers mental wellness assessments, personalized interventions, and access to mental health professionals.",
+  "business_model": "B2B - SaaS subscription to employers",
+  "target_market": "Finnish employers seeking mental health support for employees",
+  "funding_stage": "Seed",
+  "funding_amount_eur": 1500000,
+  "key_investors": "Finnish angels, Lifeline Ventures",
+  "employees": 15,
+  "customers": "80+ companies",
+  "revenue_eur": 1000000,
+  "tech_stack": ["AI assessment tools", "Web platform", "Mobile app", "Video therapy"],
+  "integration_points": ["HR systems", "EAP programs", "Occupational health services"],
+  "competitive_advantage": "AI-powered, Finnish market focus, clinical validation",
+  "varden_fit": {
+    "threat_level": "low",
+    "opportunity": "acquire",
+    "rationale": "Mental health platform in Finland - potential acquisition for Finnish market entry"
+  },
+  "data_quality": "low",
+  "sources": ["linkedin.com", "startup databases"],
+  "last_updated": "2026-03-11"
+}

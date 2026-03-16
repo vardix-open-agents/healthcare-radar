@@ -1,0 +1,14 @@
+{
+  "company": "athenahealth",
+  "country": "US",
+  "problem": "Hematology practices struggle with administrative burden, revenue cycle inefficiencies, and disconnected systems that detract from patient care for blood disorder management.",
+  "solution": "Cloud-based EHR and practice management platform with specialty configurations for hematology, automated billing services, patient engagement tools, and care coordination features for blood disorder clinics.",
+  "problem_type": "hematology",
+  "solution_type": "SaaS",
+  "buyer": "clinics",
+  "varden_fit": "medium",
+  "url": "https://www.athenahealth.com",
+  "source": "web",
+  "discovery_round": 120,
+  "discovered_by": "sky"
+}

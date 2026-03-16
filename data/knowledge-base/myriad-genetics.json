@@ -1,0 +1,14 @@
+{
+  "company": "Myriad Genetics",
+  "country": "US",
+  "problem": "Patients and providers lacked genetic insights to detect hereditary cancer risks, guide cancer treatment decisions, and personalize mental health and prenatal care",
+  "solution": "Comprehensive genetic and genomic testing portfolio for hereditary cancer risk assessment, tumor genomic profiling, pharmacogenomics, and prenatal screening to enable personalized healthcare",
+  "problem_type": "genomics",
+  "solution_type": "SaaS",
+  "buyer": "providers",
+  "varden_fit": "low",
+  "url": "https://www.myriad.com",
+  "source": "web",
+  "discovery_round": 133,
+  "discovered_by": "nova"
+}

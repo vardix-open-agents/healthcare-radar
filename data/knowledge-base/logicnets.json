@@ -1,0 +1,14 @@
+{
+  "company": "LogicNets",
+  "country": "US",
+  "problem": "Healthcare organizations struggle to capture and deploy expert clinical knowledge for medication decisions, leading to inconsistent care, errors, and inability to scale expert decision-making.",
+  "solution": "Clinical decision support platform that captures expert knowledge into guided decision pathways. Enables standardized, validated procedures for complex clinical decisions including medication management. Provides real-time analytics on decision pathways to drive continuous improvement and enable predictive guidance.",
+  "problem_type": "medication_management",
+  "solution_type": "SaaS",
+  "buyer": "providers",
+  "varden_fit": "high",
+  "url": "https://logicnets.com",
+  "source": "web",
+  "discovery_round": 101,
+  "discovered_by": "sky"
+}

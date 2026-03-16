@@ -1,0 +1,47 @@
+{
+  "problem_type": "triage_navigation",
+  "count": 6,
+  "entries": [
+    {
+      "id": "adahealth-2026-014",
+      "company": "Ada Health",
+      "country": "Germany",
+      "varden_fit": "Moderate-High — symptom assessment could integrate with Varden's booking flow to route patients to appropriate care"
+    },
+    {
+      "id": "mindoctor-2026-031",
+      "company": "MinDoktor",
+      "country": "Sweden",
+      "varden_fit": "High — Swedish-specific triage could integrate directly with Varden's booking system to route patients"
+    },
+    {
+      "id": "corti-2026-001",
+      "company": "Corti",
+      "country": "Denmark",
+      "varden_fit": "Moderate — similar triage logic could apply to primary care booking flow, but emergency context is different"
+    },
+    {
+      "id": "navamed-2026-053",
+      "company": "Navamed",
+      "country": "Norway",
+      "varden_fit": "High — care navigation is core to Varden's value proposition. Direct overlap."
+    },
+    {
+      "id": "company-2026-197",
+      "company": "Livi (Kry)",
+      "country": "Sweden",
+      "varden_fit": "HIGH - Primary care platform with AI triage. Infrastructure for care delivery.",
+      "boring_software": false,
+      "contrarian": false
+    },
+    {
+      "id": "company-2026-205",
+      "company": "98point6",
+      "country": "USA",
+      "varden_fit": "HIGH - AI-assisted primary care. Infrastructure for scalable primary care delivery.",
+      "boring_software": false,
+      "contrarian": true
+    }
+  ],
+  "notes": "EXPANDED - Now 6 triage/navigation platforms. Includes AI-powered triage (Livi, 98point6) and symptom checkers (Ada Health). Key capability for routing patients to appropriate care, highly relevant to Varden's navigation thesis."
+}

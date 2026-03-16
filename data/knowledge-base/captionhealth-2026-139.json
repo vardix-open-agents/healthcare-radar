@@ -1,0 +1,30 @@
+{
+  "id": "captionhealth-2026-139",
+  "title": "Caption Health - AI-Guided Ultrasound",
+  "company": "Caption Health (GE HealthCare)",
+  "country": "USA",
+  "region": "NA",
+  "segment": "ultrasound_ai",
+  "problem": "Ultrasound imaging requires specialized training, limiting access to cardiac imaging in primary care and remote settings.",
+  "solution": "AI-guided cardiac ultrasound software that enables non-specialists to capture diagnostic-quality echocardiogram images.",
+  "technology": "AI image guidance, computer vision, real-time feedback, ultrasound",
+  "target_customer": "Primary care, urgent care, cardiology practices, telemedicine",
+  "care_setting": "multiple",
+  "care_domain": "cardiology",
+  "care_stage": "screening_diagnosis",
+  "automation_level": "full",
+  "ai_type": "Computer vision for real-time image guidance",
+  "traction_signals": [
+    "Acquired by GE HealthCare (2023)",
+    "FDA cleared",
+    "Enables point-of-care cardiac ultrasound",
+    "Founded 2013, Fremont CA"
+  ],
+  "funding": "Acquired by GE HealthCare",
+  "regulatory_notes": "FDA cleared for AI-guided ultrasound",
+  "varden_fit": "Moderate-HIGH - Democratizes cardiac imaging access. Enables primary care to do cardiac screening, creating referral pathways.",
+  "source": "Industry knowledge",
+  "url": "https://captionhealth.com",
+  "date_added": "2026-03-11",
+  "notes": "Breakthrough in ultrasound accessibility. Strong AI guidance capabilities."
+}

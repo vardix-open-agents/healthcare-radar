@@ -1,0 +1,14 @@
+{
+  "company": "CoughDrop",
+  "country": "US",
+  "problem": "Individuals with autism, cerebral palsy, Down syndrome, and other conditions affecting communication need flexible AAC tools that support families, therapists, and schools in collaborative intervention.",
+  "solution": "Cross-platform AAC app with vocabulary progression tools, remote modeling support, eye/head tracking, switches, built-in reporting, and goal-setting for practitioners and families.",
+  "problem_type": "speech_therapy",
+  "solution_type": "SaaS",
+  "buyer": "clinics",
+  "varden_fit": "medium",
+  "url": "https://www.coughdrop.com",
+  "source": "web",
+  "discovery_round": 141,
+  "discovered_by": "nova"
+}

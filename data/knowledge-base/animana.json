@@ -1,0 +1,14 @@
+{
+  "company": "Animana",
+  "country": "GB",
+  "problem": "Veterinary practices across Europe need secure, cloud-based practice management that centralizes data, streamlines daily operations, and provides exceptional client and resource management capabilities",
+  "solution": "Secure cloud-based practice management system (by IDEXX) that centralizes data, offers client management features, resource scheduling, and a comprehensive communications toolbox for effective customer connection",
+  "problem_type": "veterinary",
+  "solution_type": "SaaS",
+  "buyer": "vet_clinics",
+  "varden_fit": "low",
+  "url": "https://software.idexx.co.uk/animana",
+  "source": "web",
+  "discovery_round": 102,
+  "discovered_by": "nova"
+}

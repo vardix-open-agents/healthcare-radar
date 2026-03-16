@@ -1,0 +1,27 @@
+{
+  "company": "LloydsDirect (UK)",
+  "country": "United Kingdom",
+  "founded_year": 2013,
+  "category": "Pharmacy Tech",
+  "subsector": "Online Pharmacy & Prescription Services",
+  "description": "UK online pharmacy (formerly Echo) providing NHS prescription delivery service. Part of LloydsPharmacy group offering free NHS prescription delivery nationwide.",
+  "business_model": "B2C - Online pharmacy via NHS prescriptions",
+  "target_market": "UK consumers with NHS prescriptions",
+  "funding_stage": "Acquired (LloydsPharmacy)",
+  "funding_amount_gbp": null,
+  "key_investors": "LloydsPharmacy / McKesson",
+  "employees": 200,
+  "customers": "1.5M+ active patients",
+  "revenue_gbp": 80000000,
+  "tech_stack": ["Mobile app", "NHS e-prescription", "Medication reminders", "Logistics"],
+  "integration_points": ["NHS Spine", "GP systems"],
+  "competitive_advantage": "Part of established LloydsPharmacy network, free NHS delivery",
+  "varden_fit": {
+    "threat_level": "low",
+    "opportunity": "partner",
+    "rationale": "Major UK pharmacy player - potential partner for medication-related occupational health services"
+  },
+  "data_quality": "medium",
+  "sources": ["lloydsdirect.co.uk", "linkedin.com"],
+  "last_updated": "2026-03-11"
+}

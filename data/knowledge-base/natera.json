@@ -1,0 +1,14 @@
+{
+  "company": "Natera",
+  "country": "US",
+  "problem": "Prenatal testing, cancer monitoring, and transplant health assessments often required invasive procedures with significant risks and limited accuracy",
+  "solution": "Cell-free DNA (cfDNA) testing platform for noninvasive prenatal testing (NIPT), oncology tumor characterization, and organ transplant monitoring, enabling earlier detection and personalized treatment decisions",
+  "problem_type": "genomics",
+  "solution_type": "SaaS",
+  "buyer": "providers",
+  "varden_fit": "low",
+  "url": "https://www.natera.com",
+  "source": "web",
+  "discovery_round": 133,
+  "discovered_by": "nova"
+}

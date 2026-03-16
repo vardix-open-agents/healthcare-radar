@@ -1,0 +1,14 @@
+{
+  "company": "SleepMed",
+  "country": "US",
+  "problem": "Sleep clinics need comprehensive practice management and diagnostic services to scale operations efficiently",
+  "solution": "Sleep center management services and diagnostic testing platform supporting clinic operations from patient intake through diagnosis and therapy management",
+  "problem_type": "sleep_medicine",
+  "solution_type": "SaaS",
+  "buyer": "clinics",
+  "varden_fit": "medium",
+  "url": "https://www.sleepmed.md",
+  "source": "web",
+  "discovery_round": 104,
+  "discovered_by": "nova"
+}

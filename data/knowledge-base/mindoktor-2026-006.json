@@ -1,0 +1,29 @@
+{
+  "id": "mindoktor-2026-006",
+  "title": "Min Doktor - Swedish Digital Primary Care Platform",
+  "company": "Min Doktor",
+  "country": "Sweden",
+  "region": "Nordics",
+  "segment": "infrastructure",
+  "problem": "Access to primary care is limited by geography, time, and traditional clinic hours. Patients need faster, more convenient healthcare access.",
+  "solution": "Digital healthcare platform providing 24/7 online consultations with doctors, psychologists, and nurses. Also offers vaccinations at pharmacy locations (Apotek Hjärtat).",
+  "technology": "Telemedicine, video consultations, digital booking, pharmacy integration",
+  "target_customer": "Patients seeking primary care, employers, health systems",
+  "care_setting": "telehealth",
+  "care_domain": "general",
+  "care_stage": "diagnosis",
+  "automation_level": "none",
+  "ai_type": null,
+  "traction_signals": [
+    "Major Swedish telemedicine player",
+    "Partnership with Apotek Hjärtat for vaccination services",
+    "24/7 availability with multiple clinician types"
+  ],
+  "funding": null,
+  "regulatory_notes": "Operates under Swedish healthcare regulations. All clinicians are licensed.",
+  "varden_fit": "HIGH - Direct competitor in some areas but potential partner in others. Min Doktor has built patient-facing telemedicine; Varden has built clinic/provider tools. Complementary rather than competitive. Interesting for B2B employer model.",
+  "source": "Min Doktor website",
+  "url": "https://www.mindoktor.se",
+  "date_added": "2026-03-11",
+  "notes": "Key Swedish digital health player. Physical presence through pharmacy partnerships is interesting hybrid model. Research: user numbers, employer partnerships, revenue model."
+}

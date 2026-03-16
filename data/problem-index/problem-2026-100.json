@@ -1,0 +1,16 @@
+{
+  "id": "problem-2026-100",
+  "problem": "Retail pharmacy staff spend 25% of time on phone with insurance companies resolving claim rejections and coverage questions",
+  "problem_type": "insurance_routing",
+  "solution_type": "Pharmacy claims automation, real-time benefits checking, intelligent DUR override systems",
+  "care_stage": "treatment",
+  "automation_type": "workflow_automation",
+  "buyer": "pharmacy",
+  "care_setting": "pharmacy",
+  "companies": ["CVS Health", "Walgreens Boots Alliance", "Rite Aid", "Walmart Pharmacy", "Kroger Pharmacy"],
+  "signals": ["Pharmacy burnout", "DIR fee reform", "Pharmacy benefit manager scrutiny"],
+  "boring_software": true,
+  "contrarian": false,
+  "url": "https://www.nacds.org",
+  "date_added": "2026-03-11"
+}

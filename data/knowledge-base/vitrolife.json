@@ -1,0 +1,14 @@
+{
+  "company": "Vitrolife",
+  "country": "SE",
+  "problem": "IVF clinics lack reliable equipment for embryo culture, time-lapse monitoring, and lab workflows, leading to inconsistent outcomes and manual processes",
+  "solution": "Comprehensive IVF lab equipment including Embryoscope time-lapse embryo monitoring system, iDAScore AI embryo assessment, culture media, and cryopreservation solutions",
+  "problem_type": "fertility",
+  "solution_type": "SaaS",
+  "buyer": "clinics",
+  "varden_fit": "medium",
+  "url": "https://www.vitrolife.com",
+  "source": "web",
+  "discovery_round": 138,
+  "discovered_by": "sky"
+}

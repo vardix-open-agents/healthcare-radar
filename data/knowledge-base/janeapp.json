@@ -1,0 +1,14 @@
+{
+  "company": "Jane App",
+  "country": "CA",
+  "problem": "Health and wellness practitioners including chiropractors need an affordable, intuitive practice management platform that handles booking, billing, and insurance without multiple disconnected systems",
+  "solution": "Cloud-based practice management software with online booking, automated email and SMS reminders, simple billing with insurance tracking, secure charting, telehealth integration, and regional data storage for compliance",
+  "problem_type": "chiropractic",
+  "solution_type": "SaaS",
+  "buyer": "clinics",
+  "varden_fit": "medium",
+  "url": "https://jane.app",
+  "source": "web",
+  "discovery_round": 139,
+  "discovered_by": "nova"
+}

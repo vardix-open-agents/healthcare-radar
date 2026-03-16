@@ -1,0 +1,22 @@
+{
+  "id": "roche-cobas-2026-332",
+  "title": "Roche cobas - Lab Automation & POC",
+  "company": "Roche Diagnostics",
+  "country": "Switzerland",
+  "segment": "infrastructure",
+  "problem": "Clinical labs need high-throughput testing with automation and POC connectivity",
+  "solution": "cobas integrated lab systems from POC to core lab with unified IT platform",
+  "technology": "Immunoassay, clinical chemistry, molecular, automation lines, connectivity",
+  "target_customer": "Hospital labs, reference labs",
+  "care_setting": "all",
+  "care_domain": "diagnostics",
+  "care_stage": "diagnosis",
+  "automation_level": "full",
+  "ai_type": null,
+  "traction_signals": ["Largest diagnostics company", "$20B+ revenue", "Global presence"],
+  "funding": "Public (RHHBY)",
+  "regulatory_notes": "Multiple FDA 510(k)s, CE marked",
+  "source": "sky-round18-diagnostics",
+  "url": "https://diagnostics.roche.com",
+  "date_added": "2026-03-11"
+}

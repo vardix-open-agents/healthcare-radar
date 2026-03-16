@@ -1,0 +1,14 @@
+{
+  "company": "Antidote",
+  "country": "US",
+  "problem": "More than 80% of medical research is delayed due to lack of participants, with no good way for patients to find clinical trials that match their conditions.",
+  "solution": "Precision clinical trial recruitment platform connecting patients to research through smart Match search engine. Helps sponsors fill trials faster while making it easy for patients to discover and qualify for relevant studies.",
+  "problem_type": "clinical_trials",
+  "solution_type": "SaaS",
+  "buyer": "research_orgs",
+  "varden_fit": "low",
+  "url": "https://www.antidote.me/",
+  "source": "web",
+  "discovery_round": 103,
+  "discovered_by": "sky"
+}

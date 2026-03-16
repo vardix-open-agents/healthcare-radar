@@ -1,0 +1,22 @@
+{
+  "company_name": "Air Methods",
+  "problem_solved": "Critically ill or injured patients in rural or remote areas cannot access specialized care quickly enough through ground transportation alone",
+  "solution_description": "Air medical transport leader with 35+ years experience providing helicopter and fixed-wing emergency medical services. 4,500+ team members including critical care clinicians specializing in burns, cardiac, pediatrics, respiratory, and trauma. Partners with EMS and hospitals for patient logistics solutions",
+  "buyer_persona": "health_systems",
+  "care_stage": "transport",
+  "automation_level": "assistive",
+  "varden_fit": "medium",
+  "region": "US",
+  "country": "United States",
+  "funding_stage": "private",
+  "traction_signals": [
+    "35+ years in operation",
+    "4,500+ team members",
+    "Nationwide air medical network",
+    "Multiple bases including LifeNet, MediFlight, AirLife brands"
+  ],
+  "notes": "Market leader in US air ambulance. Strong clinical capabilities with specialized crews. Working on affordability/membership alternatives. Medium Varden fit - infrastructure service rather than software platform.",
+  "discovery_round": 52,
+  "discovered_by": "sky",
+  "timestamp": "2026-03-11T23:20:00Z"
+}

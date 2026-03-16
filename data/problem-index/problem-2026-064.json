@@ -1,0 +1,16 @@
+{
+  "id": "problem-2026-064",
+  "problem": "Mexican private insurance verification requires 45-90 minutes of phone calls per patient, blocking same-day appointments",
+  "problem_type": "eligibility_verification",
+  "solution_type": "Real-time payer connectivity, standardized insurance APIs, automated pre-authorization",
+  "care_stage": "intake",
+  "automation_type": "workflow_automation",
+  "buyer": "practice",
+  "care_setting": "primary_care",
+  "companies": ["MediAccess", "Salud Digna", "Star Médica", "Ángeles Hospitals"],
+  "signals": ["IMSS digital modernization", "Private insurance growth", "Out-of-pocket cost transparency demand"],
+  "boring_software": true,
+  "contrarian": false,
+  "url": "https://www.gob.mx/salud",
+  "date_added": "2026-03-11"
+}

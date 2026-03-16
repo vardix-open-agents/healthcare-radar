@@ -1,0 +1,14 @@
+{
+  "company": "HotDoc",
+  "country": "AU",
+  "problem": "Patients struggle to find and book appointments with GPs, dentists, and healthcare specialists, while clinics face administrative burden managing bookings and patient communication",
+  "solution": "Digital healthcare platform providing patient booking system, practice management software, and patient engagement tools for clinics. Offers online appointment scheduling, waiting room management, and recall systems",
+  "problem_type": "practice_management",
+  "solution_type": "SaaS",
+  "buyer": "clinics",
+  "varden_fit": "medium",
+  "url": "https://www.hotdoc.com.au",
+  "source": "web",
+  "discovery_round": 78,
+  "discovered_by": "nova"
+}

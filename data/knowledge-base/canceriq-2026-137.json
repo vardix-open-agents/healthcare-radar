@@ -1,0 +1,29 @@
+{
+  "id": "canceriq-2026-137",
+  "title": "CancerIQ - Hereditary Cancer Risk Platform",
+  "company": "CancerIQ",
+  "country": "USA",
+  "region": "NA",
+  "segment": "genetic_risk_assessment",
+  "problem": "Hereditary cancer risk assessment is underutilized due to lack of integrated tools in clinical workflow, missing high-risk patients.",
+  "solution": "AI-powered hereditary cancer risk assessment platform integrated into clinical workflows for identifying and managing high-risk patients.",
+  "technology": "Machine learning, risk modeling algorithms, genetic variant databases, EHR integration",
+  "target_customer": "Cancer centers, oncology practices, breast centers",
+  "care_setting": "outpatient_oncology",
+  "care_domain": "oncology",
+  "care_stage": "screening",
+  "automation_level": "full",
+  "ai_type": "ML for risk calculation and variant interpretation",
+  "traction_signals": [
+    "Partnerships with major cancer centers",
+    "Used in NCCN guidelines implementation",
+    "Founded 2013, Chicago"
+  ],
+  "funding": "$30M+ raised",
+  "regulatory_notes": "Clinical decision support, no FDA clearance needed",
+  "varden_fit": "Moderate - Niche but valuable care coordination tool for oncology. Risk stratification enables targeted screening.",
+  "source": "Industry knowledge",
+  "url": "https://canceriq.com",
+  "date_added": "2026-03-11",
+  "notes": "Important for precision oncology. Genetic risk assessment becoming standard of care."
+}

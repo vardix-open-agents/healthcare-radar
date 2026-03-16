@@ -1,0 +1,31 @@
+{
+  "id": "doctrin-2026-013",
+  "title": "Doctrin - Digital Triage and Care Navigation Platform",
+  "company": "Doctrin",
+  "country": "Sweden",
+  "region": "Nordics",
+  "segment": "triage",
+  "problem": "Healthcare providers face patient communication overload. Phone lines are busy, patients don't know where to seek care, and case management is fragmented across channels.",
+  "solution": "Digital communication platform with automated medical history taking, AI-assisted triage, chat/video consultations, and case management tools for healthcare providers.",
+  "technology": "AI triage, chat, video, EHR integration",
+  "target_customer": "Primary care clinics, specialist clinics, hospital outpatient departments",
+  "care_setting": "primary_care",
+  "care_domain": "general",
+  "care_stage": "triage",
+  "automation_level": "partial",
+  "ai_type": "NLP, rule-based triage",
+  "traction_signals": [
+    "Founded 2016, Stockholm-based",
+    "40+ employees including doctors and engineers",
+    "Active in Sweden, Norway, Czech Republic, UK, France",
+    "Deployed by major Nordic healthcare providers",
+    "Research published on platform effectiveness"
+  ],
+  "funding": "Private (angel investors including Håkan Winberg)",
+  "regulatory_notes": "Medical device support tool. Used within existing healthcare provider workflows.",
+  "varden_fit": "High — direct overlap with Varden's care navigation and booking infrastructure. Digital triage + EHR integration is core to Varden's value proposition. Partnership or learnings opportunity.",
+  "source": "Company website",
+  "url": "https://doctrin.com",
+  "date_added": "2026-03-11",
+  "notes": "Strong Nordics presence. CEO is Dr. Anna-Karin Edstedt Bonamy (pediatric specialist, Karolinska). Direct competitor in some segments but potential partnership opportunity."
+}

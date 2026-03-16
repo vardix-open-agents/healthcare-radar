@@ -1,0 +1,14 @@
+{
+  "company": "Abbott FreeStyle Libre",
+  "country": "US",
+  "problem": "Managing diabetes requires frequent glucose monitoring, but traditional methods are invasive and provide limited data for both patients and their healthcare teams.",
+  "solution": "Abbott's FreeStyle Libre offers flash glucose monitoring systems (Libre 2, Libre 3) that provide continuous glucose readings via a wearable sensor. The platform includes LibreView, a cloud-based data sharing system that enables clinics to remotely monitor patient glucose data, identify patterns, and adjust treatment plans.",
+  "problem_type": "endocrinology",
+  "solution_type": "SaaS",
+  "buyer": "clinics",
+  "varden_fit": "medium",
+  "url": "https://www.freestylelibre.com",
+  "source": "web",
+  "discovery_round": 116,
+  "discovered_by": "nova"
+}

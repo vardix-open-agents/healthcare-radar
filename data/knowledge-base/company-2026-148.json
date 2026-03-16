@@ -1,0 +1,27 @@
+{
+  "company": "Inlisol (Sweden)",
+  "country": "Sweden",
+  "founded_year": null,
+  "category": "Elderly Care Tech",
+  "subsector": "Elderly Care Platform",
+  "description": "Swedish startup addressing elderly care sector challenges including shortage of carers and rising costs. Solution aims to improve business operations and quality of care in growing elderly care market.",
+  "business_model": "B2B - Platform to elderly care providers",
+  "target_market": "Elderly care facilities, home care providers",
+  "funding_stage": null,
+  "funding_amount_sek": null,
+  "key_investors": null,
+  "employees": null,
+  "customers": null,
+  "revenue_sek": null,
+  "tech_stack": ["Care management platform", "Staffing optimization", "Quality monitoring"],
+  "integration_points": ["Care facility systems", "Staffing platforms"],
+  "competitive_advantage": "Addresses growing market with staffing and cost challenges",
+  "varden_fit": {
+    "threat_level": "low",
+    "opportunity": "partner",
+    "rationale": "Elderly care infrastructure - potential partnership for occupational health services to care workers"
+  },
+  "data_quality": "low",
+  "sources": ["healthtechnordic.com"],
+  "last_updated": "2026-03-11"
+}

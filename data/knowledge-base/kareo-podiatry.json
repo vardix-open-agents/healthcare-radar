@@ -1,0 +1,14 @@
+{
+  "company": "Kareo",
+  "country": "US",
+  "problem": "Independent podiatry practices need affordable, integrated practice management and EHR solutions that handle billing complexity, insurance claims, and patient scheduling without enterprise-level costs",
+  "solution": "Kareo provides a cloud-based clinical and practice management platform with podiatry-specific templates, integrated medical billing services, patient engagement tools, and revenue cycle management for small to medium practices",
+  "problem_type": "podiatry",
+  "solution_type": "SaaS",
+  "buyer": "clinics",
+  "varden_fit": "medium",
+  "url": "https://www.kareo.com/",
+  "source": "web",
+  "discovery_round": 111,
+  "discovered_by": "sky"
+}

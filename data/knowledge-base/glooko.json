@@ -1,0 +1,14 @@
+{
+  "company": "Glooko",
+  "country": "US",
+  "problem": "Diabetes care is fragmented across multiple devices, data sources, and care settings, making it difficult for patients and providers to access comprehensive, actionable insights for treatment decisions.",
+  "solution": "Unified diabetes data management platform connecting 200+ diabetes and health monitoring devices (Abbott, Dexcom, Tandem, Omnipod, etc.) into single view. Provides Glooko Mobile App for patients to track glucose, insulin, meals, exercise, and medications. Enables secure remote collaboration with care teams, streamlines clinical workflows, and supports better treatment decisions. CE-marked Class IIa medical device, ISO 27001 certified, GDPR compliant.",
+  "problem_type": "chronic_care",
+  "solution_type": "SaaS",
+  "buyer": "providers",
+  "varden_fit": "medium",
+  "url": "https://glooko.com",
+  "source": "web",
+  "discovery_round": 89,
+  "discovered_by": "nova"
+}

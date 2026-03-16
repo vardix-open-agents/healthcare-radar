@@ -1,0 +1,14 @@
+{
+  "company": "Zoom for Healthcare",
+  "country": "US",
+  "problem": "Healthcare organizations need integrated communication tools for telehealth, contact centers, and clinical workflows with enterprise-grade security",
+  "solution": "Comprehensive AI-powered healthcare collaboration platform connecting clinicians, staff, and patients with EHR integration, AI automation, and HIPAA-compliant video conferencing",
+  "problem_type": "telemedicine",
+  "solution_type": "SaaS",
+  "buyer": "providers",
+  "varden_fit": "high",
+  "url": "https://www.zoom.com/en/industry/healthcare/",
+  "source": "web",
+  "discovery_round": 73,
+  "discovered_by": "nova"
+}

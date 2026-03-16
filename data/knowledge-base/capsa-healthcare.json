@@ -1,0 +1,14 @@
+{
+  "company": "Capsa Healthcare",
+  "country": "US",
+  "problem": "Healthcare facilities need integrated solutions for medication storage, dispensing, and point-of-care computing in clinical environments",
+  "solution": "Medical workstation and medication management solutions including automated dispensing cabinets, mobile computing carts, and pharmacy workflow systems",
+  "problem_type": "pharmacy",
+  "solution_type": "SaaS",
+  "buyer": "pharmacies",
+  "varden_fit": "medium",
+  "url": "https://www.capsahealthcare.com/",
+  "source": "web",
+  "discovery_round": 75,
+  "discovered_by": "nova"
+}

@@ -1,0 +1,14 @@
+{
+  "company": "Acclivity Health",
+  "country": "US",
+  "problem": "Healthcare systems struggle to identify patients who could benefit from palliative care earlier, and care coordination for serious illness is often fragmented and reactive",
+  "solution": "Analytics platform that uses predictive modeling and clinical data to identify high-risk patients and facilitate earlier palliative care interventions and care coordination",
+  "problem_type": "palliative_care",
+  "solution_type": "SaaS",
+  "buyer": "providers",
+  "varden_fit": "medium",
+  "url": "https://www.acclivityhealth.com",
+  "source": "web",
+  "discovery_round": 121,
+  "discovered_by": "nova"
+}

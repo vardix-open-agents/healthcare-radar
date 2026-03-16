@@ -1,0 +1,14 @@
+{
+  "company": "Tyro Health (Medipass)",
+  "country": "AU",
+  "problem": "Healthcare providers face complex claiming processes across Medicare, private health insurance, DVA, workers' comp, and NDIS, with manual paperwork and slow payment cycles",
+  "solution": "Browser-based healthcare payment and claiming solution integrating with 100+ practice management systems. Enables fast digital claims for Medicare, private health funds, DVA, workers' compensation, and NDIS",
+  "problem_type": "practice_management",
+  "solution_type": "SaaS",
+  "buyer": "clinics",
+  "varden_fit": "medium",
+  "url": "https://www.tyrohealth.com",
+  "source": "web",
+  "discovery_round": 78,
+  "discovered_by": "nova"
+}

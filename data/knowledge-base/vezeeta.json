@@ -1,0 +1,14 @@
+{
+  "company": "Vezeeta",
+  "country": "EG",
+  "problem": "Patients in MENA region struggle to find and book appointments with doctors, compare healthcare providers, and access quality healthcare information",
+  "solution": "Doctor booking and healthcare marketplace platform operating across Egypt, Saudi Arabia, Jordan, Lebanon, and Kenya, offering online appointment booking, clinic discovery, reviews, and telemedicine consultations",
+  "problem_type": "booking",
+  "solution_type": "SaaS",
+  "buyer": "clinics",
+  "varden_fit": "medium",
+  "url": "https://www.vezeeta.com",
+  "source": "web",
+  "discovery_round": 77,
+  "discovered_by": "sky"
+}

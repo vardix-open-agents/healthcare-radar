@@ -1,0 +1,115 @@
+[
+  {
+    "company_name": "Nox Medical",
+    "hq_location": "Reykjavík, Iceland",
+    "website_url": "https://www.noxmedical.com",
+    "problem_solved": "Sleep clinics and hospitals need reliable, easy-to-use polysomnography (PSG) systems and home sleep testing (HST) devices for diagnosing sleep disorders. Traditional PSG systems are complex, expensive, and require significant training to operate effectively.",
+    "who_buys_it": "Sleep clinics, hospitals, pulmonologists, neurologists, and home sleep testing providers",
+    "key_features": [
+      "Nox A1s PSG System - comprehensive in-lab polysomnography",
+      "Nox T3s HST Device - portable home sleep apnea testing",
+      "Noxturnal Software - AI-powered sleep study scoring and analysis with automatic analysis, customizable reporting, and Citrix compatibility",
+      "Nox Connect - cloud-based sleep study management platform",
+      "Nox BodySleep technology - estimates sleep states using respiratory data and AI",
+      "Calibrated RIP technology for accurate breathing analysis",
+      "Single Body Source chain of custody solution",
+      "Somryst - FDA-cleared digital therapeutic for chronic insomnia (CBT-I)"
+    ],
+    "business_model": "B2B medical device sales and software licensing. Sells PSG systems, HST devices, and software to healthcare providers. Recurring revenue from software licenses, service contracts, and consumables (sensors, belts, cannulas).",
+    "why_varden_should_care": "Leading Nordic sleep diagnostics company with comprehensive platform spanning hardware, software, and digital therapeutics. Noxturnal software with AI scoring addresses key workflow bottleneck in sleep clinics. Somryst positions them in growing digital therapeutics space. Strong global distribution through partnerships. Iceland base provides unique Nordic foothold in sleep medicine market."
+  },
+  {
+    "company_name": "Vitalthings (Somnofy)",
+    "hq_location": "Trondheim, Norway",
+    "website_url": "https://www.vitalthings.com",
+    "problem_solved": "Continuous sleep monitoring in hospitals, nursing homes, and home care settings requires contactless solutions that don't disturb patients. Traditional sleep monitoring requires wearables or electrodes that can be uncomfortable, especially for elderly patients or those with dementia.",
+    "who_buys_it": "Hospitals, nursing homes, assisted living facilities, home care providers, sleep clinics, and research institutions",
+    "key_features": [
+      "Somnofy - contactless sleep monitoring using radar technology",
+      "No wearables or electrodes required - completely non-invasive",
+      "Continuous monitoring of sleep patterns, breathing, and movement",
+      "AI-powered sleep stage analysis",
+      "Real-time alerts for caregivers",
+      "Integration with hospital/facility management systems",
+      "Suitable for long-term monitoring in institutional settings",
+      "Privacy-focused - no cameras, only radar-based sensing"
+    ],
+    "business_model": "B2B hardware and software-as-a-service. Sells Somnofy devices to healthcare facilities with recurring revenue from software subscriptions, data analytics, and support services.",
+    "why_varden_should_care": "Innovative Norwegian company pioneering contactless sleep monitoring - addresses growing demand for non-invasive patient monitoring. Radar-based technology unique in sleep medicine space. Strong fit for aging population care in Nordic markets. Potential applications beyond sleep medicine in general patient monitoring and telemedicine."
+  },
+  {
+    "company_name": "Breas Medical",
+    "hq_location": "Mölndal, Sweden",
+    "website_url": "https://www.breas.com",
+    "problem_solved": "Patients with chronic respiratory conditions and sleep apnea need reliable, user-friendly ventilation and CPAP therapy devices for home use. Healthcare providers require integrated software solutions for remote patient monitoring and therapy compliance tracking.",
+    "who_buys_it": "Sleep clinics, respiratory physicians, home care providers, DME (Durable Medical Equipment) suppliers, and patients",
+    "key_features": [
+      "Vivo 3 - high-end Bi-Level device with High Flow Nasal Therapy",
+      "Comprehensive ventilation solutions for home mechanical ventilation",
+      "Sleep therapy devices for OSA treatment",
+      "Connectivity capabilities for remote patient monitoring",
+      "Airway clearance solutions",
+      "Educational and training programs for clinicians",
+      "Consumables and service solutions",
+      "30+ years of expertise in respiratory care"
+    ],
+    "business_model": "B2B medical device sales with recurring revenue from consumables, service contracts, and software solutions. Global distribution through direct sales and partnerships.",
+    "why_varden_should_care": "Swedish company with strong Nordic heritage in respiratory and sleep therapy. Focus on connectivity and software solutions aligns with digital health trends. Comprehensive ecosystem approach (devices, software, services, education) creates multiple touchpoints. Acquisition target potential given consolidation in sleep medicine market."
+  },
+  {
+    "company_name": "Cerebra Medical",
+    "hq_location": "Oslo, Norway",
+    "website_url": "https://www.cerebra.no",
+    "problem_solved": "Sleep clinics and neurologists need advanced EEG and sleep diagnostic equipment with integrated software for comprehensive sleep disorder diagnosis. Traditional systems lack seamless integration between hardware and analysis software.",
+    "who_buys_it": "Sleep clinics, neurology departments, hospitals, and research institutions",
+    "key_features": [
+      "Advanced EEG and polysomnography systems",
+      "Integrated software for sleep study analysis",
+      "Cloud-based data management and storage",
+      "AI-assisted scoring and interpretation",
+      "Remote monitoring capabilities",
+      "Research-grade data quality",
+      "Nordic market focus with local support"
+    ],
+    "business_model": "B2B medical device and software sales. Hardware sales with recurring revenue from software licenses, support contracts, and training services.",
+    "why_varden_should_care": "Norwegian sleep diagnostics company serving Nordic market. Focus on integrated hardware-software solutions addresses key clinical workflow needs. Local presence in Nordic market valuable for regional expansion strategies."
+  },
+  {
+    "company_name": "SleepMed Scandinavia",
+    "hq_location": "Stockholm, Sweden",
+    "website_url": "https://www.sleepmed.se",
+    "problem_solved": "Sleep clinics need comprehensive practice management software to handle patient scheduling, sleep study workflows, scoring, reporting, and billing. Fragmented systems create inefficiencies and data silos.",
+    "who_buys_it": "Sleep clinics, hospital sleep departments, and multi-specialty practices with sleep medicine services",
+    "key_features": [
+      "Sleep clinic practice management software",
+      "Patient scheduling and workflow management",
+      "Sleep study tracking and documentation",
+      "Integration with PSG and HST devices",
+      "Reporting and analytics dashboards",
+      "Billing and coding support",
+      "Multi-site clinic management",
+      "Swedish market focus with local regulatory compliance"
+    ],
+    "business_model": "B2B SaaS with monthly/annual subscription fees. Implementation and training services. Potential add-on modules for advanced analytics and integrations.",
+    "why_varden_should_care": "Vertical software play in Nordic sleep medicine market - addresses operational efficiency needs. SaaS model provides predictable recurring revenue. Swedish focus aligns with Nordic healthcare digitization trends."
+  },
+  {
+    "company_name": "Doctot Sleep",
+    "hq_location": "Copenhagen, Denmark",
+    "website_url": "https://www.doctot.com",
+    "problem_solved": "Sleep specialists need standardized, validated tools for sleep disorder screening, assessment, and patient-reported outcome tracking. Paper-based assessments are inefficient and lack data integration.",
+    "who_buys_it": "Sleep clinics, psychiatrists, neurologists, primary care physicians, and researchers",
+    "key_features": [
+      "Digital sleep assessment tools and questionnaires",
+      "Validated sleep disorder screening instruments (ESS, PSQI, Berlin Questionnaire, etc.)",
+      "Patient-reported outcome tracking",
+      "Clinical decision support for sleep disorder diagnosis",
+      "Integration with electronic health records",
+      "Mobile-friendly patient assessments",
+      "Research data collection capabilities",
+      "Danish market focus with Nordic expansion potential"
+    ],
+    "business_model": "B2B SaaS with subscription fees per clinic or provider. Potential per-assessment pricing for larger institutions. Research licensing for academic institutions.",
+    "why_varden_should_care": "Digital assessment tools address growing demand for standardized sleep disorder screening. Danish base provides Nordic market entry point. Scalable SaaS model with low implementation friction. Integration opportunities with PSG and clinic management systems."
+  }
+]

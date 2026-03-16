@@ -1,0 +1,28 @@
+{
+  "company": "Vezeeta (Egypt)",
+  "country": "Egypt",
+  "founded_year": 2012,
+  "category": "Healthcare Infrastructure",
+  "subsector": "Healthcare Marketplace",
+  "description": "Middle East healthcare platform for booking doctor appointments. Patients can find doctors, read reviews, and book appointments online. Operates in Egypt, Saudi Arabia, Jordan, Lebanon, and Kenya.",
+  "business_model": "B2B - Marketplace to healthcare providers, free to patients",
+  "target_market": "Healthcare providers in MENA region",
+  "funding_stage": "Series D",
+  "funding_amount_usd": 65000000,
+  "key_investors": "Gulf Capital, Beco Capital, Silicon Badia, Vostok New Ventures",
+  "employees": "300+",
+  "customers": "50000+ doctors",
+  "revenue_usd": null,
+  "tech_stack": ["Doctor directory", "Appointment scheduling", "Patient reviews", "Practice management", "Video consultations"],
+  "integration_points": ["Hospital systems", "Insurance providers", "Telemedicine platforms"],
+  "competitive_advantage": "Regional leader in MENA, multi-country presence, growing market",
+  "boring_software": true,
+  "varden_fit": {
+    "threat_level": "low",
+    "opportunity": "benchmark",
+    "rationale": "MENA healthcare infrastructure - demonstrates emerging market opportunity"
+  },
+  "data_quality": "high",
+  "sources": ["vezeeta.com", "crunchbase.com"],
+  "last_updated": "2026-03-11"
+}

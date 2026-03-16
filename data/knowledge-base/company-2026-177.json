@@ -1,0 +1,28 @@
+{
+  "company": "Notable (USA)",
+  "country": "United States",
+  "founded_year": 2017,
+  "category": "Healthcare Infrastructure",
+  "subsector": "Healthcare Automation Platform",
+  "description": "Healthcare automation platform using AI to automate administrative workflows. Patient intake, scheduling, prior authorization, and clinical documentation automation. Reduces manual work for healthcare staff.",
+  "business_model": "B2B - Automation platform to healthcare organizations",
+  "target_market": "Health systems, large physician practices",
+  "funding_stage": "Series B",
+  "funding_amount_usd": 100000000,
+  "key_investors": "General Catalyst, Atomic, others",
+  "employees": "150+",
+  "customers": "Health systems",
+  "revenue_usd": null,
+  "tech_stack": ["AI automation", "Patient intake", "Prior authorization", "Scheduling automation", "EHR integration"],
+  "integration_points": ["Epic", "Cerner", "other EHRs"],
+  "competitive_advantage": "No-code automation, rapid deployment, measurable ROI",
+  "boring_software": true,
+  "varden_fit": {
+    "threat_level": "low",
+    "opportunity": "monitor",
+    "rationale": "Workflow automation - could streamline occupational health processes"
+  },
+  "data_quality": "high",
+  "sources": ["notable.com", "crunchbase.com"],
+  "last_updated": "2026-03-11"
+}

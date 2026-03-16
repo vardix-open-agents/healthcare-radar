@@ -1,0 +1,22 @@
+{
+  "company_name": "Modivcare",
+  "problem_solved": "Patients face transportation barriers preventing access to medical appointments, leading to missed care and poor health outcomes especially for Medicaid/Medicare populations",
+  "solution_description": "Non-emergency medical transportation (NEMT) platform providing 35M+ rides per year with 98%+ on-time completion rate. Combines technology platform with logistics network for reliable transportation to healthcare appointments. Also offers remote patient monitoring services",
+  "buyer_persona": "payers",
+  "care_stage": "monitoring",
+  "automation_level": "partial",
+  "varden_fit": "high",
+  "region": "US",
+  "country": "United States",
+  "funding_stage": "public",
+  "traction_signals": [
+    "1B+ moments of care delivered",
+    "34M lives managed",
+    "35M paid trips per year",
+    "2.5M remote patient monitoring interactions annually"
+  ],
+  "notes": "Major NEMT player serving Medicaid plans, Medicare SNP plans, and health systems. 40-60% reduction in ER utilization for engaged members. 47% PMPM cost reduction for high-risk members. Expanded into remote patient monitoring",
+  "discovery_round": 50,
+  "discovered_by": "sky",
+  "timestamp": "2026-03-11T23:20:00Z"
+}

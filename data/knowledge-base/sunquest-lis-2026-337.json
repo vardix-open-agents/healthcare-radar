@@ -1,0 +1,22 @@
+{
+  "id": "sunquest-lis-2026-337",
+  "title": "Sunquest - Laboratory Information Systems",
+  "company": "Sunquest Information Systems",
+  "country": "USA",
+  "segment": "infrastructure",
+  "problem": "Large hospital and reference labs need sophisticated LIS with complex workflow support",
+  "solution": "Sunquest LIS with advanced rule-based decision support and automation",
+  "technology": "Enterprise LIS, decision support, lab automation interfaces",
+  "target_customer": "Large hospital labs, reference labs, health systems",
+  "care_setting": "hospital",
+  "care_domain": "diagnostics",
+  "care_stage": "diagnosis",
+  "automation_level": "partial",
+  "ai_type": null,
+  "traction_signals": ["Market share leader", "Decades in market", "Private equity owned"],
+  "funding": "Private (Vista Equity Partners)",
+  "regulatory_notes": "CLIA, CAP compliant",
+  "source": "sky-round18-diagnostics",
+  "url": "https://www.sunquestinfo.com",
+  "date_added": "2026-03-11"
+}

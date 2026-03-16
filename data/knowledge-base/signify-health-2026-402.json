@@ -1,0 +1,22 @@
+{
+  "company_name": "Signify Health",
+  "problem_solved": "Health plans lack visibility into members' home environments and social determinants, missing opportunities for early intervention and care gap closure",
+  "solution_description": "In-home health evaluation platform deploying clinicians to members' homes for comprehensive health assessments. Identifies social determinants, closes care gaps, and connects members to appropriate services. Now part of CVS Health, provides diagnostic and preventive services at scale",
+  "buyer_persona": "payers",
+  "care_stage": "screening",
+  "automation_level": "partial",
+  "varden_fit": "high",
+  "region": "US",
+  "country": "United States",
+  "funding_stage": "acquired",
+  "traction_signals": [
+    "Acquired by CVS Health for $8B",
+    "Millions of in-home visits annually",
+    "10+ years of operation",
+    "Extensive clinician network"
+  ],
+  "notes": "Major player in in-home health assessments. SDOH screening happens during home visits. Care coordination pathways connect members to social services. CVS acquisition indicates strategic value. High scale but limited to episodic assessments vs. ongoing care",
+  "discovery_round": 50,
+  "discovered_by": "sky",
+  "timestamp": "2026-03-11T23:20:00Z"
+}

@@ -1,0 +1,14 @@
+{
+  "company": "Enel-Med",
+  "country": "PL",
+  "problem": "Patients need centralized access to medical records and appointment management",
+  "solution": "Mobile app for medical records management, appointment tracking, and healthcare service coordination in Poland",
+  "problem_type": "practice_management",
+  "solution_type": "SaaS",
+  "buyer": "clinics",
+  "varden_fit": "medium",
+  "url": "https://enel.pl",
+  "source": "web",
+  "discovery_round": 72,
+  "discovered_by": "sky"
+}

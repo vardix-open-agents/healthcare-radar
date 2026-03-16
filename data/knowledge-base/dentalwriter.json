@@ -1,0 +1,14 @@
+{
+  "company": "DentalWriter",
+  "country": "US",
+  "problem": "Dentists practicing dental sleep medicine, TMD treatment, and oral surgery need specialized software for medical billing reimbursement, documentation of medical necessity, and physician communication",
+  "solution": "Web-based EMR software specialized for dental sleep medicine, TMD, and oral surgery with automated SOAP reports of medical necessity, intelligent cross-coding from dental to medical ICD-10/CPT codes, integrated medical billing concierge service, and online patient intake questionnaires for 3,500+ dental practices",
+  "problem_type": "dental",
+  "solution_type": "SaaS",
+  "buyer": "dental_clinics",
+  "varden_fit": "medium",
+  "url": "https://www.dentalwriter.com",
+  "source": "web",
+  "discovery_round": 91,
+  "discovered_by": "nova"
+}

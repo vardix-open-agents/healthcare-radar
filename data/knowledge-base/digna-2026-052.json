@@ -1,0 +1,29 @@
+{
+  "id": "digna-2026-052",
+  "title": "Digna - Occupational Health Platform",
+  "company": "Digna",
+  "country": "Sweden",
+  "region": "Nordics",
+  "segment": "monitoring",
+  "problem": "Employers struggle to manage employee health, sick leave, and workplace wellness programs effectively.",
+  "solution": "Occupational health platform connecting employers with occupational health services, managing sick leave, and preventive health programs.",
+  "technology": "SaaS platform, health assessments, case management",
+  "target_customer": "Employers, occupational health providers",
+  "care_setting": "primary_care",
+  "care_domain": "occupational health",
+  "care_stage": "prevention",
+  "automation_level": "partial",
+  "ai_type": null,
+  "traction_signals": [
+    "Swedish occupational health platform",
+    "Employer B2B focus",
+    "Preventive health"
+  ],
+  "funding": null,
+  "regulatory_notes": "Occupational health services, data privacy.",
+  "varden_fit": "High — occupational health is significant B2B segment. Could integrate with Varden's clinic network for employer services.",
+  "source": "Swedish health tech ecosystem",
+  "url": "https://www.digna.se",
+  "date_added": "2026-03-11",
+  "notes": "Occupational health B2B. High-value employer segment."
+}

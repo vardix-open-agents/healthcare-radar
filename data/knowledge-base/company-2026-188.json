@@ -1,0 +1,27 @@
+{
+  "company": "Nye (Denmark)",
+  "country": "Denmark",
+  "founded_year": 2016,
+  "category": "Telemedicine",
+  "subsector": "Digital Health Platform",
+  "description": "Danish digital health platform providing video consultations, digital triage, and healthcare navigation. Works with Danish regions to provide digital healthcare services. Focus on improving access and efficiency.",
+  "business_model": "B2B/B2C - Digital health platform to Danish regions and patients",
+  "target_market": "Danish healthcare system, patients",
+  "funding_stage": "Series A",
+  "funding_amount_dkk": null,
+  "key_investors": "Danish investors",
+  "employees": "50+",
+  "customers": "Danish regions",
+  "revenue_dkk": null,
+  "tech_stack": ["Video consultations", "Digital triage", "Healthcare navigation", "EHR integration"],
+  "integration_points": ["Danish national health portal (sundhed.dk)", "GP systems"],
+  "competitive_advantage": "Danish market focus, government partnerships, integrated with national infrastructure",
+  "varden_fit": {
+    "threat_level": "low",
+    "opportunity": "monitor",
+    "rationale": "Danish digital health - demonstrates Nordic market opportunity"
+  },
+  "data_quality": "medium",
+  "sources": ["nye.dk"],
+  "last_updated": "2026-03-11"
+}

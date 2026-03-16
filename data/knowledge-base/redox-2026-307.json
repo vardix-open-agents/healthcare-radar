@@ -1,0 +1,22 @@
+{
+  "id": "redox-2026-307",
+  "title": "Redox - Healthcare Integration Platform",
+  "company": "Redox",
+  "country": "USA",
+  "segment": "infrastructure",
+  "problem": "Connecting digital health solutions to EHRs and lab systems requires custom integrinations for each site",
+  "solution": "Single API platform providing normalized data exchange with any EHR, lab, or health system",
+  "technology": "API platform, data normalization, interoperability engine",
+  "target_customer": "Digital health companies, health tech startups, labs",
+  "care_setting": "all",
+  "care_domain": "infrastructure",
+  "care_stage": "all",
+  "automation_level": "full",
+  "ai_type": null,
+  "traction_signals": ["7,000+ connections", "Raised $95M", "Processing billions of messages"],
+  "funding": "Series D",
+  "regulatory_notes": "HIPAA compliant, SOC 2 certified",
+  "source": "sky-round18-diagnostics",
+  "url": "https://www.redoxengine.com",
+  "date_added": "2026-03-11"
+}

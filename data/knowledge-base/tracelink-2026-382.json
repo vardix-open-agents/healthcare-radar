@@ -1,0 +1,22 @@
+{
+  "company_name": "TraceLink",
+  "problem_solved": "Pharmaceutical supply chain serialization, compliance, and track-and-trace requirements",
+  "solution_description": "World's largest digital supply chain network for life sciences. OPUS platform enables end-to-end serialization, track-and-trace, and supply chain orchestration with AI agents. 291,000+ network partners.",
+  "buyer_persona": "pharma_lifesciences",
+  "care_stage": "commercial",
+  "automation_level": "full",
+  "varden_fit": "medium",
+  "region": "Global",
+  "country": "US",
+  "funding_stage": "series_d",
+  "traction_signals": [
+    "291,000+ network members",
+    "1,600+ customers",
+    "DSCSA compliance leader",
+    "MIT roots"
+  ],
+  "notes": "Critical infrastructure for drug serialization compliance. Network effects create moat. Competes with SAP ATTP, Systech.",
+  "discovery_round": 53,
+  "discovered_by": "sky",
+  "timestamp": "2026-03-11T23:18:00Z"
+}

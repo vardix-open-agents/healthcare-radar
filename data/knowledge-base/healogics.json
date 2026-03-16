@@ -1,0 +1,14 @@
+{
+  "company": "Healogics",
+  "country": "US",
+  "problem": "7 million Americans suffer from chronic non-healing wounds. 1 in 4 families has a member with a chronic wound. Untreated wounds lead to amputation (30% of untreated chronic wounds) and high mortality (75% 5-year post-amputation).",
+  "solution": "Nation's leading provider of advanced wound care and hyperbaric oxygen therapy with 600+ hospital-based wound care centers. Treats 300,000+ patients annually with specialized wound expertise, advanced modalities, and Wound Science Initiative research program.",
+  "problem_type": "wound_care",
+  "solution_type": "services",
+  "buyer": "hospitals",
+  "varden_fit": "low",
+  "url": "https://www.healogics.com",
+  "source": "web",
+  "discovery_round": 134,
+  "discovered_by": "sky"
+}

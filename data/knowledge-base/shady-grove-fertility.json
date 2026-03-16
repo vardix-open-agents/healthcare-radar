@@ -1,0 +1,14 @@
+{
+  "company": "Shady Grove Fertility",
+  "country": "US",
+  "problem": "Couples and individuals struggling with infertility need accessible, effective, and affordable fertility treatment, but face high costs, uncertain outcomes, and emotional stress throughout the treatment journey.",
+  "solution": "National fertility clinic network offering comprehensive fertility services including IVF, IUI, egg freezing, donor programs, and LGBTQ+ family building. Pioneered shared-risk refund programs for IVF treatment. Part of US Fertility network, providing relationship-based care with local expertise and national resources.",
+  "problem_type": "womens_health",
+  "solution_type": "clinic_services",
+  "buyer": "patients",
+  "varden_fit": "low",
+  "url": "https://www.shadygrovefertility.com/",
+  "source": "web",
+  "discovery_round": 93,
+  "discovered_by": "nova"
+}

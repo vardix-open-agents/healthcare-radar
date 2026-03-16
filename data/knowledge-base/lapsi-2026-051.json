@@ -1,0 +1,29 @@
+{
+  "id": "lapsi-2026-051",
+  "title": "Lapsi - Digital Pediatric Health Platform",
+  "company": "Lapsi",
+  "country": "Finland",
+  "region": "Nordics",
+  "segment": "monitoring",
+  "problem": "Parents of young children lack reliable digital tools for tracking child development and accessing pediatric advice.",
+  "solution": "Digital platform for child health tracking, vaccination schedules, development milestones, and access to pediatric nurses.",
+  "technology": "Mobile app, health tracking, chat support",
+  "target_customer": "Parents, child health clinics",
+  "care_setting": "home",
+  "care_domain": "pediatrics",
+  "care_stage": "monitoring",
+  "automation_level": "partial",
+  "ai_type": null,
+  "traction_signals": [
+    "Finnish pediatric health app",
+    "Child development tracking",
+    "Healthcare integration"
+  ],
+  "funding": null,
+  "regulatory_notes": "Health information app, not medical device.",
+  "varden_fit": "Moderate — pediatric focus could complement family medicine providers on Varden.",
+  "source": "Nordic health tech ecosystem",
+  "url": "https://www.lapsi.fi",
+  "date_added": "2026-03-11",
+  "notes": "Pediatric digital health. Niche but valuable segment."
+}

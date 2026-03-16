@@ -1,0 +1,27 @@
+{
+  "company": "Medici (Italy)",
+  "country": "Italy",
+  "founded_year": 2016,
+  "category": "Telemedicine",
+  "subsector": "Doctor-Patient Communication Platform",
+  "description": "Italian telemedicine platform enabling secure communication between doctors and patients. Offers video consultations, messaging, and digital prescriptions. Used by both private and public healthcare providers.",
+  "business_model": "B2B - SaaS to healthcare providers; B2C - Consultation fees",
+  "target_market": "Italian doctors, clinics, and patients",
+  "funding_stage": "Series A",
+  "funding_amount_eur": 5000000,
+  "key_investors": "Italian VCs, healthcare angels",
+  "employees": 50,
+  "customers": "10000+ doctors, 500000+ patients",
+  "revenue_eur": 4000000,
+  "tech_stack": ["Web platform", "Mobile app", "Video conferencing", "E-prescription"],
+  "integration_points": ["Italian SSN", "Clinic management systems", "EHR systems"],
+  "competitive_advantage": "Italian market focus, regulatory compliance, established user base",
+  "varden_fit": {
+    "threat_level": "low",
+    "opportunity": "partner",
+    "rationale": "Telemedicine infrastructure in Italy - potential partner for occupational health delivery"
+  },
+  "data_quality": "medium",
+  "sources": ["medici.it", "linkedin.com"],
+  "last_updated": "2026-03-11"
+}

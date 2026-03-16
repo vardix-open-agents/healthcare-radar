@@ -1,0 +1,16 @@
+{
+  "id": "problem-2026-020",
+  "problem": "Czech clinics cannot verify patient insurance status in real-time, leading to unpaid claims",
+  "problem_type": "eligibility",
+  "solution_type": "Payer API integrations, real-time eligibility checks, automated coverage verification",
+  "care_stage": "admin",
+  "automation_type": "workflow_automation",
+  "buyer": "clinic",
+  "care_setting": "primary_care",
+  "companies": ["CESKOSLOVENSKÁ obchodní dráha", "NRZIP integration", "Local EHR vendors"],
+  "signals": ["Czech health insurance system", "Real-time claims pilots", "Admin cost reduction"],
+  "boring_software": true,
+  "contrarian": false,
+  "url": "https://www.mzcr.cz",
+  "date_added": "2026-03-11"
+}

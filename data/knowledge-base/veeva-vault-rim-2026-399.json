@@ -1,0 +1,22 @@
+{
+  "company_name": "Veeva Vault RIM",
+  "problem_solved": "Fragmented regulatory information management and submission processes",
+  "solution_description": "Regulatory Information Management (RIM) platform for life sciences. Manages regulatory content, submissions, health authority interactions, and registration tracking in unified cloud platform.",
+  "buyer_persona": "pharma_lifesciences",
+  "care_stage": "clinical_trials,commercial",
+  "automation_level": "partial",
+  "varden_fit": "medium",
+  "region": "Global",
+  "country": "US",
+  "funding_stage": "public",
+  "traction_signals": [
+    "Part of Veeva Vault suite",
+    "1000+ pharma customers",
+    "RIM market leader",
+    "Global health authority integrations"
+  ],
+  "notes": "Regulatory leader in life sciences. Competes with Amplex, Generis. Integrated with Veeva Vault CTMS and Safety. Strong in global submissions.",
+  "discovery_round": 53,
+  "discovered_by": "sky",
+  "timestamp": "2026-03-11T23:18:00Z"
+}

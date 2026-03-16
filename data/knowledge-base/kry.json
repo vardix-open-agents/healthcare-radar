@@ -1,0 +1,14 @@
+{
+  "company": "Kry",
+  "country": "SE",
+  "problem": "Patients in Nordic countries face limited access to primary care with long wait times and fragmented digital and physical care delivery",
+  "solution": "Digital healthcare platform combining 24/7 video consultations, chat with healthcare professionals, digital prescriptions, and 34 physical clinics across Sweden; offers integrated primary care with psychologists, physiotherapists, and specialists",
+  "problem_type": "primary_care",
+  "solution_type": "SaaS",
+  "buyer": "health_system",
+  "varden_fit": "high",
+  "url": "https://www.kry.se",
+  "source": "web",
+  "discovery_round": 125,
+  "discovered_by": "sky"
+}

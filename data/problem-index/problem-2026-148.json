@@ -1,0 +1,16 @@
+{
+  "id": "problem-2026-148",
+  "problem": "Retroactive coverage terminations are discovered 30-90 days post-service, resulting in unrecoverable patient liability",
+  "problem_type": "retroactive_detection",
+  "solution_type": "Real-time coverage monitoring, termination alerts, patient liability protection, re-verification workflows",
+  "care_stage": "admin",
+  "automation_type": "workflow_automation",
+  "buyer": "health_system",
+  "care_setting": "hospital",
+  "companies": ["Change Healthcare", "Experian Health", "Availity", "Waystar"],
+  "signals": ["30-90 day discovery delays", "Unrecoverable liability", "Monitoring demand", "Re-verification needs"],
+  "boring_software": true,
+  "contrarian": false,
+  "url": "https://www.cms.gov/coverage-monitoring",
+  "date_added": "2026-03-11"
+}

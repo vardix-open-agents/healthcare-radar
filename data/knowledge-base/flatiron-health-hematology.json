@@ -1,0 +1,14 @@
+{
+  "company": "Flatiron Health",
+  "country": "US",
+  "problem": "Hematology and oncology clinics struggle with fragmented clinical data, lack of standardized treatment protocols, and difficulty generating real-world evidence for blood disorder management and cancer care.",
+  "solution": "Cloud-based oncology/hematology EHR platform and real-world evidence network that aggregates and standardizes clinical data, enabling data-driven insights for blood disorder treatment, clinical research, and regulatory decision-making.",
+  "problem_type": "hematology",
+  "solution_type": "SaaS",
+  "buyer": "clinics",
+  "varden_fit": "medium",
+  "url": "https://flatiron.com",
+  "source": "web",
+  "discovery_round": 120,
+  "discovered_by": "sky"
+}

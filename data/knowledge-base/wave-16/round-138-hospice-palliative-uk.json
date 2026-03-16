@@ -1,0 +1,114 @@
+[
+  {
+    "company_name": "System C Healthcare",
+    "hq_location": "Maidstone, United Kingdom",
+    "website_url": "https://www.systemc.com",
+    "problem_solved": "Provides integrated electronic patient record (EPR) systems and care management software for healthcare providers, enabling digital transformation across NHS trusts and social care organizations including hospice and palliative care settings.",
+    "who_buys_it": "NHS trusts, hospitals, community care providers, local authorities, social care organizations",
+    "key_features": [
+      "CareFlow EPR - cloud-based electronic patient record platform",
+      "Adult Social Care case management system",
+      "Integrated medicines management and prescribing"
+    ],
+    "business_model": "SaaS/Enterprise software licensing",
+    "why_varden_should_care": "Proven model of integrating healthcare IT across multiple care settings; replicable approach to connecting hospitals, community care, and social services that could be adapted to other markets."
+  },
+  {
+    "company_name": "Patients Know Best",
+    "hq_location": "London, United Kingdom",
+    "website_url": "https://patientsknowbest.com",
+    "problem_solved": "Provides a single platform for patients to access, manage, and share their health information with healthcare professionals, family, and carers - specifically including end-of-life care coordination and planning.",
+    "who_buys_it": "NHS trusts, clinical commissioning groups, hospitals, GP practices, health boards",
+    "key_features": [
+      "Personal health record with care plan management",
+      "Secure messaging with healthcare professionals",
+      "End-of-life care coordination and sharing capabilities"
+    ],
+    "business_model": "SaaS (free for patients, paid by healthcare organizations)",
+    "why_varden_should_care": "Pioneering patient-controlled health records model with proven NHS integration; the end-of-life care focus demonstrates a replicable approach to sensitive healthcare coordination that empowers patients and families."
+  },
+  {
+    "company_name": "Birdie",
+    "hq_location": "London, United Kingdom",
+    "website_url": "https://www.birdie.care",
+    "problem_solved": "Digitizes homecare operations to help care providers deliver better quality care, reduce administrative burden, and improve outcomes for people receiving care at home - applicable to palliative home care.",
+    "who_buys_it": "Homecare agencies, domiciliary care providers, care organizations",
+    "key_features": [
+      "Unified care management platform with digital care plans and eMAR",
+      "Automated rostering and workforce management",
+      "Real-time monitoring and CQC compliance benchmarking (Q-Score)"
+    ],
+    "business_model": "SaaS subscription",
+    "why_varden_should_care": "Fast-growing homecare technology platform with 1000+ care businesses; demonstrates how to build an all-in-one solution for care coordination that could be adapted for hospice-at-home and palliative care services."
+  },
+  {
+    "company_name": "Inhealthcare",
+    "hq_location": "Harrogate, United Kingdom",
+    "website_url": "https://www.inhealthcare.co.uk",
+    "problem_solved": "Enables remote patient monitoring and virtual ward services, allowing patients to be monitored safely at home - increasingly relevant for palliative and end-of-life care where patients prefer to remain at home.",
+    "who_buys_it": "NHS trusts, clinical commissioning groups, GP practices, community health providers",
+    "key_features": [
+      "Virtual ward platform for home-based care monitoring",
+      "Remote patient monitoring for respiratory, cardiovascular, and long-term conditions",
+      "Integration with NHS systems and clinical workflows"
+    ],
+    "business_model": "SaaS/Service contract with NHS organizations",
+    "why_varden_should_care": "Leading UK remote monitoring platform with proven virtual ward deployments; the model of enabling care at home through technology is directly applicable to hospice and palliative care services."
+  },
+  {
+    "company_name": "Graphnet Health",
+    "hq_location": "Aylesbury, United Kingdom",
+    "website_url": "https://www.graphnethealth.com",
+    "problem_solved": "Provides population health management and shared care records that connect health and social care data, enabling proactive identification and support of patients including those with palliative care needs.",
+    "who_buys_it": "NHS organizations, integrated care systems, local authorities, health boards",
+    "key_features": [
+      "CIPHA - Combined Intelligence for Population Health Action platform",
+      "Shared care records connecting multiple providers",
+      "Remote patient monitoring and virtual wards"
+    ],
+    "business_model": "SaaS/Enterprise software with NHS contracts",
+    "why_varden_should_care": "30+ years of experience in UK population health; demonstrates how to build integrated care platforms that could identify and coordinate care for palliative patients across health and social care boundaries."
+  },
+  {
+    "company_name": "Nourish Care",
+    "hq_location": "Bournemouth, United Kingdom",
+    "website_url": "https://nourishcare.com",
+    "problem_solved": "Provides person-centred care management software for social care providers, enabling better care coordination, documentation, and outcomes for people in care homes and home care settings.",
+    "who_buys_it": "Care homes, homecare providers, supported living organizations, adult social care providers",
+    "key_features": [
+      "Digital care planning and recording with person-centred approach",
+      "Rostering and workforce management",
+      "Integration capabilities with NHS and health systems"
+    ],
+    "business_model": "SaaS subscription",
+    "why_varden_should_care": "First accredited by PRSB as Quality Partner; demonstrates how to build care management software that bridges social care and health systems - relevant for hospice care that often spans both sectors."
+  },
+  {
+    "company_name": "EMIS Health (Optum)",
+    "hq_location": "Leeds, United Kingdom",
+    "website_url": "https://www.emishealth.com",
+    "problem_solved": "Provides clinical IT systems used by 100,000+ healthcare professionals across primary care, community care, pharmacy, and A&E - including systems used by hospice and palliative care providers.",
+    "who_buys_it": "GP practices, community health providers, pharmacies, A&E departments, hospices",
+    "key_features": [
+      "EMIS Web - integrated clinical system for primary and community care",
+      "Patient information sharing across care settings",
+      "Prescribing and medicines management"
+    ],
+    "business_model": "SaaS/Enterprise software licensing (acquired by Optum/UnitedHealth)",
+    "why_varden_should_care": "#1 clinical system in UK primary care; demonstrates the scale achievable in healthcare IT and how clinical systems can be extended to community and hospice settings."
+  },
+  {
+    "company_name": "OneAdvanced (Care Business Management)",
+    "hq_location": "London, United Kingdom",
+    "website_url": "https://www.oneadvanced.com/products/care-business-management/",
+    "problem_solved": "Provides comprehensive care business management software for care organizations of scale, supporting residential, domiciliary, supported living, and complex care provision.",
+    "who_buys_it": "Large care providers, local authorities, housing associations, independent care organizations",
+    "key_features": [
+      "Unified care management across multiple care types and locations",
+      "Integrated rostering, payroll, and invoicing",
+      "Single source of truth for multi-site care organizations"
+    ],
+    "business_model": "SaaS/Enterprise software",
+    "why_varden_should_care": "Demonstrates how to build scalable care management software that handles complexity across multiple care settings - relevant for hospice organizations that may operate inpatient, community, and home care services."
+  }
+]

@@ -1,0 +1,14 @@
+{
+  "company": "Digitail",
+  "country": "RO",
+  "problem": "Veterinary clinics struggle with fragmented software tools, manual administrative workflows, poor client communication, and inefficient practice management that leads to staff burnout and reduced time for patient care",
+  "solution": "All-in-one AI-native cloud veterinary practice management software with 20+ AI workflows including SOAP dictation, automated medical record summaries, online scheduling, automated reminders, wellness plans, integrated payments, and a pet parent app",
+  "problem_type": "veterinary",
+  "solution_type": "SaaS",
+  "buyer": "vet_clinics",
+  "varden_fit": "low",
+  "url": "https://digitail.com",
+  "source": "web",
+  "discovery_round": 102,
+  "discovered_by": "nova"
+}

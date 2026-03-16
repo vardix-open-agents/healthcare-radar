@@ -1,0 +1,14 @@
+{
+  "company": "Kaia Health",
+  "country": "DE",
+  "problem": "Chronic back pain and musculoskeletal disorders are widespread and costly, with traditional treatments often relying on pain medications and invasive procedures",
+  "solution": "FDA-cleared digital therapeutics platform for MSK conditions, using computer vision AI to guide exercise therapy and mindfulness-based education through a smartphone app",
+  "problem_type": "rehab",
+  "solution_type": "SaaS",
+  "buyer": "employers",
+  "varden_fit": "medium",
+  "url": "https://www.kaiahealth.com",
+  "source": "web",
+  "discovery_round": 98,
+  "discovered_by": "nova"
+}

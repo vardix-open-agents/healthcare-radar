@@ -1,0 +1,153 @@
+[
+  {
+    "company_name": "BG prevent (formerly B·A·D)",
+    "hq_location": "Munich, Germany",
+    "website_url": "https://www.bg-prevent.de",
+    "problem_solved": "German companies face complex legal requirements for occupational health and safety, but managing these requirements across multiple locations with qualified specialists is challenging and resource-intensive.",
+    "who_buys_it": "HR directors, EHS managers, CFOs at German SMEs and large enterprises with 100+ employees across manufacturing, logistics, healthcare, and office-based industries",
+    "key_features": [
+      "Network of 150+ occupational health centers across Germany",
+      "Occupational medicine examinations (G37, G25, etc.)",
+      "Workplace safety assessments and risk analysis",
+      "Digital appointment booking platform",
+      "Pre-employment health screenings",
+      "Return-to-work programs",
+      "Health management consulting",
+      "Legal compliance support (ArbMedVV)"
+    ],
+    "business_model": "B2B service contracts - per-examination fees and annual retainer packages for ongoing occupational health support; pricing varies by company size and service scope",
+    "why_varden_should_care": "Largest occupational medicine provider in Germany with 150+ locations; strong regulatory moat as German occupational health requirements become stricter; serving 40,000+ companies; transitioning from B·A·D to BG prevent shows modernization push; addresses pain point of decentralized occupational health service delivery"
+  },
+  {
+    "company_name": "Medgate",
+    "hq_location": "Basel, Switzerland",
+    "website_url": "https://www.medgate.ch",
+    "problem_solved": "Swiss employees and companies need rapid access to medical consultations but face long wait times, travel requirements, and difficulty coordinating care across the healthcare system.",
+    "who_buys_it": "Swiss health insurance companies (partnering for telemedicine services), HR departments for corporate health programs, and individual patients seeking convenient care access",
+    "key_features": [
+      "24/7 telemedicine platform with 160+ physicians",
+      "Video, phone, and chat consultations",
+      "Symptom checker and triage",
+      "E-prescription delivery",
+      "Kids Line for pediatric emergencies",
+      "Partner network of 3,800+ specialists",
+      "Corporate health programs",
+      "Electronic health record management"
+    ],
+    "business_model": "B2B2C - partnerships with Swiss health insurers who offer Medgate as part of insurance plans; per-consultation fees covered by mandatory Swiss health insurance; corporate wellness contracts with employers",
+    "why_varden_should_care": "Market leader in Swiss telemedicine with 25+ years experience; 95% patient satisfaction rate; strong B2B partnerships with major Swiss insurers; handles 60,000+ consultations during peak periods; expanding Kids Line shows focus on family health; addresses Swiss market where telemedicine adoption is government-supported"
+  },
+  {
+    "company_name": "TeleClinic",
+    "hq_location": "Munich, Germany",
+    "website_url": "https://www.teleclinic.com",
+    "problem_solved": "German employees need quick medical consultations and prescriptions but face appointment bottlenecks, time off work for doctor visits, and fragmented care coordination.",
+    "who_buys_it": "Health insurers seeking digital health solutions, employers wanting to reduce absenteeism, and individual patients requiring convenient medical access",
+    "key_features": [
+      "Video consultations with licensed German physicians",
+      "Electronic prescription issuance",
+      "Sick leave certificates (Krankschreibung)",
+      "Referral management to specialists",
+      "Mobile app and web platform",
+      "Compliance with German telemedicine regulations",
+      "Integration with local healthcare providers"
+    ],
+    "business_model": "B2B2C - partnerships with German health insurers; per-consultation revenue; corporate health packages for employers; platform fees from healthcare providers",
+    "why_varden_should_care": "One of Germany's leading telemedicine platforms; addresses German market where 70+ million people have statutory health insurance; regulatory-compliant telemedicine approach; helps employers reduce productivity loss from medical appointments; strong growth potential as Germany embraces digital health"
+  },
+  {
+    "company_name": "CoachHub",
+    "hq_location": "Berlin, Germany",
+    "website_url": "https://www.coachhub.com",
+    "problem_solved": "Companies need to develop employee skills and wellbeing at scale but traditional coaching is expensive, limited in availability, and difficult to measure ROI.",
+    "who_buys_it": "CHROs, L&D directors, and talent development leaders at enterprises with 500+ employees across technology, finance, consulting, and professional services",
+    "key_features": [
+      "AI-powered coaching platform (AIMY™)",
+      "Access to top 5% certified business coaches",
+      "Video, phone, and chat coaching sessions",
+      "Personalized development plans",
+      "Behavioral analytics and progress tracking",
+      "Integration with HR systems (SAP, Workday)",
+      "Multi-language support (50+ languages)",
+      "Measurable ROI tracking and reporting"
+    ],
+    "business_model": "B2B SaaS - annual subscription model based on number of employees/coaching hours; enterprise contracts typically $50K-$500K annually; per-seat pricing for smaller deployments",
+    "why_varden_should_care": "Fast-growing digital coaching unicorn (valued $200M+); serves 1,000+ enterprise clients globally; 35% of coachees show measurable behavior change; strong data-driven approach with 25% R&D team; addresses growing corporate focus on employee development and retention; scalable alternative to traditional executive coaching"
+  },
+  {
+    "company_name": "BetterDoc",
+    "hq_location": "Cologne, Germany",
+    "website_url": "https://www.betterdoc.org",
+    "problem_solved": "Patients and case managers struggle to find the right medical specialists for complex conditions, leading to misdiagnosis, inappropriate treatments, and delayed care.",
+    "who_buys_it": "German health insurers, corporate case managers, patient advocates, and individuals seeking specialist referrals for complex medical conditions",
+    "key_features": [
+      "Data-driven specialist matching algorithm",
+      "Database of 150,000+ physician profiles",
+      "Individual patient consultations",
+      "Quality metrics based on patient outcomes",
+      "Multi-specialty coverage across all medical fields",
+      "Appointment coordination support",
+      "Post-treatment follow-up",
+      "Integration with insurance case management"
+    ],
+    "business_model": "B2B2C - partnerships with German health insurers who offer BetterDoc as a member benefit; case management contracts with corporations; per-referral fees; free for patients through insurance partnerships",
+    "why_varden_should_care": "94% recommendation rate from 150,000+ patients served; 1 in 3 diagnoses corrected by specialists shows impact on quality; data-driven approach to specialist selection; helps self-insured employers reduce costs through better care navigation; addresses German market complexity where finding specialists is challenging"
+  },
+  {
+    "company_name": "DoctorBox",
+    "hq_location": "Berlin, Germany",
+    "website_url": "https://www.doctorbox.de",
+    "problem_solved": "Individuals struggle to organize preventive health screenings, track medications, and maintain health records across multiple providers and appointments.",
+    "who_buys_it": "Health-conscious individuals, employers offering digital health benefits, and health insurers seeking preventive care tools for members",
+    "key_features": [
+      "AI-powered health assistant for personalized recommendations",
+      "Preventive care reminder system",
+      "Medication tracking and reminders",
+      "Pain diary for symptom tracking",
+      "Health document management and storage",
+      "Integration with laboratory test results",
+      "Annual preventive health screening included in premium",
+      "Privacy-compliant data storage (GDPR)"
+    ],
+    "business_model": "B2C freemium (€2.99/month for premium features) and B2B through corporate wellness programs; white-label solutions for health insurers; enterprise licensing for employee benefits",
+    "why_varden_should_care": "1M+ registered users shows strong consumer adoption; 10M+ test results managed demonstrates platform engagement; 98% user satisfaction; AI-driven approach aligns with digital health trends; addresses preventive health gap where 50% of Germans skip recommended screenings; potential B2B expansion into occupational health screenings"
+  },
+  {
+    "company_name": "Kry (Livi)",
+    "hq_location": "Stockholm, Sweden (with DACH operations)",
+    "website_url": "https://www.kry.se / https://www.kry.de",
+    "problem_solved": "Patients in Sweden, Germany, and across Europe need fast access to healthcare but face long wait times, travel requirements, and limited evening/weekend availability.",
+    "who_buys_it": "Health insurers, regional healthcare systems, employers offering health benefits, and individual patients in Sweden, Germany, Norway, and France",
+    "key_features": [
+      "24/7 digital healthcare platform",
+      "Video consultations with physicians, psychologists, physiotherapists",
+      "34+ physical healthcare centers in Sweden",
+      "Digital prescription services",
+      "Mental health support and therapy",
+      "Chronic disease management programs",
+      "Pediatric care (BVC)",
+      "Rehabilitation services"
+    ],
+    "business_model": "B2B2C - partnerships with regional healthcare systems and insurers; per-consultation fees; corporate health programs; hybrid digital-physical care model with clinic operations",
+    "why_varden_should_care": "European digital health unicorn with 14M+ patient consultations; strong expansion into German market; hybrid model (digital + physical clinics) shows sustainable care delivery; 4.9 App Store rating demonstrates user satisfaction; addresses pan-European occupational health needs for multinational employers"
+  },
+  {
+    "company_name": "Calmedica",
+    "hq_location": "Paris, France (with DACH market presence)",
+    "website_url": "https://www.calmedica.com",
+    "problem_solved": "Healthcare providers need to monitor patients remotely but lack efficient tools to follow up at scale, leading to complications, readmissions, and overwhelmed nursing staff.",
+    "who_buys_it": "Hospitals, clinic chains, occupational health services, and healthcare systems in France, Germany, Switzerland seeking patient monitoring solutions",
+    "key_features": [
+      "Multi-channel patient communication (SMS, web app, connected devices)",
+      "Automated patient follow-up dialogues",
+      "95% patient response rate",
+      "AI-powered text analysis (LLM integration)",
+      "Pre and post-operative monitoring",
+      "Chronic disease management pathways",
+      "Real-time patient alerts for clinical teams",
+      "Integration with hospital information systems"
+    ],
+    "business_model": "B2B SaaS - enterprise contracts with hospitals and healthcare systems; per-patient monitoring fees; implementation and customization services; ISO 27001 certified with HDS hosting",
+    "why_varden_should_care": "22M patients monitored across 200+ healthcare facilities; strong track record in France with DACH expansion potential; addresses nursing shortage by reducing follow-up calls by 80%; proven ROI in reducing complications and readmissions; relevant for occupational health providers managing return-to-work programs"
+  }
+]

@@ -1,0 +1,29 @@
+{
+  "id": "curoflow-2026-028",
+  "title": "Curoflow - Digital Care Pathway Platform",
+  "company": "Curoflow",
+  "country": "Sweden",
+  "region": "Nordics",
+  "segment": "infrastructure",
+  "problem": "Care pathways are fragmented. Patients move between providers without coordination, leading to gaps in care and poor patient experience.",
+  "solution": "Digital platform connecting care providers with unified care pathways, patient communication, and progress tracking across the care journey.",
+  "technology": "Care pathway orchestration, patient app, provider dashboard",
+  "target_customer": "Healthcare providers, pharmaceutical companies (patient support programs)",
+  "care_setting": "other",
+  "care_domain": "general",
+  "care_stage": "monitoring",
+  "automation_level": "partial",
+  "ai_type": null,
+  "traction_signals": [
+    "Stockholm-based healthtech company",
+    "Focus on care coordination",
+    "International expansion"
+  ],
+  "funding": null,
+  "regulatory_notes": "Healthcare data platform, GDPR compliance.",
+  "varden_fit": "High — care pathway orchestration complements Varden's marketplace. Could help coordinate care across Varden's clinic network.",
+  "source": "Swedish health tech knowledge",
+  "url": "https://www.curoflow.com",
+  "date_added": "2026-03-11",
+  "notes": "Care coordination infrastructure. Relevant for multi-provider marketplace."
+}

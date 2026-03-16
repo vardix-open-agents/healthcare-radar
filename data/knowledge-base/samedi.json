@@ -1,0 +1,14 @@
+{
+  "company": "Samedi",
+  "country": "DE",
+  "problem": "Medical practices and clinics struggle with administrative burden, phone volume, patient communication, and resource management",
+  "solution": "Comprehensive practice management software for clinics, MVZ, and practices with online appointment booking, AI phone assistant, digital patient communication, automated reminders, resource planning, and KPI dashboards",
+  "problem_type": "practice_management",
+  "solution_type": "SaaS",
+  "buyer": "clinics",
+  "varden_fit": "medium",
+  "url": "https://www.samedi.com",
+  "source": "web research",
+  "discovery_round": 63,
+  "discovered_by": "sky"
+}

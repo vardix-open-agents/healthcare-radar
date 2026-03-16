@@ -1,0 +1,29 @@
+{
+  "id": "klaara-2026-050",
+  "title": "Klaara - Healthcare Booking and Patient Communication",
+  "company": "Klaara",
+  "country": "Finland",
+  "region": "Nordics",
+  "segment": "scheduling",
+  "problem": "Healthcare booking systems are fragmented. Patients cannot easily find and book appointments across providers.",
+  "solution": "Healthcare marketplace enabling patients to search, compare, and book appointments with healthcare providers.",
+  "technology": "Booking platform, provider directory, patient app",
+  "target_customer": "Healthcare providers, patients",
+  "care_setting": "primary_care",
+  "care_domain": "general",
+  "care_stage": "admin",
+  "automation_level": "partial",
+  "ai_type": null,
+  "traction_signals": [
+    "Finnish healthcare marketplace",
+    "Appointment booking",
+    "Provider comparison"
+  ],
+  "funding": null,
+  "regulatory_notes": "Healthcare data platform, GDPR compliance.",
+  "varden_fit": "High — Finnish equivalent to Varden's marketplace model. Cross-border opportunity?",
+  "source": "Nordic health tech ecosystem",
+  "url": "https://www.klaara.fi",
+  "date_added": "2026-03-11",
+  "notes": "Finnish healthcare marketplace. Potential expansion target."
+}

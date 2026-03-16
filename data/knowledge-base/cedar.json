@@ -1,0 +1,14 @@
+{
+  "company": "Cedar",
+  "country": "US",
+  "problem": "Healthcare providers struggle with confusing patient billing, low collection rates, and fragmented payment workflows that frustrate patients and reduce revenue",
+  "solution": "AI-powered patient financial engagement platform that personalizes billing communications, optimizes payment funnels, and provides intelligent voice agent (Kora) to increase collections while improving patient experience",
+  "problem_type": "patient_payments",
+  "solution_type": "SaaS",
+  "buyer": "providers",
+  "varden_fit": "high",
+  "url": "https://www.cedar.com",
+  "source": "web",
+  "discovery_round": 99,
+  "discovered_by": "sky"
+}

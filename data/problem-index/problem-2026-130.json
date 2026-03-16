@@ -1,0 +1,16 @@
+{
+  "id": "problem-2026-130",
+  "problem": "EDI 270/271 and 276/277 transaction failures occur in 12-15% of requests due to payer connectivity issues, requiring manual workarounds",
+  "problem_type": "edi_failures",
+  "solution_type": "Automated EDI retry logic, fallback to payer portals, transaction status monitoring, payer performance dashboards",
+  "care_stage": "admin",
+  "automation_type": "workflow_automation",
+  "buyer": "health_system",
+  "care_setting": "hospital",
+  "companies": ["Change Healthcare", "Availity", "Waystar", "Office Ally", "Surescripts"],
+  "signals": ["12-15% EDI failure rate", "Payer connectivity inconsistency", "Manual workarounds common", "Transaction monitoring needed"],
+  "boring_software": true,
+  "contrarian": false,
+  "url": "https://www.x12.org",
+  "date_added": "2026-03-11"
+}

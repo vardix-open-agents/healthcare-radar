@@ -1,0 +1,14 @@
+{
+  "company": "BD Pyxis",
+  "country": "US",
+  "problem": "Hospitals struggle with secure medication storage, controlled substance tracking, and efficient medication distribution at point of care",
+  "solution": "Automated medication dispensing systems (Pyxis) with integrated inventory management, controlled substance tracking, and EHR connectivity for hospital pharmacies and nursing units",
+  "problem_type": "pharmacy",
+  "solution_type": "SaaS",
+  "buyer": "pharmacies",
+  "varden_fit": "medium",
+  "url": "https://www.bd.com/en-us/offerings/capabilities/medication-management-solutions",
+  "source": "web",
+  "discovery_round": 75,
+  "discovered_by": "nova"
+}

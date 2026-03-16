@@ -1,0 +1,14 @@
+{
+  "company": "Innovaccer",
+  "country": "US",
+  "problem": "Health systems, payers, and healthcare organizations struggle with fragmented data across non-EHR systems, preventing them from deploying AI agents effectively and achieving operational efficiency in clinical, financial, and administrative workflows.",
+  "solution": "Innovaccer offers an agentic AI cloud for healthcare that unifies non-EHR data, creates a governed real-time context layer, and enables deployment of AI agents for autonomous revenue cycle, population health management, network retention, and specialty care throughput, recognized as #1 Data Analytics Platform by KLAS.",
+  "problem_type": "analytics",
+  "solution_type": "SaaS",
+  "buyer": "providers",
+  "varden_fit": "medium",
+  "url": "https://www.innovaccer.com",
+  "source": "web",
+  "discovery_round": 97,
+  "discovered_by": "sky"
+}

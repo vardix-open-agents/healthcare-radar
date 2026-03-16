@@ -1,0 +1,27 @@
+{
+  "company": "Zebra Medical Vision",
+  "country": "Israel",
+  "founded_year": 2014,
+  "category": "AI Diagnostics",
+  "subsector": "Medical Imaging AI",
+  "description": "Israeli AI company developing algorithms for automated analysis of medical imaging. Population health platform for early detection of conditions from CT scans, X-rays. Acquired by Nanox.",
+  "business_model": "B2B - SaaS to hospitals and imaging centers",
+  "target_market": "Global healthcare providers with radiology departments",
+  "funding_stage": "Acquired",
+  "funding_amount_usd": 50000000,
+  "key_investors": "Acquired by Nanox; formerly backed by Khosla Ventures, Intermountain Healthcare",
+  "employees": "Integrated into Nanox",
+  "customers": "100+ healthcare organizations",
+  "revenue_usd": 15000000,
+  "tech_stack": ["Deep learning algorithms", "Cloud platform", "PACS integration"],
+  "integration_points": ["PACS systems", "RIS", "EHRs"],
+  "competitive_advantage": "FDA-cleared algorithms, population health focus, acquisition by Nanox",
+  "varden_fit": {
+    "threat_level": "low",
+    "opportunity": "partner",
+    "rationale": "AI diagnostic capability - could enhance occupational health screening"
+  },
+  "data_quality": "medium",
+  "sources": ["zebra-med.com", "crunchbase.com"],
+  "last_updated": "2026-03-11"
+}

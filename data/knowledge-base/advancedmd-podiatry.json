@@ -1,0 +1,14 @@
+{
+  "company": "AdvancedMD",
+  "country": "US",
+  "problem": "Podiatry practices need flexible, cloud-based practice management and EHR solutions that support independent practice workflows, telehealth, and comprehensive billing without vendor lock-in",
+  "solution": "AdvancedMD delivers an all-in-one cloud platform with EHR, practice management, medical billing, patient engagement, and telehealth capabilities with customizable templates for podiatry and specialty-specific documentation",
+  "problem_type": "podiatry",
+  "solution_type": "SaaS",
+  "buyer": "clinics",
+  "varden_fit": "medium",
+  "url": "https://www.advancedmd.com/",
+  "source": "web",
+  "discovery_round": 111,
+  "discovered_by": "sky"
+}

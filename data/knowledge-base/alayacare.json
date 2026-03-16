@@ -1,0 +1,14 @@
+{
+  "company": "AlayaCare",
+  "country": "CA",
+  "problem": "Home-based care agencies across the care continuum need integrated solutions to manage intake, scheduling, care management, billing, and payroll efficiently.",
+  "solution": "Cloud-based platform for home care, home health, infusion, and palliative care with mobile solutions covering all operational aspects from scheduling to clinical documentation.",
+  "problem_type": "hospice",
+  "solution_type": "SaaS",
+  "buyer": "providers",
+  "varden_fit": "medium",
+  "url": "https://www.alayacare.com",
+  "source": "web",
+  "discovery_round": 142,
+  "discovered_by": "sky"
+}

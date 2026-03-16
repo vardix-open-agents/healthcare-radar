@@ -1,0 +1,16 @@
+{
+  "id": "problem-2026-028",
+  "problem": "Hungarian GP practices manage 2000+ patients with paper-based chronic disease tracking",
+  "problem_type": "monitoring",
+  "solution_type": "Disease registry software, automated recall systems, population health dashboards",
+  "care_stage": "monitoring",
+  "automation_type": "workflow_automation",
+  "buyer": "clinic",
+  "care_setting": "primary_care",
+  "companies": ["MedSol", "Local EHR vendors", "NEAK integration"],
+  "signals": ["Hungarian primary care reform", "Chronic disease burden", "EU health funding"],
+  "boring_software": true,
+  "contrarian": false,
+  "url": "https://www.neak.gov.hu",
+  "date_added": "2026-03-11"
+}

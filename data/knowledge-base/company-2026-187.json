@@ -1,0 +1,28 @@
+{
+  "company": "Lumeon (UK)",
+  "country": "United Kingdom",
+  "founded_year": 2005,
+  "category": "Healthcare Infrastructure",
+  "subsector": "Care Pathway Automation",
+  "description": "UK care pathway automation platform. Automates patient journeys through proactive communication, task management, and workflow orchestration. Used by NHS and private healthcare providers.",
+  "business_model": "B2B - Care pathway platform to healthcare organizations",
+  "target_market": "NHS trusts, private healthcare providers",
+  "funding_stage": "Series C",
+  "funding_amount_gbp": 30000000,
+  "key_investors": "Undisclosed",
+  "employees": "100+",
+  "customers": "NHS trusts, private providers",
+  "revenue_gbp": null,
+  "tech_stack": ["Care pathway automation", "Patient communication", "Task management", "EHR integration"],
+  "integration_points": ["EPRs", "GP systems", "Patient engagement platforms"],
+  "competitive_advantage": "Proven NHS deployments, workflow automation, measurable outcomes",
+  "boring_software": true,
+  "varden_fit": {
+    "threat_level": "low",
+    "opportunity": "monitor",
+    "rationale": "Care pathway automation - relevant for occupational health workflows"
+  },
+  "data_quality": "medium",
+  "sources": ["lumeon.com"],
+  "last_updated": "2026-03-11"
+}

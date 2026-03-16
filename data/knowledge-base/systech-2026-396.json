@@ -1,0 +1,22 @@
+{
+  "company_name": "Systech",
+  "problem_solved": "Pharmaceutical serialization and brand protection against counterfeiting",
+  "solution_description": "End-to-end serialization and track-trace platform for pharma supply chain. Provides serialization software, authentication, and brand protection. Part of Markem-Imaje.",
+  "buyer_persona": "pharma_lifesciences",
+  "care_stage": "commercial",
+  "automation_level": "full",
+  "varden_fit": "medium",
+  "region": "Global",
+  "country": "US",
+  "funding_stage": "acquired",
+  "traction_signals": [
+    "Part of Markem-Imaje/Dover",
+    "DSCSA compliance solutions",
+    "200+ serialization deployments",
+    "Level 1-4 serialization"
+  ],
+  "notes": "Key serialization player. Competes with TraceLink, SAP ATTP. Strong in packaging line integration. Authentication/anti-counterfeiting focus.",
+  "discovery_round": 53,
+  "discovered_by": "sky",
+  "timestamp": "2026-03-11T23:18:00Z"
+}

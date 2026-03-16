@@ -1,0 +1,16 @@
+{
+  "id": "problem-2026-121",
+  "problem": "Healthcare claims denial rates of 15-20% result in $262B in administrative costs annually, with 60% of denials being preventable through better pre-submission validation",
+  "problem_type": "claims_denial",
+  "solution_type": "AI-powered claims scrubbing, denial prediction models, real-time eligibility verification, automated coding validation",
+  "care_stage": "admin",
+  "automation_type": "ai_assisted",
+  "buyer": "health_system",
+  "care_setting": "hospital",
+  "companies": ["Waystar", "Change Healthcare", "Experian Health", "R1 RCM", "Cognizant TriZetto"],
+  "signals": ["60% of denials preventable per AMA", "Average denial rate 15-20%", "$262B annual administrative burden", "AI denial prediction pilots"],
+  "boring_software": true,
+  "contrarian": false,
+  "url": "https://www.ama-assn.org/practice-management/claims-denials",
+  "date_added": "2026-03-11"
+}

@@ -1,0 +1,23 @@
+{
+  "company_name": "Livi (Kry)",
+  "problem_solved": "Patients face long wait times and limited access to primary care, especially in underserved areas",
+  "solution_description": "Nordic digital health platform offering video consultations with doctors, psychologists, and specialists. Originally founded in Sweden, now operates across Europe. Provides digital triage, prescriptions, and referrals. Partners with public healthcare systems",
+  "buyer_persona": "health_systems|patients|clinics",
+  "care_stage": "triage|diagnosis|treatment",
+  "automation_level": "partial",
+  "varden_fit": "very_high",
+  "region": "Nordics|EU|UK",
+  "country": "Sweden",
+  "funding_stage": "series_d",
+  "traction_signals": [
+    "Strong Nordic presence with Swedish roots",
+    "European expansion across multiple countries",
+    "Public-private partnerships with healthcare systems",
+    "Video consultation platform",
+    "Digital prescription and referral capabilities"
+  ],
+  "notes": "Major Nordic telemedicine player. Livi brand in international markets, Kry in Nordic. Strong fit for Vården given Swedish origins and public system partnerships. Symptom triage capabilities integrated into platform",
+  "discovery_round": 51,
+  "discovered_by": "sky",
+  "timestamp": "2026-03-11T23:25:00Z"
+}

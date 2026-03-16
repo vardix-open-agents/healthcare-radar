@@ -1,0 +1,28 @@
+{
+  "company": "Smile CDR (Canada)",
+  "country": "Canada",
+  "founded_year": 2017,
+  "category": "Healthcare Infrastructure",
+  "subsector": "FHIR Server Platform",
+  "description": "Canadian FHIR server platform for healthcare data exchange. Enterprise FHIR server with security, scalability, and integration capabilities. Used by health systems, payers, and health IT vendors for FHIR implementations.",
+  "business_model": "B2B - FHIR server to healthcare organizations",
+  "target_market": "Health systems, health plans, health IT vendors",
+  "funding_stage": "Private",
+  "funding_amount_cad": null,
+  "key_investors": "Undisclosed",
+  "employees": "100+",
+  "customers": "Healthcare organizations globally",
+  "revenue_cad": null,
+  "tech_stack": ["FHIR server", "Security", "Scalability", "Integration", "Analytics"],
+  "integration_points": ["EHRs", "Payer systems", "Health data exchanges"],
+  "competitive_advantage": "Enterprise-grade FHIR, security certifications, global customers",
+  "boring_software": true,
+  "varden_fit": {
+    "threat_level": "low",
+    "opportunity": "benchmark",
+    "rationale": "FHIR infrastructure - validates enterprise FHIR server market"
+  },
+  "data_quality": "medium",
+  "sources": ["smilecdr.com"],
+  "last_updated": "2026-03-11"
+}

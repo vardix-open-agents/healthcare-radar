@@ -1,0 +1,14 @@
+{
+  "company": "AccuRx",
+  "country": "GB",
+  "problem": "Poor communication across the NHS healthcare system. Coordinating patient care involves multiple professionals using legacy systems, phones, and letters. This causes inefficiency, staff frustration, and negatively impacts patient care and appointment attendance.",
+  "solution": "Communication platform connecting patients and healthcare professionals across the NHS system. Enables SMS messaging, appointment booking, video consultations, and care coordination. Used by 98% of GP practices and 68% of NHS trusts, supporting 54m patients. Has booked 30m COVID vaccines and reduced DNA (did not attend) rates by 50%.",
+  "problem_type": "booking_scheduling",
+  "solution_type": "SaaS",
+  "buyer": "clinics",
+  "varden_fit": "medium",
+  "url": "https://www.accuRx.com/",
+  "source": "web research",
+  "discovery_round": 64,
+  "discovered_by": "nova"
+}

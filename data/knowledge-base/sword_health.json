@@ -1,0 +1,14 @@
+{
+  "company": "Sword Health",
+  "country": "PT",
+  "problem": "Musculoskeletal pain and related chronic conditions drive significant healthcare costs and lost productivity. Traditional care is fragmented, with limited access to specialists and poor patient engagement.",
+  "solution": "AI-powered whole-person care platform combining human clinical specialists with AI care specialists. Delivers virtual physical therapy with 3.2:1 gross savings ratio, 50% reduction in surgeries, and 67% of members becoming pain-free. FDA-listed digital therapeutic.",
+  "problem_type": "pain_management",
+  "solution_type": "SaaS",
+  "buyer": "employers",
+  "varden_fit": "high",
+  "url": "https://swordhealth.com",
+  "source": "web",
+  "discovery_round": 135,
+  "discovered_by": "nova"
+}

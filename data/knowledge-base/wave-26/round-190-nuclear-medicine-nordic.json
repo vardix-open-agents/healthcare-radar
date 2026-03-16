@@ -1,0 +1,227 @@
+{
+  "round": 190,
+  "theme": "Nuclear Medicine (Nordic)",
+  "focus": [
+    "Nuclear medicine practice management",
+    "Radiopharmacy systems",
+    "PET/CT imaging software",
+    "Radioisotope tracking",
+    "Dosimetry platforms"
+  ],
+  "exclude": [
+    "Consumer health apps",
+    "Pharma"
+  ],
+  "companies": [
+    {
+      "company_name": "Hermes Medical Solutions",
+      "hq_location": "Stockholm, Sweden",
+      "website_url": "https://www.hermesmedical.com",
+      "problem_solved": "Nuclear medicine departments lack integrated software for multi-modality image fusion, SPECT quantification, and dosimetry calculations. Legacy systems are fragmented and don't support modern theranostics workflows.",
+      "who_buys_it": "Nuclear medicine departments, radiology clinics, PET/CT centers, academic medical centers",
+      "key_features": [
+        "Hermia platform - vendor-neutral nuclear medicine workstation",
+        "First commercial SPECT reconstruction software (1977)",
+        "First commercial image fusion software (1992)",
+        "SUV SPECT quantification - absolute quantification for SPECT imaging",
+        "Single Time Point Voxel Dosimetry for theranostics",
+        "GOLD database platform for multi-site connectivity and data administration",
+        "PET/CT and SPECT/CT image fusion and analysis",
+        "Supports all major nuclear medicine modalities"
+      ],
+      "business_model": "Software licensing with annual maintenance fees. Enterprise installations for hospital networks. Per-seat or per-site licensing. 50+ years in nuclear medicine software.",
+      "why_varden_should_care": "Pure-play nuclear medicine software leader from Nordic region. Pioneer in SPECT reconstruction and image fusion. Well-positioned for theranostics boom with dosimetry capabilities. Deep domain expertise in nuclear medicine workflows. Established customer base across 1000+ sites globally."
+    },
+    {
+      "company_name": "Exini Diagnostics AB",
+      "hq_location": "Lund, Sweden",
+      "website_url": "https://exini.com",
+      "problem_solved": "Nuclear medicine image analysis is time-consuming and subjective. PSMA PET/CT interpretation lacks standardization, making it difficult to quantify disease burden and track treatment response consistently across readers.",
+      "who_buys_it": "Nuclear medicine departments, oncology centers, urology clinics, radiology practices, clinical trial sites",
+      "key_features": [
+        "aPROMISE - AI-powered PSMA PET/CT analysis platform",
+        "Automated PSMA lesion segmentation and quantification",
+        "miTNM classification for standardized PSMA reporting",
+        "aBSI - Automated Bone Scan Index for metastatic prostate cancer",
+        "EXINI bone - bone scan analysis",
+        "cure8 - cardiac PET analysis",
+        "Deep learning algorithms for automated detection",
+        "PACS-integrated workflow",
+        "Quantitative reporting with volumetric disease burden metrics",
+        "800+ sites worldwide"
+      ],
+      "business_model": "Software-as-a-Service and perpetual licensing. FDA 510(k) cleared products (aPROMISE, aBSI). CE-marked under MDR. Subsidiary of Lantheus Holdings (US radiopharmaceutical company).",
+      "why_varden_should_care": "AI-native nuclear medicine analysis company with 25+ years experience. Spun out of Lund University research. Acquired by Lantheus (radiopharma leader) - validation of technology. Critical for PSMA theranostics workflow standardization. Quantification tools essential for personalized dosimetry and treatment response monitoring."
+    },
+    {
+      "company_name": "RaySearch Laboratories",
+      "hq_location": "Stockholm, Sweden",
+      "website_url": "https://www.raysearchlabs.com",
+      "problem_solved": "Cancer treatment planning is complex and fragmented across different equipment vendors. Hospitals need vendor-neutral treatment planning systems that work with any linear accelerator or imaging modality.",
+      "who_buys_it": "Cancer centers, radiation oncology departments, hospitals, proton therapy centers",
+      "key_features": [
+        "RayStation - market-leading treatment planning system (TPS)",
+        "Vendor-neutral - works with all major linear accelerator brands",
+        "Proton and carbon ion therapy planning",
+        "Boron neutron capture therapy (BNCT) planning",
+        "Brachytherapy planning",
+        "Multi-criteria optimization for plan quality",
+        "Adaptive therapy - plan adaptation based on daily imaging",
+        "Machine learning for automated planning",
+        "RayCare - oncology information system (OIS)",
+        "RayIntelligence - outcomes analytics platform"
+      ],
+      "business_model": "Software licensing with annual maintenance. Listed on Nasdaq Stockholm (RAY-B). Global distribution through direct sales and partners. Strong R&D investment with clinical partnerships.",
+      "why_varden_should_care": "Nordic radiation therapy software champion with global reach. Essential for nuclear medicine's interface with external beam therapy. Strong position in theranostics planning (combining diagnostic imaging with treatment). Adaptive therapy capabilities align with personalized dosimetry trends. Listed company with strong financials and R&D pipeline."
+    },
+    {
+      "company_name": "ScandiDos",
+      "hq_location": "Uppsala, Sweden",
+      "website_url": "https://scandidos.com",
+      "problem_solved": "Radiation therapy treatments are increasingly complex (VMAT, IMRT, Tomotherapy), making quality assurance critical. Traditional QA methods are time-consuming and may not catch all delivery errors before patient treatment.",
+      "who_buys_it": "Radiation therapy clinics, medical physics departments, cancer centers, proton therapy facilities",
+      "key_features": [
+        "Delta4 Family - gold standard in patient-specific QA",
+        "3D dosimetry phantoms for treatment verification",
+        "VMAT, IMRT, RapidArc, and Tomotherapy QA",
+        "3D dose verification in single measurement",
+        "Real-time dose verification during delivery",
+        "Delta4+ - next-generation QA system",
+        "Delta4 Discovery - commissioning and beam data acquisition",
+        "850+ clinics in 55+ countries"
+      ],
+      "business_model": "Hardware (phantoms) + software sales with service contracts. Global distribution through direct sales and distributors. Listed company in Sweden.",
+      "why_varden_should_care": "Critical infrastructure for radiation therapy safety. Dosimetry expertise directly applicable to nuclear medicine theranostics dosimetry. Growing with adaptive therapy trend (requires more frequent QA). Nordic leader in clinical physics tools. Complementary to nuclear medicine dosimetry software."
+    },
+    {
+      "company_name": "Sectra",
+      "hq_location": "Linköping, Sweden",
+      "website_url": "https://medical.sectra.com",
+      "problem_solved": "Healthcare systems struggle with fragmented imaging IT systems. Radiology departments need integrated PACS that handle all modalities efficiently while monitoring radiation dose exposure across the patient population.",
+      "who_buys_it": "Hospital systems, radiology departments, imaging centers, breast imaging centers, orthopedic departments",
+      "key_features": [
+        "Sectra PACS - enterprise imaging platform",
+        "Breast imaging (mammography, tomosynthesis) - market leader",
+        "Sectra DoseTrack - radiation dose monitoring",
+        "Multi-modality support (CT, MR, PET, SPECT, X-ray)",
+        "Vendor-neutral archive",
+        "Advanced visualization tools",
+        "Enterprise imaging - radiology, cardiology, pathology, ophthalmology",
+        "Cloud and on-premise deployment options",
+        "AI integration capabilities"
+      ],
+      "business_model": "Enterprise software licensing with annual maintenance. Direct sales to hospital systems. Listed on Nasdaq Stockholm (SECT-B). Strong recurring revenue base.",
+      "why_varden_should_care": "Nordic medical imaging IT giant with global presence. Dose monitoring (DoseTrack) directly relevant to nuclear medicine radiation safety. PACS platform integrates nuclear medicine into radiology workflow. Strong financials and proven execution. Potential platform for nuclear medicine-specific applications."
+    },
+    {
+      "company_name": "Elekta",
+      "hq_location": "Stockholm, Sweden",
+      "website_url": "https://www.elekta.com",
+      "problem_solved": "Cancer treatment requires precise radiation delivery systems that can target tumors while sparing healthy tissue. Hospitals need integrated solutions for external beam therapy and brachytherapy.",
+      "who_buys_it": "Cancer centers, hospitals, radiation oncology departments, academic medical centers",
+      "key_features": [
+        "Linear accelerators (Linacs) - market leader",
+        "Leksell Gamma Knife - stereotactic radiosurgery",
+        "Brachytherapy systems (Nucletron acquisition)",
+        "Elekta Studio - image-guided brachytherapy suite",
+        "Adaptive radiotherapy platform",
+        "Monaco treatment planning system",
+        "Mosaiq oncology information system",
+        "AI-driven adaptive therapy workflows"
+      ],
+      "business_model": "Capital equipment sales with service contracts. Software licensing. Consumables for brachytherapy. Listed on Nasdaq Stockholm. Global direct sales force.",
+      "why_varden_should_care": "Nordic champion in radiation oncology. Brachytherapy business (internal radiation therapy) interfaces with nuclear medicine. Adaptive therapy capabilities align with personalized dosimetry. Strong installed base for integrating nuclear medicine theranostics. Strategic partner for combined diagnostic-treatment workflows."
+    },
+    {
+      "company_name": "NordicNeuroLab",
+      "hq_location": "Bergen, Norway",
+      "website_url": "https://www.nordicneurolab.com",
+      "problem_solved": "Functional MRI (fMRI) examinations are complex and require specialized equipment and software for reliable brain mapping. Neurosurgeons and researchers need integrated solutions for presurgical planning and neuroscience research.",
+      "who_buys_it": "Hospitals with neurosurgery departments, neuroscience research centers, radiology departments, academic medical centers",
+      "key_features": [
+        "All-in-one fMRI solution (hardware + software)",
+        "fMRI post-processing software",
+        "Task presentation systems for fMRI",
+        "Patient communication systems",
+        "Image viewing and analysis tools",
+        "Neurosurgical planning integration",
+        "2000+ installations in 70+ countries",
+        "Research and clinical applications"
+      ],
+      "business_model": "Hardware and software sales with service contracts. Direct sales and distribution partners. Focus on both clinical and research markets.",
+      "why_varden_should_care": "Nordic neuroimaging specialist with strong installed base. Brain imaging expertise relevant to nuclear neurology (FDG-PET, amyloid PET, dopamine imaging). Potential synergy with nuclear medicine brain imaging workflows. Complementary to PET/CT for neurodegenerative disease diagnosis."
+    },
+    {
+      "company_name": "Planmed",
+      "hq_location": "Helsinki, Finland",
+      "website_url": "https://www.planmed.com",
+      "problem_solved": "Breast cancer screening and orthopedic imaging need dedicated imaging systems optimized for specific clinical applications. Mammography requires ultra-sharp imaging for early detection, while extremity imaging benefits from weight-bearing CT.",
+      "who_buys_it": "Breast imaging centers, hospitals, orthopedic clinics, radiology practices",
+      "key_features": [
+        "Planmed Clarity - digital mammography and tomosynthesis",
+        "Planmed Verity - extremity CT (weight-bearing)",
+        "Planmed XFI - weight-bearing CT for upper/lower extremities",
+        "Planmed Nuance - digital mammography",
+        "Head and neck CT capabilities",
+        "Low patient dose with high image quality",
+        "CE MDR certified products",
+        "Part of Planmeca Group"
+      ],
+      "business_model": "Capital equipment sales with service contracts. Part of Planmeca Group (Finnish dental/imaging equipment manufacturer). Global distribution network.",
+      "why_varden_should_care": "Finnish imaging equipment manufacturer. CT imaging systems interface with nuclear medicine (PET/CT hybrid imaging). Breast imaging platform could integrate with molecular breast imaging (BSGI). Weight-bearing CT innovative for orthopedic applications. Nordic manufacturing and quality reputation."
+    }
+  ],
+  "summary": {
+    "total_companies": 8,
+    "countries": {
+      "Sweden": 6,
+      "Norway": 1,
+      "Finland": 1
+    },
+    "primary_focus": [
+      "Nuclear medicine software (Hermes, Exini)",
+      "Radiation therapy planning (RaySearch, Elekta)",
+      "Dosimetry and QA (ScandiDos)",
+      "Medical imaging IT (Sectra)",
+      "Specialty imaging equipment (NordicNeuroLab, Planmed)"
+    ],
+    "market_dynamics": {
+      "strengths": [
+        "Strong Nordic medtech ecosystem",
+        "Deep expertise in radiation therapy and nuclear medicine",
+        "AI/ML integration in nuclear medicine (Exini, RaySearch)",
+        "Listed companies with proven track records (RaySearch, Sectra, Elekta, ScandiDos)",
+        "University spin-offs with strong R&D (Exini from Lund University)"
+      ],
+      "gaps": [
+        "Limited pure-play nuclear medicine practice management vendors",
+        "No dedicated radiopharmacy system vendors identified",
+        "Radioisotope tracking solutions not prominent",
+        "Most companies focus on radiation therapy interface with nuclear medicine"
+      ]
+    },
+    "varden_priority": [
+      {
+        "company": "Hermes Medical Solutions",
+        "priority": "HIGH",
+        "rationale": "Pure nuclear medicine software play with 50 years domain expertise. Dosimetry capabilities critical for theranostics."
+      },
+      {
+        "company": "Exini Diagnostics AB",
+        "priority": "HIGH",
+        "rationale": "AI-native nuclear medicine analysis. PSMA standardization essential for prostate theranostics. Lantheus ownership provides validation."
+      },
+      {
+        "company": "RaySearch Laboratories",
+        "priority": "HIGH",
+        "rationale": "Strategic position bridging nuclear medicine and external beam therapy. Listed company with strong financials."
+      },
+      {
+        "company": "ScandiDos",
+        "priority": "MEDIUM",
+        "rationale": "Dosimetry expertise applicable to nuclear medicine. Quality assurance focus aligns with safety requirements."
+      }
+    ]
+  },
+  "research_date": "2026-03-14"
+}

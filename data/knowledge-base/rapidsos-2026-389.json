@@ -1,0 +1,22 @@
+{
+  "company_name": "RapidSOS",
+  "problem_solved": "911 call centers and first responders lack critical real-time data about emergencies - location accuracy, medical history, crash details, hazards - leading to delayed or inadequate response",
+  "solution_description": "Mission-critical intelligence platform that bridges the data gap between emergency callers and 911/dispatchers by integrating data from connected devices (telematics, wearables, smartphones, building systems) directly into PSAP systems using HARMONY AI for instant data delivery to first responders",
+  "buyer_persona": "ems_agencies",
+  "care_stage": "triage",
+  "automation_level": "full",
+  "varden_fit": "high",
+  "region": "US",
+  "country": "United States",
+  "funding_stage": "private",
+  "traction_signals": [
+    "Partnership with Uber for driver/rider safety",
+    "Integration with SiriusXM Connect",
+    "Raptor Technologies partnership for school safety",
+    "Wide PSAP coverage across US"
+  ],
+  "notes": "Clearinghouse model connecting enterprise data to 911. HARMONY AI enables real-time data fusion. Strong Varden fit - solves data connectivity problem in emergency response chain.",
+  "discovery_round": 52,
+  "discovered_by": "sky",
+  "timestamp": "2026-03-11T23:20:00Z"
+}

@@ -1,0 +1,14 @@
+{
+  "company": "OpenClinica",
+  "country": "US",
+  "problem": "Small to midsize research organizations face IT nightmares and complex software when running clinical studies, especially with limited budgets and technical resources.",
+  "solution": "Clinical trial technology platform designed for academic, sponsor, and CRO researchers with flexible modular approach. Build studies in weeks with templates and tools, optional professional services, dedicated customer success managers, and transparent pricing that works with grant budgets.",
+  "problem_type": "clinical_trials",
+  "solution_type": "SaaS",
+  "buyer": "research_orgs",
+  "varden_fit": "low",
+  "url": "https://www.openclinica.com/",
+  "source": "web",
+  "discovery_round": 103,
+  "discovered_by": "sky"
+}

@@ -1,0 +1,33 @@
+{
+  "id": "drchrono-2026-082",
+  "title": "DrChrono - Mobile EHR with Electronic Prior Authorization",
+  "company": "DrChrono",
+  "country": "US",
+  "region": "US",
+  "segment": "admin",
+  "problem": "Prior authorization is manual, slow, and delays care. Providers need integrated EHR with electronic prior auth submission.",
+  "solution": "All-in-one EHR with electronic prior authorization. Streamlined prior auth requests with automated submission and processing. Mobile-first EHR for iPhone and iPad. Integrated medical billing and RCM.",
+  "technology": "Mobile EHR, electronic prior auth APIs, clearinghouse integration",
+  "target_customer": "Private practices, specialty practices",
+  "care_setting": "all",
+  "care_domain": "general",
+  "care_stage": "admin",
+  "automation_level": "partial",
+  "ai_type": null,
+  "traction_signals": [
+    "First EHR apps for iPad and iPhone",
+    "Apple Mobility Partner for healthcare",
+    "Black Book #1 Mobile EHR 2013-2022",
+    "Electronic prior authorization feature"
+  ],
+  "funding": "Private company",
+  "regulatory_notes": "HIPAA compliant, Meaningful Use certified",
+  "varden_fit": "HIGH — DrChrono proves electronic prior auth can be embedded in EHR workflow. European providers need similar integration.",
+  "source": "Web research",
+  "url": "https://www.drchrono.com",
+  "date_added": "2026-03-11",
+  "problem_type": "prior_auth",
+  "contrarian": true,
+  "boring_software": true,
+  "notes": "CONTRARIAN: Electronic prior authorization embedded in EHR is essential. European systems lack this integration."
+}

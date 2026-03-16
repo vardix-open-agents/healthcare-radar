@@ -1,0 +1,33 @@
+{
+  "id": "latam-health-iot-2026-241",
+  "title": "LATAM Remote Patient Monitoring Gap",
+  "company": null,
+  "country": "Brazil/Mexico/Colombia/Regional",
+  "region": "LATAM",
+  "segment": "diagnosis",
+  "problem": "Remote patient monitoring (RPM) is almost non-existent in LATAM. Chronic disease patients only monitored during office visits. No continuous vital sign tracking. Complications develop between visits. No alerting for deterioration. COVID-19 showed need for home monitoring but infrastructure doesn't exist.",
+  "solution": "RPM platform for LATAM. Integration with low-cost connected devices (BP monitors, glucometers, pulse oximeters). Mobile app for data transmission. Clinician dashboard with alerts. AI-powered trend analysis. Integration with EMR. Focus on chronic conditions (diabetes, hypertension, heart failure).",
+  "technology": "IoT device integration, mobile app, clinician dashboard, alert engine, ML trend analysis, EMR integration, FHIR APIs",
+  "target_customer": "Health insurers (reduce hospitalizations), primary care practices, chronic care management programs, hospital discharge programs",
+  "care_setting": "home",
+  "care_domain": "chronic",
+  "care_stage": "treatment",
+  "automation_level": "assistive",
+  "ai_type": "Trend analysis, anomaly detection, risk scoring",
+  "traction_signals": [
+    "Chronic disease burden in LATAM massive",
+    "COVID-19 proved home monitoring viability",
+    "Connected device costs decreasing",
+    "Proven models (Current Health, Biofourmis)"
+  ],
+  "funding": null,
+  "regulatory_notes": "Medical device regulations, telehealth monitoring regulations, data privacy",
+  "varden_fit": "HIGH FIT - RPM is infrastructure for chronic care. Technical but defensible. Device-agnostic platform strategy. Recurring revenue from insurers and practices.",
+  "source": "Opportunity analysis + market gap identification",
+  "url": null,
+  "date_added": "2026-03-11",
+  "problem_type": "monitoring",
+  "contrarian": false,
+  "boring_software": false,
+  "notes": "RPM is technical but critical for chronic care. Device costs are falling. Platform approach (integrate many devices) is key. Insurers will pay to reduce hospitalizations."
+}

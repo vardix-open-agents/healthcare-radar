@@ -1,0 +1,27 @@
+{
+  "company": "PZU Zdrowie",
+  "country": "Poland",
+  "founded_year": 2015,
+  "category": "Health Insurance / Telemedicine",
+  "subsector": "Employee Health Benefits Platform",
+  "description": "Health subsidiary of PZU (Poland's largest insurer) providing comprehensive health insurance and telemedicine services to Polish employers and individuals. Combines insurance with digital health services.",
+  "business_model": "B2B2C - Health insurance sold through employers to employees",
+  "target_market": "Polish employers and individuals seeking private health coverage",
+  "funding_stage": "Corporate Subsidiary",
+  "funding_amount_pln": null,
+  "key_investors": "PZU SA (parent company)",
+  "employees": 400,
+  "customers": "10000+ corporate clients",
+  "revenue_pln": 500000000,
+  "tech_stack": ["Mobile app", "Web platform", "Telemedicine platform", "Claims processing"],
+  "integration_points": ["Polish healthcare providers", "NFZ", "Employer HR systems"],
+  "competitive_advantage": "Backed by Poland's largest insurer, comprehensive coverage, established provider network",
+  "varden_fit": {
+    "threat_level": "medium",
+    "opportunity": "partner",
+    "rationale": "Potential insurance partner for Varden's occupational health services in Poland"
+  },
+  "data_quality": "medium",
+  "sources": ["pzu.pl", "pzuzdrowie.pl"],
+  "last_updated": "2026-03-11"
+}

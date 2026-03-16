@@ -1,0 +1,14 @@
+{
+  "company": "DaVita",
+  "country": "US",
+  "problem": "Patients with chronic kidney disease and end-stage renal disease require coordinated, ongoing dialysis treatment and kidney care management, but face fragmented care delivery and limited access to education and support services",
+  "solution": "Comprehensive kidney care platform providing in-center and home dialysis services (hemodialysis and peritoneal dialysis), kidney disease education, GFR calculators, diet management resources, and care coordination services. Operates a national network of dialysis centers with integrated clinical and patient engagement tools",
+  "problem_type": "nephrology",
+  "solution_type": "services + SaaS",
+  "buyer": "patients, health systems, payers",
+  "varden_fit": "low",
+  "url": "https://www.davita.com/",
+  "source": "web",
+  "discovery_round": 105,
+  "discovered_by": "sky"
+}

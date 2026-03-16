@@ -1,0 +1,14 @@
+{
+  "company": "Klara",
+  "country": "US",
+  "problem": "Healthcare providers need secure, efficient ways to communicate with patients that comply with HIPAA regulations while providing a modern patient experience",
+  "solution": "Conversational patient engagement platform that provides secure messaging with SMS links to encrypted communication channels, enabling HIPAA-compliant patient-provider communication without exposing PHI through standard text messaging",
+  "problem_type": "patient_communication",
+  "solution_type": "SaaS",
+  "buyer": "providers",
+  "varden_fit": "high",
+  "url": "https://www.klara.com/",
+  "source": "web",
+  "discovery_round": 74,
+  "discovered_by": "sky"
+}

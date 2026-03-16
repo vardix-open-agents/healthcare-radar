@@ -1,0 +1,29 @@
+{
+  "id": "mindable-2026-049",
+  "title": "Mindable - Digital Mental Health Therapeutics",
+  "company": "Mindable",
+  "country": "Germany",
+  "region": "EU",
+  "segment": "treatment",
+  "problem": "Access to specialized mental health treatment for conditions like panic disorder is limited and often requires long wait times.",
+  "solution": "Digital therapeutic program for panic disorder, combining CBT-based content, exercises, and therapist support through an app.",
+  "technology": "DTx app, CBT modules, progress tracking",
+  "target_customer": "Patients with panic disorder, insurers",
+  "care_setting": "home",
+  "care_domain": "mental health",
+  "care_stage": "treatment",
+  "automation_level": "partial",
+  "ai_type": null,
+  "traction_signals": [
+    "German digital therapeutics",
+    "Focus on panic disorder",
+    "Insurer reimbursement"
+  ],
+  "funding": null,
+  "regulatory_notes": "Digital therapeutic, medical device pathway.",
+  "varden_fit": "Moderate — specialized DTx could partner with mental health providers on Varden.",
+  "source": "EU health tech ecosystem",
+  "url": "https://www.mindable.health",
+  "date_added": "2026-03-11",
+  "notes": "Specialized mental health DTx. DiGA pathway in Germany."
+}

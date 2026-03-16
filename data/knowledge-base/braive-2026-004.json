@@ -1,0 +1,29 @@
+{
+  "id": "braive-2026-004",
+  "title": "Braive - AI-Driven Mental Health Platform",
+  "company": "Braive",
+  "country": "Sweden",
+  "region": "Nordics",
+  "segment": "treatment",
+  "problem": "Mental health care access is limited, expensive, and inefficient. Traditional therapy doesn't scale and lacks data-driven personalization.",
+  "solution": "AI-driven mental health platform offering evidence-based therapy programs. Uses data-powered insights to expand access and improve treatment efficiency.",
+  "technology": "AI, data analytics, evidence-based therapy programs, mental health assessment",
+  "target_customer": "Individuals seeking mental health support, employers, healthcare systems",
+  "care_setting": "telehealth",
+  "care_domain": "mental health",
+  "care_stage": "treatment",
+  "automation_level": "partial",
+  "ai_type": "ML, data analytics",
+  "traction_signals": [
+    "Selected for Techarena Challenge 2025",
+    "Part of AI Sweden startup community",
+    "Active platform development"
+  ],
+  "funding": null,
+  "regulatory_notes": "Mental health apps in EU require careful regulatory navigation - may need CE marking if classified as medical device.",
+  "varden_fit": "MODERATE - Mental health is adjacent to Varden's primary care focus. Could be integrated as a specialty module. Less infrastructure focus, more clinical content. Watch for B2B employer partnerships.",
+  "source": "AI Sweden + Techarena Challenge 2025",
+  "url": "https://www.ai.se/sv/ekosystem/startup-programmet/startup-community-medlemmar",
+  "date_added": "2026-03-11",
+  "notes": "Part of AI Sweden startup ecosystem. Mental health is growing segment in Nordics. Research: user numbers, clinical validation, B2B vs B2C model."
+}

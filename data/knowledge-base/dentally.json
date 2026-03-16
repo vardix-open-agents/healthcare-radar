@@ -1,0 +1,14 @@
+{
+  "company": "Dentally",
+  "country": "UK",
+  "problem": "Dental practices in the UK need cloud-based practice management that integrates with NHS systems across England, Wales, Scotland, and Northern Ireland while supporting multi-site practices and new practices",
+  "solution": "Cloud-based dental practice management solution with clinical workflows including AI-powered charting and imaging, automated patient messaging, real-time reporting, online booking, digital forms, and full NHS/HSC integration for stress-free dentistry operations",
+  "problem_type": "dental",
+  "solution_type": "SaaS",
+  "buyer": "dental_clinics",
+  "varden_fit": "medium",
+  "url": "https://www.dentally.com",
+  "source": "web",
+  "discovery_round": 91,
+  "discovered_by": "nova"
+}

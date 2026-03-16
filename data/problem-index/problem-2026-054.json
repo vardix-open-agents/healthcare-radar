@@ -1,0 +1,16 @@
+{
+  "id": "problem-2026-054",
+  "problem": "Mental health patients wait 6-12 weeks for initial appointments in public systems",
+  "problem_type": "scheduling",
+  "solution_type": "AI-powered matching, teletherapy platforms, stepped care models",
+  "care_stage": "intake",
+  "automation_type": "ai_assisted",
+  "buyer": "health_system",
+  "care_setting": "telehealth",
+  "companies": ["Talkspace", "BetterHelp", "Livi Mental Health"],
+  "signals": ["Mental health access crisis", "Teletherapy normalization", "Workforce shortage"],
+  "boring_software": false,
+  "contrarian": false,
+  "url": "https://www.talkspace.com",
+  "date_added": "2026-03-11"
+}

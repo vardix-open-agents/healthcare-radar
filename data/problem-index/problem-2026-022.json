@@ -1,0 +1,16 @@
+{
+  "id": "problem-2026-022",
+  "problem": "Indian clinics lose 30% of revenue to unbilled services and lost charge capture",
+  "problem_type": "billing",
+  "solution_type": "AI-assisted charge capture, real-time billing prompts, revenue cycle dashboards",
+  "care_stage": "admin",
+  "automation_type": "ai_assisted",
+  "buyer": "clinic",
+  "care_setting": "primary_care",
+  "companies": ["Practo", "Tata 1mg", "HealthifyMe"],
+  "signals": ["Indian private healthcare growth", "Practice management adoption", "Out-of-pocket market"],
+  "boring_software": false,
+  "contrarian": false,
+  "url": "https://www.practo.com",
+  "date_added": "2026-03-11"
+}

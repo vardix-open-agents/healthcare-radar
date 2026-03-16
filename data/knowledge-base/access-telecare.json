@@ -1,0 +1,14 @@
+{
+  "company": "Access TeleCare",
+  "country": "US",
+  "problem": "Hospitals lack access to specialty physicians, particularly neurologists for stroke care and other acute specialists, leading to delayed treatment and transfers",
+  "solution": "Acute specialty telemedicine platform providing 24/7 access to board-certified specialists including telestroke, teleneurology, telehospitalist, and other specialties via dedicated physician teams",
+  "problem_type": "specialty_telemedicine",
+  "solution_type": "SaaS",
+  "buyer": "hospitals",
+  "varden_fit": "low",
+  "url": "https://accesstelecare.com",
+  "source": "web",
+  "discovery_round": 100,
+  "discovered_by": "nova"
+}

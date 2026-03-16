@@ -1,0 +1,14 @@
+{
+  "company": "ImagineCare",
+  "country": "SE",
+  "problem": "Healthcare system overload, patients with chronic diseases need continuous monitoring, lack of tools for self-monitoring and remote follow-up in home settings",
+  "solution": "Comprehensive RPM platform enabling self-monitoring and remote monitoring for chronic disease management and hospital-at-home programs, developed with healthcare professionals for ease of use",
+  "problem_type": "remote_monitoring",
+  "solution_type": "SaaS",
+  "buyer": "providers",
+  "varden_fit": "high",
+  "url": "https://www.imaginecare.com",
+  "source": "web",
+  "discovery_round": 76,
+  "discovered_by": "sky"
+}

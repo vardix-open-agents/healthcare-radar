@@ -1,0 +1,14 @@
+{
+  "company": "Helix",
+  "country": "US",
+  "problem": "Health systems and life sciences organizations struggled to integrate genomics at scale due to fragmented testing, data silos, and lack of infrastructure",
+  "solution": "Enterprise genomics platform enabling health systems and life sciences to leverage population-scale genomic testing and longitudinal clinico-genomic data for precision medicine and drug discovery",
+  "problem_type": "genomics",
+  "solution_type": "SaaS",
+  "buyer": "providers",
+  "varden_fit": "low",
+  "url": "https://www.helix.com",
+  "source": "web",
+  "discovery_round": 133,
+  "discovered_by": "nova"
+}

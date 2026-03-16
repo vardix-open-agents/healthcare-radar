@@ -1,0 +1,14 @@
+{
+  "company": "Jameda",
+  "country": "DE",
+  "problem": "Patients struggle to find and book appointments with doctors; doctors need online presence and practice management",
+  "solution": "Online doctor appointment booking platform with patient reviews, 1 million bookable appointments, video consultations, and practice management tools for healthcare providers",
+  "problem_type": "practice_management",
+  "solution_type": "SaaS",
+  "buyer": "clinics",
+  "varden_fit": "medium",
+  "url": "https://www.jameda.de",
+  "source": "web research",
+  "discovery_round": 63,
+  "discovered_by": "sky"
+}

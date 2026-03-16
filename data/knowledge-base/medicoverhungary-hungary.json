@@ -1,0 +1,14 @@
+{
+  "company": "MedicoverHungary",
+  "country": "HU",
+  "problem": "Hungarian patients need efficient booking and management of private healthcare services",
+  "solution": "Digital healthcare platform offering appointment booking, telemedicine, e-prescriptions, and integrated health services for private healthcare members",
+  "problem_type": "practice_management",
+  "solution_type": "SaaS",
+  "buyer": "clinics",
+  "varden_fit": "medium",
+  "url": "https://www.medicover.hu",
+  "source": "web",
+  "discovery_round": 72,
+  "discovered_by": "sky"
+}

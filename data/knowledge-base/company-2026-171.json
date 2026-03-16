@@ -1,0 +1,28 @@
+{
+  "company": "Availity (USA)",
+  "country": "United States",
+  "founded_year": 2001,
+  "category": "Healthcare Infrastructure",
+  "subsector": "Healthcare Information Exchange",
+  "description": "US healthcare information exchange and revenue cycle management platform. Connects providers and payers for claims, eligibility, prior authorization, and payment. One of largest health information networks in US.",
+  "business_model": "B2B - Revenue cycle platform to healthcare providers and payers",
+  "target_market": "Healthcare providers, health plans",
+  "funding_stage": "Private",
+  "funding_amount_usd": null,
+  "key_investors": "Humana, Anthem, Blue Cross Blue Shield plans",
+  "employees": "1500+",
+  "customers": "2M+ healthcare providers, 2000+ payers",
+  "revenue_usd": null,
+  "tech_stack": ["Claims processing", "Eligibility verification", "Prior authorization", "Payment platform", "Analytics"],
+  "integration_points": ["Payer systems", "Practice management", "EHRs", "Clearinghouses"],
+  "competitive_advantage": "Largest provider-payer network, payer-owned, comprehensive RCM",
+  "boring_software": true,
+  "varden_fit": {
+    "threat_level": "low",
+    "opportunity": "benchmark",
+    "rationale": "Claims infrastructure giant - validates provider-payer connectivity"
+  },
+  "data_quality": "high",
+  "sources": ["availity.com"],
+  "last_updated": "2026-03-11"
+}

@@ -1,0 +1,14 @@
+{
+  "company": "Luma Health",
+  "country": "US",
+  "problem": "Rheumatology practices struggle with patient access, referral management, intake processes, and communication barriers that delay care and reduce practice efficiency",
+  "solution": "Operational AI platform for healthcare with agentic access, engagement, intake, and payments - automating scheduling, referrals, patient communication, eligibility verification, and prior authorizations for rheumatology practices",
+  "problem_type": "rheumatology",
+  "solution_type": "SaaS",
+  "buyer": "clinics",
+  "varden_fit": "medium",
+  "url": "https://www.lumahealth.io/",
+  "source": "web",
+  "discovery_round": 117,
+  "discovered_by": "nova"
+}

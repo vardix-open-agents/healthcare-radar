@@ -1,0 +1,14 @@
+{
+  "company": "CodaMetrix",
+  "country": "US",
+  "problem": "Health systems face high coding costs, inconsistent coding quality, and revenue leakage due to manual, fragmented medical coding processes across multiple specialties",
+  "solution": "AI-powered contextual coding automation platform that uses NLP to translate clinical documentation into accurate billing codes across specialties, delivering 70% reduction in manual coding, 5x faster turnaround, and 30% cost savings",
+  "problem_type": "medical_coding",
+  "solution_type": "SaaS",
+  "buyer": "providers",
+  "varden_fit": "high",
+  "url": "https://www.codametrix.com",
+  "source": "web",
+  "discovery_round": 84,
+  "discovered_by": "sky"
+}

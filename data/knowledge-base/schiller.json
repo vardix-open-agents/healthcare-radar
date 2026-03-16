@@ -1,0 +1,14 @@
+{
+  "company": "SCHILLER",
+  "country": "CH",
+  "problem": "Healthcare providers need integrated diagnostic solutions combining cardiopulmonary testing, ECG, and spirometry in clinical workflows.",
+  "solution": "Swiss-designed medical technology platform offering diagnostic devices including ECG systems, spirometers, and patient monitors with integrated software for cardiopulmonary assessment.",
+  "problem_type": "pulmonology",
+  "solution_type": "device",
+  "buyer": "clinics, hospitals",
+  "varden_fit": "low",
+  "url": "https://www.schiller.ch",
+  "source": "web",
+  "discovery_round": 115,
+  "discovered_by": "sky"
+}

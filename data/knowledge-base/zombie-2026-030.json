@@ -1,0 +1,28 @@
+{
+  "id": "zombie-2026-030",
+  "title": "Zombie AI - Clinical Documentation Automation",
+  "company": "Zombie AI",
+  "country": "Sweden",
+  "region": "Nordics",
+  "segment": "admin",
+  "problem": "Healthcare providers spend too much time on administrative documentation instead of patient care.",
+  "solution": "AI-powered clinical documentation and coding assistance for Swedish healthcare providers.",
+  "technology": "NLP, medical coding, AI automation",
+  "target_customer": "Healthcare providers, clinics, hospitals",
+  "care_setting": "primary_care",
+  "care_domain": "general",
+  "care_stage": "admin",
+  "automation_level": "partial",
+  "ai_type": "NLP, ML",
+  "traction_signals": [
+    "Swedish healthtech startup",
+    "Focus on documentation automation"
+  ],
+  "funding": null,
+  "regulatory_notes": "Medical documentation tool, healthcare data security.",
+  "varden_fit": "Moderate — admin automation for clinics. Could integrate with Varden's clinic tools.",
+  "source": "Swedish health tech ecosystem",
+  "url": "https://www.zombie.ai",
+  "date_added": "2026-03-11",
+  "notes": "Documentation automation. Emerging Swedish AI healthtech."
+}

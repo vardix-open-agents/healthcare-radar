@@ -1,0 +1,32 @@
+{
+  "id": "evicore-2026-105",
+  "title": "eviCore - Prior Authorization for Radiology and Specialty Care",
+  "company": "eviCore (Express Scripts/Cigna)",
+  "country": "US",
+  "region": "US",
+  "segment": "admin",
+  "problem": "High-cost specialty care and imaging requires prior authorization to ensure medical appropriateness. Manual review is slow and inconsistent.",
+  "solution": "Specialty benefit management with prior authorization for radiology, cardiology, oncology, and other high-cost services. Clinical guidelines-based authorization decisions.",
+  "technology": "Clinical guidelines, prior auth platform, utilization management",
+  "target_customer": "Health plans, employers",
+  "care_setting": "specialist",
+  "care_domain": "radiology, cardiology, oncology",
+  "care_stage": "admin",
+  "automation_level": "partial",
+  "ai_type": null,
+  "traction_signals": [
+    "Major radiology prior auth player",
+    "Acquired by Express Scripts (now Cigna)",
+    "Clinical guidelines-based decisions"
+  ],
+  "funding": "Part of Cigna",
+  "regulatory_notes": "Utilization review requirements",
+  "varden_fit": "HIGH — eviCore proves specialty prior auth is a distinct market. European healthcare needs similar specialty-specific solutions.",
+  "source": "Industry knowledge",
+  "url": "https://www.evicore.com",
+  "date_added": "2026-03-11",
+  "problem_type": "prior_auth",
+  "contrarian": true,
+  "boring_software": true,
+  "notes": "CONTRARIAN: Specialty prior auth is high-value. European systems lack specialty-specific authorization tools."
+}

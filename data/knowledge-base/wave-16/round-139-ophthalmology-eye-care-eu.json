@@ -1,0 +1,114 @@
+[
+  {
+    "company_name": "Ocuco",
+    "hq_location": "Dublin, Ireland",
+    "website": "https://www.ocuco.com",
+    "problem_solved": "Optical practices need integrated software for patient management, electronic health records, inventory, and billing. Ocuco provides a comprehensive practice management platform specifically designed for optometry and ophthalmology clinics.",
+    "target_buyers": "Optometry clinics, optical retail chains, ophthalmology practices, eye care centers",
+    "key_features": [
+      "Integrated EHR and practice management system",
+      "Optical inventory management and point-of-sale",
+      "Patient portal and online booking capabilities"
+    ],
+    "business_model": "SaaS with subscription-based pricing",
+    "why_varden_should_care": "High replicability - practice management software is a well-established SaaS pattern that can be adapted to other specialty medical verticals. The optical/eye care market is fragmented across many small practices that need digitization."
+  },
+  {
+    "company_name": "Heidelberg Engineering",
+    "hq_location": "Heidelberg, Germany",
+    "website": "https://www.heidelbergengineering.com",
+    "problem_solved": "Eye care professionals need high-quality imaging and diagnostic tools for detecting retinal diseases, glaucoma, and other eye conditions. Heidelberg Engineering provides multimodal retinal imaging platforms and healthcare IT solutions optimized for ophthalmology.",
+    "target_buyers": "Hospitals, ophthalmology clinics, eye research institutions, retinal specialists",
+    "key_features": [
+      "Multimodal retinal imaging (OCT, fundus photography)",
+      "Anterior segment diagnostics",
+      "Ophthalmic IT solutions for clinical workflow optimization"
+    ],
+    "business_model": "Hardware sales with software licensing and service contracts",
+    "why_varden_should_care": "While primarily hardware, the software component (healthcare IT, imaging analysis) has replicability potential. The integrated approach of combining imaging with IT solutions can be applied to other diagnostic specialties (dermatology, radiology)."
+  },
+  {
+    "company_name": "RetinAI",
+    "hq_location": "Zurich, Switzerland",
+    "website": "https://www.retinai.com",
+    "problem_solved": "Clinics and pharmaceutical companies need AI-powered tools to analyze ophthalmic imaging data, manage clinical studies, and accelerate drug development for eye diseases. RetinAI provides a unified platform for data collection, AI analysis, and clinical workflow management.",
+    "target_buyers": "Ophthalmology clinics, pharmaceutical companies, clinical research organizations, academic medical centers",
+    "key_features": [
+      "AI-powered OCT and retinal image analysis for AMD, DR, DME, CME, GA",
+      "Clinical study data management platform (DISCOVERY)",
+      "Real-time collaboration and secure data sharing for clinics"
+    ],
+    "business_model": "SaaS with tiered pricing for clinics and enterprise/pharma clients",
+    "why_varden_should_care": "High replicability - the AI-powered image analysis approach can be adapted to other medical imaging specialties. The dual-market strategy (clinics + pharma) provides multiple revenue streams and demonstrates B2B SaaS viability in ophthalmology."
+  },
+  {
+    "company_name": "OKKO Health",
+    "hq_location": "London, United Kingdom",
+    "website": "https://www.okkohealth.com",
+    "problem_solved": "Patients with chronic eye conditions need monitoring between clinic appointments to detect vision changes early. OKKO Health provides a smartphone-based home vision monitoring solution that enables early detection of vision deterioration.",
+    "target_buyers": "Ophthalmology clinics, hospital eye services, NHS trusts, private ophthalmology practices",
+    "key_features": [
+      "Smartphone puzzle game for at-home vision monitoring",
+      "Automatic alerts for urgent fast-tracked review",
+      "Remote patient monitoring with reimbursement support"
+    ],
+    "business_model": "SaaS with per-patient subscription or clinic licensing",
+    "why_varden_should_care": "High replicability - the digital therapeutic/remote monitoring model can be applied to other chronic conditions requiring regular monitoring (macular degeneration, glaucoma progression). The B2B2C model through clinics provides recurring revenue."
+  },
+  {
+    "company_name": "EyePACS",
+    "hq_location": "Berkeley, California, USA (with European operations)",
+    "website": "https://www.eyepacs.com",
+    "problem_solved": "Healthcare systems need scalable diabetic retinopathy screening programs to prevent blindness. EyePACS provides a telemedicine platform for diabetic retinopathy screening that connects primary care with eye specialists.",
+    "target_buyers": "Health systems, government health programs, primary care networks, diabetes clinics",
+    "key_features": [
+      "Cloud-based telemedicine platform for retinal image sharing",
+      "Grading and quality assurance workflows",
+      "Integration with EHR systems and fundus cameras"
+    ],
+    "business_model": "SaaS/platform fees with per-scan pricing",
+    "why_varden_should_care": "High replicability - the teleretinal screening model can be adapted for other conditions requiring specialist review (teledermatology, telepathology). The platform approach connects primary care with specialists, addressing healthcare access gaps."
+  },
+  {
+    "company_name": "Tomey",
+    "hq_location": "Nuremberg, Germany",
+    "website": "https://www.tomey.de",
+    "problem_solved": "Ophthalmology and optometry practices need comprehensive diagnostic instruments and software for eye examinations. Tomey provides diagnostic precision instruments with integrated software for accurate eye assessments.",
+    "target_buyers": "Ophthalmology practices, optometry clinics, eye diagnostic centers",
+    "key_features": [
+      "Diagnostic devices with integrated analysis software",
+      "Corneal topography and tomography solutions",
+      "Tonometers and pachymeters with digital data management"
+    ],
+    "business_model": "Device sales with software licensing and maintenance contracts",
+    "why_varden_should_care": "Moderate replicability - while primarily hardware, the integrated software approach demonstrates how diagnostic data can be digitized and managed. The software layer could be extracted and applied to other diagnostic devices in healthcare."
+  },
+  {
+    "company_name": "Eyenuk (European Operations)",
+    "hq_location": "Copenhagen, Denmark (European HQ); Los Angeles, USA (Global HQ)",
+    "website": "https://www.eyenuk.com",
+    "problem_solved": "Primary care providers need autonomous AI to screen diabetic patients for retinopathy without requiring eye specialists. Eyenuk provides FDA-cleared and CE-marked AI that autonomously detects diabetic retinopathy, AMD, and glaucoma from retinal images.",
+    "target_buyers": "Primary care clinics, endocrinology practices, health systems, diabetes centers, ophthalmology practices",
+    "key_features": [
+      "Fully autonomous AI screening for diabetic retinopathy (results in <60 seconds)",
+      "Camera-agnostic platform (works with multiple fundus camera brands)",
+      "First company with EU MDR certification for autonomous AI detection of DR, AMD, and glaucoma"
+    ],
+    "business_model": "SaaS with per-scan fees or subscription pricing",
+    "why_varden_should_care": "High replicability - the autonomous AI screening model can be applied to other medical imaging tasks (dermatology, radiology, pathology). The regulatory achievement (first EU MDR certification for autonomous AI) demonstrates a viable path to market for AI diagnostics."
+  },
+  {
+    "company_name": "Visionix (Briot/Weco)",
+    "hq_location": "Pont de Claix, France",
+    "website": "https://www.visionix.com",
+    "problem_solved": "Eye care professionals need integrated equipment and software for refraction, diagnostics, and lens finishing. Visionix provides automated refraction, wellness OCTs, and screening equipment with software for clinical workflows.",
+    "target_buyers": "Optometry practices, optical retail stores, ophthalmology clinics",
+    "key_features": [
+      "Automated refraction and screening equipment",
+      "Wellness OCT imaging solutions",
+      "Practice management software integration"
+    ],
+    "business_model": "Equipment sales with software licensing and service contracts",
+    "why_varden_should_care": "Moderate replicability - the integrated equipment-software model shows how diagnostic workflows can be streamlined. The software component could be extended to practice management for other medical specialties requiring diagnostic equipment."
+  }
+]

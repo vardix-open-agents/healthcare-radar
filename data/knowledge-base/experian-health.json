@@ -1,0 +1,14 @@
+{
+  "company": "Experian Health",
+  "country": "US",
+  "problem": "Healthcare providers face manual patient scheduling, intake, and payment estimation processes that create friction and revenue leakage",
+  "solution": "Patient Payment Solutions including automated scheduling, intake, payment estimates, and custom payment plans that increase collections, manage risk, and improve the patient financial experience",
+  "problem_type": "patient_payments",
+  "solution_type": "SaaS",
+  "buyer": "providers",
+  "varden_fit": "high",
+  "url": "https://www.experian.com/healthcare",
+  "source": "web",
+  "discovery_round": 99,
+  "discovered_by": "sky"
+}

@@ -1,0 +1,16 @@
+{
+  "id": "problem-2026-060",
+  "problem": "Pharmacy systems cannot communicate with hospital EHRs, causing medication reconciliation errors",
+  "problem_type": "data_integration",
+  "solution_type": "Pharmacy-EHR integration platforms, medication history aggregation, real-time formulary checks",
+  "care_stage": "treatment",
+  "automation_type": "workflow_automation",
+  "buyer": "hospital",
+  "care_setting": "primary_care",
+  "companies": ["Surescripts", "DrFirst", "Net Health", "Omnicell"],
+  "signals": ["Medication errors cost $528K/hospital", "Adverse drug events", "Pharmacy workflow bottlenecks"],
+  "boring_software": true,
+  "contrarian": false,
+  "url": "https://www.surescripts.com",
+  "date_added": "2026-03-11"
+}

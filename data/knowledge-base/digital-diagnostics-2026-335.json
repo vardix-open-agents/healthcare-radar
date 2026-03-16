@@ -1,0 +1,22 @@
+{
+  "id": "digital-diagnostics-2026-335",
+  "title": "Digital Diagnostics - Autonomous Eye Screening",
+  "company": "Digital Diagnostics (formerly IDx)",
+  "country": "USA",
+  "segment": "diagnostics",
+  "problem": "Diabetic retinopathy screening requires specialist ophthalmologists; many patients don't get screened",
+  "solution": "IDx-DR autonomous AI system for diabetic retinopathy screening at point of care",
+  "technology": "Autonomous AI, fundus imaging, clinical decision support",
+  "target_customer": "Primary care, endocrinologists, health systems",
+  "care_setting": "outpatient",
+  "care_domain": "diagnostics",
+  "care_stage": "screening",
+  "automation_level": "full",
+  "ai_type": "computer vision",
+  "traction_signals": ["First FDA autonomous AI approval", "Deployed in retail clinics", "CMS reimbursed"],
+  "funding": "Series C",
+  "regulatory_notes": "FDA De Novo 2018 - first autonomous AI diagnostic",
+  "source": "sky-round18-diagnostics",
+  "url": "https://www.digitaldiagnostics.com",
+  "date_added": "2026-03-11"
+}

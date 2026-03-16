@@ -1,0 +1,28 @@
+{
+  "id": "doctrin-2026-001",
+  "title": "Doctrin - Digital Patient Communication Platform",
+  "company": "Doctrin",
+  "country": "Sweden",
+  "region": "Nordics",
+  "segment": "admin",
+  "problem": "Healthcare systems struggle with patient communication, leading to inefficient workflows, overwhelmed staff, and poor patient experience.",
+  "solution": "Digital platform that streamlines patient communication, expands healthcare capacity through increased efficiency, improves medical quality, and enhances satisfaction for both staff and patients.",
+  "technology": "Digital communication platform, patient intake, workflow automation",
+  "target_customer": "Healthcare providers, clinics, hospitals",
+  "care_setting": "primary_care",
+  "care_domain": "general",
+  "care_stage": "admin",
+  "automation_level": "partial",
+  "ai_type": null,
+  "traction_signals": [
+    "Active in Swedish healthcare market",
+    "Focus on measurable efficiency gains"
+  ],
+  "funding": null,
+  "regulatory_notes": null,
+  "varden_fit": "VERY HIGH - Patient intake and communication is core to booking journey. Could enhance pre-booking and post-booking experience. Infrastructure play.",
+  "source": "Goodwille Nordic HealthTech 2025 list",
+  "url": "https://doctrin.com",
+  "date_added": "2026-03-11",
+  "notes": "Priority for deep research. Check customer list, funding, integration capabilities."
+}

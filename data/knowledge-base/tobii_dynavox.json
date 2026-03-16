@@ -1,0 +1,14 @@
+{
+  "company": "Tobii Dynavox",
+  "country": "SE",
+  "problem": "Individuals with cerebral palsy, autism, ALS, stroke, and other conditions cannot communicate verbally, limiting their ability to express needs, interact socially, and participate in daily life.",
+  "solution": "Eye-tracking enabled speech-generating devices (SGDs) and augmentative communication solutions that allow users to communicate through gaze-based selection of symbols and text-to-speech output.",
+  "problem_type": "speech_therapy",
+  "solution_type": "Device",
+  "buyer": "clinics",
+  "varden_fit": "high",
+  "url": "https://www.tobiidynavox.com",
+  "source": "web",
+  "discovery_round": 141,
+  "discovered_by": "nova"
+}

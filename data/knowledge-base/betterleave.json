@@ -1,0 +1,14 @@
+{
+  "company": "Betterleave",
+  "country": "US",
+  "problem": "Family caregivers lack adequate support during end-of-life care and bereavement, leading to poor satisfaction scores, higher hospital readmissions, and increased costs for hospice providers.",
+  "solution": "Text-based family caregiver communications platform providing navigation, coaching, and bereavement support for home health agencies, hospices, and employers to improve satisfaction and outcomes.",
+  "problem_type": "hospice",
+  "solution_type": "SaaS",
+  "buyer": "providers",
+  "varden_fit": "medium",
+  "url": "https://www.betterleave.com",
+  "source": "web",
+  "discovery_round": 142,
+  "discovered_by": "sky"
+}

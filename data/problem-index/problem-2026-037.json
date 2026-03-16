@@ -1,0 +1,16 @@
+{
+  "id": "problem-2026-037",
+  "problem": "Mexican patients pay out-of-pocket for 50% of healthcare, with no price transparency",
+  "problem_type": "billing",
+  "solution_type": "Price comparison platforms, bundled payment options, cost estimator tools",
+  "care_stage": "admin",
+  "automation_type": "manual_augmentation",
+  "buyer": "patient",
+  "care_setting": "primary_care",
+  "companies": ["Doctoralia Mexico", "Salud Digna", "Private hospital networks"],
+  "signals": ["Mexican healthcare reform", "Out-of-pocket burden", "Medical tourism growth"],
+  "boring_software": false,
+  "contrarian": false,
+  "url": "https://www.doctoralia.com.mx",
+  "date_added": "2026-03-11"
+}

@@ -1,0 +1,22 @@
+{
+  "company_name": "Carbyne",
+  "problem_solved": "Legacy 911 systems cannot handle modern communication methods (video, text, location data) and lack AI-powered tools to assist dispatchers during high-stress emergency calls",
+  "solution_description": "Cloud-native NG911 platform (APEX) providing all-in-one emergency communications with rich media support, AI-powered call handling, real-time translation, video streaming, and integrated mapping for mission-critical contact centers. Includes AI Studio for workflow automation and Admin Assist for call summarization",
+  "buyer_persona": "ems_agencies",
+  "care_stage": "triage",
+  "automation_level": "full",
+  "varden_fit": "high",
+  "region": "US",
+  "country": "United States",
+  "funding_stage": "private",
+  "traction_signals": [
+    "Deployed in Miami-Dade, Atlanta, Orlando, multiple state agencies",
+    "AT&T partnership for FirstNet/NG911",
+    "100+ partner integrations",
+    "20% faster response times reported"
+  ],
+  "notes": "Next-gen 911 infrastructure leader. Cloud-native architecture with 99.999% reliability. Strong AI capabilities for transcription, translation, and call analysis. High Varden fit for modernizing emergency dispatch infrastructure.",
+  "discovery_round": 52,
+  "discovered_by": "sky",
+  "timestamp": "2026-03-11T23:20:00Z"
+}

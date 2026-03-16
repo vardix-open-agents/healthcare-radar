@@ -1,0 +1,27 @@
+{
+  "company": "HealthHero (UK)",
+  "country": "United Kingdom",
+  "founded_year": 2019,
+  "category": "Telemedicine",
+  "subsector": "Digital Health Platform",
+  "description": "UK digital health platform formed by merger of Doctor Care Anytime, Qure, and Doctoron. Provides telemedicine, digital GP services, and occupational health to employers and insurers across Europe.",
+  "business_model": "B2B - Digital health services to employers and insurers",
+  "target_market": "Employers, insurance companies, private patients",
+  "funding_stage": "Series A",
+  "funding_amount_gbp": 30000000,
+  "key_investors": "Hg, others",
+  "employees": "200+",
+  "customers": "Employers across Europe",
+  "revenue_gbp": null,
+  "tech_stack": ["Telemedicine", "Digital GP", "Occupational health", "EAP", "Mental health support"],
+  "integration_points": ["Employer HR systems", "Insurance platforms", "Health systems"],
+  "competitive_advantage": "Pan-European presence, integrated health services, employer focus",
+  "varden_fit": {
+    "threat_level": "medium",
+    "opportunity": "monitor",
+    "rationale": "COMPETITOR - Digital occupational health provider in Europe"
+  },
+  "data_quality": "high",
+  "sources": ["healthhero.com", "crunchbase.com"],
+  "last_updated": "2026-03-11"
+}

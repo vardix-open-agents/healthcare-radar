@@ -1,0 +1,33 @@
+{
+  "id": "latam-claims-analytics-2026-238",
+  "title": "LATAM Healthcare Claims Analytics Gap",
+  "company": null,
+  "country": "Brazil/Mexico/Colombia/Regional",
+  "region": "LATAM",
+  "segment": "admin",
+  "problem": "Healthcare claims data in LATAM is underutilized. Payers have mountains of claims but limited analytics capabilities. No real-time fraud detection. No provider performance benchmarking. No cost trend analysis. No predictive modeling for high-cost patients. This leads to waste, fraud, and poor network management.",
+  "solution": "Claims analytics platform for LATAM payers. Real-time fraud detection using ML. Provider performance dashboards. Cost trend analysis and forecasting. High-risk patient identification. Network adequacy analysis. Integration with payer claims systems. Custom reporting.",
+  "technology": "ML fraud detection, data warehouse, visualization dashboards, predictive modeling, API integration, anomaly detection",
+  "target_customer": "Health insurers, self-insured employers, EPS entities (Colombia), Ministry of Health (public payers)",
+  "care_setting": "all",
+  "care_domain": "general",
+  "care_stage": "admin",
+  "automation_level": "assistive",
+  "ai_type": "Fraud detection ML, predictive modeling for costs",
+  "traction_signals": [
+    "Healthcare fraud estimated at 5-10% of spending",
+    "Payers seeking cost control",
+    "Data analytics adoption in insurance",
+    "Proven models (CODON, Health Catalyst in US)"
+  ],
+  "funding": null,
+  "regulatory_notes": "Data privacy regulations, healthcare fraud laws",
+  "varden_fit": "HIGH FIT - Claims analytics is pure B2B infrastructure. High willingness to pay (fraud savings are immediate). Defensible through data assets. Recurring revenue.",
+  "source": "Opportunity analysis + market gap identification",
+  "url": null,
+  "date_added": "2026-03-11",
+  "problem_type": "analytics",
+  "contrarian": false,
+  "boring_software": false,
+  "notes": "Claims analytics is sophisticated but valuable. Fraud detection alone can pay for the platform. Payer customers have budget and need."
+}

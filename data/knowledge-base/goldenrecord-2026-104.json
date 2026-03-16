@@ -1,0 +1,32 @@
+{
+  "id": "goldenrecord-2026-104",
+  "title": "European Patient Master Patient Index - Identity Resolution",
+  "company": "Various National Initiatives",
+  "country": "EU",
+  "region": "EU",
+  "segment": "infrastructure",
+  "problem": "European healthcare lacks unified patient identity across providers and insurers. Each country has different systems with limited interoperability.",
+  "solution": "National and regional Master Patient Index (MPI) systems. Patient identification and matching across healthcare organizations. Foundation for eligibility verification and claims processing.",
+  "technology": "MPI, patient matching algorithms, identity management",
+  "target_customer": "Healthcare systems, insurers, national health agencies",
+  "care_setting": "all",
+  "care_domain": "general",
+  "care_stage": "admin",
+  "automation_level": "partial",
+  "ai_type": "ML for patient matching",
+  "traction_signals": [
+    "National MPI initiatives in multiple EU countries",
+    "GDPR compliance requirements",
+    "Cross-border healthcare directives"
+  ],
+  "funding": "Government and private",
+  "regulatory_notes": "GDPR, national healthcare regulations",
+  "varden_fit": "HIGH — Patient identity is foundation for eligibility. European MPIs exist but lack integration with payer eligibility systems.",
+  "source": "Industry knowledge",
+  "url": "https://ec.europa.eu/health",
+  "date_added": "2026-03-11",
+  "problem_type": "eligibility",
+  "contrarian": true,
+  "boring_software": true,
+  "notes": "CONTRARIAN: Patient identity infrastructure is unsexy but essential. European systems are fragmented."
+}

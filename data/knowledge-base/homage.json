@@ -1,0 +1,14 @@
+{
+  "company": "Homage",
+  "country": "SG",
+  "problem": "Families struggle to find reliable, quality caregiving and nursing support for elderly and patients needing home-based medical care, with fragmented services and unclear pricing",
+  "solution": "On-demand home healthcare platform connecting families with screened Care Professionals. Offers home personal care, nursing procedures, therapy services, and medical escorts with transparent pricing and mobile app booking",
+  "problem_type": "practice_management",
+  "solution_type": "SaaS",
+  "buyer": "clinics",
+  "varden_fit": "medium",
+  "url": "https://www.homage.sg",
+  "source": "web",
+  "discovery_round": 78,
+  "discovered_by": "nova"
+}

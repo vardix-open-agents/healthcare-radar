@@ -1,0 +1,14 @@
+{
+  "company": "Practice Fusion",
+  "country": "US",
+  "problem": "Small and independent medical practices need affordable, easy-to-use electronic health records without expensive on-premise infrastructure",
+  "solution": "Web-based cloud EHR platform with charting, e-prescribing, patient portal, and billing services for independent practices, starting at $199/month per provider",
+  "problem_type": "practice_management",
+  "solution_type": "SaaS",
+  "buyer": "clinics",
+  "varden_fit": "medium",
+  "url": "https://www.practicefusion.com",
+  "source": "web",
+  "discovery_round": 69,
+  "discovered_by": "sky"
+}

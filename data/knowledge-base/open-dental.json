@@ -1,0 +1,14 @@
+{
+  "company": "Open Dental",
+  "country": "US",
+  "problem": "Dental practices need comprehensive practice management software that is affordable and customizable for practices of any size",
+  "solution": "Cloud-based and on-premise dental practice management software with scheduling, charting, billing, imaging, and patient communication features at an affordable price point with highly customizable workflows",
+  "problem_type": "dental",
+  "solution_type": "SaaS",
+  "buyer": "dental_clinics",
+  "varden_fit": "medium",
+  "url": "https://www.opendental.com",
+  "source": "web",
+  "discovery_round": 91,
+  "discovered_by": "nova"
+}

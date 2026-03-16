@@ -1,0 +1,14 @@
+{
+  "company": "Change Healthcare (Optum)",
+  "country": "US",
+  "problem": "Healthcare financial systems are fragmented, costly, and create administrative burden for payers and providers",
+  "solution": "Unified healthcare financial platform (now part of Optum) providing financial solutions, revenue cycle management, and payment processing that lowers the cost of healthcare administration",
+  "problem_type": "patient_payments",
+  "solution_type": "SaaS",
+  "buyer": "providers",
+  "varden_fit": "high",
+  "url": "https://business.optum.com",
+  "source": "web",
+  "discovery_round": 99,
+  "discovered_by": "sky"
+}

@@ -1,0 +1,14 @@
+{
+  "company": "SafetyCulture",
+  "country": "AU",
+  "problem": "Frontline workers lack easy-to-use tools to report hazards, conduct inspections, and maintain safety compliance, leading to underreporting of incidents, inconsistent safety practices, and difficulty tracking operational improvements across distributed workforces.",
+  "solution": "SafetyCulture (formerly iAuditor) provides a mobile-first platform for workplace operations that includes AI-powered inspections, incident reporting, training delivery, asset management, and analytics to help organizations drive safety culture and operational excellence.",
+  "problem_type": "occupational_health",
+  "solution_type": "SaaS",
+  "buyer": "employers",
+  "varden_fit": "medium",
+  "url": "https://safetyculture.com",
+  "source": "web",
+  "discovery_round": 132,
+  "discovered_by": "sky"
+}

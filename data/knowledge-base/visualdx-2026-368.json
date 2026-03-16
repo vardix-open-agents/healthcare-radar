@@ -1,0 +1,23 @@
+{
+  "company_name": "VisualDx",
+  "problem_solved": "65% of skin conditions are seen by non-dermatologists, and $55B is wasted annually in the US due to delays in patient care from diagnostic uncertainty",
+  "solution_description": "Visual clinical decision support system specializing in dermatology and visual medicine. Helps clinicians identify conditions using images and clinical features. Supports appropriate referrals, prevents patient leakage, and reduces unnecessary hospital admissions. Used across hospitals, clinics, medical education, and life sciences",
+  "buyer_persona": "health_systems|clinics|providers",
+  "care_stage": "diagnosis",
+  "automation_level": "assistive",
+  "varden_fit": "high",
+  "region": "US",
+  "country": "US",
+  "funding_stage": "series_b",
+  "traction_signals": [
+    "Used across IDNs, hospitals, and clinics",
+    "17% revenue increase potential from reducing patient leakage",
+    "Medical education resources for clinical reasoning",
+    "Life sciences solutions for HCP engagement",
+    "Rural health focus expanding access to dermatology expertise"
+  ],
+  "notes": "Strong dermatology/visual medicine focus fills gap where 65% of skin conditions are seen by non-specialists. Rural health transformation angle is compelling. Supports health equity initiatives",
+  "discovery_round": 51,
+  "discovered_by": "sky",
+  "timestamp": "2026-03-11T23:23:00Z"
+}

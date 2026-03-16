@@ -1,0 +1,27 @@
+{
+  "company": "OG Health (UK)",
+  "country": "United Kingdom",
+  "founded_year": 2018,
+  "category": "Occupational Health",
+  "subsector": "SME Occupational Health Platform",
+  "description": "UK startup providing affordable occupational health services to SMEs through digital platform. Offers health assessments, absence management support, and wellness programs for small businesses.",
+  "business_model": "B2B - Subscription and pay-per-use for SMEs",
+  "target_market": "UK SMEs (10-250 employees) underserved by traditional OH providers",
+  "funding_stage": "Seed",
+  "funding_amount_gbp": 1000000,
+  "key_investors": "UK angels, small VCs",
+  "employees": 15,
+  "customers": "200+ SMEs",
+  "revenue_gbp": 800000,
+  "tech_stack": ["Web platform", "Assessment tools", "Video consultations", "Reporting dashboard"],
+  "integration_points": ["Small business HR systems"],
+  "competitive_advantage": "SME-focused, affordable, digital-first, quick service",
+  "varden_fit": {
+    "threat_level": "medium",
+    "opportunity": "acquire",
+    "rationale": "Direct competitor in UK SME segment - acquisition target for UK market expansion"
+  },
+  "data_quality": "low",
+  "sources": ["linkedin.com", "startup databases"],
+  "last_updated": "2026-03-11"
+}

@@ -1,0 +1,14 @@
+{
+  "company": "Fresenius Kabi Transfusion Technology",
+  "country": "DE",
+  "problem": "Hospitals and blood centers need integrated systems to manage blood transfusion workflows, inventory, and patient safety while meeting strict regulatory requirements and reducing manual documentation errors.",
+  "solution": "Transfusion management software integrated with medical devices for blood collection, processing, and administration. Their systems provide barcode-based patient identification, electronic crossmatch, and real-time inventory management to prevent transfusion errors and ensure compliance.",
+  "problem_type": "blood_bank",
+  "solution_type": "SaaS",
+  "buyer": "hospitals",
+  "varden_fit": "low",
+  "url": "https://www.fresenius-kabi.com/",
+  "source": "web",
+  "discovery_round": 130,
+  "discovered_by": "sky"
+}

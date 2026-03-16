@@ -1,0 +1,14 @@
+{
+  "company": "Jaga-Me",
+  "country": "SG",
+  "problem": "Patients requiring home medical care face challenges accessing professional nursing services, medical procedures, and personalized caregiving in the comfort of their homes",
+  "solution": "Home medical care platform providing doctors, nurses, and care assistants for home visits. Services range from medical care and nursing procedures to personal caregiving, medical escorts, palliative and dementia care",
+  "problem_type": "practice_management",
+  "solution_type": "SaaS",
+  "buyer": "clinics",
+  "varden_fit": "medium",
+  "url": "https://www.jaga-me.com",
+  "source": "web",
+  "discovery_round": 78,
+  "discovered_by": "nova"
+}

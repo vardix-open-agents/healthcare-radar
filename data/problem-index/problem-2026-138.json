@@ -1,0 +1,16 @@
+{
+  "id": "problem-2026-138",
+  "problem": "Peer-to-peer review scheduling takes 7-14 days to coordinate between physician and payer medical director, delaying care decisions",
+  "problem_type": "peer_review",
+  "solution_type": "Automated P2P scheduling, calendar integration, video conferencing, outcome documentation",
+  "care_stage": "admin",
+  "automation_type": "workflow_automation",
+  "buyer": "clinic",
+  "care_setting": "specialty",
+  "companies": ["CoverMyMeds", "eviCore", "Cohere Health", "AGS Health"],
+  "signals": ["7-14 day P2P delays", "Manual scheduling", "Calendar coordination pain", "Video conferencing adoption"],
+  "boring_software": true,
+  "contrarian": false,
+  "url": "https://www.ama-assn.org/peer-review",
+  "date_added": "2026-03-11"
+}

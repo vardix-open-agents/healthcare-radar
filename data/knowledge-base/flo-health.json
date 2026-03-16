@@ -1,0 +1,14 @@
+{
+  "company": "Flo Health",
+  "country": "GB",
+  "problem": "Women lack personalized, accurate information about their menstrual cycles, fertility windows, pregnancy progression, and overall reproductive health. Traditional tracking methods are manual and don't provide predictive insights or medical guidance.",
+  "solution": "AI-powered women's health app with 420+ million users for period tracking, ovulation prediction, pregnancy monitoring, and perimenopause support. Features include cycle and symptom tracking, fertility insights, pregnancy week-by-week guidance, symptom checker, and anonymous mode for privacy.",
+  "problem_type": "womens_health",
+  "solution_type": "SaaS",
+  "buyer": "patients",
+  "varden_fit": "low",
+  "url": "https://flo.health/",
+  "source": "web",
+  "discovery_round": 93,
+  "discovered_by": "nova"
+}

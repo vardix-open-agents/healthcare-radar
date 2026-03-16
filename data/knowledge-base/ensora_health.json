@@ -1,0 +1,14 @@
+{
+  "company": "Ensora Health (Fusion)",
+  "country": "US",
+  "problem": "Rehabilitation therapy teams including speech-language pathologists spend excessive time on documentation, authorizations, and scheduling instead of patient care.",
+  "solution": "AI-enabled EHR platform specifically designed for PT/OT/SLP teams with automated documentation, streamlined workflows, and integrated billing for rehab therapy practices.",
+  "problem_type": "speech_therapy",
+  "solution_type": "SaaS",
+  "buyer": "clinics",
+  "varden_fit": "low",
+  "url": "https://www.ensorahealth.com",
+  "source": "web",
+  "discovery_round": 141,
+  "discovered_by": "nova"
+}

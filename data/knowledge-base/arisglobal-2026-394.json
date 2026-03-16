@@ -1,0 +1,22 @@
+{
+  "company_name": "ArisGlobal",
+  "problem_solved": "Complex regulatory submissions and pharmacovigilance with manual compliance processes",
+  "solution_description": "Life sciences software for regulatory affairs, pharmacovigilance, and clinical safety. LifeSphere platform automates drug safety reporting, regulatory submissions, and compliance workflows.",
+  "buyer_persona": "pharma_lifesciences",
+  "care_stage": "clinical_trials,commercial",
+  "automation_level": "partial",
+  "varden_fit": "medium",
+  "region": "Global",
+  "country": "Switzerland",
+  "funding_stage": "acquired",
+  "traction_signals": [
+    "Acquired by Nordic Capital 2023",
+    "Top 10 pharma clients",
+    "50+ countries",
+    "E2B(R3) compliance leader"
+  ],
+  "notes": "Key pharmacovigilance player. Competes with Veeva Vault Safety, Oracle Argus. Swiss HQ with global presence. Strong in EU regulatory compliance.",
+  "discovery_round": 53,
+  "discovered_by": "sky",
+  "timestamp": "2026-03-11T23:18:00Z"
+}

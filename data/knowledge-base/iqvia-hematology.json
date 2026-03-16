@@ -1,0 +1,14 @@
+{
+  "company": "IQVIA",
+  "country": "US",
+  "problem": "Hematology practices and life sciences organizations face challenges in aggregating patient data, tracking blood disorder outcomes, and conducting clinical trials for hematologic conditions across global populations.",
+  "solution": "Healthcare-grade AI and data analytics platform for hematology that provides connected intelligence, clinical trial acceleration, and real-world evidence generation for blood disorder research and treatment optimization.",
+  "problem_type": "hematology",
+  "solution_type": "SaaS",
+  "buyer": "clinics",
+  "varden_fit": "medium",
+  "url": "https://www.iqvia.com",
+  "source": "web",
+  "discovery_round": 120,
+  "discovered_by": "sky"
+}

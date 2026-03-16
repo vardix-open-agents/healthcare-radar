@@ -1,0 +1,14 @@
+{
+  "company": "Phreesia",
+  "country": "US",
+  "problem": "Rheumatology practices struggle with manual patient intake processes, referral tracking, and insurance verification, leading to administrative inefficiencies and revenue leakage",
+  "solution": "Automated patient intake and access platform with rheumatology-specific clinical forms including RAPID3 assessments, referral tracking, insurance eligibility verification, and integrated payment collection",
+  "problem_type": "rheumatology",
+  "solution_type": "SaaS",
+  "buyer": "clinics",
+  "varden_fit": "medium",
+  "url": "https://www.phreesia.com/solutions/rheumatology/",
+  "source": "web",
+  "discovery_round": 117,
+  "discovered_by": "nova"
+}

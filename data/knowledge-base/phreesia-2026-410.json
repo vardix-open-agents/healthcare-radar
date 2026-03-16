@@ -1,0 +1,22 @@
+{
+  "company_name": "Phreesia",
+  "problem_solved": "Patient intake process is manual and time-consuming, missing opportunities to screen for social determinants and collect payments",
+  "solution_description": "Patient intake and engagement platform with integrated SDOH screening capabilities. Automates check-in, payment collection, and clinical intake while capturing social determinants data. Provides analytics on patient populations and supports multiple screening tools including PRAPARE and HRSN",
+  "buyer_persona": "clinics",
+  "care_stage": "screening",
+  "automation_level": "full",
+  "varden_fit": "high",
+  "region": "US",
+  "country": "United States",
+  "funding_stage": "public",
+  "traction_signals": [
+    "Public company (NYSE: PHR)",
+    "Serves 3,500+ healthcare organizations",
+    "Integrated SDOH screening tools (PRAPARE, HRSN)",
+    "Processes millions of patient intakes"
+  ],
+  "notes": "Patient intake platform with SDOH screening. High Varden fit - automates SDOH data collection at point of care. Strong commercial traction as public company. Scales SDOH screening efficiently. Key infrastructure for systematic SDOH data capture",
+  "discovery_round": 50,
+  "discovered_by": "sky",
+  "timestamp": "2026-03-11T23:20:00Z"
+}

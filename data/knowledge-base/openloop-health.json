@@ -1,0 +1,14 @@
+{
+  "company": "OpenLoop Health",
+  "country": "US",
+  "problem": "Organizations need to launch and scale digital health offerings quickly without building clinical infrastructure from scratch",
+  "solution": "White-label telehealth platform providing clinical capabilities, nationwide provider network, and AI-powered operations to scale digital health offerings for any organization type",
+  "problem_type": "telemedicine",
+  "solution_type": "SaaS",
+  "buyer": "providers",
+  "varden_fit": "high",
+  "url": "https://openloophealth.com/",
+  "source": "web",
+  "discovery_round": 73,
+  "discovered_by": "nova"
+}

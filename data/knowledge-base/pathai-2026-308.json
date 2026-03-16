@@ -1,0 +1,22 @@
+{
+  "id": "pathai-2026-308",
+  "title": "PathAI - AI-Powered Pathology",
+  "company": "PathAI",
+  "country": "USA",
+  "segment": "diagnostics",
+  "problem": "Pathology diagnosis subjective and error-prone; shortage of pathologists creates bottleneck",
+  "solution": "AI-powered pathology platform improving diagnostic accuracy and workflow efficiency for cancer detection",
+  "technology": "Deep learning for histopathology, digital pathology platform, image analysis",
+  "target_customer": "Pathology labs, pharma clinical trials, hospital systems",
+  "care_setting": "hospital",
+  "care_domain": "diagnostics",
+  "care_stage": "diagnosis",
+  "automation_level": "partial",
+  "ai_type": "computer vision",
+  "traction_signals": ["Raised $255M", "Partnerships with 20+ pharma", "AISight platform deployed"],
+  "funding": "Series D",
+  "regulatory_notes": "Multiple FDA submissions pending",
+  "source": "sky-round18-diagnostics",
+  "url": "https://www.pathai.com",
+  "date_added": "2026-03-11"
+}

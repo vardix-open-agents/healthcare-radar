@@ -1,0 +1,14 @@
+{
+  "company": "Redox",
+  "country": "US",
+  "problem": "Healthcare organizations struggle to exchange clinical and administrative data between disparate EHR systems, payers, and third-party applications, creating data silos that impede care coordination and prevent real-time decision-making",
+  "solution": "Healthcare data integration platform that provides a single API connection to exchange real-time data with any EHR, payer, or healthcare organization, enabling seamless data flow to power care coordination workflows, analytics, and AI applications",
+  "problem_type": "care_coordination",
+  "solution_type": "SaaS",
+  "buyer": "providers",
+  "varden_fit": "high",
+  "url": "https://redoxengine.com",
+  "source": "web",
+  "discovery_round": 81,
+  "discovered_by": "sky"
+}

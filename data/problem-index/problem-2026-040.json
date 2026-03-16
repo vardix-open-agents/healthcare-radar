@@ -1,0 +1,16 @@
+{
+  "id": "problem-2026-040",
+  "problem": "Colombian health insurers (EPS) deny 40% of authorization requests, requiring manual appeals",
+  "problem_type": "eligibility",
+  "solution_type": "AI-powered authorization prediction, automated appeals, real-time decision support",
+  "care_stage": "admin",
+  "automation_type": "ai_assisted",
+  "buyer": "clinic",
+  "care_setting": "specialty",
+  "companies": ["EPS platforms", "Medical authorization startups", "Supersalud oversight"],
+  "signals": ["Colombian healthcare litigation", "Authorization bottleneck", "Patient rights movement"],
+  "boring_software": false,
+  "contrarian": false,
+  "url": "https://www.supersalud.gov.co",
+  "date_added": "2026-03-11"
+}

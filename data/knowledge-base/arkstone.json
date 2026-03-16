@@ -1,0 +1,14 @@
+{
+  "company": "Arkstone",
+  "country": "US",
+  "problem": "Clinicians lack real-time, evidence-based guidance for antimicrobial prescribing, leading to antibiotic overuse and inappropriate treatment of infectious diseases",
+  "solution": "OneChoice AI-powered clinical decision support platform that provides patient-specific treatment recommendations based on microbiology lab results, integrating antimicrobial stewardship directly into clinical workflows",
+  "problem_type": "infectious_disease",
+  "solution_type": "SaaS",
+  "buyer": "clinics",
+  "varden_fit": "medium",
+  "url": "https://arkstone.ai",
+  "source": "web",
+  "discovery_round": 119,
+  "discovered_by": "nova"
+}

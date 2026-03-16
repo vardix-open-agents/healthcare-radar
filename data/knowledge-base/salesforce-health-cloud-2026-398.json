@@ -1,0 +1,22 @@
+{
+  "company_name": "Salesforce Health Cloud",
+  "problem_solved": "Fragmented patient and healthcare provider relationships in life sciences commercial",
+  "solution_description": "CRM platform for healthcare and life sciences with patient 360, provider engagement, and field team tools. Part of Salesforce Customer 360. Integrates with Veeva for pharma.",
+  "buyer_persona": "pharma_lifesciences",
+  "care_stage": "commercial",
+  "automation_level": "partial",
+  "varden_fit": "low",
+  "region": "Global",
+  "country": "US",
+  "funding_stage": "public",
+  "traction_signals": [
+    "Part of Salesforce ($250B+ market cap)",
+    "Life Sciences Cloud offering",
+    "Patient 360 focus",
+    "EHR integration capabilities"
+  ],
+  "notes": "Horizontal CRM with life sciences vertical. Competes with Veeva CRM, IQVIA OCE. Less pharma-specific than Veeva but broader platform. Veeva originally built on Salesforce.",
+  "discovery_round": 53,
+  "discovered_by": "sky",
+  "timestamp": "2026-03-11T23:18:00Z"
+}

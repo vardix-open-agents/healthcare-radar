@@ -1,0 +1,14 @@
+{
+  "company": "Availity",
+  "country": "US",
+  "problem": "Healthcare payer-provider connectivity is fragmented, causing delays in eligibility verification, prior authorizations, and claims processing",
+  "solution": "Nation's largest dual-sided healthcare intelligence network providing real-time connectivity between payers and providers, AI-enabled workflow automation, and integrated revenue cycle management solutions",
+  "problem_type": "patient_payments",
+  "solution_type": "SaaS",
+  "buyer": "providers",
+  "varden_fit": "high",
+  "url": "https://www.availity.com",
+  "source": "web",
+  "discovery_round": 99,
+  "discovered_by": "sky"
+}

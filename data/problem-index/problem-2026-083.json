@@ -1,0 +1,16 @@
+{
+  "id": "problem-2026-083",
+  "problem": "Patients on complex medication regimens face pharmacy prior authorization for each drug, causing treatment delays of 3-7 days per medication",
+  "problem_type": "insurance_routing",
+  "solution_type": "Batch prior authorization, pharmacy benefit integration, step therapy automation",
+  "care_stage": "treatment",
+  "automation_type": "workflow_automation",
+  "buyer": "health_plan",
+  "care_setting": "pharmacy",
+  "companies": ["CoverMyMeds", "Surescripts", "DrFirst", "ARxIUM", "ScriptPro"],
+  "signals": ["Specialty pharmacy growth", "Prior auth reform legislation", "Patient access programs"],
+  "boring_software": true,
+  "contrarian": false,
+  "url": "https://www.pharmacist.com/prior-authorization",
+  "date_added": "2026-03-11"
+}

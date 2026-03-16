@@ -1,0 +1,27 @@
+{
+  "company": "Hyperion Robotics (Greece)",
+  "country": "Greece",
+  "founded_year": 2019,
+  "category": "Health Tech",
+  "subsector": "Medical Device / Diagnostics",
+  "description": "Greek healthtech startup developing AI-powered medical diagnostics and screening tools. Focus on early detection and preventive care technologies for healthcare providers.",
+  "business_model": "B2B - Medical devices and software to healthcare providers",
+  "target_market": "Greek and European healthcare providers",
+  "funding_stage": "Seed",
+  "funding_amount_eur": 2000000,
+  "key_investors": "Greek VCs, European Innovation Council",
+  "employees": 20,
+  "customers": "50+ healthcare facilities",
+  "revenue_eur": 1000000,
+  "tech_stack": ["AI diagnostics", "Medical devices", "Cloud platform"],
+  "integration_points": ["Hospital systems", "Laboratory systems"],
+  "competitive_advantage": "AI-powered diagnostics, European regulatory progress",
+  "varden_fit": {
+    "threat_level": "low",
+    "opportunity": "monitor",
+    "rationale": "Emerging diagnostic technology - potential future integration for occupational health screening"
+  },
+  "data_quality": "low",
+  "sources": ["linkedin.com", "startup databases"],
+  "last_updated": "2026-03-11"
+}

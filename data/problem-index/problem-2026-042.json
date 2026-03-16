@@ -1,0 +1,16 @@
+{
+  "id": "problem-2026-042",
+  "problem": "Peruvian rural clinics lack internet connectivity, preventing EHR adoption",
+  "problem_type": "documentation",
+  "solution_type": "Offline-first EHR systems, mobile data collection, satellite connectivity solutions",
+  "care_stage": "admin",
+  "automation_type": "manual_augmentation",
+  "buyer": "health_system",
+  "care_setting": "primary_care",
+  "companies": ["Local health tech startups", "MINSA digital initiatives", "NGO healthcare programs"],
+  "signals": ["Peru rural health gaps", "Universal health coverage push", "Connectivity infrastructure"],
+  "boring_software": true,
+  "contrarian": true,
+  "url": "https://www.gob.pe/minsa",
+  "date_added": "2026-03-11"
+}

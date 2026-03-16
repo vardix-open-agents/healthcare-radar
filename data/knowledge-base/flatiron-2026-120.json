@@ -1,0 +1,30 @@
+{
+  "id": "flatiron-2026-120",
+  "title": "Flatiron Health - Oncology EHR and Data Platform",
+  "company": "Flatiron Health (Roche)",
+  "country": "USA",
+  "region": "NA",
+  "segment": "oncology",
+  "problem": "Oncology practices struggle with fragmented data, complex treatment protocols, and lack of real-world evidence for cancer care optimization.",
+  "solution": "Cloud-based oncology EHR and data platform that standardizes cancer data, enables clinical decision support, and powers real-world evidence research.",
+  "technology": "Cloud EHR, data analytics, machine learning, NLP for structured data extraction from unstructured clinical notes",
+  "target_customer": "Community oncology practices, health systems, life sciences companies",
+  "care_setting": "outpatient_oncology",
+  "care_domain": "oncology",
+  "care_stage": "treatment",
+  "automation_level": "full",
+  "ai_type": "NLP, ML for clinical decision support",
+  "traction_signals": [
+    "Acquired by Roche for $2.1B in 2018",
+    "280+ oncology clinic partnerships",
+    "2M+ patient records in database",
+    "Founded 2012, NYC-based"
+  ],
+  "funding": "Acquired ($2.1B)",
+  "regulatory_notes": "EHR certification, HIPAA compliant",
+  "varden_fit": "HIGH - Oncology data infrastructure and practice management align strongly with Varden's platform approach. Could serve as model for specialty care coordination.",
+  "source": "Industry knowledge",
+  "url": "https://flatiron.com",
+  "date_added": "2026-03-11",
+  "notes": "Category-defining company in oncology data. Created the standard for structured oncology data collection."
+}

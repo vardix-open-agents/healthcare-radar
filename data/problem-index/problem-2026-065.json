@@ -1,0 +1,16 @@
+{
+  "id": "problem-2026-065",
+  "problem": "Colombian EPS (insurance) prior authorization for MRIs takes 15-30 days, delaying critical diagnoses",
+  "problem_type": "insurance_routing",
+  "solution_type": "Automated prior auth, AI-powered medical necessity checking, real-time approval workflows",
+  "care_stage": "diagnosis",
+  "automation_type": "workflow_automation",
+  "buyer": "health_plan",
+  "care_setting": "specialty",
+  "companies": ["Sanitas Colombia", "EPS Sura", "Colsanitas", "Profamilia"],
+  "signals": ["Colombian health reform 2023", "Minsalud interoperability mandate", "Waiting list reduction targets"],
+  "boring_software": false,
+  "contrarian": true,
+  "url": "https://www.minsalud.gov.co",
+  "date_added": "2026-03-11"
+}

@@ -1,0 +1,14 @@
+{
+  "company": "Hinge Health",
+  "country": "US",
+  "problem": "Musculoskeletal conditions like back and joint pain are the leading cause of disability and healthcare costs, with traditional treatments often involving expensive surgeries and opioids",
+  "solution": "Digital MSK platform combining sensor-guided exercise therapy, 1-on-1 health coaching, and AI-powered movement analysis to reduce pain and prevent surgeries through home-based care",
+  "problem_type": "rehab",
+  "solution_type": "SaaS",
+  "buyer": "employers",
+  "varden_fit": "medium",
+  "url": "https://www.hingehealth.com",
+  "source": "web",
+  "discovery_round": 98,
+  "discovered_by": "nova"
+}

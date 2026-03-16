@@ -1,0 +1,14 @@
+{
+  "company": "Owlstone Medical",
+  "country": "GB",
+  "problem": "Early detection of respiratory diseases, including lung cancer and other conditions, is limited by invasive diagnostic procedures and late-stage diagnosis.",
+  "solution": "Breath Biopsy platform for non-invasive detection of volatile organic compounds (VOCs) in exhaled breath, enabling early disease detection and precision medicine across respiratory, cancer, and gastrointestinal diseases.",
+  "problem_type": "pulmonology",
+  "solution_type": "diagnostic",
+  "buyer": "pharma, clinics",
+  "varden_fit": "medium",
+  "url": "https://www.owlstonemedical.com",
+  "source": "web",
+  "discovery_round": 115,
+  "discovered_by": "sky"
+}

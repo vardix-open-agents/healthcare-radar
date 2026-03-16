@@ -1,0 +1,22 @@
+{
+  "company_name": "Science 37",
+  "problem_solved": "Limited patient access to clinical trials due to geographic and logistical barriers",
+  "solution_description": "Decentralized clinical trial platform enabling siteless trials with telemedicine, mobile nurses, and remote monitoring. Meta-Site model brings trials to patients' homes.",
+  "buyer_persona": "pharma_lifesciences,biotech",
+  "care_stage": "clinical_trials",
+  "automation_level": "partial",
+  "varden_fit": "medium",
+  "region": "US",
+  "country": "US",
+  "funding_stage": "acquired",
+  "traction_signals": [
+    "SPAC merger 2021",
+    "Acquired by Teladoc 2024",
+    "FDA first siteless trial approval",
+    "500+ decentralized trials"
+  ],
+  "notes": "Pioneer in decentralized clinical trials. COVID accelerated adoption. Acquired by Teladoc. Competes with Medidata, Veeva in DCT space.",
+  "discovery_round": 53,
+  "discovered_by": "sky",
+  "timestamp": "2026-03-11T23:18:00Z"
+}

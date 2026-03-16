@@ -1,0 +1,100 @@
+[
+  {
+    "company_name": "CardioSignal (Precordior)",
+    "hq_location": "Turku, Finland",
+    "website_url": "https://cardiosignal.com",
+    "problem_solved": "Detecting atrial fibrillation and other heart diseases earlier using smartphone-based gyrocardiography technology. Addresses the challenge of inaccessible, expensive cardiac screening for population-wide AFib detection.",
+    "who_buys_it": "Healthcare providers, insurance companies, population health programs, pharma/CROs for clinical trials, and individual consumers for self-monitoring",
+    "key_features": [
+      "Smartphone-based AFib detection using built-in motion sensors (gyrocardiography)",
+      "CE-marked Class IIb medical device requiring only 60 seconds for measurement",
+      "Population health screening programs for large-scale AFib detection"
+    ],
+    "business_model": "SaaS/B2B2C - Software as a medical device with population health programs for providers and direct-to-consumer app sales",
+    "why_varden_should_care": "High replicability potential - the software-as-medical-device model can be applied to other chronic disease detection using smartphone sensors. Novel gyrocardiography approach differentiates from traditional ECG-based competitors."
+  },
+  {
+    "company_name": "Zenicor Medical Systems",
+    "hq_location": "Stockholm, Sweden",
+    "website_url": "https://zenicor.com",
+    "problem_solved": "Enabling early diagnosis of cardiac arrhythmias, particularly atrial fibrillation, through flexible monitoring solutions that can replace traditional Holter examinations. Addresses inefficiencies in arrhythmia investigation workflows.",
+    "who_buys_it": "Hospitals, cardiology clinics, primary care providers, and healthcare systems conducting AFib screening programs",
+    "key_features": [
+      "Zenicor One handheld ECG device with 4G/5G transmission for prolonged arrhythmia monitoring",
+      "Zenicor Flex continuous ECG with patch or standard electrodes option",
+      "Zenicor View web-based platform managing all arrhythmia investigations in one system with interpretation services"
+    ],
+    "business_model": "SaaS with device hardware sales - Platform subscription plus ECG device sales/rentals and optional interpretation services",
+    "why_varden_should_care": "Strong replicability - the integrated platform approach combining multiple monitoring modalities (thumb ECG, patch, continuous) in one workflow system can be applied to other diagnostic areas. Used in major screening studies (STROKESTOP, SAFER) demonstrating clinical validation."
+  },
+  {
+    "company_name": "Cardiolex Medical",
+    "hq_location": "Solna, Sweden",
+    "website_url": "https://www.cardiolex.com",
+    "problem_solved": "Simplifying ECG examinations and management with easy-to-use devices and integrated systems that reduce training needs and examination time while maintaining high diagnostic quality.",
+    "who_buys_it": "Hospitals, cardiology clinics, primary care centers, emergency departments, and private practices",
+    "key_features": [
+      "Complete ECG solution from signal acquisition to data management and storage",
+      "Integration with hospital information systems and other ECG platforms",
+      "High-quality ECG devices designed for ease of use with minimal training required"
+    ],
+    "business_model": "Hardware + Software - ECG device sales combined with ECG management system licensing and support contracts",
+    "why_varden_should_care": "High replicability - the focus on workflow simplification and system integration can be applied to other medical device categories. Used in 2/3 of Swedish hospitals demonstrating strong market penetration in Nordic healthcare systems."
+  },
+  {
+    "company_name": "Cardiolund",
+    "hq_location": "Lund, Sweden",
+    "website_url": "https://cardiolund.com",
+    "problem_solved": "Providing advanced automated ECG analysis software that reduces physician workload by up to 90% in AFib screening. Enables accurate rhythm analysis from simplified ECG systems including single-lead mobile devices.",
+    "who_buys_it": "ECG device manufacturers, healthcare organizations with ECG databases, clinical researchers, and medical device companies integrating ECG analysis",
+    "key_features": [
+      "ECG Parser software with advanced algorithms for 1-12 lead ECG analysis",
+      "90% workload reduction in AFib screening validated in 80,000+ patient study",
+      "Rich metadata output suitable for AI/ML applications and statistical analysis"
+    ],
+    "business_model": "B2B SaaS/API licensing - Software licensing to ECG device manufacturers and healthcare organizations, plus research collaborations",
+    "why_varden_should_care": "Very high replicability - the software-only algorithm approach can be applied to other biosignal analysis (EEG, EMG, etc.). Academic spinoff model from Lund University demonstrates strong research-to-commercialization pathway."
+  },
+  {
+    "company_name": "Vitalthings",
+    "hq_location": "Trondheim, Norway",
+    "website_url": "https://vitalthings.com",
+    "problem_solved": "Enabling contactless, continuous patient monitoring for healthcare institutions without requiring sensors on the body. Addresses the need for proactive patient monitoring while reducing staff burden.",
+    "who_buys_it": "Hospitals, nursing homes, rehabilitation centers, and home healthcare providers",
+    "key_features": [
+      "Contactless vital signs monitoring using radar technology (no wearables or cameras)",
+      "Guardian H10 and M10 devices with medical certification (Class IIb)",
+      "Somnofy sleep and respiration monitoring for overnight patient supervision"
+    ],
+    "business_model": "Hardware + SaaS - Medical device sales combined with monitoring platform subscription",
+    "why_varden_should_care": "High replicability - contactless monitoring technology can be extended to other patient populations and care settings. The radar-based approach eliminates compliance issues associated with wearables."
+  },
+  {
+    "company_name": "Nightingale Health",
+    "hq_location": "Helsinki, Finland",
+    "website_url": "https://nightingalehealth.com",
+    "problem_solved": "Enabling population-scale cardiovascular and chronic disease risk detection from a single blood sample. Addresses the limitation of traditional risk assessments that are costly and difficult to scale.",
+    "who_buys_it": "Healthcare systems, occupational health providers, biobanks, clinical researchers, and pharmaceutical companies for clinical trials",
+    "key_features": [
+      "Blood biomarker analysis detecting cardiovascular, diabetes, and liver disease risks from single sample",
+      "Scalable to population-level screening at low cost",
+      "Remote blood collection kit enabling at-home health checks"
+    ],
+    "business_model": "B2B SaaS/Laboratory services - Blood analysis services sold to healthcare providers, researchers, and population health programs",
+    "why_varden_should_care": "High replicability - the biomarker panel approach can be expanded to other disease areas. Demonstrates successful scaling from Finland to global markets (Japan, US, UK) with partnerships including UK Biobank, Kaiser, and 23andMe."
+  },
+  {
+    "company_name": "Dignio",
+    "hq_location": "Bergen, Norway",
+    "website_url": "https://dignio.com",
+    "problem_solved": "Enabling remote patient monitoring and connected care for chronic disease management. Addresses healthcare system strain from aging populations by empowering patients to self-manage while staying connected to healthcare providers.",
+    "who_buys_it": "Hospitals, specialist clinics, primary care providers, and home healthcare services managing chronic disease patients",
+    "key_features": [
+      "Dignio Connected Care platform integrating multiple medical devices for remote monitoring",
+      "Patient app for self-measurements with clinician dashboard for oversight",
+      "Flexible solution adaptable to various chronic conditions including heart failure"
+    ],
+    "business_model": "SaaS - Platform subscription for healthcare organizations with per-patient or enterprise pricing",
+    "why_varden_should_care": "High replicability - the modular connected care platform can be adapted to any chronic disease management program. Demonstrates measurable outcomes including reduced hospitalizations and shorter hospital stays, proving value-based care model."
+  }
+]

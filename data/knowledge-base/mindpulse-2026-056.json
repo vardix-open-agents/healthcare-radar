@@ -1,0 +1,29 @@
+{
+  "id": "mindpulse-2026-056",
+  "title": "MindPulse - Digital Cognitive Assessment",
+  "company": "MindPulse",
+  "country": "France",
+  "region": "EU",
+  "segment": "diagnostics",
+  "problem": "Cognitive assessment is time-consuming and requires specialist administration. Early detection of cognitive decline is difficult.",
+  "solution": "Digital cognitive assessment tool for detecting cognitive impairment, used in primary care and specialist settings.",
+  "technology": "Digital assessment, normative data, scoring algorithms",
+  "target_customer": "Primary care, neurology, geriatrics",
+  "care_setting": "primary_care",
+  "care_domain": "neurology",
+  "care_stage": "diagnosis",
+  "automation_level": "full",
+  "ai_type": null,
+  "traction_signals": [
+    "French digital cognitive assessment",
+    "Primary care deployment",
+    "Standardized cognitive testing"
+  ],
+  "funding": null,
+  "regulatory_notes": "CE marked medical device.",
+  "varden_fit": "Moderate — cognitive screening could be valuable add-on for Varden's primary care partners.",
+  "source": "EU health tech ecosystem",
+  "url": "https://www.mindpulse.com",
+  "date_added": "2026-03-11",
+  "notes": "Digital cognitive assessment. Relevant for aging population."
+}

@@ -1,0 +1,14 @@
+{
+  "company": "Eagle Telemedicine",
+  "country": "US",
+  "problem": "Hospitals, especially rural facilities, lack 24/7 access to neurologists and other specialists for acute stroke and emergency care",
+  "solution": "Telemedicine company providing 24/7 access to board-certified neurologists and other specialists for telestroke, teleneurology, and acute care consultations",
+  "problem_type": "specialty_telemedicine",
+  "solution_type": "SaaS",
+  "buyer": "hospitals",
+  "varden_fit": "low",
+  "url": "https://eagletelemedicine.com",
+  "source": "web",
+  "discovery_round": 100,
+  "discovered_by": "nova"
+}

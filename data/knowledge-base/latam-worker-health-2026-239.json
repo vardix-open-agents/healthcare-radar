@@ -1,0 +1,33 @@
+{
+  "id": "latam-worker-health-2026-239",
+  "title": "LATAM Occupational Health & Worker Safety",
+  "company": null,
+  "country": "Brazil/Mexico/Colombia/Regional",
+  "region": "LATAM",
+  "segment": "treatment",
+  "problem": "Occupational health in LATAM is underserved. High workplace injury rates. No digital systems for incident reporting, tracking, and prevention. Mandatory occupational health exams managed on paper. Employers struggle to comply with regulations. No integration between workplace safety and medical care for injured workers.",
+  "solution": "Occupational health platform. Digital incident reporting. Pre-employment and periodic health exams scheduling. Injury case management. Return-to-work coordination. Compliance dashboards. Integration with workplace safety systems and workers' compensation insurers.",
+  "technology": "Mobile incident reporting, scheduling system, case management workflow, compliance reporting, API integrations",
+  "target_customer": "Employers (especially manufacturing, mining, construction), workers' compensation insurers, occupational health clinics",
+  "care_setting": "occupational",
+  "care_domain": "occupational",
+  "care_stage": "prevention",
+  "automation_level": "partial",
+  "ai_type": null,
+  "traction_signals": [
+    "Workplace injury rates high in LATAM",
+    "Regulatory compliance requirements",
+    "Employer liability concerns",
+    "Proven models (Workday, Medgate in US/Canada)"
+  ],
+  "funding": null,
+  "regulatory_notes": "Occupational safety regulations vary by country, workers' compensation laws",
+  "varden_fit": "MEDIUM FIT - Niche but valuable. B2B software for employers. Strong compliance angle creates urgency. Good entry point to employer health market.",
+  "source": "Opportunity analysis + market gap identification",
+  "url": null,
+  "date_added": "2026-03-11",
+  "problem_type": "occupational",
+  "contrarian": false,
+  "boring_software": true,
+  "notes": "Occupational health is unglamorous but necessary. Brazil has strict occupational health regulations (PCMSO, PPRA). Compliance creates demand."
+}

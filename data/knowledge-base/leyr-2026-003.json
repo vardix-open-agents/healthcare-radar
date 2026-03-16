@@ -1,0 +1,29 @@
+{
+  "id": "leyr-2026-003",
+  "title": "Leyr - Unified EHR Integration API Platform",
+  "company": "Leyr",
+  "country": "Sweden",
+  "region": "Nordics",
+  "segment": "infrastructure",
+  "problem": "Healthcare tech companies face fragmented EHR/EMR ecosystem - building point-to-point integrations is expensive, slow, and doesn't scale. Each new region requires new integrations.",
+  "solution": "Unified API platform that connects to multiple EHR systems through a single integration. No data storage, pass-through architecture. 92% reduction in development time, 2-week average integration time.",
+  "technology": "API, EHR integration, healthcare data standards, double encryption",
+  "target_customer": "Healthcare tech companies, digital health platforms, clinic software providers",
+  "care_setting": "other",
+  "care_domain": "general",
+  "care_stage": "admin",
+  "automation_level": "full",
+  "ai_type": null,
+  "traction_signals": [
+    "Growing catalog of connected EHR systems",
+    "Free sandbox environment for testing",
+    "Active integrations across Swedish healthcare"
+  ],
+  "funding": null,
+  "regulatory_notes": "ISO 27001, GDPR, HIPAA compliant. Double encryption on all connections. No patient data storage - pass-through architecture ensures minimal regulatory exposure.",
+  "varden_fit": "VERY HIGH - Direct infrastructure play. Varden has 15+ EHR integrations - Leyr's model could accelerate new integrations or simplify maintenance. Same target market (clinics, healthcare tech). Potential partnership or acquisition target.",
+  "source": "Leyr website (leyr.io)",
+  "url": "https://leyr.io",
+  "date_added": "2026-03-11",
+  "notes": "Infrastructure gold. Solves the exact problem Varden faces with EHR integrations. Research: current connected EHRs, pricing model, expansion beyond Sweden?"
+}

@@ -1,0 +1,33 @@
+{
+  "id": "latam-imaging-sharing-2026-222",
+  "title": "LATAM Medical Imaging Sharing Infrastructure",
+  "company": null,
+  "country": "Brazil/Mexico/Colombia/Regional",
+  "region": "LATAM",
+  "segment": "diagnosis",
+  "problem": "Medical imaging (X-rays, CT scans, MRIs) in LATAM is siloed. Patients carry CDs/DVDs between facilities. Images lost, degraded, or incompatible. No cloud-based sharing. Radiologists can't easily access prior images for comparison. Referring physicians wait days for reports. Tele-radiology is limited by technical barriers.",
+  "solution": "Cloud-based medical imaging platform (PACS in the cloud). Secure upload from imaging centers, instant sharing with radiologists and physicians. Zero-footprint viewer accessible from any device. AI-assisted triage and preliminary reads. Integration with hospital radiology systems.",
+  "technology": "DICOM standards, cloud PACS, zero-footprint viewer, AI image analysis, integration APIs, mobile access",
+  "target_customer": "Imaging centers, radiology practices, hospital systems, tele-radiology companies, referring physicians",
+  "care_setting": "diagnostic",
+  "care_domain": "radiology",
+  "care_stage": "diagnosis",
+  "automation_level": "assistive",
+  "ai_type": "Image analysis, anomaly detection, triage prioritization",
+  "traction_signals": [
+    "Medical imaging volume growing 10%+ annually",
+    "Cloud adoption accelerating post-COVID",
+    "Radiologist shortage creates tele-radiology demand",
+    "AI imaging diagnostics proven in US/China"
+  ],
+  "funding": null,
+  "regulatory_notes": "Medical device regulations for diagnostic AI, HIPAA-equivalent data protection, DICOM compliance",
+  "varden_fit": "HIGH FIT - Infrastructure for imaging workflow. Cloud PACS + AI triage is proven model (Aidoc, Viz.ai). Technical but defensible. Recurring revenue from imaging centers.",
+  "source": "Opportunity analysis + market gap identification",
+  "url": null,
+  "date_added": "2026-03-11",
+  "problem_type": "imaging",
+  "contrarian": false,
+  "boring_software": false,
+  "notes": "Medical imaging is technical space but critical infrastructure. Ambra Health proved cloud PACS model in US. LATAM still using CDs. Massive opportunity."
+}

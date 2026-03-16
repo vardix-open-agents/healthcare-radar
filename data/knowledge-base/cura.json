@@ -1,0 +1,14 @@
+{
+  "company": "Cura",
+  "country": "SA",
+  "problem": "Patients in Saudi Arabia face long wait times for doctor appointments, limited access to specialists, and difficulty getting quick medical consultations",
+  "solution": "Arabic-first telemedicine platform offering immediate consultations within 5 minutes, specialized consultations same-day, and 100+ therapeutic programs for mental health, nutrition, and child development across Saudi Arabia",
+  "problem_type": "telemedicine",
+  "solution_type": "SaaS",
+  "buyer": "clinics",
+  "varden_fit": "medium",
+  "url": "https://cura.sa",
+  "source": "web",
+  "discovery_round": 77,
+  "discovered_by": "sky"
+}

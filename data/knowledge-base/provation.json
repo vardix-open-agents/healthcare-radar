@@ -1,0 +1,14 @@
+{
+  "company": "Provation (Wolters Kluwer)",
+  "country": "US",
+  "problem": "Gastroenterology departments need streamlined documentation for endoscopic procedures that integrates with hospital systems, ensures clinical accuracy, and reduces the administrative burden on physicians during procedures.",
+  "solution": "Provation offers procedure documentation and clinical decision support software for GI endoscopy. Their platform provides structured reporting for colonoscopy, EGD, and other GI procedures, with built-in clinical guidance, quality measure tracking, and integration with EHR systems. It helps improve documentation completeness and clinical outcomes.",
+  "problem_type": "gastroenterology",
+  "solution_type": "SaaS",
+  "buyer": "clinics",
+  "varden_fit": "medium",
+  "url": "https://www.provation.com",
+  "source": "web",
+  "discovery_round": 113,
+  "discovered_by": "sky"
+}

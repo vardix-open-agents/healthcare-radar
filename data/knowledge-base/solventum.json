@@ -1,0 +1,14 @@
+{
+  "company": "Solventum (formerly 3M Health Information Systems)",
+  "country": "US",
+  "problem": "Healthcare organizations face disconnected workflows between clinical documentation, coding, and revenue cycle that cause inefficiencies, inaccuracies, burnout, and poor financial outcomes",
+  "solution": "Comprehensive health information technology platform delivering capture-to-code solutions with computer-assisted coding, clinical documentation improvement, and revenue cycle management tools backed by 45+ years of clinical knowledge engineering",
+  "problem_type": "medical_coding",
+  "solution_type": "SaaS",
+  "buyer": "providers",
+  "varden_fit": "high",
+  "url": "https://www.solventum.com/en-us/home/health-information-technology",
+  "source": "web",
+  "discovery_round": 84,
+  "discovered_by": "sky"
+}

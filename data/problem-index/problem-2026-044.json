@@ -1,0 +1,16 @@
+{
+  "id": "problem-2026-044",
+  "problem": "Kenyan patients travel 4+ hours to district hospitals for chronic disease refills",
+  "problem_type": "monitoring",
+  "solution_type": "Community health worker medication delivery, SMS refill reminders, decentralized care",
+  "care_stage": "treatment",
+  "automation_type": "workflow_automation",
+  "buyer": "health_system",
+  "care_setting": "home",
+  "companies": ["Medic Mobile", "Amref Health Africa", "M-Tiba"],
+  "signals": ["Kenya UHC goals", "Community health strategy", "Digital health innovation"],
+  "boring_software": false,
+  "contrarian": false,
+  "url": "https://medic.org",
+  "date_added": "2026-03-11"
+}

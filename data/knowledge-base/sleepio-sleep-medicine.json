@@ -1,0 +1,14 @@
+{
+  "company": "Big Health (Sleepio)",
+  "country": "US",
+  "problem": "Insomnia patients need evidence-based treatment without pharmacotherapy, and clinics need scalable therapeutic options",
+  "solution": "Digital therapeutic platform (Sleepio) delivering CBT-I (cognitive behavioral therapy for insomnia) through sleep clinics with clinician oversight and outcome tracking",
+  "problem_type": "sleep_medicine",
+  "solution_type": "SaaS",
+  "buyer": "clinics",
+  "varden_fit": "high",
+  "url": "https://www.bighealth.com",
+  "source": "web",
+  "discovery_round": 104,
+  "discovered_by": "nova"
+}

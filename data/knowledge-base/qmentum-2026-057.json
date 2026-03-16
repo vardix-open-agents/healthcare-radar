@@ -1,0 +1,29 @@
+{
+  "id": "qmentum-2026-057",
+  "title": "Qmentum - Healthcare Quality Management Platform",
+  "company": "Qmentum",
+  "country": "UK",
+  "region": "EU",
+  "segment": "admin",
+  "problem": "Healthcare organizations struggle with accreditation, quality management, and compliance tracking.",
+  "solution": "Digital platform for healthcare quality management, accreditation support, and compliance monitoring.",
+  "technology": "SaaS platform, quality metrics, audit tools",
+  "target_customer": "Hospitals, clinics, healthcare systems",
+  "care_setting": "hospital",
+  "care_domain": "general",
+  "care_stage": "admin",
+  "automation_level": "partial",
+  "ai_type": null,
+  "traction_signals": [
+    "UK quality management platform",
+    "Healthcare accreditation focus",
+    "Hospital and clinic customers"
+  ],
+  "funding": null,
+  "regulatory_notes": "Quality management tool, compliance support.",
+  "varden_fit": "Low — quality management is back-office function. Not patient-facing.",
+  "source": "Industry knowledge",
+  "url": "https://www.qmentum.com",
+  "date_added": "2026-03-11",
+  "notes": "Healthcare quality platform. Back-office tool."
+}

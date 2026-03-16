@@ -1,0 +1,139 @@
+{
+  "round": 189,
+  "focus": "Orthopedics / MSK (DACH)",
+  "region": "Germany, Austria, Switzerland",
+  "date": "2026-03-14",
+  "companies": [
+    {
+      "company_name": "Kaia Health",
+      "hq_location": "Munich, Germany",
+      "website_url": "https://kaiahealth.com",
+      "problem_solved": "MSK pain is a leading cause of disability and healthcare costs. Traditional physical therapy is often inaccessible, expensive, and requires multiple in-person visits.",
+      "who_buys_it": "Employers (as part of employee benefits), Health insurance companies, Individuals seeking MSK pain relief",
+      "key_features": [
+        "Digital-first MSK care platform",
+        "AI-powered exercise programs",
+        "Virtual physical therapy sessions",
+        "Computer vision technology for movement tracking",
+        "Programs developed by Doctors of Physical Therapy",
+        "Proven clinical outcomes across 11 trials",
+        "3x ROI demonstrated in claims studies"
+      ],
+      "business_model": "B2B2C - Sells to employers and health plans who offer the service to their employees/members. Revenue through per-member-per-month or per-episode pricing models.",
+      "why_varden_should_care": "Leading European digital MSK player with strong clinical validation and demonstrated ROI. Addresses the growing MSK burden in aging populations. Scalable platform that can expand to other conditions. Strong fit for corporate wellness and value-based care models."
+    },
+    {
+      "company_name": "Bodygee",
+      "hq_location": "Zurich, Switzerland",
+      "website_url": "https://www.bodygee.com",
+      "problem_solved": "Traditional body measurement and tracking for orthopedic conditions, lipedema, and aesthetic procedures is subjective, inaccurate, and lacks objective data for treatment planning and progress monitoring.",
+      "who_buys_it": "Orthopedic clinics, Plastic surgeons, Lipedema treatment centers, Medical aesthetic practices, Rehabilitation facilities",
+      "key_features": [
+        "Professional 3D body scanning technology",
+        "Lipedema tracking and documentation",
+        "Minimal equipment requirements (iPad with 3D sensor + turntable)",
+        "Integrated weight scale via Bluetooth",
+        "End-user app for patient results sharing (iOS and Android)",
+        "Studio app for comprehensive client data management",
+        "Browser-based access for practitioners"
+      ],
+      "business_model": "B2B - Sells hardware/software solutions to medical practices. Likely includes initial setup fees and ongoing subscription for software platform.",
+      "why_varden_should_care": "Unique positioning at intersection of orthopedics and aesthetic medicine. Objective measurement technology addresses growing demand for evidence-based treatment tracking. Potential applications beyond lipedema into general orthopedic monitoring. Swiss-based with potential for DACH expansion."
+    },
+    {
+      "company_name": "EPRD (Endoprothesenregister Deutschland)",
+      "hq_location": "Berlin, Germany",
+      "website_url": "https://www.eprd.de",
+      "problem_solved": "Lack of systematic tracking and quality assessment for joint replacement surgeries (hip and knee) in Germany, leading to insufficient data on implant performance, surgical techniques, and patient outcomes.",
+      "who_buys_it": "German healthcare system stakeholders including: Hospitals performing joint replacements, Health insurance companies (statutory and private), Orthopedic implant manufacturers, Medical societies, Federal health authorities",
+      "key_features": [
+        "Voluntary medical registry for hip and knee endoprosthetics",
+        "Collection of data from >400,000 annual joint replacements in Germany",
+        "Linking of clinical data with routine healthcare data (Routinedaten)",
+        "Quality assessment of implants and medical treatments",
+        "Identification of improvement potential in care",
+        "Reliable statements on quality of care",
+        "Joint initiative of physicians, clinics, insurers, and industry"
+      ],
+      "business_model": "Non-profit registry funded through combination of industry participation fees, hospital contributions, and potentially public/insurance funding. Operates as a public-private partnership.",
+      "why_varden_should_care": "Critical infrastructure for orthopedic quality assurance in Germany (largest European market for joint replacements). Generates unique real-world evidence on implant performance. Data insights valuable for implant manufacturers, hospitals, and payers. Model for European registry standardization."
+    },
+    {
+      "company_name": "EndoCert",
+      "hq_location": "Germany",
+      "website_url": "https://www.endocert.de",
+      "problem_solved": "Variability in quality of joint replacement centers across Germany, with patients and payers lacking clear indicators of which facilities deliver high-quality endoprosthetic care.",
+      "who_buys_it": "Hospitals seeking certification, Orthopedic surgery departments, Health insurance companies (for network decisions), Patients seeking quality centers",
+      "key_features": [
+        "World's first certification system for endoprosthetics",
+        "EndoProthetikZentrum (EPZ) and EPZmax certification levels",
+        "Joint initiative of DGOOC, AE (German Society for Endoprosthetics), and BVOU",
+        "Rigorous audit process for quality verification",
+        "Annual benchmarking reports",
+        "Quality standards for specialization, competence, and experience",
+        "Patient-facing directory of certified centers"
+      ],
+      "business_model": "B2B - Certification fees from hospitals and medical centers undergoing audit. Likely includes initial certification fees and ongoing annual fees for maintaining certification.",
+      "why_varden_should_care": "Established quality standard in German orthopedics with strong industry backing. Potential for expansion to other regions or procedure types. Data on certified centers provides market intelligence. Growing importance as value-based care models require quality differentiation."
+    },
+    {
+      "company_name": "SIRIS (Swiss Implant Registry)",
+      "hq_location": "Bern, Switzerland",
+      "website_url": "https://www.siris-implant.ch",
+      "problem_solved": "Lack of comprehensive national tracking of orthopedic implant outcomes in Switzerland, preventing systematic quality improvement and early detection of problematic implants.",
+      "who_buys_it": "Swiss hospitals, Orthopedic surgeons, Health insurers (santesuisse), Swiss medical device industry (Swiss Medtech), Swiss Orthopaedics association, ANQ (Swiss quality assurance)",
+      "key_features": [
+        "National implant registry for hip, knee, spine, and shoulder replacements",
+        "Quarterly reporting of procedure volumes and outcomes",
+        "Partnership with major Swiss healthcare stakeholders",
+        "Comprehensive data collection across implant types",
+        "Quality monitoring and benchmarking",
+        "Support for evidence-based implant selection",
+        "Integration with Swiss quality assurance frameworks (ANQ, H+)"
+      ],
+      "business_model": "Non-profit registry funded through Swiss healthcare system partnerships. Supported by combination of hospital participation, insurer contributions, and industry funding.",
+      "why_varden_should_care": "Switzerland's national implant registry with comprehensive coverage. High-quality data infrastructure valuable for implant manufacturers and researchers. Model for cross-border registry collaboration. Strong data governance and privacy standards aligned with Swiss regulations."
+    },
+    {
+      "company_name": "RSG Register Solutions",
+      "hq_location": "Germany",
+      "website_url": "https://www.register-solutions.de",
+      "problem_solved": "Healthcare organizations face complex technical, regulatory, and operational challenges in establishing and operating medical registries, including data privacy compliance, data quality assurance, and cost-effective implementation.",
+      "who_buys_it": "Medical societies, Healthcare research institutions, Quality assurance organizations, Hospitals and hospital networks, Pharmaceutical companies (for registries), Public health authorities",
+      "key_features": [
+        "Software development for medical registry setup and operation",
+        "Electronic patient surveys (PROMs - Patient Reported Outcome Measures)",
+        "Privacy-compliant data management (DSGVO/GDPR)",
+        "Pre- and post-operative health status tracking",
+        "Support for clinical studies and research",
+        "Quality assurance and treatment guideline monitoring",
+        "Scalable platform for various registry types"
+      ],
+      "business_model": "B2B - Software-as-a-Service and project-based implementation services. Revenue through software licensing, implementation fees, and ongoing support/maintenance contracts.",
+      "why_varden_should_care": "Infrastructure player enabling medical registries across specialties. Strong positioning in growing market for real-world evidence generation. Potential platform for expanding registry types beyond orthopedics. German-based with DACH market expertise."
+    },
+    {
+      "company_name": "Orthinform",
+      "hq_location": "Germany",
+      "website_url": "https://www.orthinform.de",
+      "problem_solved": "Patients with orthopedic complaints struggle to find the right specialist and understand their condition, leading to delayed or inappropriate care pathways.",
+      "who_buys_it": "Patients seeking orthopedic care, Orthopedic surgeons and practices (for patient acquisition), German Society for Orthopaedics and Orthopaedic Surgery (DGOOC)",
+      "key_features": [
+        "AI-powered symptom checker and diagnosis assistant",
+        "Interactive body map for symptom localization",
+        "Step-by-step diagnosis guidance (location → sensation → possible condition)",
+        "Doctor search functionality by specialty and location",
+        "Patient information on orthopedic conditions",
+        "AI chatbot for 24/7 support",
+        "Integration with certified orthopedic centers"
+      ],
+      "business_model": "B2B2C - Likely funded through medical society support and potentially physician/practice listing fees. May include premium features for participating practices.",
+      "why_varden_should_care": "Digital front door to German orthopedic care system. AI-powered triage could reduce unnecessary specialist visits. Integration with DGOOC and EndoCert provides quality assurance pathway. Potential model for patient navigation in other specialties."
+    }
+  ],
+  "notes": {
+    "market_context": "The DACH region represents a significant orthopedics/MSK market with Germany being the largest European market for joint replacements. Key trends include digital transformation of physical therapy, growing emphasis on quality registries, and value-based care models.",
+    "exclusions": "Consumer fitness apps and pharmaceutical companies were excluded as per requirements.",
+    "research_methodology": "Companies were identified through direct website research and verification. Focus was on companies headquartered in Germany, Austria, or Switzerland with clear orthopedics/MSK focus in practice management, triage platforms, joint replacement tracking, sports medicine tools, or rehabilitation software."
+  }
+}

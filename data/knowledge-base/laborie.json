@@ -1,0 +1,14 @@
+{
+  "company": "Laborie",
+  "country": "CA",
+  "problem": "Urologists and urogynecologists lack specialized diagnostic equipment for bladder function testing and pelvic floor disorders, leading to incomplete patient assessments and suboptimal treatment outcomes",
+  "solution": "Comprehensive urodynamics systems, pelvic floor rehabilitation devices, and diagnostic platforms that enable precise measurement and treatment of urinary incontinence, voiding dysfunction, and related pelvic conditions",
+  "problem_type": "urology",
+  "solution_type": "devices",
+  "buyer": "clinics",
+  "varden_fit": "medium",
+  "url": "https://www.laborie.com",
+  "source": "web",
+  "discovery_round": 112,
+  "discovered_by": "nova"
+}

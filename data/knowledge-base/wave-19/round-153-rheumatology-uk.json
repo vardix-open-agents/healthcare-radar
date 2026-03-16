@@ -1,0 +1,100 @@
+[
+  {
+    "company_name": "Net Solving",
+    "hq_location": "London, United Kingdom",
+    "website_url": "https://www.netsolving.com",
+    "problem_solved": "Provides clinical data collection and audit platforms for rheumatology departments and medical societies. Their CaseCapture platform enables large-scale national audits like the British Society for Rheumatology's National Early Inflammatory Arthritis Audit (NEIAA).",
+    "who_buys_it": "Medical societies, NHS trusts, clinical audit teams, research institutions",
+    "key_features": [
+      "CaseCapture - cloud-based clinical data collection platform",
+      "Real-time data validation and quality checks",
+      "National audit reporting and benchmarking dashboards"
+    ],
+    "business_model": "SaaS - subscription-based clinical data platform",
+    "why_varden_should_care": "Proven model for national clinical audits in rheumatology; replicable for other chronic disease registries and specialty-specific data collection needs across Europe"
+  },
+  {
+    "company_name": "Physitrack",
+    "hq_location": "London, United Kingdom",
+    "website_url": "https://www.physitrack.com",
+    "problem_solved": "Digitizes physiotherapy and MSK care delivery through exercise prescription, remote monitoring, and telehealth. Helps clinicians manage musculoskeletal conditions including arthritis with personalized home exercise programs.",
+    "who_buys_it": "Physiotherapy clinics, NHS trusts, private MSK providers, occupational health services",
+    "key_features": [
+      "18,000+ video exercise library with AI-assisted program building",
+      "PhysiApp patient app for exercise adherence tracking and pain monitoring",
+      "Integrated telehealth video consultations and outcome measurement"
+    ],
+    "business_model": "SaaS - tiered subscription based on number of clinicians",
+    "why_varden_should_care": "Strong product-market fit in MSK/rheumatology; proven model for remote patient engagement that could be replicated for other chronic conditions requiring ongoing physical therapy"
+  },
+  {
+    "company_name": "Clinitouch",
+    "hq_location": "Leicester, United Kingdom",
+    "website_url": "https://www.clinitouch.com",
+    "problem_solved": "Enables remote patient monitoring for chronic conditions including rheumatoid arthritis. Helps clinicians identify health deterioration early and manage patients outside traditional care settings through virtual wards.",
+    "who_buys_it": "NHS trusts, private hospitals, health insurers, community care providers",
+    "key_features": [
+      "Risk-stratified patient monitoring dashboard",
+      "Virtual ward and health screening capabilities",
+      "Multi-condition monitoring including chronic inflammatory diseases"
+    ],
+    "business_model": "SaaS - subscription-based remote patient monitoring platform",
+    "why_varden_should_care": "NHS-proven RPM platform with 826% ROI; replicable model for chronic disease management across multiple conditions beyond rheumatology"
+  },
+  {
+    "company_name": "Livi",
+    "hq_location": "London, United Kingdom",
+    "website_url": "https://www.livi.co.uk",
+    "problem_solved": "Provides digital-first healthcare access including remote consultations for chronic disease management. Partners with NHS and private insurers to deliver video GP appointments and integrated care pathways.",
+    "who_buys_it": "NHS trusts, health insurers, employers, government health systems",
+    "key_features": [
+      "Video consultation platform with integrated EHR",
+      "Capitated care management for large populations",
+      "Multi-specialty referral pathways including rheumatology"
+    ],
+    "business_model": "B2B - contracts with NHS, insurers, and employers; SaaS licensing",
+    "why_varden_should_care": "Europe's largest digital-first healthcare provider; demonstrates scalable telehealth model that could incorporate specialized rheumatology pathways"
+  },
+  {
+    "company_name": "Joint Academy",
+    "hq_location": "Stockholm, Sweden (UK operations)",
+    "website_url": "https://www.jointacademy.com",
+    "problem_solved": "Digital treatment for osteoarthritis and chronic joint pain through app-based physiotherapy programs. Reduces need for surgery and pain medication through evidence-based exercise therapy.",
+    "who_buys_it": "Health systems, insurers, employers, patients (direct)",
+    "key_features": [
+      "Personalized digital exercise programs with physiotherapist support",
+      "46% average pain reduction within 12 weeks",
+      "Integration with physical clinic network for hybrid care"
+    ],
+    "business_model": "B2B/B2C - reimbursed by health systems; direct subscription for patients",
+    "why_varden_should_care": "Proven clinical outcomes for arthritis treatment; replicable digital therapeutic model for other musculoskeletal and chronic inflammatory conditions"
+  },
+  {
+    "company_name": "Kaia Health",
+    "hq_location": "Munich, Germany (UK operations)",
+    "website_url": "https://www.kaiahealth.com",
+    "problem_solved": "Digital therapeutics platform for musculoskeletal pain management. Provides AI-powered motion analysis and multimodal treatment programs for back pain, joint pain, and related conditions.",
+    "who_buys_it": "Employers, health plans, health systems, patients",
+    "key_features": [
+      "AI-powered motion analysis for exercise feedback",
+      "Multimodal treatment combining exercise, education, and mind-body",
+      "3x ROI demonstrated in claims studies with Fortune 150 companies"
+    ],
+    "business_model": "B2B - employer and health plan contracts; value-based pricing",
+    "why_varden_should_care": "Strong evidence base with 11 clinical trials; demonstrates how digital therapeutics can replace traditional MSK care pathways with measurable cost savings"
+  },
+  {
+    "company_name": "Sword Health",
+    "hq_location": "Porto, Portugal (UK operations)",
+    "website_url": "https://www.swordhealth.com",
+    "problem_solved": "AI-powered digital MSK care combining human clinical specialists with AI personalization. Treats pain, prevents surgery, and improves outcomes for joint and muscle conditions including arthritis.",
+    "who_buys_it": "Employers, health plans, patients",
+    "key_features": [
+      "Hybrid model: AI Care Specialist + Human Clinical Specialist",
+      "3.2:1 independently validated gross savings ratio",
+      "67% of members become pain-free; 50% reduction in surgeries"
+    ],
+    "business_model": "B2B - employer and health plan contracts; outcome-based pricing",
+    "why_varden_should_care": "Industry-leading clinical outcomes and ROI validation; demonstrates premium digital MSK care model that could be adapted for rheumatology-specific conditions"
+  }
+]

@@ -1,0 +1,14 @@
+{
+  "company": "AngelTrack",
+  "country": "US",
+  "problem": "EMS agencies, fire departments, and NEMT providers struggle with fragmented systems for dispatch, patient care documentation, crew scheduling, and billing, leading to operational inefficiencies.",
+  "solution": "AngelTrack provides a unified cloud-based platform combining CAD, ePCR, crew scheduling, asset management, QA tools, controlled substance tracking, and billing in a single HIPAA-compliant solution for emergency services.",
+  "problem_type": "emergency_services",
+  "solution_type": "SaaS",
+  "buyer": "providers",
+  "varden_fit": "low",
+  "url": "https://angeltrack.com/",
+  "source": "web",
+  "discovery_round": 94,
+  "discovered_by": "sky"
+}

@@ -1,0 +1,28 @@
+{
+  "company": "Cronofy (UK)",
+  "country": "United Kingdom",
+  "founded_year": 2014,
+  "category": "Healthcare Infrastructure",
+  "subsector": "Scheduling API Platform",
+  "description": "UK-based scheduling API platform providing universal calendar integration and appointment scheduling. Single API connects to Google Calendar, Outlook, iCloud, and other calendar services. Healthcare-specific features for patient scheduling and resource management.",
+  "business_model": "B2B - Scheduling API to healthcare applications",
+  "target_market": "Healthcare applications, telemedicine platforms, practice management systems",
+  "funding_stage": "Series A",
+  "funding_amount_gbp": 6000000,
+  "key_investors": "Episode 1, others",
+  "employees": "30+",
+  "customers": "1000+ applications",
+  "revenue_gbp": null,
+  "tech_stack": ["Universal scheduling API", "Calendar integration", "Availability management", "Timezone handling"],
+  "integration_points": ["Google Calendar", "Outlook", "iCloud", "EHR scheduling modules"],
+  "competitive_advantage": "Single API for all calendars, healthcare-specific features, GDPR compliant",
+  "boring_software": true,
+  "varden_fit": {
+    "threat_level": "low",
+    "opportunity": "partner",
+    "rationale": "HIGH FIT - Scheduling infrastructure that could power Varden's booking system. Direct complement to Zymego."
+  },
+  "data_quality": "high",
+  "sources": ["cronofy.com", "crunchbase.com"],
+  "last_updated": "2026-03-11"
+}

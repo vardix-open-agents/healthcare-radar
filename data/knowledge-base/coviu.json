@@ -1,0 +1,14 @@
+{
+  "company": "Coviu",
+  "country": "AU",
+  "problem": "Healthcare providers need reliable, secure telehealth platforms that integrate with existing practice management systems and support clinical workflows",
+  "solution": "Purpose-built telehealth platform with virtual waiting rooms, dedicated consultation rooms, payments integration, customizable forms, and AI-powered clinical notes (AI Scribe). Integrates with 100+ practice management systems",
+  "problem_type": "practice_management",
+  "solution_type": "SaaS",
+  "buyer": "clinics",
+  "varden_fit": "medium",
+  "url": "https://www.coviu.com",
+  "source": "web",
+  "discovery_round": 78,
+  "discovered_by": "nova"
+}

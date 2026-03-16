@@ -1,0 +1,30 @@
+{
+  "id": "patchwork-2026-041",
+  "title": "Patchwork Health - NHS Staff Flexible Working Platform",
+  "company": "Patchwork Health",
+  "country": "UK",
+  "region": "EU",
+  "segment": "admin",
+  "problem": "NHS faces chronic staff shortages. Managing shift work and bank staff is inefficient, leading to gaps in coverage.",
+  "solution": "Platform enabling healthcare staff to pick up flexible shifts across NHS trusts, matching availability with staffing needs.",
+  "technology": "Staffing platform, shift management, mobile app",
+  "target_customer": "NHS trusts, healthcare staff",
+  "care_setting": "hospital",
+  "care_domain": "general",
+  "care_stage": "admin",
+  "automation_level": "partial",
+  "ai_type": null,
+  "traction_signals": [
+    "Founded 2016, UK-based",
+    "Deployed across multiple NHS trusts",
+    "Focus on staff flexibility",
+    "NHS partnerships"
+  ],
+  "funding": null,
+  "regulatory_notes": "Staffing platform, NHS compliance.",
+  "varden_fit": "Low — staff scheduling, not patient-facing. Different segment.",
+  "source": "Industry knowledge",
+  "url": "https://www.patchworkhealth.co.uk",
+  "date_added": "2026-03-11",
+  "notes": "NHS staffing innovation. Not directly relevant to Varden."
+}

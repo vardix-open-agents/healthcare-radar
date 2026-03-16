@@ -1,0 +1,14 @@
+{
+  "company": "Olympus Urology",
+  "country": "JP",
+  "problem": "Urologists need high-quality endoscopic visualization systems for diagnosing and treating conditions in the urinary tract while minimizing patient trauma",
+  "solution": "Flexible and rigid cystoscopes, ureterorenoscopes, and advanced imaging systems providing superior visualization for diagnostic cystoscopy, stone treatment, and urothelial cancer detection",
+  "problem_type": "urology",
+  "solution_type": "devices",
+  "buyer": "hospitals",
+  "varden_fit": "low",
+  "url": "https://medical.olympusamerica.com/urology",
+  "source": "web",
+  "discovery_round": 112,
+  "discovered_by": "nova"
+}

@@ -1,0 +1,27 @@
+{
+  "company": "Sential",
+  "country": "Netherlands",
+  "founded_year": 2018,
+  "category": "Occupational Health",
+  "subsector": "Employee Health Monitoring",
+  "description": "Dutch startup providing AI-powered employee health monitoring and prevention platform. Tracks sick leave patterns, identifies health risks, and offers interventions.",
+  "business_model": "B2B - SaaS subscription to HR/Occupational health departments",
+  "target_market": "Dutch and European employers (mid-to-large enterprises)",
+  "funding_stage": "Seed",
+  "funding_amount_eur": 2500000,
+  "key_investors": "Local Dutch VCs, angel investors",
+  "employees": 25,
+  "customers": "100+ companies",
+  "revenue_eur": 1500000,
+  "tech_stack": ["Web platform", "AI analytics", "Integration APIs", "Mobile app"],
+  "integration_points": ["HR systems", "Occupational health records", "Absence management"],
+  "competitive_advantage": "AI-driven insights, Dutch market expertise, GDPR-first approach",
+  "varden_fit": {
+    "threat_level": "medium",
+    "opportunity": "acquire/partner",
+    "rationale": "Direct competitor in Netherlands - could be acquisition target for quick market entry"
+  },
+  "data_quality": "medium",
+  "sources": ["sential.nl", "linkedin.com"],
+  "last_updated": "2026-03-11"
+}

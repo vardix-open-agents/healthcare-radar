@@ -1,0 +1,14 @@
+{
+  "company": "Benchmark Gensuite",
+  "country": "US",
+  "problem": "Large enterprises struggle to manage EHS, sustainability, quality, and risk programs across global operations due to disconnected systems, manual processes, and difficulty aggregating data for compliance reporting and performance improvement.",
+  "solution": "Benchmark Gensuite delivers an AI-forward EHS and sustainability management platform with embedded AI agents that automate report generation, regulatory requirements extraction, risk assessments, and inspection workflows while providing unified data management across all programs.",
+  "problem_type": "occupational_health",
+  "solution_type": "SaaS",
+  "buyer": "employers",
+  "varden_fit": "medium",
+  "url": "https://benchmarkgensuite.com",
+  "source": "web",
+  "discovery_round": 132,
+  "discovered_by": "sky"
+}

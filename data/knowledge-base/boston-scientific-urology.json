@@ -1,0 +1,14 @@
+{
+  "company": "Boston Scientific Urology",
+  "country": "US",
+  "problem": "Urologists need minimally invasive solutions for treating kidney stones, BPH, and urological cancers that reduce patient recovery time while maintaining clinical efficacy",
+  "solution": "Comprehensive portfolio of urological devices including ureteroscopes, laser systems for lithotripsy, Rezum water vapor therapy for BPH, and stent technologies",
+  "problem_type": "urology",
+  "solution_type": "devices",
+  "buyer": "hospitals",
+  "varden_fit": "low",
+  "url": "https://www.bostonscientific.com/urology",
+  "source": "web",
+  "discovery_round": 112,
+  "discovered_by": "nova"
+}

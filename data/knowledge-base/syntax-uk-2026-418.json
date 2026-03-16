@@ -1,0 +1,22 @@
+{
+  "company_name": "Syntax (UK)",
+  "problem_solved": "UK healthcare and social services operate in silos, making it difficult to coordinate care and track outcomes across the NHS and local authorities",
+  "solution_description": "UK-based population health and social care platform. Provides integrated care coordination across NHS, local authorities, and voluntary sector. Includes social determinants screening, care planning, and outcome tracking. Supports integrated care systems (ICS) in England",
+  "buyer_persona": "health_systems",
+  "care_stage": "monitoring",
+  "automation_level": "partial",
+  "varden_fit": "high",
+  "region": "UK",
+  "country": "United Kingdom",
+  "funding_stage": "private",
+  "traction_signals": [
+    "Serves NHS integrated care systems",
+    "Social care coordination platform",
+    "Partnerships with local authorities",
+    "Outcome tracking across health and social care"
+  ],
+  "notes": "UK SDOH and integrated care platform. High Varden fit - addresses SDOH coordination in NHS context. Important for UK market expansion. Supports NHS move toward integrated care systems",
+  "discovery_round": 50,
+  "discovered_by": "sky",
+  "timestamp": "2026-03-11T23:20:00Z"
+}

@@ -1,0 +1,14 @@
+{
+  "company": "DermLite (3Gen)",
+  "country": "US",
+  "problem": "Dermatologists and primary care physicians need portable, high-quality dermoscopy devices to examine skin lesions in clinical settings and during skin cancer screenings",
+  "solution": "Polarized dermatoscope devices for smartphones and standalone use, enabling clinicians to visualize subsurface skin structures for improved melanoma detection and lesion documentation",
+  "problem_type": "dermatology",
+  "solution_type": "SaaS",
+  "buyer": "clinics",
+  "varden_fit": "medium",
+  "url": "https://dermlite.com",
+  "source": "web",
+  "discovery_round": 106,
+  "discovered_by": "nova"
+}

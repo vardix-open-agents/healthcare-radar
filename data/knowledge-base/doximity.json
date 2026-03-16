@@ -1,0 +1,14 @@
+{
+  "company": "Doximity",
+  "country": "US",
+  "problem": "Healthcare professionals need secure ways to communicate with patients and colleagues while protecting their personal phone numbers and ensuring HIPAA compliance",
+  "solution": "Healthcare professional network with secure messaging, Doximity Dialer for calling patients from personal phones without revealing personal numbers, fax capabilities, and AI-powered clinical tools for 80%+ of US physicians",
+  "problem_type": "patient_communication",
+  "solution_type": "SaaS",
+  "buyer": "providers",
+  "varden_fit": "high",
+  "url": "https://www.doximity.com/",
+  "source": "web",
+  "discovery_round": 74,
+  "discovered_by": "sky"
+}

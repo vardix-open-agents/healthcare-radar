@@ -1,0 +1,28 @@
+{
+  "company": "DoctorCare (Brazil)",
+  "country": "Brazil",
+  "founded_year": 2016,
+  "category": "Practice Management",
+  "subsector": "Medical Practice Management Platform",
+  "description": "Brazilian practice management platform for medical clinics. Provides scheduling, electronic health records, billing, and patient relationship management. Focus on small and medium medical practices in Brazil.",
+  "business_model": "B2B SaaS - Practice management to medical clinics",
+  "target_market": "Small and medium medical practices in Brazil",
+  "funding_stage": "Series A",
+  "funding_amount_brl": null,
+  "key_investors": "Monashees, others",
+  "employees": "100+",
+  "customers": "5000+ clinics",
+  "revenue_brl": null,
+  "tech_stack": ["Practice management", "EHR", "Scheduling", "Billing", "Patient CRM"],
+  "integration_points": ["Brazilian health plans", "Labs", "Pharmacies"],
+  "competitive_advantage": "Brazilian market focus, integrated platform, local market understanding",
+  "boring_software": true,
+  "varden_fit": {
+    "threat_level": "low",
+    "opportunity": "benchmark",
+    "rationale": "Latin American practice management - demonstrates regional opportunity"
+  },
+  "data_quality": "medium",
+  "sources": ["doctorcare.com.br", "crunchbase.com"],
+  "last_updated": "2026-03-11"
+}

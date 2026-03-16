@@ -1,0 +1,14 @@
+{
+  "company": "CounSol",
+  "country": "US",
+  "problem": "Counselors and mental health therapists need practice management software that offers high customization, streamlined documentation, and dedicated personal support without requiring extensive technical expertise.",
+  "solution": "Online practice management software for counselors featuring extensive customization options, intuitive documentation workflows, personal account managers for support, and comprehensive tools for running a counseling practice including scheduling, notes, and client management.",
+  "problem_type": "mental_health",
+  "solution_type": "SaaS",
+  "buyer": "providers",
+  "varden_fit": "medium",
+  "url": "https://www.counsol.com",
+  "source": "web",
+  "discovery_round": 90,
+  "discovered_by": "sky"
+}

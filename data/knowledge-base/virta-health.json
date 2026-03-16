@@ -1,0 +1,14 @@
+{
+  "company": "Virta Health",
+  "country": "US",
+  "problem": "Type 2 diabetes is typically managed as a progressive chronic disease, with patients requiring increasing medications over time rather than addressing root metabolic causes.",
+  "solution": "Virta Health offers a clinician-supervised program focused on diabetes reversal through personalized nutrition plans. The platform provides continuous remote monitoring, health coaching, and medical supervision to help members reduce or eliminate diabetes medications while achieving sustainable weight loss and improved metabolic markers.",
+  "problem_type": "endocrinology",
+  "solution_type": "SaaS",
+  "buyer": "clinics",
+  "varden_fit": "medium",
+  "url": "https://www.virtahealth.com",
+  "source": "web",
+  "discovery_round": 116,
+  "discovered_by": "nova"
+}

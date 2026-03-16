@@ -1,0 +1,14 @@
+{
+  "company": "Abridge",
+  "country": "US",
+  "problem": "Clinical documentation burden causes physician burnout, reduces patient face time, and creates inconsistent note quality across healthcare systems",
+  "solution": "Generative AI platform for clinical conversations that transforms patient-clinician interactions into contextually aware, clinically useful, and billable AI-generated notes, Best in KLAS 2025 & 2026 Market Leader in Ambient AI",
+  "problem_type": "medical_coding",
+  "solution_type": "SaaS",
+  "buyer": "providers",
+  "varden_fit": "high",
+  "url": "https://www.abridge.com",
+  "source": "web",
+  "discovery_round": 84,
+  "discovered_by": "sky"
+}

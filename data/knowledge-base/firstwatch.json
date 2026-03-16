@@ -1,0 +1,14 @@
+{
+  "company": "FirstWatch",
+  "country": "US",
+  "problem": "EMS and fire agencies lack real-time data analytics and visibility into operational performance, making it difficult to identify trends, optimize resource allocation, and improve patient outcomes.",
+  "solution": "FirstWatch provides real-time data analytics and visualization platform for EMS and fire services, including demand analysis, resource planning, hospital status dashboards, and performance monitoring tools.",
+  "problem_type": "emergency_services",
+  "solution_type": "SaaS",
+  "buyer": "providers",
+  "varden_fit": "low",
+  "url": "https://firstwatch.net/",
+  "source": "web",
+  "discovery_round": 94,
+  "discovered_by": "sky"
+}

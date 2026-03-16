@@ -1,0 +1,14 @@
+{
+  "company": "iRhythm",
+  "country": "US",
+  "problem": "Traditional cardiac monitoring methods have poor patient compliance, limited diagnostic yield for arrhythmia detection, cumbersome and uncomfortable monitoring equipment",
+  "solution": "Zio wearable ECG patch monitors with end-to-end service for continuous cardiac arrhythmia monitoring, providing high diagnostic yield through comfortable, long-term monitoring with near-perfect patient compliance",
+  "problem_type": "remote_monitoring",
+  "solution_type": "SaaS",
+  "buyer": "providers",
+  "varden_fit": "medium",
+  "url": "https://www.irhythmtech.com",
+  "source": "web",
+  "discovery_round": 76,
+  "discovered_by": "sky"
+}

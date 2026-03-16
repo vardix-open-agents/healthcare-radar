@@ -1,0 +1,14 @@
+{
+  "company": "Dr.Max",
+  "country": "CZ",
+  "problem": "Pharmacies and patients need digital solutions for prescription management and healthcare services",
+  "solution": "Pharmacy chain with e-prescription system, medication management app, and healthcare service booking platform across Czech Republic and Central Europe",
+  "problem_type": "practice_management",
+  "solution_type": "SaaS",
+  "buyer": "clinics",
+  "varden_fit": "medium",
+  "url": "https://www.drmax.eu",
+  "source": "web",
+  "discovery_round": 72,
+  "discovered_by": "sky"
+}

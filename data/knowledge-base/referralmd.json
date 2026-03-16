@@ -1,0 +1,14 @@
+{
+  "company": "ReferralMD",
+  "country": "US",
+  "problem": "Fragmented referral workflows, lost referrals, inefficient care transitions, and poor communication between referring providers and specialists lead to delayed patient care and revenue leakage",
+  "solution": "AI-powered referral management platform that automates document workflows, streamlines inbound and outbound patient referrals, integrates with EHR systems, and provides intelligent fax management, patient intake, and care coordination tools",
+  "problem_type": "care_coordination",
+  "solution_type": "SaaS",
+  "buyer": "providers",
+  "varden_fit": "high",
+  "url": "https://referralmd.com",
+  "source": "web",
+  "discovery_round": 81,
+  "discovered_by": "sky"
+}

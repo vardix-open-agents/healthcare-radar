@@ -1,0 +1,14 @@
+{
+  "company": "Kaddio",
+  "country": "DK",
+  "problem": "Health professionals in private practice lack integrated tools for medical records, scheduling, invoicing, and secure communication across Nordic markets",
+  "solution": "All-in-one practice management platform with electronic medical records, booking, invoicing, encrypted communication, AI-powered transcription, and multi-factor authentication supporting BankID (SE/NO), MitID (DK), and FTN (FI)",
+  "problem_type": "ehealth_infrastructure",
+  "solution_type": "SaaS",
+  "buyer": "providers",
+  "varden_fit": "high",
+  "url": "https://kaddio.com/en",
+  "source": "web research",
+  "discovery_round": 66,
+  "discovered_by": "nova"
+}

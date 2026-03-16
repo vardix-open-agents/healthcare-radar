@@ -1,0 +1,27 @@
+{
+  "company": "Occupational Health Partners (OHP)",
+  "country": "United Kingdom",
+  "founded_year": 2013,
+  "category": "Occupational Health",
+  "subsector": "Traditional Occupational Health Provider",
+  "description": "UK occupational health provider offering OH assessments, health surveillance, absence management, and workplace wellness. Combination of physical clinics and digital services.",
+  "business_model": "B2B - Service contracts with employers",
+  "target_market": "UK employers across all sectors, especially construction, manufacturing, healthcare",
+  "funding_stage": "Private Equity-backed",
+  "funding_amount_gbp": 20000000,
+  "key_investors": "Private equity firms",
+  "employees": 200,
+  "customers": "800+ employers",
+  "revenue_gbp": 25000000,
+  "tech_stack": ["Assessment platform", "Reporting tools", "Booking system"],
+  "integration_points": ["HR systems", "Absence management platforms"],
+  "competitive_advantage": "Established UK market presence, broad service offering, sector expertise",
+  "varden_fit": {
+    "threat_level": "medium",
+    "opportunity": "compete",
+    "rationale": "Traditional competitor in UK - Varden could disrupt with digital-first model"
+  },
+  "data_quality": "medium",
+  "sources": ["ohp-uk.com", "linkedin.com"],
+  "last_updated": "2026-03-11"
+}

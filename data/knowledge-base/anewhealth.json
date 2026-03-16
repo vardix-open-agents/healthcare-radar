@@ -1,0 +1,14 @@
+{
+  "company": "AnewHealth (formerly Tabula Rasa Healthcare)",
+  "country": "US",
+  "problem": "Complex patients, particularly elderly and those in PACE programs, struggle with medication management leading to hospitalizations from medication errors, drug interactions, and adherence issues.",
+  "solution": "Comprehensive medication management platform through ExactCare and CareKinesis pharmacies. Provides pre-sorted medication packaging, pharmacist support for interdisciplinary teams, medication reconciliation, and specialized services for PACE programs. Focuses on geriatric medication safety and adherence support.",
+  "problem_type": "medication_management",
+  "solution_type": "SaaS",
+  "buyer": "providers",
+  "varden_fit": "high",
+  "url": "https://anewhealthrx.com",
+  "source": "web",
+  "discovery_round": 101,
+  "discovered_by": "sky"
+}

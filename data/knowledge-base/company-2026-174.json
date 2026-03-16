@@ -1,0 +1,28 @@
+{
+  "company": "Doximity (USA)",
+  "country": "United States",
+  "founded_year": 2010,
+  "category": "Healthcare Infrastructure",
+  "subsector": "Physician Network Platform",
+  "description": "Largest professional network for US physicians. Over 2M verified healthcare professionals use platform for communication, medical news, CME, and career opportunities. Major platform for pharmaceutical marketing.",
+  "business_model": "B2B - Platform to healthcare systems and pharma for recruitment and marketing",
+  "target_market": "US physicians, healthcare organizations, pharmaceutical companies",
+  "funding_stage": "Public (NYSE: DOCS)",
+  "funding_amount_usd": 200000000,
+  "key_investors": "Public company, early investors include Emergence Capital, InterWest Partners",
+  "employees": "700+",
+  "customers": "2M+ physicians, healthcare systems, pharma companies",
+  "revenue_usd": 500000000,
+  "tech_stack": ["Physician network", "Messaging", "News platform", "CME", "Career platform", "Telemedicine tools"],
+  "integration_points": ["EHRs", "Hospital systems", "Pharma marketing platforms"],
+  "competitive_advantage": "80% of US physicians, strong network effects, HIPAA-compliant communication",
+  "boring_software": true,
+  "varden_fit": {
+    "threat_level": "low",
+    "opportunity": "benchmark",
+    "rationale": "Physician engagement platform - demonstrates value of doctor networks"
+  },
+  "data_quality": "high",
+  "sources": ["doximity.com", "crunchbase.com", "sec.gov"],
+  "last_updated": "2026-03-11"
+}

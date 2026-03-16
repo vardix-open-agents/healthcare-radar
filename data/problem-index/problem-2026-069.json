@@ -1,0 +1,16 @@
+{
+  "id": "problem-2026-069",
+  "problem": "Home health agencies spend 2-3 hours per patient per week coordinating care between field nurses, physicians, and family caregivers via phone/email",
+  "problem_type": "staffing_workforce",
+  "solution_type": "Care coordination platforms, mobile-first communication tools, family caregiver portals",
+  "care_stage": "treatment",
+  "automation_type": "workflow_automation",
+  "buyer": "home_health",
+  "care_setting": "home_care",
+  "companies": ["Axxess", "Homecare Homebase", "AlayaCare", "Nexa", "HHAeXchange"],
+  "signals": ["Aging-in-place preference", "Home health workforce shortage", "Value-based home care models"],
+  "boring_software": true,
+  "contrarian": false,
+  "url": "https://www.nahc.org",
+  "date_added": "2026-03-11"
+}

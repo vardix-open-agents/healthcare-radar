@@ -1,0 +1,14 @@
+{
+  "company": "Vitalograph",
+  "country": "IE",
+  "problem": "Healthcare providers and clinical trial sponsors need reliable respiratory diagnostics for patient assessment and research.",
+  "solution": "Comprehensive respiratory diagnostic solutions including spirometers, asthma/COPD management tools, and clinical trial services for respiratory endpoints in pharmaceutical research.",
+  "problem_type": "pulmonology",
+  "solution_type": "device",
+  "buyer": "clinics, hospitals, pharma",
+  "varden_fit": "low",
+  "url": "https://vitalograph.com",
+  "source": "web",
+  "discovery_round": 115,
+  "discovered_by": "sky"
+}

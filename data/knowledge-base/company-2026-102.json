@@ -1,0 +1,27 @@
+{
+  "company": "Doctor Care (Docplanner Poland)",
+  "country": "Poland",
+  "founded_year": 2012,
+  "category": "Practice Management",
+  "subsector": "Doctor Booking & Practice Software",
+  "description": "Polish subsidiary of Docplanner Group providing doctor booking platform and practice management software. Leading healthcare marketplace in Poland connecting patients with healthcare providers.",
+  "business_model": "B2B - SaaS to doctors/clinics; B2C marketplace for patient bookings",
+  "target_market": "Polish healthcare providers and patients",
+  "funding_stage": "Series F (part of Docplanner Group)",
+  "funding_amount_eur": 350000000,
+  "key_investors": "One Peak Partners, Goldman Sachs, Goldentree, Vostok New Global",
+  "employees": 500,
+  "customers": "50000+ doctors, 10000+ clinics",
+  "revenue_eur": 50000000,
+  "tech_stack": ["Web platform", "Mobile apps", "Practice management SaaS", "Calendar integration"],
+  "integration_points": ["Polish NFZ (National Health Fund)", "Clinic management systems", "Patient apps"],
+  "competitive_advantage": "Market leader in Poland, strong brand recognition, part of European Docplanner network",
+  "varden_fit": {
+    "threat_level": "medium",
+    "opportunity": "partner",
+    "rationale": "Distribution channel in Poland - could integrate occupational health services into platform"
+  },
+  "data_quality": "medium",
+  "sources": ["docplanner.com", "doctorcare.pl"],
+  "last_updated": "2026-03-11"
+}

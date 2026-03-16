@@ -1,0 +1,14 @@
+{
+  "company": "Oracle Health",
+  "country": "US",
+  "problem": "Large healthcare systems need integrated hematology EHR solutions that connect blood disorder management with broader clinical operations, laboratory systems, and enterprise-wide patient data.",
+  "solution": "AI-powered enterprise EHR platform (formerly Cerner) with hematology/oncology modules, integrated laboratory information systems, and real-time analytics for blood disorder management and coagulation monitoring.",
+  "problem_type": "hematology",
+  "solution_type": "SaaS",
+  "buyer": "clinics",
+  "varden_fit": "medium",
+  "url": "https://www.oracle.com/health/",
+  "source": "web",
+  "discovery_round": 120,
+  "discovered_by": "sky"
+}

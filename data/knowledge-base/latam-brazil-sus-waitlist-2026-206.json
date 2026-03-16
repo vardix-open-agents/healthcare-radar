@@ -1,0 +1,33 @@
+{
+  "id": "latam-brazil-sus-waitlist-2026-206",
+  "title": "Brazil SUS Waitlist Crisis - 6-18 Month Delays",
+  "company": null,
+  "country": "Brazil",
+  "region": "LATAM",
+  "segment": "scheduling",
+  "problem": "Brazil's public healthcare system (SUS) has extreme wait times: 6-18 months for specialist appointments and elective surgeries. 150+ million people depend on SUS (75% of population). Manual scheduling, no centralized waitlist management, fragmented across 5,570 municipalities. Patients queue physically at hospitals, sometimes overnight.",
+  "solution": "Digital waitlist management platform with automated scheduling, SMS notifications, wait time transparency, and optimization algorithms. Centralizes queues across municipal health systems. Enables patients to track position and receive automated appointment offers.",
+  "technology": "Queue management algorithms, SMS/WhatsApp notifications, integration with municipal health systems, mobile app",
+  "target_customer": "Municipal health secretariats, state health departments, SUS hospitals",
+  "care_setting": "primary_care",
+  "care_domain": "general",
+  "care_stage": "treatment",
+  "automation_level": "partial",
+  "ai_type": "Optimization algorithms",
+  "traction_signals": [
+    "150M+ potential users (SUS population)",
+    "Government digital transformation initiatives",
+    "COVID-19 accelerated telehealth adoption",
+    "Legislation requiring wait time transparency"
+  ],
+  "funding": null,
+  "regulatory_notes": "LGPD (Brazilian GDPR) compliance required, integration with national health data standards",
+  "varden_fit": "HIGH FIT - Scheduling/waitlist management is core Varden capability. Infrastructure play that scales across thousands of municipalities. B2G model with long-term contracts.",
+  "source": "Healthcare system research + opportunity analysis",
+  "url": "https://en.wikipedia.org/wiki/Healthcare_in_Brazil",
+  "date_added": "2026-03-11",
+  "problem_type": "waitlist",
+  "contrarian": false,
+  "boring_software": true,
+  "notes": "BOREALING: This is pure infrastructure. Boring, unsexy, massive scale. Zymego (Sweden) proved this model works in Nordic markets. Brazil is 20x larger with worse problems. Zero competition in waitlist management space for public systems."
+}

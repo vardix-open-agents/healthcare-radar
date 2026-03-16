@@ -1,0 +1,14 @@
+{
+  "company": "NxStage Medical",
+  "country": "US",
+  "problem": "Patients requiring hemodialysis must travel to dialysis centers multiple times weekly, severely restricting their freedom, independence, and quality of life. Traditional home dialysis equipment is complex and requires a care partner",
+  "solution": "Portable home hemodialysis systems (System One) cleared for solo/independent use during waking hours and nocturnal dialysis while sleeping. Enables more frequent dialysis that better mimics natural kidney function, with portability for travel. Includes Nx2me Connected Health for remote clinician monitoring and data sharing",
+  "problem_type": "nephrology",
+  "solution_type": "device + SaaS",
+  "buyer": "patients, dialysis centers",
+  "varden_fit": "medium",
+  "url": "https://hometherapies.freseniusmedicalcare.com/",
+  "source": "web",
+  "discovery_round": 105,
+  "discovered_by": "sky"
+}

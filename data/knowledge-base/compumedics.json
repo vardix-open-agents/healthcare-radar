@@ -1,0 +1,14 @@
+{
+  "company": "Compumedics",
+  "country": "AU",
+  "problem": "Medical institutions worldwide need comprehensive sleep and neurology diagnostic solutions for clinical and research applications with advanced analytics",
+  "solution": "Complete neurodiagnostics platform including sleep diagnostics systems, EEG amplifiers, brain research tools (Neuroscan brand), and Profusion NeXus 360 laboratory management software",
+  "problem_type": "neurology",
+  "solution_type": "SaaS",
+  "buyer": "clinics",
+  "varden_fit": "medium",
+  "url": "https://www.compumedics.com",
+  "source": "web",
+  "discovery_round": 118,
+  "discovered_by": "sky"
+}

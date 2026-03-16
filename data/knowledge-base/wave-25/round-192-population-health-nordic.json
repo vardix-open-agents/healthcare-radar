@@ -1,0 +1,173 @@
+{
+  "round": 192,
+  "topic": "Population Health Management - Nordic",
+  "target_count": "6-8 companies",
+  "focus": [
+    "Population health management platforms",
+    "Public health surveillance systems",
+    "Epidemiology tools",
+    "Health statistics software",
+    "Community health communication tools"
+  ],
+  "excluded": [
+    "Consumer health apps",
+    "Government-only (non-commercial)"
+  ],
+  "companies": [
+    {
+      "company_name": "Tietoevry",
+      "hq_location": "Espoo, Finland",
+      "website_url": "https://tietoevry.com",
+      "problem_solved": "Fragmented healthcare IT systems leading to siloed patient data and inefficient care coordination across healthcare providers and regions",
+      "who_buys_it": "Public healthcare systems, regional health authorities, hospital networks, and private healthcare providers across the Nordic region",
+      "key_features": [
+        "Integrated healthcare information systems",
+        "Population health analytics and dashboards",
+        "Care coordination platforms",
+        "Patient data interoperability solutions",
+        "Healthcare process automation",
+        "Regional health data exchange platforms"
+      ],
+      "business_model": "B2B enterprise software licensing with implementation services and ongoing support contracts; multi-year agreements with healthcare regions",
+      "why_varden_should_care": "Dominant healthcare IT player in Nordic region with deep public sector relationships; key enabler of national health data infrastructure; strong M&A consolidation potential; revenue stability from government contracts"
+    },
+    {
+      "company_name": "Visiba",
+      "hq_location": "Stockholm, Sweden",
+      "website_url": "https://visibacare.com",
+      "problem_solved": "Inefficient patient triage and care navigation leading to long wait times, unnecessary emergency visits, and poor patient experience",
+      "who_buys_it": "Healthcare regions, hospital systems, primary care networks, and private healthcare providers seeking digital transformation",
+      "key_features": [
+        "AI-powered digital triage system",
+        "Care navigation and guidance",
+        "Video consultation platform",
+        "Patient self-service tools",
+        "Care pathway optimization",
+        "Integration with existing EHR systems"
+      ],
+      "business_model": "B2B SaaS platform with per-patient or per-transaction fees; implementation and customization services",
+      "why_varden_should_care": "Rapidly growing in Swedish market with expansion potential across Nordics; addresses critical healthcare access and efficiency challenges; strong product-market fit for post-COVID digital healthcare shift"
+    },
+    {
+      "company_name": "Systematic",
+      "hq_location": "Aarhus, Denmark",
+      "website_url": "https://systematic.com",
+      "problem_solved": "Complex healthcare workflows requiring reliable, secure software for hospital management, patient administration, and community health coordination",
+      "who_buys_it": "Public hospitals, regional health authorities, community healthcare providers, and defense healthcare systems",
+      "key_features": [
+        "Hospital management systems",
+        "Patient administration systems",
+        "Community health software",
+        "Healthcare workflow automation",
+        "Integration platforms",
+        "Data analytics and reporting"
+      ],
+      "business_model": "B2B enterprise software with custom implementations; long-term maintenance and support contracts",
+      "why_varden_should_care": "Strong Danish market position with Nordic expansion; high-reliability software trusted by defense and healthcare sectors; proven scalability to large healthcare systems"
+    },
+    {
+      "company_name": "Cambio Healthcare Systems",
+      "hq_location": "Linköping, Sweden",
+      "website_url": "https://cambio.se",
+      "problem_solved": "Need for comprehensive, integrated electronic health records and e-health solutions that support clinical workflows and improve patient safety",
+      "who_buys_it": "Regional healthcare authorities, hospital networks, primary care centers, and specialist clinics across Scandinavia",
+      "key_features": [
+        "Electronic Health Record (EHR) systems",
+        "E-health platforms",
+        "Clinical decision support",
+        "Care planning and coordination tools",
+        "Patient portals",
+        "Interoperability solutions"
+      ],
+      "business_model": "B2B enterprise software licensing with implementation and consulting services; recurring revenue from support and updates",
+      "why_varden_should_care": "Major EHR vendor in Swedish market with Nordic footprint; critical infrastructure for healthcare delivery; consolidation play in fragmented EHR market; strong relationships with public sector buyers"
+    },
+    {
+      "company_name": "Nightingale Health",
+      "hq_location": "Helsinki, Finland",
+      "website_url": "https://nightingalehealth.com",
+      "problem_solved": "Lack of scalable preventive health tools that can identify disease risk early and enable population-level health interventions",
+      "who_buys_it": "Public healthcare systems, wellbeing services counties (Finland), health insurers, pharmaceutical companies, and research institutions",
+      "key_features": [
+        "Blood-based disease risk assessment",
+        "AI-powered health analytics",
+        "Metabolic profiling technology",
+        "Population health risk stratification",
+        "Preventive care programs",
+        "Clinical research applications"
+      ],
+      "business_model": "B2B healthcare services with per-test pricing; partnerships with public health systems; research collaborations with pharma",
+      "why_varden_should_care": "Innovative preventive health technology with strong clinical evidence; adoption by Finnish public healthcare system validates model; potential to reduce long-term healthcare costs; unique technology in metabolic health"
+    },
+    {
+      "company_name": "Viedoc",
+      "hq_location": "Uppsala, Sweden",
+      "website_url": "https://viedoc.com",
+      "problem_solved": "Complex, time-consuming clinical trial data collection and management that slows down research and increases costs",
+      "who_buys_it": "Pharmaceutical companies, contract research organizations (CROs), academic medical centers, and biotech companies",
+      "key_features": [
+        "Electronic Data Capture (EDC) system",
+        "Clinical trial management tools",
+        "ePRO patient-reported outcomes",
+        "Randomization and trial supply management",
+        "Regulatory compliance features",
+        "Real-time data access and reporting"
+      ],
+      "business_model": "B2B SaaS platform with per-study or per-patient pricing; scalable for studies of all sizes",
+      "why_varden_should_care": "Strong growth in eClinical market; modern, user-friendly platform competing with legacy EDC systems; Swedish roots with global reach; clinical trial data increasingly important for population health research"
+    },
+    {
+      "company_name": "Kry",
+      "hq_location": "Stockholm, Sweden",
+      "website_url": "https://kry.se",
+      "problem_solved": "Limited access to healthcare, long wait times, and inefficient care delivery requiring digital-first healthcare solutions",
+      "who_buys_it": "Patients (B2C), healthcare regions (B2B for public contracts), employers (B2B for occupational health), and insurers",
+      "key_features": [
+        "Digital-first primary care platform",
+        "Video consultations with doctors and specialists",
+        "Physical healthcare centers (34+ locations)",
+        "Digital triage and symptom assessment",
+        "Prescription renewal and referrals",
+        "Integrated digital and physical care"
+      ],
+      "business_model": "Hybrid B2C/B2B model: patient fees for direct services; contracts with healthcare regions; employer and insurer partnerships",
+      "why_varden_should_care": "Leading digital health player in Europe with strong Nordic presence; hybrid digital-physical model creates competitive moat; significant venture funding demonstrates market validation; transforming primary care delivery"
+    },
+    {
+      "company_name": "CGM Sverige (CompuGroup Medical Sweden)",
+      "hq_location": "Stockholm, Sweden",
+      "website_url": "https://cgm.com/swe_se",
+      "problem_solved": "Need for integrated digital medical records, e-health solutions, and healthcare information systems that enable better care coordination and patient safety",
+      "who_buys_it": "Primary care centers, occupational health services, pediatric healthcare, school healthcare, laboratories, and private healthcare providers",
+      "key_features": [
+        "Electronic medical records (EMR)",
+        "E-health solutions and platforms",
+        "Video consultation capabilities",
+        "Healthcare workflow automation",
+        "Laboratory information systems",
+        "Integration with national health infrastructure"
+      ],
+      "business_model": "B2B enterprise software with licensing, implementation, and support services; part of global CompuGroup Medical group",
+      "why_varden_should_care": "40+ years of Swedish healthcare IT experience; strong position in primary and occupational healthcare; part of larger European healthcare IT group; deep integration with Swedish healthcare infrastructure"
+    }
+  ],
+  "research_notes": {
+    "geographic_coverage": "Sweden (5 companies), Finland (2 companies), Denmark (1 company), with several companies operating across multiple Nordic markets",
+    "market_characteristics": [
+      "Strong public healthcare systems driving digitalization",
+      "High adoption of digital health solutions",
+      "Government support for healthtech innovation",
+      "Mature healthcare IT infrastructure",
+      "Focus on preventive and population-level health"
+    ],
+    "investment_themes": [
+      "Healthcare IT consolidation opportunities",
+      "Digital-first care delivery models",
+      "Preventive health and risk stratification",
+      "Clinical trial and research data platforms",
+      "Integration between digital and physical care"
+    ],
+    "data_sources": "Company websites, web searches conducted March 14, 2026",
+    "research_date": "2026-03-14"
+  }
+}

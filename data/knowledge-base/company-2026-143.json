@@ -1,0 +1,27 @@
+{
+  "company": "Calm (US - EU Expansion)",
+  "country": "United States",
+  "founded_year": 2012,
+  "category": "Mental Health",
+  "subsector": "Meditation & Sleep App",
+  "description": "US-based meditation and sleep app with B2B offering for employers. Offers mindfulness content, sleep stories, and mental wellness tools. Has significant European enterprise customer base.",
+  "business_model": "B2C - Consumer subscriptions; B2B - Employer contracts",
+  "target_market": "Global consumers and employers including European market",
+  "funding_stage": "Series D",
+  "funding_amount_usd": 220000000,
+  "key_investors": "Tpg Growth, Insight Partners, Lightspeed",
+  "employees": 400,
+  "customers": "100M+ downloads, 1000+ enterprise clients",
+  "revenue_usd": 200000000,
+  "tech_stack": ["Mobile app", "Web platform", "Content library", "Meditation tech"],
+  "integration_points": ["Benefits platforms", "HR systems"],
+  "competitive_advantage": "Leading meditation app brand, massive content library, employer adoption",
+  "varden_fit": {
+    "threat_level": "medium",
+    "opportunity": "partner",
+    "rationale": "Complementary wellness tool - could be partner for meditation/mindfulness content"
+  },
+  "data_quality": "high",
+  "sources": ["calm.com", "crunchbase.com"],
+  "last_updated": "2026-03-11"
+}

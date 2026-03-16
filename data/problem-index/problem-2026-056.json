@@ -1,0 +1,16 @@
+{
+  "id": "problem-2026-056",
+  "problem": "Hospital systems use 50-100 disconnected applications, requiring manual data re-entry between systems",
+  "problem_type": "data_integration",
+  "solution_type": "Unified API platforms, integration middleware, EHR-to-specialty system connectors",
+  "care_stage": "admin",
+  "automation_type": "workflow_automation",
+  "buyer": "hospital",
+  "care_setting": "primary_care",
+  "companies": ["Rhapsody", "InterSystems", "Redox", "Health Gorilla"],
+  "signals": ["Integration costs $50-200K per interface", "HL7/FHIR fragmentation", "Staff productivity loss"],
+  "boring_software": true,
+  "contrarian": false,
+  "url": "https://www.rhapsody.health",
+  "date_added": "2026-03-11"
+}

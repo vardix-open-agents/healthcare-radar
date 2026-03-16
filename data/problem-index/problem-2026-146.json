@@ -1,0 +1,16 @@
+{
+  "id": "problem-2026-146",
+  "problem": "Out-of-pocket maximum tracking across multiple family members and plans requires manual spreadsheet maintenance",
+  "problem_type": "oop_tracking",
+  "solution_type": "Family OOP aggregation, multi-plan tracking, automated maximum detection, coverage transition alerts",
+  "care_stage": "admin",
+  "automation_type": "workflow_automation",
+  "buyer": "clinic",
+  "care_setting": "primary_care",
+  "companies": ["Experian Health", "Waystar", "Change Healthcare"],
+  "signals": ["Manual spreadsheet maintenance", "Family member aggregation", "Multi-plan complexity", "Coverage transition needs"],
+  "boring_software": true,
+  "contrarian": false,
+  "url": "https://www.cms.gov/oop",
+  "date_added": "2026-03-11"
+}

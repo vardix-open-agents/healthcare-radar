@@ -1,0 +1,14 @@
+{
+  "company": "Vetsource",
+  "country": "US",
+  "problem": "Veterinary practices face challenges with prescription management workflows, fragmented client engagement tools, payment processing inefficiencies, and lack of actionable business intelligence to drive practice growth",
+  "solution": "Comprehensive veterinary platform offering prescription management with home delivery, client engagement via Vet2Pet app, integrated payment services, and data analytics for benchmarking performance and tracking industry trends",
+  "problem_type": "veterinary",
+  "solution_type": "SaaS",
+  "buyer": "vet_clinics",
+  "varden_fit": "low",
+  "url": "https://www.vetsource.com",
+  "source": "web",
+  "discovery_round": 102,
+  "discovered_by": "nova"
+}

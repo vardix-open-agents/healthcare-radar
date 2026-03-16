@@ -1,0 +1,14 @@
+{
+  "company": "IBM Micromedex",
+  "country": "US",
+  "problem": "Healthcare providers need reliable, evidence-based drug information and interaction checking to prevent medication errors and ensure patient safety during prescribing.",
+  "solution": "Comprehensive clinical decision support database providing drug information, drug interaction checking, dosing calculators, and toxicology resources. Evidence-based content used by healthcare providers worldwide for safe medication management. Integrates with EHR systems for real-time clinical decision support at point of care.",
+  "problem_type": "medication_management",
+  "solution_type": "SaaS",
+  "buyer": "providers",
+  "varden_fit": "high",
+  "url": "https://www.ibm.com/watson-health/about/micromedex",
+  "source": "web",
+  "discovery_round": 101,
+  "discovered_by": "sky"
+}

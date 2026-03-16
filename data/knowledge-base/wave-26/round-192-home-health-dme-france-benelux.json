@@ -1,0 +1,173 @@
+{
+  "round": 192,
+  "focus": "Home Health / DME (France/Benelux)",
+  "date": "2026-03-14",
+  "companies": [
+    {
+      "company_name": "Withings",
+      "hq_location": "Issy-les-Moulineaux, France",
+      "website_url": "https://www.withings.com",
+      "problem_solved": "Remote patient monitoring is fragmented and complex for healthcare providers. Traditional monitoring requires multiple devices and platforms, creating data silos and poor patient engagement. Healthcare organizations struggle to implement RPM programs at scale due to technical complexity and device management overhead.",
+      "who_buys_it": "Health systems, physician groups, digital health programs, health plans, life science companies, academic research centers. Also employers and insurers seeking wellness programs.",
+      "key_features": [
+        "Turnkey remote patient monitoring platform with cellular-connected devices",
+        "Connected scales, blood pressure monitors, sleep analyzers, ECG watches",
+        "Direct-to-member dropshipping or bulk delivery logistics",
+        "HIPAA compliant, HDS certified (France), ISO 27001:2022 certified",
+        "Automated health data collection and trend analysis",
+        "Therapeutic area focus: obesity, hypertension, chronic heart failure, elderly care",
+        "Clinical dashboard for care teams",
+        "Health Improvement Score and Cardio Check-Up features"
+      ],
+      "business_model": "B2B - Sells RPM programs and devices to healthcare organizations, insurers, and employers. Hardware revenue from connected devices plus platform subscription fees. Offers turnkey solutions with logistics and support included.",
+      "why_varden_should_care": "Withings is a leading European connected health device company with strong RPM capabilities. Their HDS certification (French healthcare data hosting) and ISO 27001 compliance make them enterprise-ready. They address the full RPM stack from devices to data to logistics, which is rare. Their focus on therapeutic areas like chronic heart failure and hypertension aligns with value-based care trends. Key strategic position at the intersection of consumer wellness and clinical RPM."
+    },
+    {
+      "company_name": "Implicity",
+      "hq_location": "Paris, France",
+      "website_url": "https://implicity.com",
+      "problem_solved": "Remote monitoring of cardiac implantable electronic devices (CIEDs) generates massive amounts of data that overwhelms clinical teams. Traditional monitoring is reactive and time-consuming, leading to missed alerts and delayed interventions. Cardiologists spend excessive time reviewing irrelevant alerts instead of focusing on high-risk patients.",
+      "who_buys_it": "Cardiology practices, cardiac electrophysiologists, hospitals with cardiac device programs, cardiac monitoring centers. Particularly relevant for practices managing ICDs, pacemakers, and implantable loop recorders (ILRs).",
+      "key_features": [
+        "AI-powered platform unifying all cardiac device data from multiple manufacturers",
+        "IM009 AF Alert Management - CE marked Class I medical device",
+        "IM007 ILR ECG Analyzer - FDA cleared Class II, CE marked Class I",
+        "SignalHF for heart failure monitoring (FDA cleared, not available in Europe)",
+        "26% reduced mortality and 4% reduction in hospitalization length (clinically validated)",
+        "Automated alert filtering and prioritization",
+        "Clinically validated AI algorithms for ECG analysis",
+        "Reconnection tools for patients lost to follow-up",
+        "Multi-manufacturer device compatibility"
+      ],
+      "business_model": "B2B - Platform subscription to cardiology practices and hospitals. Covered under French Social Security Code (Article L. 162-52) for reimbursement. CE marked medical devices with clinical validation.",
+      "why_varden_should_care": "Implicity is a pure-play European RPM company focused specifically on cardiac devices - a high-growth, high-value segment. Their clinical validation showing 26% mortality reduction is compelling for value-based care. FDA clearance gives US expansion potential. They solve a critical pain point (alert fatigue and data overload) in a specialized clinical domain. Strong IP in AI-powered ECG analysis and alert management."
+    },
+    {
+      "company_name": "FocusCura",
+      "hq_location": "Apeldoorn, Netherlands",
+      "website_url": "https://www.focuscura.com",
+      "problem_solved": "Elderly individuals want to live independently at home longer but face safety risks. Traditional care responses are reactive rather than preventive. Home care organizations struggle with monitoring clients remotely and responding quickly to emergencies. Family caregivers need peace of mind about their loved ones' safety.",
+      "who_buys_it": "Home care organizations, housing associations for elderly housing, municipalities responsible for elderly care, nursing homes, assisted living facilities, families of elderly individuals.",
+      "key_features": [
+        "Personal emergency response systems (personsalarmering)",
+        "Smart home access solutions (woningtoegang) for rapid emergency response",
+        "Combined solutions integrating alarms with secure home entry",
+        "Remote monitoring capabilities",
+        "Platform for home care coordination",
+        "Safety solutions enabling longer independent living",
+        "Integration with Dutch healthcare system",
+        "Care coordination without loss of safety"
+      ],
+      "business_model": "B2B/B2G - Sells to home care organizations, housing associations, and municipalities. Likely combination of hardware (emergency response devices, smart locks) and software subscription. Dutch market focus with government healthcare contracts.",
+      "why_varden_should_care": "FocusCura addresses the aging-in-place trend, which is massive in Europe with aging populations. The Netherlands has one of the most developed home care systems in Europe, making this a reference market. Their combination of personal alarms with smart home access is differentiated - enabling faster emergency response. Strong fit with value-based care models that aim to keep elderly out of institutions."
+    },
+    {
+      "company_name": "Corilus",
+      "hq_location": "Ghent, Belgium",
+      "website_url": "https://www.corilus.be",
+      "problem_solved": "Healthcare providers across different specialties use fragmented, disconnected software systems. Patient data is siloed between general practitioners, specialists, pharmacists, nurses, and care facilities. Care coordination is inefficient due to lack of interoperability. Administrative burden reduces time for patient care.",
+      "who_buys_it": "General practitioners, specialists (dermatologists, cardiologists, pediatricians, ophthalmologists), pharmacists, dentists, home care nurses (thuisverpleegkundigen), physiotherapists, midwives, medical posts (wachtposten), nursing homes (woonzorgcentra).",
+      "key_features": [
+        "CareConnect platform - modular software for all healthcare provider types",
+        "Electronic patient records (elektronisch patiëntendossier)",
+        "CareConnect Nurse - dedicated home care nursing software",
+        "CareConnect Pharmacist - pharmacy management",
+        "CareConnect General Practitioner - GP practice software",
+        "CareConnect Woonzorgcentra - nursing home platform",
+        "eHealth integrations and interoperability",
+        "Online agendas and telesecretariat",
+        "Mobile apps for home care nurses",
+        "Medication safety tools"
+      ],
+      "business_model": "B2B - SaaS subscriptions to healthcare providers across Belgium. 47,000+ customers, 540 employees, 37 years experience. Market leader in Belgian eHealth. Multiple software packages tailored to different healthcare provider types.",
+      "why_varden_should_care": "Corilus is the market leader in Belgian healthcare software with specific home care nursing capabilities. Their CareConnect Nurse product is designed specifically for thuisverpleegkundigen (home care nurses) - exactly the target market for home health agency software. Strong position in Benelux with established customer base. Platform approach covering the full care continuum from GPs to specialists to home care to nursing homes. 'Connecting Care' mission aligns with care coordination trends."
+    },
+    {
+      "company_name": "Nedap Ons",
+      "hq_location": "Groenlo, Netherlands",
+      "website_url": "https://nedap-ons.nl",
+      "problem_solved": "Home care organizations (thuiszorg) and healthcare providers struggle with fragmented data across multiple organizations. Patients increasingly receive care from multiple providers simultaneously. Care coordination is difficult when data isn't shared securely and in real-time. Healthcare providers need standardized data exchange to deliver quality care.",
+      "who_buys_it": "Home care organizations, healthcare networks, care homes, assisted living facilities, healthcare providers participating in regional care networks. Dutch healthcare market focus.",
+      "key_features": [
+        "Nedap Ons® care management platform",
+        "Standardized data exchange (gestandaardiseerde gegevensuitwisseling)",
+        "Care network integration beyond single organization",
+        "Real-time data sharing between multiple care providers",
+        "Support for multi-organization care delivery",
+        "Compliance with Dutch healthcare data standards",
+        "Secure data sharing for care coordination",
+        "Platform for home care and residential care"
+      ],
+      "business_model": "B2B - Software platform subscription to home care organizations and care networks. Part of Nedap N.V., a publicly traded Dutch technology company with multiple divisions including Healthcare.",
+      "why_varden_should_care": "Nedap Ons specifically focuses on standardized data exchange between home care organizations - addressing a critical interoperability gap. The Netherlands is a reference market for home care innovation with sophisticated reimbursement models. Their approach to multi-organization care networks aligns with integrated care models. Strong backing from Nedap N.V., a publicly traded Dutch company with diversified technology portfolio."
+    },
+    {
+      "company_name": "Mediq",
+      "hq_location": "Utrecht, Netherlands",
+      "website_url": "https://mediq.nl",
+      "problem_solved": "Patients with chronic conditions (diabetes, stoma, sleep apnea, incontinence, wound care) need reliable delivery of medical supplies and equipment. Managing insurance claims for medical supplies is complex. Patients lack education and support for living with chronic conditions. Home care for specialized conditions requires clinical expertise.",
+      "who_buys_it": "Patients with chronic conditions (B2C), healthcare insurers (contracts for all Dutch insurers), home care organizations, hospitals for discharge planning, municipalities for home care services.",
+      "key_features": [
+        "Medical supplies delivery for chronic conditions (diabetes, stoma, incontinence)",
+        "CPAP and sleep apnea equipment",
+        "Wound care supplies",
+        "Insurance claims management (regelen vergoeding)",
+        "Specialized nursing care at home (gespecialiseerde verpleegkundigen)",
+        "Online ordering platform (Mijn Mediq)",
+        "Knowledge center (Kenniscentrum) for patient education",
+        "Contracts with all Dutch health insurers",
+        "Home infusion and nutritional support"
+      ],
+      "business_model": "B2B/B2C - Contracts with Dutch health insurers for supply delivery. Direct-to-patient sales and subscription services. Combination of product sales (medical supplies, DME) and clinical services (specialized home nursing). Average customer rating 8+.",
+      "why_varden_should_care": "Mediq is a comprehensive DME and home care provider in the Netherlands - covering both medical supplies delivery AND specialized nursing care at home. They handle the full journey from insurance claims to delivery to clinical support. Strong position in chronic condition management (diabetes, stoma, sleep apnea). Knowledge center approach positions them as a care partner, not just a supplier. All-insurer contracts provide market coverage."
+    },
+    {
+      "company_name": "Televic Healthcare",
+      "hq_location": "Izegem, Belgium",
+      "website_url": "https://www.televic.com/en/healthcare",
+      "problem_solved": "Hospitals and care homes lack integrated communication systems. Staff safety is compromised when communication is fragmented. Residents/patients face safety risks when response times are slow. Administrative inefficiencies result from poor communication workflows. Care staff experience high workload due to manual processes.",
+      "who_buys_it": "Hospitals (500+ customers), elderly care facilities (2000+ customers), assisted living homes (150+ customers), nursing homes, care home chains. European market focus with certified partner network.",
+      "key_features": [
+        "AQURA Care platform - all-in-one healthcare communication",
+        "Resident/patient safety and wellbeing modules",
+        "Care staff safety and wellbeing features",
+        "Process and administrative efficiency tools",
+        "Nurse call systems",
+        "Personal safety devices for staff",
+        "Life circle technology for personalized resident environments",
+        "Local certified partner network for support",
+        "European quality with EU healthcare standards compliance",
+        "70+ years dedicated to care and cure (since 1953)",
+        "Sustainable by design (repairable devices, rechargeable batteries)"
+      ],
+      "business_model": "B2B - Hardware (nurse call systems, safety devices) plus software platform. Installation, integration, and ongoing support services. European market focus with local partner network. Part of Televic Group with 80+ years experience and 9 global locations.",
+      "why_varden_should_care": "Televic Healthcare has 70+ years in healthcare communication - rare depth in this space. Their AQURA platform addresses all three critical areas: patient safety, staff safety, and operational efficiency. 2000+ elderly care facilities and 500+ hospitals represents significant installed base. European quality focus with sustainability built-in (repairable, rechargeable). Part of larger Televic Group providing financial stability and R&D resources."
+    }
+  ],
+  "summary": {
+    "total_companies": 7,
+    "geographic_distribution": {
+      "France": 2,
+      "Netherlands": 3,
+      "Belgium": 2
+    },
+    "focus_areas_covered": [
+      "Remote patient monitoring",
+      "Cardiac remote monitoring",
+      "Home care safety systems",
+      "Home care agency software",
+      "Care coordination platforms",
+      "DME delivery and management",
+      "Healthcare communication systems"
+    ],
+    "key_themes": [
+      "Aging-in-place and elderly care technology",
+      "Interoperability and data exchange between care providers",
+      "Chronic condition management at home",
+      "Clinical validation and medical device certification",
+      "Integration with national healthcare systems (French HDS, Dutch insurance)",
+      "Care staff safety and efficiency",
+      "Standardized data exchange for multi-provider care networks"
+    ]
+  }
+}

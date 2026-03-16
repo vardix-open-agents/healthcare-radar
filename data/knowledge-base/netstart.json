@@ -1,0 +1,14 @@
+{
+  "company": "Netsmart",
+  "country": "US",
+  "problem": "Community-based care providers including home health and hospice agencies need integrated EHR, revenue cycle management, and care coordination tools but face disconnected systems and compliance challenges",
+  "solution": "myUnity EHR platform for home health and hospice with AI-powered documentation, care coordination, interoperability connections, compliance management, and revenue cycle automation",
+  "problem_type": "home_health",
+  "solution_type": "SaaS",
+  "buyer": "agencies",
+  "varden_fit": "medium",
+  "url": "https://www.ntst.com",
+  "source": "web",
+  "discovery_round": 95,
+  "discovered_by": "nova"
+}

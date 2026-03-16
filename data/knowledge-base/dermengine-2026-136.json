@@ -1,0 +1,29 @@
+{
+  "id": "dermengine-2026-136",
+  "title": "DermEngine - AI Dermatology Platform",
+  "company": "DermEngine (MetaOptima)",
+  "country": "Canada",
+  "region": "NA",
+  "segment": "dermatology_imaging",
+  "problem": "Dermatology requires visual documentation and tracking of skin lesions over time, but manual photography and tracking is inconsistent.",
+  "solution": "Intelligent dermatology platform with AI-powered dermoscopy analysis, total body photography, and lesion tracking over time.",
+  "technology": "AI image analysis, total body photography, dermoscopy integration, machine learning",
+  "target_customer": "Dermatologists, skin cancer clinics, primary care",
+  "care_setting": "outpatient_dermatology",
+  "care_domain": "dermatology",
+  "care_stage": "screening_diagnosis",
+  "automation_level": "full",
+  "ai_type": "Deep learning for skin lesion analysis",
+  "traction_signals": [
+    "Global customer base",
+    "AI dermoscopy cleared",
+    "Founded 2012, Vancouver"
+  ],
+  "funding": "$20M+ raised",
+  "regulatory_notes": "Medical device clearance in multiple jurisdictions",
+  "varden_fit": "Moderate - Diagnostic tool with practice workflow. Good for skin cancer screening pathway.",
+  "source": "Industry knowledge",
+  "url": "https://dermengine.com",
+  "date_added": "2026-03-11",
+  "notes": "Strong AI imaging capabilities. Total body photography differentiator."
+}

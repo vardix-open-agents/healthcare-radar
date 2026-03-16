@@ -1,0 +1,152 @@
+[
+  {
+    "company_name": "Sensio",
+    "hq_location": "Oslo, Norway",
+    "website_url": "https://www.sensio.com",
+    "problem_solved": "Nursing homes and home care services need digital tools for patient monitoring, fall prevention, and care coordination. Traditional systems create data silos and lack integration between sensors, alarms, and care planning. Staff spend excessive time on manual monitoring rather than patient care.",
+    "who_buys_it": "Nursing homes, home care services, municipalities, assisted living facilities, and healthcare regions",
+    "key_features": [
+      "Sensio 365 - unified health and care platform connecting welfare technology",
+      "RoomMate - AI-powered multisensor for fall detection and digital supervision",
+      "Sensio Insight - data-driven decision support for care staff",
+      "Sensio Vista - large screen overview for night staff",
+      "Real-time alerts and passive monitoring without cameras",
+      "Integration with existing nurse call systems and EHR platforms",
+      "Digital supervision capabilities for home care services"
+    ],
+    "business_model": "B2B hardware and SaaS. Sells sensors and devices with recurring revenue from platform subscriptions, data analytics, and support services. Municipal contracts with multi-year agreements.",
+    "why_varden_should_care": "Leading Nordic welfare technology company with strong presence in Norwegian elderly care market. RoomMate AI sensor addresses critical fall prevention need in palliative care settings. Open platform approach enables integration with existing systems. Oslo municipality partnership demonstrates scalability. Growing demand for digital supervision in home care creates expansion opportunity."
+  },
+  {
+    "company_name": "Systematic",
+    "hq_location": "Aarhus, Denmark",
+    "website_url": "https://www.systematic.com/healthcare",
+    "problem_solved": "Healthcare systems need integrated solutions that connect hospitals, community care, and home care. Fragmented IT systems create data silos, poor handoffs between care settings, and inefficiencies in care coordination. Palliative care requires seamless information flow across multiple providers.",
+    "who_buys_it": "Hospitals, municipalities, regions, home care providers, and national health authorities",
+    "key_features": [
+      "Columna Flow - hospital workflow management and task coordination",
+      "Columna Clinical Tasking - mobile app for clinical task management",
+      "Cura EHR - electronic health record for municipal care",
+      "Cura Dialogue - citizen engagement and communication platform",
+      "Cura Home Care - mobile solution for home care workers",
+      "Continuum of care platform connecting all care settings",
+      "AI-based speech recognition for elderly care documentation",
+      "Open ecosystem with extensive integration capabilities"
+    ],
+    "business_model": "B2B enterprise software with implementation services. Multi-year regional and national contracts. Recurring revenue from software licenses, maintenance, and support.",
+    "why_varden_should_care": "Danish healthcare IT leader with strong Nordic presence. Comprehensive continuum of care platform addresses key palliative care coordination challenge. Columna and Cura products serve entire care pathway from hospital to home. Norwegian partnership expansion signals regional growth. AI documentation tools address staffing pressures in elderly care."
+  },
+  {
+    "company_name": "Cambio",
+    "hq_location": "Stockholm, Sweden",
+    "website_url": "https://www.cambio.se",
+    "problem_solved": "Healthcare providers need modern EHR systems that support integrated care across primary care, specialist care, and elderly care. Legacy systems lack interoperability, mobile access, and AI capabilities. Palliative care requires coordinated documentation across multiple providers and settings.",
+    "who_buys_it": "Healthcare regions, hospitals, primary care centers, municipalities, and national health systems",
+    "key_features": [
+      "Cambio COSMIC - comprehensive EHR platform",
+      "Cambio Ambient Scribe - AI-powered clinical documentation",
+      "Integrated care planning across care settings",
+      "Mobile access for home care and community care",
+      "Palliative care modules and templates",
+      "Interoperability with national health data exchanges",
+      "Patient portal and citizen engagement tools",
+      "Analytics and quality improvement dashboards"
+    ],
+    "business_model": "B2B enterprise software with regional and national contracts. Implementation, training, and ongoing support services. SaaS and on-premises deployment options.",
+    "why_varden_should_care": "Leading Swedish EHR vendor with strong Nordic market position. Ambient scribe AI addresses documentation burden in palliative care settings. Regional partnerships (Kronoberg) demonstrate long-term customer relationships. Acquisition of Leapscribe signals AI-first strategy. Nordic expansion potential in Norway and Finland."
+  },
+  {
+    "company_name": "Carefox",
+    "hq_location": "Stockholm, Sweden",
+    "website_url": "https://www.carefox.se",
+    "problem_solved": "Home care providers need integrated software for scheduling, care documentation, and invoicing. Manual processes create inefficiencies, compliance risks, and poor visibility into care delivery. Palliative home care requires flexible scheduling and real-time communication.",
+    "who_buys_it": "Home care providers, municipalities, and private care companies",
+    "key_features": [
+      "Comprehensive home care management platform",
+      "Mobile app for care workers with real-time scheduling",
+      "Social documentation and journaling at point of care",
+      "AI-powered scheduling and route optimization",
+      "Slingor - visual care route planning",
+      "Deviation and incident management workflow",
+      "RUT invoicing integration with Fortnox",
+      "Voice assistant integration with Eldra AI"
+    ],
+    "business_model": "B2B SaaS with per-user or per-organization subscription fees. Implementation and training services. Integration services for existing systems.",
+    "why_varden_should_care": "Swedish home care software leader addressing operational efficiency in growing home care market. Mobile-first platform aligns with palliative home care needs. Voice AI integration with Eldra demonstrates innovation. RUT invoicing addresses Swedish market specifics. Growing elderly population drives demand for home care solutions."
+  },
+  {
+    "company_name": "Silviahemmet",
+    "hq_location": "Stockholm, Sweden",
+    "website_url": "https://www.silviahemmet.se",
+    "problem_solved": "Healthcare staff lack specialized training in dementia care and palliative care philosophy. Traditional care approaches don't address the unique needs of patients with dementia at end of life. Care quality varies based on staff knowledge and skills.",
+    "who_buys_it": "Healthcare organizations, municipalities, nursing homes, home care providers, and educational institutions",
+    "key_features": [
+      "Silviahemmet certification program for dementia care",
+      "Palliative care philosophy training based on four cornerstones",
+      "University-level courses with academic partners (KI, Sophiahemmet)",
+      "Day care center serving as model facility",
+      "SilviaBo smart home concept for aging in place",
+      "Family caregiver education and support programs",
+      "International training and consultancy services"
+    ],
+    "business_model": "B2B training and certification services. Course fees, certification licensing, and consultancy contracts. Partnership programs with healthcare organizations.",
+    "why_varden_should_care": "Unique Swedish foundation with royal patronage driving dementia and palliative care excellence. Certification programs create recurring training demand. Academic partnerships validate methodology. SilviaBo concept positions for technology-enabled care. Strong brand recognition in Nordic care market. Training addresses critical skills gap in palliative dementia care."
+  },
+  {
+    "company_name": "Vitalthings (Somnofy)",
+    "hq_location": "Trondheim, Norway",
+    "website_url": "https://www.vitalthings.com",
+    "problem_solved": "Continuous patient monitoring in palliative care, nursing homes, and home care requires contactless solutions. Wearables can be uncomfortable for patients at end of life, and traditional monitoring disrupts dignity and comfort. Staff need visibility into patient status without constant physical checks.",
+    "who_buys_it": "Hospitals, nursing homes, palliative care units, home care providers, and research institutions",
+    "key_features": [
+      "Somnofy - contactless radar-based monitoring device",
+      "Sleep stage analysis using AI and radar technology",
+      "Continuous monitoring of breathing, movement, and presence",
+      "No wearables or electrodes required",
+      "Real-time alerts for caregivers",
+      "Privacy-focused - no cameras, only radar sensing",
+      "Integration with facility management systems",
+      "Suitable for long-term monitoring in palliative settings"
+    ],
+    "business_model": "B2B hardware and software-as-a-service. Device sales with recurring revenue from data analytics subscriptions and support services.",
+    "why_varden_should_care": "Norwegian health tech company pioneering contactless monitoring for elderly and palliative care. Radar-based technology uniquely addresses dignity concerns at end of life. Trondheim location provides access to Norwegian University of Science and Technology research. Growing demand for non-invasive monitoring in palliative care. Potential applications beyond sleep medicine in general patient monitoring."
+  },
+  {
+    "company_name": "CGM Sverige (CompuGroup Medical)",
+    "hq_location": "Stockholm, Sweden",
+    "website_url": "https://www.cgm.com/swe_se",
+    "problem_solved": "Healthcare providers need modern EHR systems for primary care, home care, and specialist care. Fragmented documentation creates risks in care coordination, especially for complex patients requiring palliative care across multiple providers and settings.",
+    "who_buys_it": "Primary care centers, home care providers, occupational health services, child health services, laboratories, and private healthcare providers",
+    "key_features": [
+      "CGM J4 - modern cloud-based EHR system",
+      "Video consultation platform (CGM Video)",
+      "Home care documentation modules",
+      "Integration with Zymego for care pathway coordination",
+      "40 years of experience in Swedish healthcare IT",
+      "Mobile access for community care",
+      "Interoperability with national health infrastructure",
+      "Specialist modules for various care settings"
+    ],
+    "business_model": "B2B SaaS with subscription-based licensing. Implementation, training, and support services. Part of global CompuGroup Medical with 1.6M users in 60 countries.",
+    "why_varden_should_care": "Major player in Swedish healthcare IT with extensive EHR installed base. Cloud migration (CGM J4) modernizes platform for integrated care. Zymego integration addresses care coordination. 40 years of local market knowledge. Part of larger European healthcare IT group provides scale and resources. Strong fit for palliative care coordination across care settings."
+  },
+  {
+    "company_name": "Attendo",
+    "hq_location": "Danderyd, Sweden",
+    "website_url": "https://www.attendo.com",
+    "problem_solved": "Public sector buyers need private partners to deliver high-quality, cost-effective care for elderly and people with disabilities. Operating nursing homes, home care, and specialized housing requires operational excellence, staff management, and quality assurance at scale.",
+    "who_buys_it": "Municipalities, regions, and public sector authorities outsourcing care services",
+    "key_features": [
+      "Nordic care services across Sweden, Finland, Denmark, and Norway",
+      "780+ care facilities and 30,000+ employees",
+      "Nursing homes and elderly care services",
+      "Home care and personal assistance services",
+      "Specialized housing for people with disabilities",
+      "Hospice and palliative care services",
+      "Individualized care planning and coordination",
+      "Quality management and compliance systems"
+    ],
+    "business_model": "B2G (business-to-government) service contracts. Long-term municipal outsourcing agreements. Fee-for-service in publicly funded care systems.",
+    "why_varden_should_care": "Nordic market leader in outsourced care services with direct hospice operations. Scale (780+ facilities) provides platform for technology deployment. Finnish and Swedish operations demonstrate cross-Nordic capability. Growing demand for specialized palliative care services. Potential technology partnership opportunity for digital palliative care tools. Listed company with financial transparency."
+  }
+]

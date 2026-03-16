@@ -1,0 +1,16 @@
+{
+  "id": "problem-2026-143",
+  "problem": "Real-time patient coverage verification requires querying multiple systems, taking 15-20 minutes per patient with 25% incomplete data",
+  "problem_type": "coverage_verification",
+  "solution_type": "270/271 transaction automation, payer API aggregation, real-time eligibility dashboards, coverage gap detection",
+  "care_stage": "admin",
+  "automation_type": "workflow_automation",
+  "buyer": "clinic",
+  "care_setting": "primary_care",
+  "companies": ["Availity", "Change Healthcare", "Experian Health", "Waystar", "Eligible"],
+  "signals": ["15-20 min per verification", "25% incomplete data", "Multi-system queries", "Real-time demand increasing"],
+  "boring_software": true,
+  "contrarian": false,
+  "url": "https://www.cms.gov/eligibility",
+  "date_added": "2026-03-11"
+}

@@ -1,0 +1,14 @@
+{
+  "company": "Enterprise",
+  "country": "US",
+  "problem": "Retail community, hospital outpatient, and specialty pharmacies need robust, comprehensive software solutions to manage complex pharmacy operations across multiple facility types",
+  "solution": "QS/1 Enterprise (part of RedSail Technologies) provides comprehensive pharmacy management software for retail community, hospital outpatient, and specialty pharmacies with prescription processing, inventory management, claims adjudication, and reporting. Access to one of the largest pharmacy networks in the country",
+  "problem_type": "retail_pharmacy",
+  "solution_type": "SaaS",
+  "buyer": "pharmacies",
+  "varden_fit": "medium",
+  "url": "https://www.qs1.com",
+  "source": "web",
+  "discovery_round": 128,
+  "discovered_by": "sky"
+}

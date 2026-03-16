@@ -1,0 +1,14 @@
+{
+  "company": "Health Catalyst",
+  "country": "US",
+  "problem": "Healthcare organizations struggle to unify clinical, financial, and operational data into actionable insights, leading to inefficiencies in care delivery, missed revenue opportunities, and difficulty in improving patient outcomes.",
+  "solution": "Health Catalyst provides a healthcare analytics platform that unifies data from multiple sources into a single source of truth, offers AI-assisted benchmarking and insights, and provides self-service tools with role-specific guidance to help organizations improve revenue, labor efficiency, and patient access.",
+  "problem_type": "analytics",
+  "solution_type": "SaaS",
+  "buyer": "providers",
+  "varden_fit": "medium",
+  "url": "https://www.healthcatalyst.com",
+  "source": "web",
+  "discovery_round": 97,
+  "discovered_by": "sky"
+}

@@ -1,0 +1,14 @@
+{
+  "company": "Zelis",
+  "country": "US",
+  "problem": "Healthcare financial system is fragmented with inefficient prior authorization, claims management, and payment processes creating friction for payers, providers, and members",
+  "solution": "Modern healthcare financial platform offering network solutions, member engagement, claims optimization, payment integrity, and communications orchestration across the entire financial journey for 750+ payer clients",
+  "problem_type": "prior_authorization",
+  "solution_type": "SaaS",
+  "buyer": "providers",
+  "varden_fit": "high",
+  "url": "https://www.zelis.com",
+  "source": "web",
+  "discovery_round": 86,
+  "discovered_by": "sky"
+}

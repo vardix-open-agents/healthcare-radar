@@ -1,0 +1,14 @@
+{
+  "company": "YOLO Clinic Management",
+  "country": "AE",
+  "problem": "Clinics in UAE struggle with manual appointment scheduling, paper-based medical records, disconnected billing systems, and compliance with NABIDH/DHA regulations",
+  "solution": "All-in-one cloud-based clinic management software with EMR, appointment scheduling, billing, inventory management, HR/payroll, telemedicine, patient portal, and full NABIDH/MALAFI/RIYAIATI integration",
+  "problem_type": "practice_management",
+  "solution_type": "SaaS",
+  "buyer": "clinics",
+  "varden_fit": "medium",
+  "url": "https://ae.yolo.clinic/clinic-management-software/",
+  "source": "web",
+  "discovery_round": 77,
+  "discovered_by": "sky"
+}

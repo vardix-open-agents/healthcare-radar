@@ -1,0 +1,114 @@
+[
+  {
+    "company_name": "Physitrack",
+    "hq_location": "London, United Kingdom",
+    "website_url": "https://www.physitrack.com",
+    "problem_solved": "Physitrack addresses the challenge of patient engagement and adherence in physiotherapy and rehabilitation by providing a comprehensive digital platform for creating personalized exercise programs and tracking patient progress.",
+    "who_buys": "Physiotherapists, occupational therapists, MSK clinics, NHS trusts, private healthcare providers, insurance-funded practices",
+    "key_features": [
+      "18,000+ video exercises with pain tracking and discomfort level monitoring",
+      "Patient adherence monitoring with real-time analytics and progress tracking",
+      "Telehealth video calls and in-app messaging for remote patient management"
+    ],
+    "business_model": "B2B SaaS subscription-based platform with tiered pricing for individual practitioners, clinics, and NHS organizations",
+    "why_varden_care": "Highly replicable model - the combination of exercise prescription, pain tracking, and telehealth can be adapted to other chronic conditions beyond MSK. Strong clinical evidence base (100+ studies) demonstrates proof of concept for digital therapeutic platforms in the UK market."
+  },
+  {
+    "company_name": "Pain Toolkit",
+    "hq_location": "York, United Kingdom",
+    "website_url": "https://www.paintoolkit.org",
+    "problem_solved": "Pain Toolkit provides evidence-based self-management education and tools for people living with persistent pain, addressing the gap between clinical consultations and daily pain management needs.",
+    "who_buys": "NHS trusts, pain clinics, physiotherapy departments, clinical commissioning groups, healthcare providers, patient support organizations",
+    "key_features": [
+      "Structured self-management toolkit with pain education resources",
+      "Patient-facing tools for tracking pain patterns and triggers",
+      "Healthcare professional training and implementation support for pain management programs"
+    ],
+    "business_model": "B2B licensing to NHS organizations and healthcare providers, supplemented by B2C direct sales for individual patients",
+    "why_varden_care": "Highly replicable self-management model that can be extended to other chronic conditions (diabetes, COPD, mental health). The educational approach and low-cost delivery model makes it scalable across multiple conditions and geographies."
+  },
+  {
+    "company_name": "Bioliberty",
+    "hq_location": "Edinburgh, United Kingdom",
+    "website_url": "https://www.bioliberty.com",
+    "problem_solved": "Bioliberty addresses the growing pressure on physical and occupational therapy services by combining soft robotics, gamified therapy, and AI insights to help clinicians deliver more therapy to more patients with better outcomes.",
+    "who_buys": "Hospitals, rehabilitation centers, physical therapy clinics, occupational therapy departments, stroke rehabilitation units",
+    "key_features": [
+      "Soft robotics technology for assisted rehabilitation exercises",
+      "Gamified therapy platform to improve patient engagement and adherence",
+      "AI-powered insights for personalized treatment optimization and progress tracking"
+    ],
+    "business_model": "B2B hardware-as-a-service model with software subscriptions, targeting institutional healthcare providers",
+    "why_varden_care": "Innovative combination of hardware and software creates defensible IP position. The gamification approach and AI insights can be adapted to other rehabilitation scenarios beyond stroke/mobility, creating multiple product line opportunities."
+  },
+  {
+    "company_name": "Kaia Health",
+    "hq_location": "Munich, Germany (UK operations)",
+    "website_url": "https://kaiahealth.com",
+    "problem_solved": "Kaia Health provides digital therapeutics for musculoskeletal pain and chronic conditions, offering an alternative to traditional physical therapy and opioid-based pain management through AI-guided exercise programs and cognitive behavioral therapy.",
+    "who_buys": "Employers, health insurers, NHS trusts, self-insured employers, private healthcare providers",
+    "key_features": [
+      "AI-powered motion analysis for real-time exercise form correction",
+      "Integrated CBT modules addressing psychological aspects of chronic pain",
+      "Multidisciplinary approach combining physical therapy, mindfulness, and education"
+    ],
+    "business_model": "B2B2C model - sold to employers and health insurers who provide it as a benefit to employees/members; also B2B to NHS and healthcare providers",
+    "why_varden_care": "Proven clinical outcomes (46% pain reduction in 12 weeks) demonstrate efficacy. The multidisciplinary digital therapeutic approach can be replicated across other chronic conditions. Strong regulatory credentials (ISO 13485, medical device certification) provide a blueprint for market entry."
+  },
+  {
+    "company_name": "Pathways",
+    "hq_location": "Tel Aviv, Israel (UK operations)",
+    "website_url": "https://www.pathways.health",
+    "problem_solved": "Pathways provides a digital pain management platform that helps people overcome chronic pain through mind-body techniques, addressing the limitations of traditional biomedical approaches to persistent pain.",
+    "who_buys": "Employers, health insurers, pain clinics, direct-to-consumer (B2C), corporate wellness programs",
+    "key_features": [
+      "Mind-body approach combining pain education with psychological techniques",
+      "Progressive daily exercises and meditations for pain reprocessing",
+      "Community support features and expert guidance from pain specialists"
+    ],
+    "business_model": "Hybrid B2B/B2C model - B2C subscriptions for individual patients plus B2B licensing to employers and healthcare providers",
+    "why_varden_care": "Unique mind-body approach differentiates from traditional physiotherapy-focused solutions. The psychological focus can be adapted to other conditions with strong mind-body components (IBS, fibromyalgia, chronic fatigue). Scalable digital-only delivery model."
+  },
+  {
+    "company_name": "Healthcode",
+    "hq_location": "Bristol, United Kingdom",
+    "website_url": "https://www.healthcode.co.uk",
+    "problem_solved": "Healthcode streamlines the administrative burden of private healthcare by providing secure invoicing, practice management, and communication tools that connect practitioners, hospitals, and insurers in the UK private healthcare market.",
+    "who_buys": "Private healthcare practitioners, physiotherapists, MSK clinics, private hospitals, medical practices, insurance companies",
+    "key_features": [
+      "ePractice software for practice management and insurance invoicing",
+      "Private Practice Register (PPR) - secure database of practitioner credentials and documents",
+      "ICE integrated channel exchange for real-time appointment booking across the healthcare ecosystem"
+    ],
+    "business_model": "B2B SaaS subscription model with transaction fees for invoice processing; serves over 53,000 registered practitioners",
+    "why_varden_care": "Strong infrastructure play in UK private healthcare market. The practice management platform can be extended to include specialized pain management workflows, outcome tracking, and multidisciplinary care coordination features."
+  },
+  {
+    "company_name": "Joint Academy",
+    "hq_location": "Stockholm, Sweden (expanding to UK)",
+    "website_url": "https://www.jointacademy.com",
+    "problem_solved": "Joint Academy provides digital physiotherapy for osteoarthritis and joint pain, offering patients access to personalized treatment programs through a mobile app combined with physical clinic network for comprehensive care.",
+    "who_buys": "Healthcare systems (reimbursed in Sweden), physiotherapy clinics, employers, health insurers, direct-to-consumer patients",
+    "key_features": [
+      "Digital-first physiotherapy with AI-personalized exercise programs",
+      "Hybrid model combining app-based treatment with physical clinic access",
+      "Pain schools and specialized programs for chronic pain management"
+    ],
+    "business_model": "B2B2C model - reimbursed by healthcare systems and sold to employers/insurers; also B2C direct subscriptions; clinic network generates additional revenue",
+    "why_varden_care": "Proven hybrid digital-physical model demonstrates how to combine technology with traditional care delivery. The platform approach can be replicated for other chronic conditions requiring ongoing management. Strong outcomes data (46% pain reduction) supports expansion."
+  },
+  {
+    "company_name": "Rejoy Health",
+    "hq_location": "London, United Kingdom",
+    "website_url": "https://www.rejoyhealth.com",
+    "problem_solved": "Rejoy Health provides an AI-powered healthcare copilot that helps clinicians with documentation, clinical decision support, and patient communication, reducing administrative burden and improving care quality.",
+    "who_buys": "Doctors, nurses, medical assistants, front desk staff, clinics, healthcare organizations",
+    "key_features": [
+      "AI scribe for automatic clinical note generation from patient conversations",
+      "Clinical decision support with evidence-based recommendations",
+      "AI receptionist for handling patient calls and appointment scheduling"
+    ],
+    "business_model": "B2B SaaS subscription model for individual practitioners and multi-clinic organizations",
+    "why_varden_care": "AI-powered documentation and decision support can be specialized for pain management workflows, creating niche applications for pain clinics. The infrastructure can support opioid prescribing monitoring, pain assessment documentation, and multidisciplinary care coordination."
+  }
+]

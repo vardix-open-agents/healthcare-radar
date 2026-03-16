@@ -1,0 +1,14 @@
+{
+  "company": "Oculo",
+  "country": "US",
+  "problem": "Stroke patients often require emergency ophthalmologic assessment, and ophthalmologists are not always available for urgent consultations",
+  "solution": "Teleophthalmology platform enabling remote eye examinations and consultations for stroke patients and other urgent ophthalmic conditions",
+  "problem_type": "specialty_telemedicine",
+  "solution_type": "SaaS",
+  "buyer": "hospitals",
+  "varden_fit": "low",
+  "url": "https://www.oculo.com",
+  "source": "web",
+  "discovery_round": 100,
+  "discovered_by": "nova"
+}

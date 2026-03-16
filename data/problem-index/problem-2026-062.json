@@ -1,0 +1,16 @@
+{
+  "id": "problem-2026-062",
+  "problem": "Singapore's polyclinics struggle to share patient data with private specialists, creating duplicate testing and care gaps",
+  "problem_type": "data_integration",
+  "solution_type": "National Electronic Health Record (NEHR) enhancement, private sector integration APIs",
+  "care_stage": "treatment",
+  "automation_type": "data_integration",
+  "buyer": "government",
+  "care_setting": "mixed",
+  "companies": ["Doctor Anywhere", "Healthway Medical", "Fullerton Health", "MyDoc"],
+  "signals": ["Singapore Healthier SG initiative", "MOH Office for Healthcare Transformation", "Smart Nation digital health"],
+  "boring_software": false,
+  "contrarian": false,
+  "url": "https://www.moh.gov.sg",
+  "date_added": "2026-03-11"
+}

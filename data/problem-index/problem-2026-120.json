@@ -1,0 +1,16 @@
+{
+  "id": "problem-2026-120",
+  "problem": "Hospital call schedules for specialists managed on spreadsheets, causing coverage gaps and conflicts",
+  "problem_type": "staffing",
+  "solution_type": "Automated call scheduling platforms, fair distribution algorithms, mobile access",
+  "care_stage": "admin",
+  "automation_type": "workflow_automation",
+  "buyer": "hospital",
+  "care_setting": "specialty",
+  "companies": ["Amion", "Call-Scheduler", "QGenda", "Lightning Bolt"],
+  "signals": ["Specialist burnout from call burden", "Coverage disputes", "EHR integration gaps"],
+  "boring_software": true,
+  "contrarian": false,
+  "url": "https://www.amion.com",
+  "date_added": "2026-03-11"
+}

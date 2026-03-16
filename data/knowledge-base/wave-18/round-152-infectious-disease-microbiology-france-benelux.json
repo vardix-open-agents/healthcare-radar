@@ -1,0 +1,114 @@
+[
+  {
+    "company_name": "bioMérieux",
+    "hq_location": "Marcy-l'Étoile, France",
+    "website_url": "https://www.biomerieux.com",
+    "problem_solved": "Provides diagnostic solutions for infectious diseases, including antimicrobial stewardship and sepsis management. Their software integrates with diagnostic instruments to provide rapid pathogen identification and antibiotic susceptibility testing.",
+    "who_buys_it": "Hospitals, clinical laboratories, and healthcare providers",
+    "key_features": [
+      "VITEK system for automated antimicrobial susceptibility testing",
+      "BIOFIRE FilmArray for syndromic infectious disease testing",
+      "Integrated software for antimicrobial stewardship programs"
+    ],
+    "business_model": "Hardware + software + consumables (subscription/support for software)",
+    "why_varden_cares": "Strong replicability potential - their antimicrobial stewardship software can be adapted to other regions and integrated with existing LIS systems. The model of combining diagnostics with decision support software is highly scalable."
+  },
+  {
+    "company_name": "Modul-Bio",
+    "hq_location": "Montpellier, France",
+    "website_url": "https://www.modul-bio.com",
+    "problem_solved": "Provides LIMS (Laboratory Information Management Systems) for biobanking and biological sample management, enabling traceability of biological samples for research and clinical applications including infectious disease studies.",
+    "who_buys_it": "Research institutions, hospitals, biobanks, and clinical laboratories",
+    "key_features": [
+      "MBioLIMS BioBanking for comprehensive sample management",
+      "MBioLABEL for sample labeling and traceability",
+      "Integration with hospital information systems for infectious disease research"
+    ],
+    "business_model": "SaaS with licensing and support services",
+    "why_varden_cares": "High replicability - the modular LIMS approach can be adapted to different biobanking and infectious disease surveillance needs across regions. The software-only model is highly scalable."
+  },
+  {
+    "company_name": "Clinisys",
+    "hq_location": "Gent, Belgium (originally, now also Woking, UK)",
+    "website_url": "https://www.clinisys.com",
+    "problem_solved": "Provides laboratory information systems (LIS) for clinical laboratories, including microbiology departments. Their GLIMS platform handles specimen tracking, result reporting, and workflow management for infectious disease testing.",
+    "who_buys_it": "Hospitals, clinical laboratories, and healthcare networks across Benelux",
+    "key_features": [
+      "GLIMS laboratory information system with microbiology module",
+      "Integration with diagnostic instruments and EHR systems",
+      "Outbreak surveillance and infection tracking capabilities"
+    ],
+    "business_model": "SaaS with implementation and support services",
+    "why_varden_cares": "High replicability - the LIS platform can be adapted to different regulatory environments and laboratory workflows. The Benelux market presence provides a template for expansion into other European regions."
+  },
+  {
+    "company_name": "QIAGEN",
+    "hq_location": "Venlo, Netherlands",
+    "website_url": "https://www.qiagen.com",
+    "problem_solved": "Provides sample-to-insight solutions for infectious disease diagnostics and research, including software for PCR-based pathogen detection and genotyping. Their QIAcuity platform offers digital PCR for infectious disease testing.",
+    "who_buys_it": "Clinical laboratories, hospitals, and research institutions",
+    "key_features": [
+      "QIAcuity digital PCR system for infectious disease detection",
+      "QIAstat-Dx syndromic testing panels for respiratory and other infections",
+      "Bioinformatics software for pathogen identification and analysis"
+    ],
+    "business_model": "Hardware + software + consumables with subscription-based bioinformatics",
+    "why_varden_cares": "Moderate replicability - the software components (bioinformatics, interpretation algorithms) can be licensed or adapted, but the hardware dependency limits pure software replication."
+  },
+  {
+    "company_name": "Eurofins Scientific",
+    "hq_location": "Luxembourg City, Luxembourg",
+    "website_url": "https://www.eurofins.com",
+    "problem_solved": "Provides laboratory testing services and software for infectious disease diagnostics, including COVID-19, HIV, and other viral disease testing. Their LIS platforms manage high-throughput testing workflows.",
+    "who_buys_it": "Hospitals, public health organizations, and clinical laboratories",
+    "key_features": [
+      "High-throughput infectious disease testing platforms",
+      "LIS software for sample tracking and result reporting",
+      "Outbreak surveillance and epidemiological data management"
+    ],
+    "business_model": "Services + software licensing",
+    "why_varden_cares": "High replicability - the LIS and outbreak surveillance software can be adapted to different testing networks. The high-throughput model addresses scalability challenges in infectious disease management."
+  },
+  {
+    "company_name": "Medavis",
+    "hq_location": "Karlsruhe, Germany (with strong Benelux operations)",
+    "website_url": "https://www.medavis.com",
+    "problem_solved": "Provides radiology and laboratory information systems for healthcare facilities, including microbiology workflow management and infection tracking for hospitals.",
+    "who_buys_it": "Hospitals and clinical laboratories",
+    "key_features": [
+      "Integrated LIS with microbiology module",
+      "Infection tracking and outbreak surveillance tools",
+      "Integration with EHR and diagnostic systems"
+    ],
+    "business_model": "SaaS with enterprise licensing",
+    "why_varden_cares": "High replicability - the integrated LIS/infection tracking platform can be adapted to different healthcare systems. The modular approach allows deployment in various hospital settings."
+  },
+  {
+    "company_name": "Chipsoft",
+    "hq_location": "Amsterdam, Netherlands",
+    "website_url": "https://www.chipsoft.nl",
+    "problem_solved": "Provides hospital information systems (HIS) for Dutch and Belgian hospitals, including modules for infection control and microbiology laboratory management.",
+    "who_buys_it": "Hospitals and healthcare networks in Netherlands and Belgium",
+    "key_features": [
+      "Integrated HIS with infection control module",
+      "Microbiology laboratory workflow management",
+      "Antimicrobial stewardship decision support"
+    ],
+    "business_model": "SaaS with enterprise licensing and support",
+    "why_varden_cares": "High replicability - the integrated HIS/infection control model can be adapted to other European healthcare systems. The regional focus provides a template for localized healthcare IT solutions."
+  },
+  {
+    "company_name": "CompuGroup Medical",
+    "hq_location": "Koblenz, Germany (with strong operations in France and Netherlands)",
+    "website_url": "https://www.cgm.com",
+    "problem_solved": "Provides healthcare IT solutions including EHR systems, laboratory information systems, and telemedicine platforms. Their solutions support infection control workflows and microbiology laboratory management.",
+    "who_buys_it": "Hospitals, clinics, and laboratories in France, Netherlands, and across Europe",
+    "key_features": [
+      "Integrated EHR with infection control modules",
+      "Laboratory information system with microbiology workflows",
+      "Telemedicine and remote patient monitoring for infectious disease management"
+    ],
+    "business_model": "SaaS with enterprise licensing and support services",
+    "why_varden_cares": "High replicability - the integrated EHR/LIS platform can be adapted to different healthcare systems and regulatory environments. The European presence provides templates for cross-border healthcare IT solutions."
+  }
+]

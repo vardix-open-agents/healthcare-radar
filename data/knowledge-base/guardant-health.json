@@ -1,0 +1,14 @@
+{
+  "company": "Guardant Health",
+  "country": "US",
+  "problem": "Traditional cancer detection and monitoring required tissue biopsies, which are invasive, painful, and cannot be repeated frequently to track treatment response",
+  "solution": "Liquid biopsy blood tests using circulating tumor DNA (ctDNA) to detect cancer early, monitor treatment response, and identify residual disease without invasive procedures",
+  "problem_type": "genomics",
+  "solution_type": "SaaS",
+  "buyer": "providers",
+  "varden_fit": "low",
+  "url": "https://guardanthealth.com",
+  "source": "web",
+  "discovery_round": 133,
+  "discovered_by": "nova"
+}

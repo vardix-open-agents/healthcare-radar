@@ -1,0 +1,14 @@
+{
+  "company": "Genesis Fertility",
+  "country": "US",
+  "problem": "Infertility patients in the New York metropolitan area need access to comprehensive, high-quality fertility treatment but face challenges finding trusted providers with advanced laboratory capabilities, financial accessibility, and personalized care.",
+  "solution": "Full-service fertility clinic network across NYC with state-of-the-art laboratories, comprehensive diagnostic testing, IVF, IUI, egg freezing, donor programs, and genetic screening. Offers multiple financial programs, accepts most insurance, and provides care in multiple languages including Hebrew, Chinese, Russian, and Spanish.",
+  "problem_type": "womens_health",
+  "solution_type": "clinic_services",
+  "buyer": "patients",
+  "varden_fit": "low",
+  "url": "https://www.genesisfertility.com/",
+  "source": "web",
+  "discovery_round": 93,
+  "discovered_by": "nova"
+}

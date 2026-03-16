@@ -1,0 +1,14 @@
+{
+  "company": "Huma",
+  "country": "GB",
+  "problem": "Healthcare systems struggle to scale patient monitoring and care delivery while maintaining quality, particularly for chronic disease management and remote patient care across diverse populations.",
+  "solution": "Comprehensive digital health platform enabling rapid development of health super apps, regulated Software as a Medical Device (SaMD), and remote patient monitoring (RPM) tools including virtual wards and hospital-at-home models. Features Huma Intelligence with AI-powered clinical productivity tools (Hi Nurse, Hi Studio, Hi Scribe). Supports nearly 100 million people worldwide across clinical trials, screening, diagnostics, and care pathways.",
+  "problem_type": "chronic_care",
+  "solution_type": "SaaS",
+  "buyer": "providers",
+  "varden_fit": "medium",
+  "url": "https://www.huma.com",
+  "source": "web",
+  "discovery_round": 89,
+  "discovered_by": "nova"
+}

@@ -1,0 +1,16 @@
+{
+  "id": "problem-2026-068",
+  "problem": "Israeli HMOs (Kupot Holim) use incompatible EMR systems, preventing seamless care when patients switch providers",
+  "problem_type": "data_integration",
+  "solution_type": "National health data infrastructure, FHIR-based data exchange, patient-centered data portability",
+  "care_stage": "treatment",
+  "automation_type": "data_integration",
+  "buyer": "government",
+  "care_setting": "mixed",
+  "companies": ["Clalit Health Services", "Maccabi Healthcare", "Meuhedet", "Leumit Health"],
+  "signals": ["Israeli Digital Health Initiative", "Medical information bank project", "AI healthcare innovation ecosystem"],
+  "boring_software": false,
+  "contrarian": false,
+  "url": "https://www.health.gov.il",
+  "date_added": "2026-03-11"
+}

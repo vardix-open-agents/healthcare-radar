@@ -1,0 +1,14 @@
+{
+  "company": "SimplePractice",
+  "country": "US",
+  "problem": "Speech-language pathologists in private practice struggle with fragmented tools for scheduling, documentation, billing, and telehealth, leading to administrative burden.",
+  "solution": "All-in-one EHR platform with integrated telehealth, documentation templates for speech therapy, insurance billing, and practice management tools.",
+  "problem_type": "speech_therapy",
+  "solution_type": "SaaS",
+  "buyer": "clinics",
+  "varden_fit": "low",
+  "url": "https://www.simplepractice.com",
+  "source": "web",
+  "discovery_round": 141,
+  "discovered_by": "nova"
+}

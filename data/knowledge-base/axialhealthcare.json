@@ -1,0 +1,14 @@
+{
+  "company": "axialHealthcare",
+  "country": "US",
+  "problem": "Providers and payers lack visibility into opioid-related risks in patient populations, leading to inappropriate prescribing, potential overdoses, and inability to identify patients needing substance use disorder treatment",
+  "solution": "Risk management solution that provides timely, interactive clinical decision support tools to providers, enabling data-driven decision-making at point of care to identify and address opioid-related risk with patient intelligence and reduction planning tools",
+  "problem_type": "care_coordination",
+  "solution_type": "SaaS",
+  "buyer": "providers",
+  "varden_fit": "high",
+  "url": "https://axialhealthcare.com",
+  "source": "web",
+  "discovery_round": 81,
+  "discovered_by": "sky"
+}

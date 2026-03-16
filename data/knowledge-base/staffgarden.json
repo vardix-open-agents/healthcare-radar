@@ -1,0 +1,14 @@
+{
+  "company": "StaffGarden",
+  "country": "US",
+  "problem": "Healthcare organizations lack visibility into nursing competencies and struggle to manage professional development, succession planning, and retention in paper-based or fragmented systems.",
+  "solution": "Cloud-based competency management and workforce development platform with e-portfolio functionality, skill gap analysis, and career advancement tracking for healthcare professionals.",
+  "problem_type": "healthcare_staffing",
+  "solution_type": "SaaS",
+  "buyer": "health_system",
+  "varden_fit": "low",
+  "url": "https://www.staffgarden.com/",
+  "source": "web",
+  "discovery_round": 127,
+  "discovered_by": "sky"
+}

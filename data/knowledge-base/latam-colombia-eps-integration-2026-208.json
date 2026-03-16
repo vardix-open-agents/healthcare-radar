@@ -1,0 +1,33 @@
+{
+  "id": "latam-colombia-eps-integration-2026-208",
+  "title": "Colombia EPS Claims & Authorization Bottleneck",
+  "company": null,
+  "country": "Colombia",
+  "region": "LATAM",
+  "segment": "admin",
+  "problem": "Colombia's health system has multiple EPS (Entidades Promotoras de Salud) insurance entities competing for public contracts. Each EPS has different IT systems, authorization processes, and claims submission requirements. Providers must navigate 10+ different EPS portals manually. Prior authorization takes 3-5 days on average. Claims rejection rates exceed 20% due to paperwork errors.",
+  "solution": "Unified platform integrating all Colombian EPS systems. Single interface for prior authorization, claims submission, and payment tracking. Automated form validation to reduce rejections. Real-time authorization for standard procedures. Provider dashboard showing all EPS relationships.",
+  "technology": "API integration with EPS systems, automated form validation, prior authorization workflows, claims management",
+  "target_customer": "Hospitals, clinics, independent physicians, diagnostic centers",
+  "care_setting": "all",
+  "care_domain": "general",
+  "care_stage": "admin",
+  "automation_level": "full",
+  "ai_type": "Rule-based automation",
+  "traction_signals": [
+    "97% population coverage via EPS system",
+    "12 major EPS entities serving 50M+ population",
+    "High administrative burden documented",
+    "Government pushing for digitization"
+  ],
+  "funding": null,
+  "regulatory_notes": "Colombian health data regulations, integration with Ministerio de Salud standards",
+  "varden_fit": "HIGH FIT - Similar to Mexico verification problem but with different payer structure. EPS model is unique to Colombia but infrastructure need is identical. Boring admin software with recurring revenue.",
+  "source": "Healthcare system research + opportunity analysis",
+  "url": "https://en.wikipedia.org/wiki/Health_care_in_Colombia",
+  "date_added": "2026-03-11",
+  "problem_type": "claims",
+  "contrarian": false,
+  "boring_software": true,
+  "notes": "BOREALING: Claims processing is the most boring software ever. But it's essential infrastructure. Colombia's EPS model is actually well-suited for a clearinghouse play."
+}

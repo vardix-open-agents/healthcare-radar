@@ -1,0 +1,22 @@
+{
+  "company_name": "ImageTrend",
+  "problem_solved": "Fire, EMS, and hospital systems need integrated software to manage patient care reporting, billing, compliance, and data analysis without relying on fragmented legacy systems",
+  "solution_description": "Emergency management software platform for Fire, EMS, and Hospitals providing ePCR, billing/AR optimization, crew scheduling, fire incident reporting, and analytics. Elite platform offers integrated workflows from dispatch through billing with data-driven insights",
+  "buyer_persona": "ems_agencies",
+  "care_stage": "transport",
+  "automation_level": "partial",
+  "varden_fit": "high",
+  "region": "US",
+  "country": "United States",
+  "funding_stage": "private",
+  "traction_signals": [
+    "Billing Bridge conference for customer training",
+    "Elite platform for integrated EMS operations",
+    "Strong customer testimonials on time savings",
+    "Continuous platform improvement"
+  ],
+  "notes": "Established player in EMS software. Strong billing optimization capabilities. Active customer community and training programs. Good Varden fit for integrated EMS operations management.",
+  "discovery_round": 52,
+  "discovered_by": "sky",
+  "timestamp": "2026-03-11T23:20:00Z"
+}

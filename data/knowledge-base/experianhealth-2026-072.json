@@ -1,0 +1,33 @@
+{
+  "id": "experianhealth-2026-072",
+  "title": "Experian Health - AI-Powered Revenue Cycle Management",
+  "company": "Experian Health",
+  "country": "US",
+  "region": "US",
+  "segment": "billing",
+  "problem": "Healthcare providers lose revenue to claim denials, inaccurate patient information, and inefficient eligibility verification. Manual processes are slow and error-prone.",
+  "solution": "Patient Access Curator uses AI/ML to verify and correct eligibility, COB primacy, demographics, MBI, and insurance discovery in seconds. Integrated revenue cycle automation across the entire claims lifecycle.",
+  "technology": "Machine learning, AI agents, X12 270/271, real-time eligibility APIs",
+  "target_customer": "Hospitals, health systems, physician practices",
+  "care_setting": "all",
+  "care_domain": "general",
+  "care_stage": "admin",
+  "automation_level": "full",
+  "ai_type": "ML for eligibility verification, AI for denial prevention",
+  "traction_signals": [
+    "Major US healthcare RCM player",
+    "AI-powered Patient Access Curator",
+    "Measurable ROI in denial reduction",
+    "Deep payer connectivity"
+  ],
+  "funding": "Part of Experian (public company)",
+  "regulatory_notes": "HIPAA compliant, integrated with major EHR systems",
+  "varden_fit": "HIGH — Proves AI can automate eligibility verification. Model for EU replication with insurance discovery and COB verification for multi-payer European systems.",
+  "source": "Web research",
+  "url": "https://www.experian.com/healthcare",
+  "date_added": "2026-03-11",
+  "problem_type": "eligibility",
+  "contrarian": true,
+  "boring_software": true,
+  "notes": "CONTRARIAN: Insurance discovery and eligibility verification are unsexy but critical. European insurers have no equivalent AI-powered verification tools."
+}

@@ -1,0 +1,31 @@
+{
+  "id": "appointmentplus-2026-097",
+  "title": "AppointmentPlus - Healthcare Scheduling with Insurance Verification",
+  "company": "AppointmentPlus",
+  "country": "US",
+  "region": "US",
+  "segment": "scheduling",
+  "problem": "Healthcare providers need online scheduling with integrated insurance verification and patient intake.",
+  "solution": "Online scheduling platform with insurance eligibility verification integration. Patient intake forms, appointment reminders, and workflow automation for healthcare practices.",
+  "technology": "Online scheduling, eligibility API integration, patient intake",
+  "target_customer": "Healthcare practices, specialty clinics",
+  "care_setting": "all",
+  "care_domain": "general",
+  "care_stage": "admin",
+  "automation_level": "partial",
+  "ai_type": null,
+  "traction_signals": [
+    "Scheduling platform with healthcare focus",
+    "Insurance verification integration"
+  ],
+  "funding": "Private company",
+  "regulatory_notes": "HIPAA compliant",
+  "varden_fit": "MEDIUM — Scheduling with integrated eligibility is a good model for European practices.",
+  "source": "Industry knowledge",
+  "url": "https://www.appointmentplus.com",
+  "date_added": "2026-03-11",
+  "problem_type": "eligibility",
+  "contrarian": true,
+  "boring_software": true,
+  "notes": "CONTRARIAN: Scheduling is crowded but adding eligibility verification differentiates."
+}

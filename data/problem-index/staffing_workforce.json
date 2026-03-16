@@ -1,0 +1,61 @@
+{
+  "problem_type": "staffing_workforce",
+  "count": 7,
+  "entries": [
+    {
+      "id": "caresalud-2026-048",
+      "company": "CareSalud",
+      "country": "Spain",
+      "varden_fit": "Low — staffing marketplace, not patient-facing. Different segment."
+    },
+    {
+      "id": "company-2026-167",
+      "company": "Clipboard Health",
+      "country": "USA",
+      "varden_fit": "LOW - Staffing marketplace, not patient-facing. Different segment.",
+      "boring_software": false,
+      "contrarian": false
+    },
+    {
+      "id": "company-2026-168",
+      "company": "Nomad Health",
+      "country": "USA",
+      "varden_fit": "LOW - Staffing marketplace. But demonstrates digital transformation of healthcare workforce.",
+      "boring_software": false,
+      "contrarian": false
+    },
+    {
+      "id": "company-2026-169",
+      "company": "Medicus Union",
+      "country": "Germany",
+      "varden_fit": "LOW - Staffing platform. But shows European healthcare workforce challenges.",
+      "boring_software": false,
+      "contrarian": false
+    },
+    {
+      "id": "company-2026-170",
+      "company": "Upshift",
+      "country": "USA",
+      "varden_fit": "LOW - Staffing marketplace. Different segment from Varden.",
+      "boring_software": false,
+      "contrarian": false
+    },
+    {
+      "id": "company-2026-171",
+      "company": "Mephar",
+      "country": "UAE",
+      "varden_fit": "LOW - Recruitment platform. Shows Middle East healthcare workforce challenges.",
+      "boring_software": false,
+      "contrarian": false
+    },
+    {
+      "id": "company-2026-172",
+      "company": "DrCare",
+      "country": "India",
+      "varden_fit": "LOW - Recruitment platform. Shows APAC healthcare workforce challenges.",
+      "boring_software": false,
+      "contrarian": false
+    }
+  ],
+  "notes": "EXPANDED - Now 7 healthcare staffing platforms across regions (USA, EU, Middle East, APAC). Focus on temporary/per-diem staffing, travel nursing, and cross-border workforce mobility. Different segment from Varden but shows digital transformation of healthcare workforce management."
+}

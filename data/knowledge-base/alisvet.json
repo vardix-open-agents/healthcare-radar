@@ -1,0 +1,14 @@
+{
+  "company": "AlisVet",
+  "country": "US",
+  "problem": "Veterinarians need practice management software that is medical record-centric, supports patient health care, enables client communication, and provides practice marketing without dependency on internet connectivity",
+  "solution": "Desktop-based veterinary medical software with medical record-centric design, integrated reminders, graded health cards, patient health plans, built-in email functionality, digital client education, and marketing tools that work offline",
+  "problem_type": "veterinary",
+  "solution_type": "SaaS",
+  "buyer": "vet_clinics",
+  "varden_fit": "low",
+  "url": "https://www.alisvet.com",
+  "source": "web",
+  "discovery_round": 102,
+  "discovered_by": "nova"
+}

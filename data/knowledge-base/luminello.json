@@ -1,0 +1,14 @@
+{
+  "company": "Luminello",
+  "country": "US",
+  "problem": "Psychiatrists and therapists need specialized EHR tools that support e-prescribing, medication management, and psychiatric documentation workflows that general EHR platforms don't adequately address.",
+  "solution": "EHR software built specifically for psychiatrists, therapists, and clinicians, featuring e-prescribe capabilities with DrFirst integration, PDMP integration, prior authorization support, controlled substance prescribing, and customizable treatment plans for psychiatric and therapeutic care.",
+  "problem_type": "mental_health",
+  "solution_type": "SaaS",
+  "buyer": "providers",
+  "varden_fit": "medium",
+  "url": "https://www.luminello.com",
+  "source": "web",
+  "discovery_round": 90,
+  "discovered_by": "sky"
+}

@@ -1,0 +1,14 @@
+{
+  "company": "NeuroFlow",
+  "country": "US",
+  "problem": "Behavioral health risk remains a costly blind spot for payors, health systems, and government organizations who struggle to identify, stratify, and manage population-level mental health needs",
+  "solution": "Behavioral health data analytics platform that surfaces hidden risk in populations, identifies cohorts with behavioral health needs, engages patients through acuity-driven actions, connects them to appropriate care, and measures outcomes with 6.61M+ assessments collected",
+  "problem_type": "behavioral_health",
+  "solution_type": "SaaS",
+  "buyer": "providers",
+  "varden_fit": "medium",
+  "url": "https://www.neuroflow.com/",
+  "source": "web",
+  "discovery_round": 123,
+  "discovered_by": "sky"
+}

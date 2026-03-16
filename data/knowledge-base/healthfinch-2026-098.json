@@ -1,0 +1,32 @@
+{
+  "id": "healthfinch-2026-098",
+  "title": "Healthfinch - Prior Authorization and Prescription Renewal Automation",
+  "company": "Healthfinch",
+  "country": "US",
+  "region": "US",
+  "segment": "admin",
+  "problem": "Prior authorization and prescription renewals are manual, repetitive tasks that consume significant staff time.",
+  "solution": "Automation platform for prior authorization and prescription renewals. Integration with EHR workflows. Reduces manual work for administrative tasks.",
+  "technology": "Workflow automation, EHR integration",
+  "target_customer": "Primary care practices, health systems",
+  "care_setting": "primary_care",
+  "care_domain": "general",
+  "care_stage": "admin",
+  "automation_level": "full",
+  "ai_type": null,
+  "traction_signals": [
+    "EHR-integrated automation",
+    "Focus on repetitive admin tasks",
+    "Prior auth automation"
+  ],
+  "funding": "Private company",
+  "regulatory_notes": "HIPAA compliant",
+  "varden_fit": "HIGH — Healthfinch proves automation of repetitive admin tasks creates value. European practices need similar automation.",
+  "source": "Industry knowledge",
+  "url": "https://www.healthfinch.com",
+  "date_added": "2026-03-11",
+  "problem_type": "prior_auth",
+  "contrarian": true,
+  "boring_software": true,
+  "notes": "CONTRARIAN: Automating repetitive admin tasks is unsexy but valuable. European practices lack similar automation tools."
+}

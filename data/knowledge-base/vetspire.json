@@ -1,0 +1,14 @@
+{
+  "company": "Vetspire",
+  "country": "US",
+  "problem": "Veterinary clinics need modern, cloud-based software that unifies records and treatment sheets, enables real-time collaboration with multiple staff in the same encounter, and integrates seamlessly with mobile devices",
+  "solution": "Cloud-based AI veterinary practice management software that combines PIMS and treatment sheets in one platform, enables real-time multi-user encounter collaboration, mobile integration, and provides comprehensive onboarding support",
+  "problem_type": "veterinary",
+  "solution_type": "SaaS",
+  "buyer": "vet_clinics",
+  "varden_fit": "low",
+  "url": "https://www.vetspire.ai",
+  "source": "web",
+  "discovery_round": 102,
+  "discovered_by": "nova"
+}

@@ -1,0 +1,14 @@
+{
+  "company": "BioFire Defense",
+  "country": "US",
+  "problem": "Healthcare facilities and public health organizations need rapid, accurate detection of biothreats and infectious diseases to respond effectively to outbreaks and bioterrorism",
+  "solution": "Syndromic molecular testing platforms (BIOFIRE FILMARRAY, SPOTFIRE, RAZOR) that deliver fast, comprehensive pathogen detection for clinical IVD, biothreat surveillance, and military deployment",
+  "problem_type": "infectious_disease",
+  "solution_type": "SaaS",
+  "buyer": "clinics",
+  "varden_fit": "medium",
+  "url": "https://biofiredefense.com",
+  "source": "web",
+  "discovery_round": 119,
+  "discovered_by": "nova"
+}

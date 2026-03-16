@@ -1,0 +1,14 @@
+{
+  "company": "AuthX Network",
+  "country": "US",
+  "problem": "Durable Medical Equipment (DME) providers face complex prior authorization processes with multiple payers, leading to delays in patient care and administrative inefficiency",
+  "solution": "Authorization exchange platform specifically designed for DME prior authorization, streamlining the submission and approval process between providers and payers",
+  "problem_type": "prior_authorization",
+  "solution_type": "SaaS",
+  "buyer": "providers",
+  "varden_fit": "high",
+  "url": "https://authx.health",
+  "source": "web",
+  "discovery_round": 86,
+  "discovered_by": "sky"
+}

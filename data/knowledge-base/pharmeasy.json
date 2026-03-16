@@ -1,0 +1,14 @@
+{
+  "company": "PharmEasy",
+  "country": "IN",
+  "problem": "Access to affordable medicines and healthcare products is limited in India, with high prices and poor pharmacy infrastructure in many regions",
+  "solution": "Digital pharmacy platform offering online medicine ordering, diagnostic tests, healthcare products delivery, and teleconsultation services across India",
+  "problem_type": "pharmacy",
+  "solution_type": "SaaS",
+  "buyer": "pharmacies",
+  "varden_fit": "medium",
+  "url": "https://pharmeasy.in/",
+  "source": "web",
+  "discovery_round": 75,
+  "discovered_by": "nova"
+}

@@ -1,0 +1,16 @@
+{
+  "id": "problem-2026-134",
+  "problem": "Each payer has different prior auth forms with 30-50 fields, requiring 15-20 minutes of manual data entry per request",
+  "problem_type": "payer_forms",
+  "solution_type": "Payer form auto-fill, EHR data extraction, field mapping automation, universal prior auth form generation",
+  "care_stage": "admin",
+  "automation_type": "ai_assisted",
+  "buyer": "clinic",
+  "care_setting": "specialty",
+  "companies": ["CoverMyMeds", "Surescripts", "Cohere Health", "AGS Health", "CoHelm"],
+  "signals": ["30-50 fields per form", "15-20 min per request", "Payer form variability", "EHR integration demand"],
+  "boring_software": true,
+  "contrarian": false,
+  "url": "https://covermymeds.com",
+  "date_added": "2026-03-11"
+}

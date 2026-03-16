@@ -1,0 +1,29 @@
+{
+  "id": "addhealth-2026-045",
+  "title": "AddHealth - Digital ADHD Assessment and Support",
+  "company": "AddHealth",
+  "country": "Sweden",
+  "region": "Nordics",
+  "segment": "diagnostics",
+  "problem": "ADHD assessment wait times are extremely long. Many adults go undiagnosed due to limited specialist availability.",
+  "solution": "Digital platform for ADHD screening, assessment support, and ongoing management tools for patients and clinicians.",
+  "technology": "Digital assessment tools, patient tracking, clinician dashboard",
+  "target_customer": "Psychiatry clinics, neuropsychiatry departments",
+  "care_setting": "specialist",
+  "care_domain": "psychiatry, ADHD",
+  "care_stage": "diagnosis",
+  "automation_level": "partial",
+  "ai_type": null,
+  "traction_signals": [
+    "Swedish ADHD digital health",
+    "Assessment support tools",
+    "Clinician-focused"
+  ],
+  "funding": null,
+  "regulatory_notes": "Clinical assessment support, medical device considerations.",
+  "varden_fit": "Moderate — specialized ADHD assessment. Could partner with psychiatry providers on Varden.",
+  "source": "Swedish health tech ecosystem",
+  "url": "https://www.addhealth.se",
+  "date_added": "2026-03-11",
+  "notes": "Specialized neuropsychiatry digital health. Narrow focus."
+}

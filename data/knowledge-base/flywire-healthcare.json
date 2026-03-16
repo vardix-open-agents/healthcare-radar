@@ -1,0 +1,14 @@
+{
+  "company": "Flywire Healthcare",
+  "country": "US",
+  "problem": "Healthcare organizations struggle with patient self-pay collections, staff-intensive billing processes, and lack of flexible payment options",
+  "solution": "Patient payment platform with personalized payment plans, integrated financing options beyond 12 months, and multi-channel engagement that decreases staff involvement by 30% while achieving 269% ROI in three years",
+  "problem_type": "patient_payments",
+  "solution_type": "SaaS",
+  "buyer": "providers",
+  "varden_fit": "high",
+  "url": "https://www.flywire.com/industries/healthcare",
+  "source": "web",
+  "discovery_round": 99,
+  "discovered_by": "sky"
+}

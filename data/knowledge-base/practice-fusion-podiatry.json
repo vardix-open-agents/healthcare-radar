@@ -1,0 +1,14 @@
+{
+  "company": "Practice Fusion",
+  "country": "US",
+  "problem": "Small podiatry practices require an affordable, cloud-based EHR with foot-specific charting capabilities and Meaningful Use certification without expensive on-premise infrastructure",
+  "solution": "Practice Fusion delivers a cloud-based EHR platform with podiatry-specific templates, e-prescribing, lab integrations, and patient portal designed for independent practices with a focus on ease of use and compliance",
+  "problem_type": "podiatry",
+  "solution_type": "SaaS",
+  "buyer": "clinics",
+  "varden_fit": "medium",
+  "url": "https://www.practicefusion.com/",
+  "source": "web",
+  "discovery_round": 111,
+  "discovered_by": "sky"
+}

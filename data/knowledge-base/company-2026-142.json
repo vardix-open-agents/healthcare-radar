@@ -1,0 +1,27 @@
+{
+  "company": "Spring Health (US - EU Expansion)",
+  "country": "United States",
+  "founded_year": 2016,
+  "category": "Mental Health",
+  "subsector": "Employee Mental Health Platform",
+  "description": "US-based mental health platform using AI to personalize care for employees. Offers therapy, psychiatry, and digital tools. Expanding internationally with European enterprise customers.",
+  "business_model": "B2B - SaaS subscription to employers",
+  "target_market": "Global enterprises including European employers",
+  "funding_stage": "Series E",
+  "funding_amount_usd": 370000000,
+  "key_investors": "Tiger Global, Kinnevik, ACME Capital",
+  "employees": 600,
+  "customers": "200+ enterprise clients globally",
+  "revenue_usd": 80000000,
+  "tech_stack": ["AI assessment", "Web platform", "Mobile app", "Video therapy", "Psychiatry"],
+  "integration_points": ["HR systems", "Benefits platforms"],
+  "competitive_advantage": "AI-powered personalization, clinical outcomes data, comprehensive care",
+  "varden_fit": {
+    "threat_level": "high",
+    "opportunity": "compete",
+    "rationale": "Major mental health competitor with significant funding - expanding in Europe"
+  },
+  "data_quality": "high",
+  "sources": ["springhealth.com", "crunchbase.com"],
+  "last_updated": "2026-03-11"
+}

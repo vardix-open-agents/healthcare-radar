@@ -1,0 +1,29 @@
+{
+  "id": "caretotranslate-2026-010",
+  "title": "Care to Translate - Digital Healthcare Translation Platform",
+  "company": "Care to Translate",
+  "country": "Norway",
+  "region": "Nordics",
+  "segment": "infrastructure",
+  "problem": "Language barriers between healthcare providers and patients lead to misdiagnosis, poor care outcomes, and inefficient consultations. Professional interpreters are expensive and not always available.",
+  "solution": "Digital translation platform specialized for healthcare settings. Provides accurate medical terminology translation to bridge communication gaps between providers and non-native speaking patients.",
+  "technology": "Digital translation, medical terminology database, healthcare-specific NLP",
+  "target_customer": "Hospitals, healthcare systems, clinics serving multilingual populations",
+  "care_setting": "hospital",
+  "care_domain": "general",
+  "care_stage": "diagnosis",
+  "automation_level": "full",
+  "ai_type": "NLP, translation AI",
+  "traction_signals": [
+    "Deployed in Helse Sør-Øst (Norway's largest health region)",
+    "Featured in Norwegian healthcare press (Sykepleien)",
+    "Active use in Norwegian healthcare system"
+  ],
+  "funding": null,
+  "regulatory_notes": "Medical translation requires accuracy validation. Works with healthcare authorities for deployment.",
+  "varden_fit": "MODERATE - Infrastructure play addressing multilingual patient populations. Sweden has significant immigrant population. Could integrate into patient intake or consultation flow. Limited overlap with EHR/booking focus.",
+  "source": "Care to Translate website + Norwegian healthcare news",
+  "url": "https://www.caretotranslate.com",
+  "date_added": "2026-03-11",
+  "notes": "Norwegian startup. Focus on accuracy and safety in medical translation. Research: language coverage, deployment scale, pricing model."
+}

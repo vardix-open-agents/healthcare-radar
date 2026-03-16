@@ -1,0 +1,29 @@
+{
+  "id": "vidhing-2026-047",
+  "title": "Vidhing - Video Consultation Platform",
+  "company": "Vidhing",
+  "country": "Sweden",
+  "region": "Nordics",
+  "segment": "infrastructure",
+  "problem": "Video consultation tools are often generic and not optimized for healthcare workflows and compliance requirements.",
+  "solution": "Healthcare-specific video consultation platform with EHR integration, secure messaging, and clinical workflow support.",
+  "technology": "Video platform, healthcare integrations, secure communications",
+  "target_customer": "Healthcare providers, clinics",
+  "care_setting": "telehealth",
+  "care_domain": "general",
+  "care_stage": "treatment",
+  "automation_level": "none",
+  "ai_type": null,
+  "traction_signals": [
+    "Swedish video consultation platform",
+    "Healthcare-specific features",
+    "Clinic integrations"
+  ],
+  "funding": null,
+  "regulatory_notes": "Healthcare data security, GDPR compliance.",
+  "varden_fit": "High — video consultation infrastructure could power Varden's telehealth offerings.",
+  "source": "Swedish health tech ecosystem",
+  "url": "https://www.vidhing.se",
+  "date_added": "2026-03-11",
+  "notes": "Healthcare video infrastructure. Core building block for telehealth."
+}

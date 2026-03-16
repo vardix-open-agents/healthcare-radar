@@ -1,0 +1,14 @@
+{
+  "company": "Brightree",
+  "country": "US",
+  "problem": "Home medical equipment (HME), durable medical equipment (DME), pharmacy, and home infusion providers struggle with inefficient workflows from referral intake through billing, leading to delayed patient care and poor financial performance",
+  "solution": "Cloud-based software that automates workflow at every step from referrals and patient intake through receivables and reporting, with integrated clinical decision support, customizable care plans, and outcome tracking to optimize post-acute care delivery",
+  "problem_type": "care_coordination",
+  "solution_type": "SaaS",
+  "buyer": "providers",
+  "varden_fit": "high",
+  "url": "https://www.brightree.com",
+  "source": "web",
+  "discovery_round": 81,
+  "discovered_by": "sky"
+}

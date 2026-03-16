@@ -1,0 +1,14 @@
+{
+  "company": "MediWound",
+  "country": "IL",
+  "problem": "Surgical debridement of burns and chronic wounds is invasive, painful, and can damage healthy tissue. Non-surgical alternatives are needed for better patient outcomes and lower healthcare costs.",
+  "solution": "Next-generation enzymatic therapeutics for non-surgical tissue repair. Proprietary enzymatic treatments selectively remove eschar tissue while preserving healthy tissue. Commercial product available with pipeline expanding into new indications.",
+  "problem_type": "wound_care",
+  "solution_type": "biotech",
+  "buyer": "hospitals",
+  "varden_fit": "low",
+  "url": "https://mediwound.com",
+  "source": "web",
+  "discovery_round": 134,
+  "discovered_by": "sky"
+}

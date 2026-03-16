@@ -1,0 +1,14 @@
+{
+  "company": "Humata Health",
+  "country": "US",
+  "problem": "Prior authorization processes lack transparency, speed, and accuracy, causing friction between healthcare providers and payers while delaying patient care",
+  "solution": "AI-driven prior authorization solution featuring intelligent automation, AI-driven policy matching, real-time payer connectivity, and smart attestation answering to enable frictionless prior authorization with vision of 90% touchless authorizations and two-minute human reviews",
+  "problem_type": "prior_authorization",
+  "solution_type": "SaaS",
+  "buyer": "providers",
+  "varden_fit": "high",
+  "url": "https://www.humatahealth.com",
+  "source": "web",
+  "discovery_round": 86,
+  "discovered_by": "sky"
+}

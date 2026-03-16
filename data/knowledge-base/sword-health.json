@@ -1,0 +1,14 @@
+{
+  "company": "Sword Health",
+  "country": "US",
+  "problem": "Physical therapy access is limited by high costs, geographic barriers, and inconsistent quality of care, leading to poor outcomes and unnecessary surgeries for MSK conditions",
+  "solution": "AI-powered digital physical therapy platform combining wearable motion trackers with remote physical therapists to deliver personalized, evidence-based care at home",
+  "problem_type": "rehab",
+  "solution_type": "SaaS",
+  "buyer": "employers",
+  "varden_fit": "medium",
+  "url": "https://swordhealth.com",
+  "source": "web",
+  "discovery_round": 98,
+  "discovered_by": "nova"
+}

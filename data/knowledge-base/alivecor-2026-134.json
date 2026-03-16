@@ -1,0 +1,30 @@
+{
+  "id": "alivecor-2026-134",
+  "title": "AliveCor - Personal ECG Device",
+  "company": "AliveCor",
+  "country": "USA",
+  "region": "NA",
+  "segment": "personal_cardiac_monitoring",
+  "problem": "ECG monitoring requires clinic visits, limiting access and timeliness of arrhythmia diagnosis.",
+  "solution": "KardiaMobile - FDA-cleared personal ECG device with AI interpretation, smartphone-connected for anywhere monitoring.",
+  "technology": "Mobile ECG hardware, AI arrhythmia detection algorithms, smartphone integration",
+  "target_customer": "Consumers, cardiologists, health systems, employers",
+  "care_setting": "home_ambulatory",
+  "care_domain": "cardiology",
+  "care_stage": "monitoring",
+  "automation_level": "full",
+  "ai_type": "AI for arrhythmia detection and classification",
+  "traction_signals": [
+    "2M+ devices sold",
+    "Partnerships with health systems",
+    "FDA cleared for multiple arrhythmias",
+    "Founded 2010, Mountain View CA"
+  ],
+  "funding": "$200M+ raised",
+  "regulatory_notes": "FDA 510(k) cleared, CE marked",
+  "varden_fit": "Moderate - Consumer-to-provider referral opportunity. Could integrate into Varden for routing detected arrhythmias to cardiologists.",
+  "source": "Industry knowledge",
+  "url": "https://alivecor.com",
+  "date_added": "2026-03-11",
+  "notes": "Pioneer in personal ECG. Strong consumer adoption. Referral pathway to cardiology is key."
+}

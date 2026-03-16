@@ -1,0 +1,23 @@
+{
+  "company_name": "Tandem Health",
+  "problem_solved": "Clinicians spend excessive time on documentation and administrative tasks, leading to burnout and reduced patient-facing time",
+  "solution_description": "AI-powered clinical copilot that automatically generates medical notes, referrals, sick notes, and visit summaries from patient consultations. Supports 50+ specialties with hands-free voice editing, ICD-10/SNOMED coding suggestions, and seamless EHR integration",
+  "buyer_persona": "health_systems|clinics|providers",
+  "care_stage": "treatment",
+  "automation_level": "partial",
+  "varden_fit": "very_high",
+  "region": "Nordics|EU",
+  "country": "Sweden",
+  "funding_stage": "series_b",
+  "traction_signals": [
+    "Trusted by 5,000+ care organisations across Europe",
+    "Region Gävleborg signed 2-year contract for primary care",
+    "Partnership with Accurx to deliver AI medical scribe to 200,000 NHS staff",
+    "375,000+ notes generated across care levels in European health system",
+    "ISO 13485, ISO 27001, GDPR, NHS DSPT compliant"
+  ],
+  "notes": "Strong Nordic presence with Swedish roots. Offers both Swedish and English interfaces. NHS DSPT compliance enables UK expansion. Built by in-house clinicians who understand care workflows",
+  "discovery_round": 51,
+  "discovered_by": "sky",
+  "timestamp": "2026-03-11T23:21:00Z"
+}

@@ -1,0 +1,29 @@
+{
+  "id": "allvi-2026-011",
+  "title": "Allvi - AI Healthcare Resource Planning & Allocation",
+  "company": "Allvi",
+  "country": "Sweden",
+  "region": "Nordics",
+  "segment": "admin",
+  "problem": "Healthcare institutions struggle to efficiently plan and allocate resources (staff, equipment, rooms) leading to bottlenecks, underutilization, and poor patient care.",
+  "solution": "AI-powered platform with visualization tools that helps healthcare institutions plan and allocate resources more efficiently, improving both patient care and staff working conditions.",
+  "technology": "AI, resource optimization, visualization, scheduling algorithms",
+  "target_customer": "Hospitals, healthcare regions, clinic chains",
+  "care_setting": "hospital",
+  "care_domain": "general",
+  "care_stage": "admin",
+  "automation_level": "assistive",
+  "ai_type": "ML, optimization algorithms",
+  "traction_signals": [
+    "Incubated at Uppsala Innovation Centre (UIC)",
+    "Active development in Swedish healthcare",
+    "Focus on both patient care and staff conditions"
+  ],
+  "funding": null,
+  "regulatory_notes": "Planning tool, not direct patient care. Lower regulatory burden than clinical decision support.",
+  "varden_fit": "HIGH - Infrastructure play. Resource planning is critical for clinics. Could integrate with Varden's booking system to optimize appointment scheduling and resource allocation. Complementary to Varden's clinic tools.",
+  "source": "Uppsala Innovation Centre portfolio",
+  "url": "https://uic.se/en/uic-bolag/",
+  "date_added": "2026-03-11",
+  "notes": "Early-stage Swedish startup. Focus on staff conditions alongside patient care is interesting angle. Research: current customers, deployment scale, integration capabilities."
+}

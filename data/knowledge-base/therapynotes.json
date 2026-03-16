@@ -1,0 +1,14 @@
+{
+  "company": "TherapyNotes",
+  "country": "US",
+  "problem": "Behavioral health professionals need specialized EHR/EMR software designed specifically for mental health practice workflows, documentation requirements, and billing needs",
+  "solution": "Behavioral health EHR/EMR platform built specifically for therapists and mental health professionals, providing practice management, documentation, scheduling, and billing tools tailored to behavioral health workflows",
+  "problem_type": "behavioral_health",
+  "solution_type": "SaaS",
+  "buyer": "providers",
+  "varden_fit": "medium",
+  "url": "https://www.therapynotes.com/",
+  "source": "web",
+  "discovery_round": 123,
+  "discovered_by": "sky"
+}

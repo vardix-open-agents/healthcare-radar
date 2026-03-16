@@ -1,0 +1,28 @@
+{
+  "company": "Rhapsody (USA)",
+  "country": "United States",
+  "founded_year": 1999,
+  "category": "Healthcare Infrastructure",
+  "subsector": "Healthcare Integration Engine",
+  "description": "Healthcare integration engine and interoperability platform. Connects healthcare systems, transforms data formats, and enables health information exchange. One of the original healthcare integration companies.",
+  "business_model": "B2B - Integration platform to healthcare organizations",
+  "target_market": "Health systems, hospitals, HIEs",
+  "funding_stage": "Private",
+  "funding_amount_usd": null,
+  "key_investors": "Nordic Capital, others",
+  "employees": "300+",
+  "customers": "Healthcare organizations globally",
+  "revenue_usd": null,
+  "tech_stack": ["Integration engine", "HL7 transformation", "FHIR", "Data routing", "Monitoring"],
+  "integration_points": ["EHRs", "Lab systems", "Pharmacy systems", "Payer systems"],
+  "competitive_advantage": "Long market presence, robust integration engine, global customers",
+  "boring_software": true,
+  "varden_fit": {
+    "threat_level": "low",
+    "opportunity": "benchmark",
+    "rationale": "Integration infrastructure - classic healthcare middleware"
+  },
+  "data_quality": "high",
+  "sources": ["rhapsody.health"],
+  "last_updated": "2026-03-11"
+}

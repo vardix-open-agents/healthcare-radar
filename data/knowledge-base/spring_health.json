@@ -1,0 +1,14 @@
+{
+  "company": "Spring Health",
+  "country": "US",
+  "problem": "Employees face barriers to accessing quality mental health care, organizations lack data-driven insights on mental health program ROI, and traditional approaches don't connect clinical improvement to lower medical costs",
+  "solution": "Employer mental health benefit platform with fast precise provider matching (appointments in less than a day), proprietary Compass EHR for consistent care, continuous care model, and guaranteed ROI through connecting clinical improvement to reduced total medical spend for 20M+ covered lives",
+  "problem_type": "behavioral_health",
+  "solution_type": "SaaS",
+  "buyer": "providers",
+  "varden_fit": "medium",
+  "url": "https://www.springhealth.com/",
+  "source": "web",
+  "discovery_round": 123,
+  "discovered_by": "sky"
+}

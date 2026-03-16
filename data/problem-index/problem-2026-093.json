@@ -1,0 +1,16 @@
+{
+  "id": "problem-2026-093",
+  "problem": "Medicare Advantage patients can't determine in-network status of specialists before referral, leading to unexpected out-of-network bills",
+  "problem_type": "insurance_routing",
+  "solution_type": "Real-time MA network verification, integrated provider directory updates, referral network checking",
+  "care_stage": "triage_navigation",
+  "automation_type": "decision_support",
+  "buyer": "health_plan",
+  "care_setting": "specialty",
+  "companies": ["Humana", "UnitedHealthcare", "Aetna", "CVS Health", "Centene"],
+  "signals": ["Medicare Advantage enrollment surge", "Network adequacy enforcement", "Prior auth reform"],
+  "boring_software": true,
+  "contrarian": false,
+  "url": "https://www.cms.gov/Medicare/Health-Plans/MedicareAdvtgSpecRateStats",
+  "date_added": "2026-03-11"
+}

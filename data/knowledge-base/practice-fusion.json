@@ -1,0 +1,14 @@
+{
+  "company": "Practice Fusion",
+  "country": "US",
+  "problem": "Small independent practices need affordable, intuitive EHR systems that reduce administrative burden without complex IT requirements",
+  "solution": "Cloud-based EHR with intuitive charting, e-prescribing, patient portal, and integrated billing services designed for independent medical practices",
+  "problem_type": "primary_care",
+  "solution_type": "SaaS",
+  "buyer": "health_system",
+  "varden_fit": "high",
+  "url": "https://www.practicefusion.com",
+  "source": "web",
+  "discovery_round": 125,
+  "discovered_by": "sky"
+}

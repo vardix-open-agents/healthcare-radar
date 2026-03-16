@@ -1,0 +1,27 @@
+{
+  "company": "Handl Therapeutics",
+  "country": "Austria",
+  "founded_year": 2019,
+  "category": "Digital Therapeutics",
+  "subsector": "Musculoskeletal Rehabilitation",
+  "description": "Austrian digital therapeutics company offering app-based physiotherapy programs. CE-marked medical device for back pain and MSK conditions. Used by insurers and employers.",
+  "business_model": "B2B2C - Sold to insurers and employers who offer to members",
+  "target_market": "Austria, Germany - health insurers, employers, rehabilitation clinics",
+  "funding_stage": "Series A",
+  "funding_amount_eur": 8000000,
+  "key_investors": "Austrian VCs, healthtech investors",
+  "employees": 40,
+  "customers": "20+ insurer contracts",
+  "revenue_eur": 3000000,
+  "tech_stack": ["Mobile app", "Motion tracking", "Clinical content", "Outcome tracking"],
+  "integration_points": ["Insurer platforms", "EHR systems", "Wearables"],
+  "competitive_advantage": "CE-marked medical device, clinical evidence, German-speaking market focus",
+  "varden_fit": {
+    "threat_level": "low",
+    "opportunity": "partner",
+    "rationale": "Complementary MSK solution - could integrate with occupational health offering"
+  },
+  "data_quality": "medium",
+  "sources": ["handlhealth.com", "linkedin.com"],
+  "last_updated": "2026-03-11"
+}

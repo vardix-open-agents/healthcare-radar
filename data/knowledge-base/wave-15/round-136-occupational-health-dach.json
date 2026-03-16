@@ -1,0 +1,114 @@
+[
+  {
+    "company_name": "Medgate",
+    "hq_location": "Basel, Switzerland",
+    "website_url": "https://www.medgate.ch",
+    "problem_solved": "Medgate provides 24/7 telemedicine access to doctors, enabling employees to receive immediate medical consultations without leaving work or home. It addresses the challenge of accessing healthcare quickly while reducing unnecessary emergency room visits.",
+    "who_buys_it": "Health insurers, employers, cantonal health departments, corporate health programs",
+    "key_features": [
+      "24/7 telemedicine consultations via phone, video, and chat",
+      "Medgate Kids Line for pediatric emergencies",
+      "E-prescription and referral to specialist network of 3,800+ providers"
+    ],
+    "business_model": "B2B/B2B2C - Services billed through health insurance; also provides white-label telemedicine solutions to insurers and employers",
+    "why_varden_care": "Strong replicability potential: telemedicine-first model can be adapted to other markets with regulatory tailwinds. The 24/7 access model with integrated specialist network is a proven playbook for employer-sponsored health benefits."
+  },
+  {
+    "company_name": "Kaia Health",
+    "hq_location": "Munich, Germany",
+    "website_url": "https://www.kaiahealth.com",
+    "problem_solved": "Kaia Health provides digital-first musculoskeletal (MSK) pain management, addressing the leading cause of workplace absenteeism and disability claims. It reduces the need for in-person physical therapy and costly procedures.",
+    "who_buys_it": "Self-insured employers, health plans, TPAs, occupational health providers",
+    "key_features": [
+      "AI-powered motion analysis for exercise guidance",
+      "CBT-based psychological support for chronic pain",
+      "3x ROI proven through claims studies with Fortune 150 employers"
+    ],
+    "business_model": "B2B SaaS - Sold to employers and health plans on per-member-per-month basis",
+    "why_varden_care": "High replicability: MSK is a universal employer pain point. The digital-first approach bypasses provider capacity constraints and can scale across geographies with minimal localization."
+  },
+  {
+    "company_name": "EGYM Wellpass",
+    "hq_location": "Munich, Germany",
+    "website_url": "https://egym-wellpass.com",
+    "problem_solved": "EGYM Wellpass provides corporate fitness and wellness benefits, addressing employee health engagement and retention. It consolidates fragmented gym and wellness offerings into a single employer-sponsored benefit.",
+    "who_buys_it": "HR departments, corporate benefits managers, occupational health teams",
+    "key_features": [
+      "Access to 20,000+ fitness and wellness locations across 60+ markets",
+      "User-based pricing (only pay for active employees)",
+      "Integrated app with wellness challenges, nutrition, and prevention courses"
+    ],
+    "business_model": "B2B SaaS - Monthly subscription per active employee user",
+    "why_varden_care": "Strong replicability: corporate fitness benefits are a proven engagement tool. The asset-light marketplace model can be replicated in any market with existing gym/studio infrastructure."
+  },
+  {
+    "company_name": "Arztkonsultation",
+    "hq_location": "Schwerin, Germany",
+    "website_url": "https://arztkonsultation.de",
+    "problem_solved": "Arztkonsultation provides KBV-certified video consultation software, enabling doctors and occupational health providers to conduct reimbursable telemedicine consultations. It solves the technical and regulatory barriers to telemedicine adoption.",
+    "who_buys_it": "Hospitals, MVZs (medical care centers), pharmacies, nursing homes, occupational health providers",
+    "key_features": [
+      "KBV/GKV/KZBV certified for reimbursable video consultations",
+      "End-to-end encryption with virtual waiting room",
+      "API and white-label options for integration into existing systems"
+    ],
+    "business_model": "B2B SaaS - Subscription-based with API integration and white-label options",
+    "why_varden_care": "High replicability in regulated markets: the playbook for achieving telemedicine certification and reimbursement eligibility is transferable to other countries with similar statutory health insurance systems."
+  },
+  {
+    "company_name": "Mindable Health",
+    "hq_location": "Berlin, Germany",
+    "website_url": "https://www.mindable.health",
+    "problem_solved": "Mindable Health provides digital therapeutics for anxiety disorders (panic, agoraphobia, social phobia), addressing the mental health crisis that drives workplace absenteeism and reduced productivity.",
+    "who_buys_it": "Health insurers, employers, occupational health providers, mental health clinics",
+    "key_features": [
+      "DiGA-certified digital therapeutics (app on prescription)",
+      "CBT-based treatment programs with 91% user recommendation rate",
+      "1 in 8 users symptom-free after 8 weeks of use"
+    ],
+    "business_model": "B2B/B2B2C - Reimbursed through statutory health insurance via DiGA program; also sold to employers",
+    "why_varden_care": "Strong replicability: the DiGA regulatory pathway in Germany is a model for other markets developing digital therapeutics frameworks. Mental health is a universal employer concern with high ROI potential."
+  },
+  {
+    "company_name": "TeleClinic",
+    "hq_location": "Munich, Germany",
+    "website_url": "https://www.teleclinic.com",
+    "problem_solved": "TeleClinic provides a telemedicine platform connecting patients with licensed doctors for video consultations, prescriptions, and sick leave certificates. It reduces barriers to accessing primary care for employees.",
+    "who_buys_it": "Employers, health insurers, occupational health providers, direct-to-consumer",
+    "key_features": [
+      "Video consultations with licensed German doctors",
+      "E-prescription and digital sick leave certificates",
+      "Integration with occupational health workflows"
+    ],
+    "business_model": "B2B/B2C - Per-consultation fees and corporate subscriptions",
+    "why_varden_care": "Good replicability: telemedicine platforms are proven models. The focus on German regulatory compliance (e-prescriptions, sick leave) provides a playbook for other highly regulated markets."
+  },
+  {
+    "company_name": "DoctorBox",
+    "hq_location": "Berlin, Germany",
+    "website_url": "https://www.doctorbox.de",
+    "problem_solved": "DoctorBox provides a personal health management app that helps individuals organize their health data, screenings, and medications. It addresses the fragmentation of health information and preventive care tracking.",
+    "who_buys_it": "Employers (as employee benefit), health insurers, direct consumers",
+    "key_features": [
+      "AI-powered health assistant for personalized recommendations",
+      "Preventive screening reminders and medication tracking",
+      "Secure health document storage and pain diary"
+    ],
+    "business_model": "B2C/B2B2C - Freemium model with premium subscription (€2.99/month); corporate licensing",
+    "why_varden_care": "Moderate replicability: personal health record apps are competitive but the preventive care focus aligns with employer wellness trends. The freemium model can be adapted to employer-sponsored benefits."
+  },
+  {
+    "company_name": "CompuGroup Medical (CGM)",
+    "hq_location": "Koblenz, Germany",
+    "website_url": "https://www.cgm.com",
+    "problem_solved": "CompuGroup Medical provides comprehensive healthcare IT solutions including electronic health records, telemedicine, and practice management. For occupational health, it enables digitalization of workplace health services and health data management.",
+    "who_buys_it": "Occupational health providers (företagshälsovård), hospitals, clinics, laboratories",
+    "key_features": [
+      "Electronic health records with interoperability",
+      "Practice management and billing for occupational health",
+      "Telemedicine and remote monitoring integration"
+    ],
+    "business_model": "B2B SaaS - Enterprise software licensing and subscription",
+    "why_varden_care": "Moderate replicability: established healthcare IT players exist in most markets, but the occupational health-specific modules are less common. Opportunity to build niche occupational health software with better UX than legacy systems."
+  }
+]

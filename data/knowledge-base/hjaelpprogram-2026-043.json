@@ -1,0 +1,29 @@
+{
+  "id": "hjaelpprogram-2026-043",
+  "title": "HjälpProgrammet - Digital Mental Health Support",
+  "company": "HjälpProgrammet",
+  "country": "Sweden",
+  "region": "Nordics",
+  "segment": "treatment",
+  "problem": "Access to mental health support is limited. Many people cannot afford or access traditional therapy.",
+  "solution": "Digital self-help program for mental health, offering guided exercises, CBT-based tools, and progress tracking.",
+  "technology": "Mobile app, CBT modules, progress tracking",
+  "target_customer": "Individuals, employers, healthcare regions",
+  "care_setting": "home",
+  "care_domain": "mental health",
+  "care_stage": "treatment",
+  "automation_level": "full",
+  "ai_type": null,
+  "traction_signals": [
+    "Swedish mental health app",
+    "CBT-based self-help",
+    "Healthcare region partnerships"
+  ],
+  "funding": null,
+  "regulatory_notes": "Self-help tool, not clinical therapy.",
+  "varden_fit": "Moderate — mental health support could complement Varden's mental health provider network.",
+  "source": "Swedish health tech ecosystem",
+  "url": "https://www.hjalpprogrammet.se",
+  "date_added": "2026-03-11",
+  "notes": "Digital mental health self-help. Lower-intensity intervention."
+}

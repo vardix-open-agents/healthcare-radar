@@ -1,0 +1,22 @@
+{
+  "id": "viz-ai-2026-302",
+  "title": "Viz.ai - Stroke Detection Platform",
+  "company": "Viz.ai",
+  "country": "USA",
+  "segment": "diagnostics",
+  "problem": "Stroke patients experience delayed treatment due to slow image review and coordination",
+  "solution": "AI-powered stroke detection and care coordination platform that automates CT interpretation and alerts stroke teams",
+  "technology": "Deep learning, care coordination software, mobile alerts",
+  "target_customer": "Stroke centers, hospital systems",
+  "care_setting": "hospital",
+  "care_domain": "diagnostics",
+  "care_stage": "acute_care",
+  "automation_level": "full",
+  "ai_type": "computer vision",
+  "traction_signals": ["FDA De Novo clearance", "Deployed 1200+ hospitals", "Raised $200M+"],
+  "funding": "Series D",
+  "regulatory_notes": "FDA De Novo clearance for stroke detection",
+  "source": "sky-round18-diagnostics",
+  "url": "https://www.viz.ai",
+  "date_added": "2026-03-11"
+}

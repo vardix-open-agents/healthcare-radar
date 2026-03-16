@@ -1,0 +1,30 @@
+{
+  "id": "we prescription-2026-021",
+  "title": "LloydsDirect (Echo) - Online Pharmacy Prescription Delivery",
+  "company": "LloydsDirect / Echo",
+  "country": "UK",
+  "region": "EU",
+  "segment": "infrastructure",
+  "problem": "Getting repeat prescriptions is inconvenient. Patients must visit pharmacies in person, wait in queues, and manage medication timing.",
+  "solution": "Online pharmacy platform for NHS repeat prescriptions. Patients order via app, prescriptions are approved electronically, medication is delivered to door.",
+  "technology": "E-prescription integration, pharmacy logistics, mobile app",
+  "target_customer": "Patients on repeat medication, NHS patients",
+  "care_setting": "pharmacy",
+  "care_domain": "general",
+  "care_stage": "treatment",
+  "automation_level": "partial",
+  "ai_type": null,
+  "traction_signals": [
+    "Acquired by LloydsPharmacy (McKesson UK)",
+    "Hundreds of thousands of users",
+    "NHS-integrated service",
+    "Repeat prescription automation"
+  ],
+  "funding": "Acquired",
+  "regulatory_notes": "Licensed pharmacy, GPhC regulated, NHS pharmacy contractor.",
+  "varden_fit": "Moderate — pharmacy integration could complement Varden's clinic marketplace. Not core to Varden's value proposition but potential partnership.",
+  "source": "Industry knowledge",
+  "url": "https://www.lloydsdirect.co.uk",
+  "date_added": "2026-03-11",
+  "notes": "Originally Echo, acquired by LloydsPharmacy. Model could be replicated in Sweden with online pharmacies."
+}

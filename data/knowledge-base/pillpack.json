@@ -1,0 +1,14 @@
+{
+  "company": "PillPack (Amazon Pharmacy)",
+  "country": "US",
+  "problem": "Patients managing multiple medications face confusion with different refill dates, complex dosing schedules, and time-consuming pharmacy visits. This leads to missed doses, medication errors, and poor adherence.",
+  "solution": "Full-service pharmacy that delivers pre-sorted medication packets organized by time of day. Automatic refill management, direct coordination with doctors and insurance, and consolidated billing. Simplifies complex medication regimens into convenient, pre-organized doses delivered to patients' doors.",
+  "problem_type": "medication_management",
+  "solution_type": "SaaS",
+  "buyer": "providers",
+  "varden_fit": "high",
+  "url": "https://www.pillpack.com",
+  "source": "web",
+  "discovery_round": 101,
+  "discovered_by": "sky"
+}

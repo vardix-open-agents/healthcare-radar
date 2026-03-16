@@ -1,0 +1,23 @@
+{
+  "company_name": "Infermedica",
+  "problem_solved": "Inefficient patient triage leads to unnecessary ED visits, delayed care, and poor resource allocation",
+  "solution_description": "AI-powered virtual triage and symptom checker platform. Medical Guidance Platform certified as Class IIb medical device under EU MDR. Provides symptom assessment, care navigation, and clinical decision support. Available in multiple languages with ISO 13485, GDPR compliance. 15+ years of AI experience",
+  "buyer_persona": "health_systems|health_plans|patients",
+  "care_stage": "triage",
+  "automation_level": "partial",
+  "varden_fit": "very_high",
+  "region": "EU",
+  "country": "Poland",
+  "funding_stage": "series_b",
+  "traction_signals": [
+    "15+ years of experience in AI",
+    "50M+ health checkups performed",
+    "40K+ hours of medical review",
+    "Class IIb medical device certified under EU MDR",
+    "Schmitt-Thompson-level accuracy validated in research"
+  ],
+  "notes": "Strong European player with MDR certification - crucial for EU market. Poland headquarters offers cost-effective development. Research shows 2 in 1000 interviews could lead to life-saving decisions. API-first approach enables easy integration",
+  "discovery_round": 51,
+  "discovered_by": "sky",
+  "timestamp": "2026-03-11T23:23:00Z"
+}

@@ -1,0 +1,27 @@
+{
+  "company": "Kry (Consumer Brand)",
+  "country": "Sweden / Norway / Germany",
+  "founded_year": 2015,
+  "category": "Telemedicine",
+  "subsector": "Digital-First Healthcare Provider",
+  "description": "Nordic digital healthcare provider with 34 physical clinics and 14M+ digital consultations. Offers video consultations, digital prescriptions, and in-person care. 4.9 App Store rating from 235,000+ reviews.",
+  "business_model": "B2C - Direct to patients via regional healthcare contracts; B2B employer services",
+  "target_market": "Sweden, Norway, Germany - consumers and employers",
+  "funding_stage": "Series D",
+  "funding_amount_eur": 400000000,
+  "key_investors": "Index Ventures, Creandum, Accel, General Atlantic",
+  "employees": 3000,
+  "customers": "14M+ consultations, 34 clinics",
+  "revenue_eur": 250000000,
+  "tech_stack": ["Mobile app", "Proprietary EHR", "Video conferencing", "AI triage", "Practice management"],
+  "integration_points": ["National Medicines List (Sweden)", "Regional health systems", "Lab networks"],
+  "competitive_advantage": "Hybrid digital-physical model, deepest clinical capabilities, highest app ratings, NLL integration",
+  "varden_fit": {
+    "threat_level": "high",
+    "opportunity": "monitor",
+    "rationale": "Major competitor in Nordics - benchmark for hybrid care delivery model"
+  },
+  "data_quality": "high",
+  "sources": ["kry.se", "kry.tech"],
+  "last_updated": "2026-03-11"
+}

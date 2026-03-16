@@ -1,0 +1,16 @@
+{
+  "id": "problem-2026-070",
+  "problem": "Credentialing new physicians takes 90-120 days due to manual verification of licenses, education, and work history across multiple databases",
+  "problem_type": "staffing_workforce",
+  "solution_type": "Automated credentialing platforms, primary source verification APIs, blockchain credential storage",
+  "care_stage": "administration",
+  "automation_type": "workflow_automation",
+  "buyer": "health_system",
+  "care_setting": "mixed",
+  "companies": ["CredentialStream", "Symplr", "Silversheet", "Intiva Health", "Modio"],
+  "signals": ["Provider enrollment bottleneck", "NPDB integration requirements", "Locum tenens growth"],
+  "boring_software": true,
+  "contrarian": false,
+  "url": "https://www.cms.gov/Medicare/Provider-Enrollment-and-Certification",
+  "date_added": "2026-03-11"
+}

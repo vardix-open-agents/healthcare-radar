@@ -1,0 +1,27 @@
+{
+  "company": "Oviva",
+  "country": "Germany / UK",
+  "founded_year": 2014,
+  "category": "Digital Therapeutics",
+  "subsector": "Digital Nutrition Therapy",
+  "description": "Digital therapeutic company providing online nutrition therapy for diabetes, weight management, and chronic conditions. Covered by statutory health insurers in Germany and NHS in UK.",
+  "business_model": "B2B2C - Reimbursed by insurers (Germany) and NHS (UK)",
+  "target_market": "Germany (statutory health insurers) and UK (NHS); patients with chronic conditions",
+  "funding_stage": "Series C",
+  "funding_amount_eur": 70000000,
+  "key_investors": "AlbionVC, Earlybird, Eight Roads, Hoxton Ventures",
+  "employees": 300,
+  "customers": "50+ insurer contracts, 250000+ patients treated",
+  "revenue_eur": 30000000,
+  "tech_stack": ["Mobile app", "Coaching platform", "Food tracking AI", "Outcome tracking"],
+  "integration_points": ["Insurer systems", "NHS systems", "EHRs"],
+  "competitive_advantage": "Reimbursed by statutory insurers, clinical evidence, multi-country presence",
+  "varden_fit": {
+    "threat_level": "low",
+    "opportunity": "partner",
+    "rationale": "Complementary chronic disease management - could integrate with occupational health"
+  },
+  "data_quality": "high",
+  "sources": ["oviva.com", "crunchbase.com"],
+  "last_updated": "2026-03-11"
+}

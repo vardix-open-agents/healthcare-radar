@@ -1,0 +1,16 @@
+{
+  "id": "problem-2026-112",
+  "problem": "Healthcare systems cannot predict staffing needs based on patient acuity, leading to understaffing",
+  "problem_type": "staffing",
+  "solution_type": "Predictive staffing models, patient acuity integration, dynamic nurse-to-patient ratios",
+  "care_stage": "admin",
+  "automation_type": "ai_assisted",
+  "buyer": "hospital",
+  "care_setting": "primary_care",
+  "companies": ["Quadrant", "Chief Nursing Officers", "Hospital IQ", "LeanTaaS"],
+  "signals": ["Nurse staffing ratios legislation", "Quality penalties", "Financial losses from poor staffing"],
+  "boring_software": false,
+  "contrarian": false,
+  "url": "https://www.leantaas.com",
+  "date_added": "2026-03-11"
+}

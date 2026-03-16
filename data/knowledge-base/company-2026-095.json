@@ -1,0 +1,27 @@
+{
+  "company": "Doctoronnet",
+  "country": "Poland",
+  "founded_year": 2016,
+  "category": "Telemedicine",
+  "subsector": "Polish Telemedicine Platform",
+  "description": "Polish telemedicine platform connecting patients with doctors via video consultation. Growing platform in Polish market with focus on accessibility and convenience.",
+  "business_model": "B2C - Direct to patients; B2B for corporate clients",
+  "target_market": "Polish consumers and employers",
+  "funding_stage": "Series A",
+  "funding_amount_eur": 5000000,
+  "key_investors": "Polish VCs, CEE funds",
+  "employees": 60,
+  "customers": "200000+ registered users",
+  "revenue_eur": 4000000,
+  "tech_stack": ["Web platform", "Mobile apps", "Video conferencing"],
+  "integration_points": ["Polish health system", "E-prescriptions", "Pharmacies"],
+  "competitive_advantage": "Local market knowledge, Polish language, regulatory compliance",
+  "varden_fit": {
+    "threat_level": "low",
+    "opportunity": "partner",
+    "rationale": "Entry point to Polish market - potential partnership or acquisition target"
+  },
+  "data_quality": "low",
+  "sources": ["doctoronnet.pl", "linkedin.com"],
+  "last_updated": "2026-03-11"
+}

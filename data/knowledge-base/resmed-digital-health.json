@@ -1,0 +1,14 @@
+{
+  "company": "ResMed Digital Health",
+  "country": "US",
+  "problem": "Patients with sleep apnea, COPD, and other respiratory conditions need connected care and remote monitoring to improve adherence and outcomes.",
+  "solution": "Digital health platform with over 100 million lives in network, providing connected respiratory devices, remote patient monitoring, and data analytics for providers to improve care delivery and reduce costs across sleep and respiratory conditions.",
+  "problem_type": "pulmonology",
+  "solution_type": "SaaS",
+  "buyer": "clinics, health systems",
+  "varden_fit": "medium",
+  "url": "https://www.resmed.com",
+  "source": "web",
+  "discovery_round": 115,
+  "discovered_by": "sky"
+}

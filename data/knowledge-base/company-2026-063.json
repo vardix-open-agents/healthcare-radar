@@ -1,0 +1,27 @@
+{
+  "company": "Qare",
+  "country": "France",
+  "founded_year": 2015,
+  "category": "Telemedicine",
+  "subsector": "Video Consultation Platform",
+  "description": "Leading French teleconsultation platform connecting patients with GPs and specialists via video. Available 7/7 with quick appointment booking.",
+  "business_model": "B2C - Direct to patients, reimbursed by French social security",
+  "target_market": "French consumers seeking convenient access to GPs and specialists",
+  "funding_stage": "Series B",
+  "funding_amount_eur": 45000000,
+  "key_investors": "Partech, Bpifrance, MAIF Avenir",
+  "employees": 250,
+  "customers": "2M+ registered users",
+  "revenue_eur": 35000000,
+  "tech_stack": ["Web platform", "iOS app", "Android app", "Video conferencing"],
+  "integration_points": ["Doctolib (booking)", "French health system (Carte Vitale)", "DMP (patient records)"],
+  "competitive_advantage": "First major telemedicine platform in France, established doctor network, 7/7 availability",
+  "varden_fit": {
+    "threat_level": "low",
+    "opportunity": "monitor",
+    "rationale": "Direct competitor in France but different positioning - Qare is B2C while Varden is B2B"
+  },
+  "data_quality": "high",
+  "sources": ["qare.fr", "crunchbase.com"],
+  "last_updated": "2026-03-11"
+}

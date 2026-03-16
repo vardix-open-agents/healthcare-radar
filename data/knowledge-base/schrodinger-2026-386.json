@@ -1,0 +1,22 @@
+{
+  "company_name": "Schrödinger",
+  "problem_solved": "Expensive and slow computational chemistry for drug discovery and materials science",
+  "solution_description": "Physics-based computational platform for drug discovery using molecular dynamics and quantum mechanics. SaaS software and internal drug development pipeline. Partnerships with major pharma.",
+  "buyer_persona": "pharma_lifesciences,biotech",
+  "care_stage": "research",
+  "automation_level": "assistive",
+  "varden_fit": "medium",
+  "region": "US",
+  "country": "US",
+  "funding_stage": "public",
+  "traction_signals": [
+    "IPO 2020, market cap ~$3B",
+    "Bill Gates investment",
+    "Bristol Myers partnership worth $2.7B",
+    "Industry-standard computational chemistry"
+  ],
+  "notes": "Premier computational chemistry platform. Physics-based approach vs pure AI. Platform used by 1500+ institutions. Competes with Insilico, Atomwise.",
+  "discovery_round": 53,
+  "discovered_by": "sky",
+  "timestamp": "2026-03-11T23:18:00Z"
+}

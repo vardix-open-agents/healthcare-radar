@@ -1,0 +1,14 @@
+{
+  "company": "eConsult (Huma)",
+  "country": "GB",
+  "problem": "NHS GP practices and hospitals need digital triage tools to collect patient information, manage demand, and ensure patients are seen by the right person at the right time",
+  "solution": "All-in-one digital triage and remote consultation platform with robust information collection, specialist triage question sets, and hybrid consultation tools for primary care, outpatients, and urgent care",
+  "problem_type": "practice_management",
+  "solution_type": "SaaS",
+  "buyer": "clinics",
+  "varden_fit": "low",
+  "url": "https://econsult.net",
+  "source": "web",
+  "discovery_round": 87,
+  "discovered_by": "nova"
+}

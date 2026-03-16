@@ -1,0 +1,14 @@
+{
+  "company": "Storii",
+  "country": "GB",
+  "problem": "Elderly family members' life stories and memories are often lost because recording them requires technology skills, and families lack structured ways to preserve legacies.",
+  "solution": "Automated phone-based life story recording platform that calls loved ones with curated questions, records and transcribes responses, and creates downloadable audiobooks and eBooks—no internet required.",
+  "problem_type": "hospice",
+  "solution_type": "SaaS",
+  "buyer": "providers",
+  "varden_fit": "medium",
+  "url": "https://www.storii.com",
+  "source": "web",
+  "discovery_round": 142,
+  "discovered_by": "sky"
+}

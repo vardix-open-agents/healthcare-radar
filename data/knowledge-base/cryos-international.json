@@ -1,0 +1,14 @@
+{
+  "company": "Cryos International",
+  "country": "DK",
+  "problem": "Patients and clinics need reliable access to screened donor sperm and eggs for fertility treatments worldwide",
+  "solution": "World's largest sperm and egg bank with online donor search, global distribution to 100+ countries, and comprehensive donor screening with ID-release options",
+  "problem_type": "fertility",
+  "solution_type": "SaaS",
+  "buyer": "clinics",
+  "varden_fit": "medium",
+  "url": "https://www.cryosinternational.com",
+  "source": "web",
+  "discovery_round": 138,
+  "discovered_by": "sky"
+}

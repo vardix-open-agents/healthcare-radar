@@ -1,0 +1,22 @@
+{
+  "company_name": "Cegedim",
+  "problem_solved": "Healthcare professional engagement and CRM in life sciences",
+  "solution_description": "French company providing CRM and data solutions for life sciences. Offers healthcare professional database, CRM, and patient engagement tools. Legacy Siebel competitor.",
+  "buyer_persona": "pharma_lifesciences",
+  "care_stage": "commercial",
+  "automation_level": "partial",
+  "varden_fit": "low",
+  "region": "EU",
+  "country": "France",
+  "funding_stage": "public",
+  "traction_signals": [
+    "Euronext listed",
+    "European pharma CRM leader",
+    "OneKey HCP database",
+    "50+ years in healthcare"
+  ],
+  "notes": "European CRM competitor to Veeva. Strong in EU pharma commercial. OneKey healthcare professional database. Legacy position in European market.",
+  "discovery_round": 53,
+  "discovered_by": "sky",
+  "timestamp": "2026-03-11T23:18:00Z"
+}

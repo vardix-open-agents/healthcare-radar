@@ -1,0 +1,27 @@
+{
+  "company": "NHS SBS",
+  "country": "United Kingdom",
+  "founded_year": 2005,
+  "category": "Healthcare Services",
+  "subsector": "NHS Procurement & Shared Services",
+  "description": "NHS Shared Business Services providing procurement, finance, and back-office services to NHS organizations. Key route to market for suppliers to NHS including occupational health services.",
+  "business_model": "Public sector - Shared services to NHS organizations",
+  "target_market": "NHS trusts, CCGs, GP practices",
+  "funding_stage": "Government-funded",
+  "funding_amount_gbp": null,
+  "key_investors": "NHS England / Department of Health",
+  "employees": 1500,
+  "customers": "400+ NHS organizations",
+  "revenue_gbp": 250000000,
+  "tech_stack": ["Procurement platform", "Finance systems", "Framework agreements"],
+  "integration_points": ["NHS procurement processes", "Framework agreements", "Supplier management"],
+  "competitive_advantage": "Official NHS procurement route, framework agreements, trusted supplier status",
+  "varden_fit": {
+    "threat_level": "low",
+    "opportunity": "partner",
+    "rationale": "Key procurement route to NHS - essential for public sector contracts"
+  },
+  "data_quality": "high",
+  "sources": ["nhs.sbs", "sbs.nhs.uk"],
+  "last_updated": "2026-03-11"
+}

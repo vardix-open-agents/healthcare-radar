@@ -1,0 +1,33 @@
+{
+  "id": "oraclehealth-2026-084",
+  "title": "Oracle Health (Cerner) - Enterprise Healthcare Infrastructure",
+  "company": "Oracle Health (formerly Cerner)",
+  "country": "US",
+  "region": "US",
+  "segment": "infrastructure",
+  "problem": "Healthcare organizations need integrated clinical, financial, and operational systems with AI embedded throughout.",
+  "solution": "Comprehensive healthcare suite: clinical suite, financial operations, payer operations, population health, interoperability. AI built into infrastructure, data, and solutions. Near real-time data exchange between payers and providers.",
+  "technology": "Oracle Cloud Infrastructure, embedded AI, EHR, RCM, analytics",
+  "target_customer": "Health systems, payers, public health organizations",
+  "care_setting": "all",
+  "care_domain": "general",
+  "care_stage": "admin",
+  "automation_level": "partial",
+  "ai_type": "Embedded AI across infrastructure and applications",
+  "traction_signals": [
+    "Major global health system deployments",
+    "AI embedded at every layer",
+    "Integrated payer operations",
+    "Comprehensive financial operations suite"
+  ],
+  "funding": "Part of Oracle Corporation",
+  "regulatory_notes": "HIPAA compliant, enterprise security",
+  "varden_fit": "HIGH — Oracle Health shows the enterprise vision for integrated payer-provider infrastructure. European systems need this level of integration.",
+  "source": "Web research",
+  "url": "https://www.oracle.com/health",
+  "date_added": "2026-03-11",
+  "problem_type": "claims",
+  "contrarian": true,
+  "boring_software": true,
+  "notes": "CONTRARIAN: Enterprise healthcare IT is massive and essential. European health systems lack integrated payer-provider infrastructure."
+}

@@ -1,0 +1,16 @@
+{
+  "id": "problem-2026-043",
+  "problem": "South African public clinics serve 50+ patients per clinician daily, with 3-month appointment backlogs",
+  "problem_type": "scheduling",
+  "solution_type": "AI-powered scheduling optimization, group visits, chronic disease management clinics",
+  "care_stage": "treatment",
+  "automation_type": "ai_assisted",
+  "buyer": "health_system",
+  "care_setting": "primary_care",
+  "companies": ["Healthventures", "Right to Care", "Provincial health IT"],
+  "signals": ["South African healthcare crisis", "NHI rollout planning", "Donor-funded pilots"],
+  "boring_software": false,
+  "contrarian": false,
+  "url": "https://www.health.gov.za",
+  "date_added": "2026-03-11"
+}

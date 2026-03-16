@@ -1,0 +1,14 @@
+{
+  "company": "Qualifacts",
+  "country": "US",
+  "problem": "Behavioral health agencies face administrative burden, lack of data-driven insights, interoperability challenges, and difficulty managing compliance across complex care delivery systems",
+  "solution": "AI-powered behavioral health EHR and data solutions with embedded AI workflows (Qualifacts iQ), secure data exchange, open integrations, and configurable platforms serving 2,200+ behavioral health agencies nationwide for documentation, billing, and outcomes tracking",
+  "problem_type": "behavioral_health",
+  "solution_type": "SaaS",
+  "buyer": "providers",
+  "varden_fit": "medium",
+  "url": "https://www.qualifacts.com/",
+  "source": "web",
+  "discovery_round": 123,
+  "discovered_by": "sky"
+}

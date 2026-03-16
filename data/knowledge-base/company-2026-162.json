@@ -1,0 +1,27 @@
+{
+  "company": "Livi (Kry) (Sweden)",
+  "country": "Sweden",
+  "founded_year": 2015,
+  "category": "Telemedicine",
+  "subsector": "Digital Health Platform",
+  "description": "European digital health platform offering video consultations, digital triage, and asynchronous care. One of largest telemedicine providers in Europe. Operates across Sweden, Norway, Germany, UK, and France under Kry and Livi brands.",
+  "business_model": "B2C/B2B - Telemedicine to patients and employers",
+  "target_market": "Patients and employers in Europe",
+  "funding_stage": "Series D",
+  "funding_amount_eur": 400000000,
+  "key_investors": "Index Ventures, Creandum, Accel, General Atlantic",
+  "employees": "3000+",
+  "customers": "14M+ patient appointments",
+  "revenue_eur": null,
+  "tech_stack": ["Video platform", "Triage AI", "Custom EHR", "Patient app", "Clinician tools"],
+  "integration_points": ["National health systems", "Insurance providers", "Lab networks"],
+  "competitive_advantage": "European market leader, proprietary tech stack, integrated care model",
+  "varden_fit": {
+    "threat_level": "high",
+    "opportunity": "monitor",
+    "rationale": "Major European telemedicine competitor - potential threat in occupational health"
+  },
+  "data_quality": "high",
+  "sources": ["kry.se", "livi.co.uk", "crunchbase.com"],
+  "last_updated": "2026-03-11"
+}

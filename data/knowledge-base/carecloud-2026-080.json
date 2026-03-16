@@ -1,0 +1,33 @@
+{
+  "id": "carecloud-2026-080",
+  "title": "CareCloud - AI-Powered EHR and RCM Platform",
+  "company": "CareCloud",
+  "country": "US",
+  "region": "US",
+  "segment": "admin",
+  "problem": "Practices need modern EHR with AI capabilities, integrated RCM, and patient engagement tools. Legacy systems are slow and inefficient.",
+  "solution": "Cloud-based EHR, practice management, RCM, and patient experience platform. cirrusAI for clinical notes and AI-driven appeals. stratusAI Desk Agent for front desk automation. Revenue cycle management services.",
+  "technology": "cirrusAI (ambient listening, generative AI), stratusAI, EHR, RCM",
+  "target_customer": "Medical practices, specialty practices",
+  "care_setting": "primary_care",
+  "care_domain": "general",
+  "care_stage": "admin",
+  "automation_level": "partial",
+  "ai_type": "Generative AI for clinical notes, AI for appeals",
+  "traction_signals": [
+    "cirrusAI Notes saves 20% of provider time",
+    "AI-driven appeals for reimbursement optimization",
+    "Medsphere acquisition for hospital IT",
+    "Comprehensive practice management suite"
+  ],
+  "funding": "Public company (CLOD)",
+  "regulatory_notes": "HIPAA compliant, cloud-based",
+  "varden_fit": "HIGH — CareCloud's AI-driven appeals and RCM services are directly applicable to European multi-payer environments.",
+  "source": "Web research",
+  "url": "https://www.carecloud.com",
+  "date_added": "2026-03-11",
+  "problem_type": "claims",
+  "contrarian": true,
+  "boring_software": true,
+  "notes": "CONTRARIAN: AI-driven appeals and RCM are essential infrastructure. European payers need automated claims resolution."
+}

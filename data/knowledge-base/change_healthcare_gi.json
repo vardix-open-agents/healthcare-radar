@@ -1,0 +1,14 @@
+{
+  "company": "Change Healthcare (GI Solutions)",
+  "country": "US",
+  "problem": "Gastroenterology practices face complex revenue cycle challenges including prior authorizations for endoscopic procedures, claim denials for colonoscopy screenings, and inefficient billing workflows specific to GI procedures.",
+  "solution": "Change Healthcare provides revenue cycle management solutions with GI-specific workflows. Their platform handles prior authorization for endoscopic procedures, claim management for colonoscopy and EGD procedures, and analytics for GI practice financial performance. It integrates with GI EHR systems for seamless billing.",
+  "problem_type": "gastroenterology",
+  "solution_type": "SaaS",
+  "buyer": "clinics",
+  "varden_fit": "medium",
+  "url": "https://www.changehealthcare.com",
+  "source": "web",
+  "discovery_round": 113,
+  "discovered_by": "sky"
+}

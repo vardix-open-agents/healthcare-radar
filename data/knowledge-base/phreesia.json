@@ -1,0 +1,14 @@
+{
+  "company": "Phreesia",
+  "country": "US",
+  "problem": "Healthcare providers struggle with manual patient check-in processes, paper forms, staff shortages, and time-consuming administrative tasks like registration, insurance verification, and payment collection that create bottlenecks and reduce staff efficiency.",
+  "solution": "AI-powered patient intake platform offering mobile check-in, automated reminders, digital pre-registration, insurance verification, consent collection, copay collection, and post-visit surveys. Enables patients to self-check-in (88%+ adoption) and eliminates thousands of phone calls monthly.",
+  "problem_type": "patient_intake",
+  "solution_type": "SaaS",
+  "buyer": "providers",
+  "varden_fit": "high",
+  "url": "https://www.phreesia.com/",
+  "source": "web",
+  "discovery_round": 88,
+  "discovered_by": "sky"
+}

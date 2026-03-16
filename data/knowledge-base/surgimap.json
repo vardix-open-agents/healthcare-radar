@@ -1,0 +1,14 @@
+{
+  "company": "Surgimap",
+  "country": "US",
+  "problem": "Spine surgeons and chiropractors lack integrated tools for spinal imaging analysis, case planning, and measurement that integrate with vendor-specific surgical planning workflows",
+  "solution": "FDA-cleared, HIPAA-compliant freeware platform for spinal image analysis, case planning, and measurement sharing, developed by surgeons with vendor-specific tools for surgical planning and data encryption",
+  "problem_type": "chiropractic",
+  "solution_type": "SaaS",
+  "buyer": "clinics",
+  "varden_fit": "medium",
+  "url": "https://www.surgimap.com",
+  "source": "web",
+  "discovery_round": 139,
+  "discovered_by": "nova"
+}

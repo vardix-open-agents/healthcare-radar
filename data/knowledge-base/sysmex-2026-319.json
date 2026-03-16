@@ -1,0 +1,22 @@
+{
+  "id": "sysmex-2026-319",
+  "title": "Sysmex - Hematology Analysis Systems",
+  "company": "Sysmex Corporation",
+  "country": "Japan",
+  "segment": "infrastructure",
+  "problem": "Blood cell counting and analysis labor-intensive and error-prone",
+  "solution": "Automated hematology analyzers with advanced cell recognition and workflow integration",
+  "technology": "Flow cytometry, digital cell imaging, LIS integration",
+  "target_customer": "Hospital labs, reference labs, clinics",
+  "care_setting": "all",
+  "care_domain": "diagnostics",
+  "care_stage": "diagnosis",
+  "automation_level": "full",
+  "ai_type": null,
+  "traction_signals": ["Global market leader hematology", "$3B+ revenue", "90% of US hospitals"],
+  "funding": "Public (TYO: 6869)",
+  "regulatory_notes": "FDA 510(k) cleared",
+  "source": "sky-round18-diagnostics",
+  "url": "https://www.sysmex.com",
+  "date_added": "2026-03-11"
+}

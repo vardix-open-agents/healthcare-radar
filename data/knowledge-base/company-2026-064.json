@@ -1,0 +1,27 @@
+{
+  "company": "Medadom",
+  "country": "France",
+  "founded_year": 2016,
+  "category": "Telemedicine",
+  "subsector": "Walk-in Teleconsultation",
+  "description": "French telemedicine pioneer offering on-demand video consultations without appointments. First company approved by French Ministry of Health for telemedicine. ISO 9001, 27001, 27701, and HDS certified.",
+  "business_model": "B2C - Direct to patients, reimbursed by French social security; B2B for corporate clients",
+  "target_market": "French consumers needing immediate medical consultations",
+  "funding_stage": "Series A",
+  "funding_amount_eur": 15000000,
+  "key_investors": "Bpifrance, Crédit Mutuel Innovation",
+  "employees": 150,
+  "customers": "1.5M+ consultations delivered",
+  "revenue_eur": 20000000,
+  "tech_stack": ["Web platform", "Mobile apps", "Video conferencing", "Mon Espace Santé integration"],
+  "integration_points": ["French health system", "Mon Espace Santé", "Pharmacies"],
+  "competitive_advantage": "First MOH-approved telemedicine platform in France, highest security certifications, French Tech member",
+  "varden_fit": {
+    "threat_level": "low",
+    "opportunity": "partner",
+    "rationale": "Could be partner for occupational health services in France - strong regulatory positioning"
+  },
+  "data_quality": "high",
+  "sources": ["medadom.com", "french-tech.com"],
+  "last_updated": "2026-03-11"
+}

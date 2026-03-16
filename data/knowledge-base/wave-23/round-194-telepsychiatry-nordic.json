@@ -1,0 +1,155 @@
+[
+  {
+    "company_name": "Kry",
+    "country": "Sweden",
+    "headquarters": "Stockholm, Sweden",
+    "founded_year": 2014,
+    "description": "Leading European digital healthcare platform offering video consultations with doctors, psychologists, nurses, and physiotherapists. Operates in Sweden, Norway, Germany, UK, and France. Provides integrated mental health services including therapy and psychiatric consultations through app-based platform.",
+    "services": [
+      "Video consultations with psychologists",
+      "Psychiatric consultations",
+      "Digital therapy programs",
+      "CBT-based treatments",
+      "Mental health assessments"
+    ],
+    "funding_stage": "Series D / Late Stage",
+    "total_funding": "€355M+",
+    "website": "https://www.kry.se",
+    "key_features": "Largest digital health provider in Nordics; 34+ physical clinics in Sweden; 14M+ consultations; 24/7 availability; operates across multiple European countries",
+    "employees": "1000+"
+  },
+  {
+    "company_name": "Mindler",
+    "country": "Sweden",
+    "headquarters": "Stockholm, Sweden",
+    "founded_year": 2018,
+    "description": "Digital psychology platform providing online therapy and mental health services. Offers video consultations with licensed psychologists, iCBT (internet-based Cognitive Behavioral Therapy) programs, and neuropsychiatric assessments for ADHD/ADD and Autism.",
+    "services": [
+      "Video therapy sessions",
+      "iCBT (Internet-based CBT) programs",
+      "Neuropsychiatric assessments (ADHD/ADD, Autism)",
+      "Psychological treatments for depression, anxiety, stress",
+      "Multilingual support (20+ languages)"
+    ],
+    "funding_stage": "Series B",
+    "total_funding": "€50M+",
+    "website": "https://mindler.se",
+    "key_features": "100 SEK per session with healthcare card; 200,000+ patients treated; 80% patient improvement rate; no wait times; licensed psychologists",
+    "employees": "200-300"
+  },
+  {
+    "company_name": "Doktor.se",
+    "country": "Sweden",
+    "headquarters": "Stockholm, Sweden",
+    "founded_year": 2016,
+    "description": "Digital healthcare provider combining telehealth with physical healthcare centers. Offers chat and video consultations within 30 minutes, psychological services, and access to 27+ healthcare centers across Sweden.",
+    "services": [
+      "Chat and video consultations",
+      "Psychologist services",
+      "Mental health treatments",
+      "Physical healthcare centers",
+      "Fast access (within 24h to clinics)"
+    ],
+    "funding_stage": "Series C",
+    "total_funding": "€75M+",
+    "website": "https://doktor.se",
+    "key_features": "Hybrid digital-physical model; 27+ healthcare centers; 10M+ consultations; 95% patient satisfaction; chat available within 30 minutes",
+    "employees": "500+"
+  },
+  {
+    "company_name": "Min Doktor",
+    "country": "Sweden",
+    "headquarters": "Stockholm, Sweden",
+    "founded_year": 2013,
+    "description": "One of Sweden's first digital healthcare providers offering online medical consultations and mental health services. Provides video consultations, chat-based healthcare, and psychological support through mobile app and web platform.",
+    "services": [
+      "Video doctor consultations",
+      "Mental health support",
+      "Digital prescriptions",
+      "Chat-based healthcare",
+      "Psychological assessments"
+    ],
+    "funding_stage": "Series B",
+    "total_funding": "€40M+",
+    "website": "https://mindoktor.se",
+    "key_features": "Pioneer in Swedish digital health; integrated mental health services; established patient base; regulatory compliant",
+    "employees": "150-250"
+  },
+  {
+    "company_name": "Vastaamo",
+    "country": "Finland",
+    "headquarters": "Helsinki, Finland",
+    "founded_year": 2005,
+    "description": "Finnish psychotherapy and mental health services provider offering both in-clinic and online therapy. One of the largest private psychotherapy providers in Finland. Notable for extensive network of therapists and psychologists across Finland.",
+    "services": [
+      "Individual psychotherapy",
+      "Online therapy sessions",
+      "Couples therapy",
+      "Workplace mental health services",
+      "Psychological assessments"
+    ],
+    "funding_stage": "Private / Acquired",
+    "total_funding": "N/A (private)",
+    "website": "https://www.vastaamo.fi",
+    "key_features": "Largest private psychotherapy provider in Finland; 200+ therapists; nationwide coverage; workplace mental health partnerships",
+    "employees": "400+",
+    "notes": "Experienced significant data breach scandal in 2020, affecting operations and reputation"
+  },
+  {
+    "company_name": "Mehiläinen Digital",
+    "country": "Finland",
+    "headquarters": "Helsinki, Finland",
+    "founded_year": "1919 (digital services launched 2015+)",
+    "description": "Digital arm of Mehiläinen, Finland's largest private healthcare provider. Offers comprehensive telemedicine services including mental health consultations, therapy, and psychiatric services through digital platform OmaMehiläinen.",
+    "services": [
+      "Video consultations with psychiatrists",
+      "Online therapy and counseling",
+      "Mental health assessments",
+      "Digital prescription services",
+      "Integrated health records"
+    ],
+    "funding_stage": "Established / Private Equity owned",
+    "total_funding": "N/A (part of larger healthcare group)",
+    "website": "https://www.mehilainen.fi",
+    "key_features": "Largest private healthcare provider in Finland; comprehensive digital platform OmaMehiläinen; 1M+ digital users; integrated physical and digital care",
+    "employees": "10000+ (total group), 500+ in digital services"
+  },
+  {
+    "company_name": "Dr. Dropin",
+    "country": "Norway",
+    "headquarters": "Oslo, Norway",
+    "founded_year": 2017,
+    "description": "Norwegian digital healthcare provider offering fast access to doctors and mental health professionals through app-based consultations. Provides video consultations, psychologist services, and operates physical clinics alongside digital services.",
+    "services": [
+      "Video doctor consultations",
+      "Psychologist and therapy services",
+      "Mental health support",
+      "Physical clinic visits",
+      "Digital prescriptions"
+    ],
+    "funding_stage": "Series B",
+    "total_funding": "€60M+",
+    "website": "https://drdropin.no",
+    "key_features": "Fast appointment booking; hybrid digital-physical model; operates in Norway and expanding; focus on accessibility and convenience",
+    "employees": "300-400"
+  },
+  {
+    "company_name": "Livi (formerly Kry in Nordic markets)",
+    "country": "Sweden/Nordic",
+    "headquarters": "Stockholm, Sweden",
+    "founded_year": 2014,
+    "description": "European digital healthcare brand operating in Nordic countries, UK, France, and Germany. Rebranded from Kry in some markets while maintaining Kry brand in Nordics. Offers comprehensive mental health services including video therapy, psychiatric consultations, and digital treatment programs.",
+    "services": [
+      "Video consultations with mental health professionals",
+      "Psychiatric services",
+      "Digital therapy programs",
+      "Mental health screening",
+      "Cross-border telemedicine"
+    ],
+    "funding_stage": "Series D / Late Stage",
+    "total_funding": "€355M+",
+    "website": "https://www.livi.com",
+    "key_features": "Pan-European presence; operates in 5+ countries; integrated mental health services; 14M+ consultations globally; strong regulatory compliance",
+    "employees": "1000+ globally"
+  }
+]

@@ -1,0 +1,28 @@
+{
+  "company": "Redox (USA)",
+  "country": "United States",
+  "founded_year": 2014,
+  "category": "Healthcare Infrastructure",
+  "subsector": "Healthcare API Platform",
+  "description": "Leading healthcare API platform providing universal integration to EHR systems. Single API connection to integrate with any EHR including Epic, Cerner, athenahealth, and 50+ other systems. Accelerates digital health deployment by eliminating need for custom integrations.",
+  "business_model": "B2B - API platform to digital health companies and healthcare IT vendors",
+  "target_market": "Digital health startups, healthcare IT vendors, health systems",
+  "funding_stage": "Series D",
+  "funding_amount_usd": 95000000,
+  "key_investors": "Battery Ventures, .406 Ventures, RRE Ventures",
+  "employees": "250+",
+  "customers": "200+ digital health companies",
+  "revenue_usd": null,
+  "tech_stack": ["Universal API", "FHIR support", "HL7 integration", "Real-time data exchange", "Data normalization"],
+  "integration_points": ["Epic", "Cerner", "athenahealth", "eClinicalWorks", "50+ EHR systems"],
+  "competitive_advantage": "Single API for all EHRs, accelerates go-to-market, reduces integration costs from $100K+ to subscription model",
+  "boring_software": true,
+  "varden_fit": {
+    "threat_level": "low",
+    "opportunity": "benchmark",
+    "rationale": "Infrastructure benchmark - similar to Leyr. Demonstrates massive market need for healthcare API platforms"
+  },
+  "data_quality": "high",
+  "sources": ["redoxengine.com", "crunchbase.com"],
+  "last_updated": "2026-03-11"
+}

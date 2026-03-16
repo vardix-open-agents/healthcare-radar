@@ -1,0 +1,14 @@
+{
+  "company": "Amazing Charts",
+  "country": "US",
+  "problem": "Independent healthcare practices across various specialties need affordable, easy-to-use EHR and practice management without enterprise complexity",
+  "solution": "EHR and practice management platform with customizable charting, medical billing, RCM services, and patient engagement tools for independent practices in family medicine, pediatrics, dermatology, and internal medicine",
+  "problem_type": "practice_management",
+  "solution_type": "SaaS",
+  "buyer": "clinics",
+  "varden_fit": "medium",
+  "url": "https://www.amazingcharts.com",
+  "source": "web",
+  "discovery_round": 69,
+  "discovered_by": "sky"
+}

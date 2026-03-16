@@ -1,0 +1,14 @@
+{
+  "company": "Modernizing Medicine",
+  "country": "US",
+  "problem": "Hematology and oncology practices require specialized EHR workflows for blood disorder diagnosis, chemotherapy management, and coagulation tracking that generic EHR systems cannot adequately support.",
+  "solution": "Specialty-specific EHR platform for hematology/oncology with built-in clinical content, oncology-specific templates, medication management, and integrated practice management for blood disorder clinics.",
+  "problem_type": "hematology",
+  "solution_type": "SaaS",
+  "buyer": "clinics",
+  "varden_fit": "medium",
+  "url": "https://www.modmed.com",
+  "source": "web",
+  "discovery_round": 120,
+  "discovered_by": "sky"
+}

@@ -1,0 +1,16 @@
+{
+  "id": "problem-2026-103",
+  "problem": "Skilled nursing facility patients wait 72 hours for medication delivery from hospital pharmacy",
+  "problem_type": "coordination",
+  "solution_type": "Automated SNF medication management, real-time pharmacy coordination, medication synchronization",
+  "care_stage": "treatment",
+  "automation_type": "workflow_automation",
+  "buyer": "clinic",
+  "care_setting": "home",
+  "companies": ["Omnicell", "BD", "ScriptPro", "Parata Systems"],
+  "signals": ["SNF medication errors", "Post-acute care transitions", "Long-term care pharmacy consolidation"],
+  "boring_software": true,
+  "contrarian": false,
+  "url": "https://www.omnicell.com",
+  "date_added": "2026-03-11"
+}

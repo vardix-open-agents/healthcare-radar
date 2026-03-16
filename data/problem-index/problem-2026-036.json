@@ -1,0 +1,16 @@
+{
+  "id": "problem-2026-036",
+  "problem": "New Zealand Māori patients experience 7-year life expectancy gap due to healthcare access barriers",
+  "problem_type": "navigation",
+  "solution_type": "Cultural navigation services, Māori-specific care pathways, community health worker integration",
+  "care_stage": "intake",
+  "automation_type": "manual_augmentation",
+  "buyer": "health_system",
+  "care_setting": "primary_care",
+  "companies": ["Whānau Ora", "Hauora Māori providers", "District health boards"],
+  "signals": ["Māori health equity focus", "Cultural competency requirements", "Community-based models"],
+  "boring_software": false,
+  "contrarian": true,
+  "url": "https://www.health.govt.nz/maori-health",
+  "date_added": "2026-03-11"
+}

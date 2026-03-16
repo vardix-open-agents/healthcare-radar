@@ -1,0 +1,14 @@
+{
+  "company": "Curve Health",
+  "country": "US",
+  "problem": "Skilled nursing facility (SNF) residents, including those with chronic kidney disease, experience high hospitalization rates due to limited access to specialists and after-hours clinical resources, leading to poor outcomes and avoidable costs",
+  "solution": "Digital health platform enabling telemedicine consultations and workflow optimization for SNFs. Provides enhanced provider accessibility, seamless connectivity for remote visits, two-way patient data access, and streamlined documentation. Reduces hospitalizations, improves patient outcomes, and optimizes PDPM revenue capture for nursing facilities",
+  "problem_type": "nephrology",
+  "solution_type": "SaaS",
+  "buyer": "skilled nursing facilities",
+  "varden_fit": "medium",
+  "url": "https://www.curvehealth.com/",
+  "source": "web",
+  "discovery_round": 105,
+  "discovered_by": "sky"
+}

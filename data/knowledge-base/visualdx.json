@@ -1,0 +1,14 @@
+{
+  "company": "VisualDx",
+  "country": "US",
+  "problem": "Non-dermatologist clinicians struggle to accurately diagnose skin conditions, leading to delayed referrals, inappropriate treatments, and wasted healthcare costs",
+  "solution": "Visual clinical decision support system (CDSS) with comprehensive dermatology image library and AI-powered diagnostic assistance to help clinicians identify and manage skin conditions",
+  "problem_type": "dermatology",
+  "solution_type": "SaaS",
+  "buyer": "clinics",
+  "varden_fit": "medium",
+  "url": "https://www.visualdx.com",
+  "source": "web",
+  "discovery_round": 106,
+  "discovered_by": "nova"
+}

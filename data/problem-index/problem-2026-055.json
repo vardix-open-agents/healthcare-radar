@@ -1,0 +1,16 @@
+{
+  "id": "problem-2026-055",
+  "problem": "Cancer patients navigate 10+ specialists with no centralized care coordination",
+  "problem_type": "coordination",
+  "solution_type": "Tumor boards, care navigation platforms, multidisciplinary care pathways",
+  "care_stage": "treatment",
+  "automation_type": "workflow_automation",
+  "buyer": "health_system",
+  "care_setting": "specialty",
+  "companies": ["Flatiron Health", "Navigating Cancer", "Hospital cancer centers"],
+  "signals": ["Oncology navigation evidence", "NCI coordination standards", "Patient experience focus"],
+  "boring_software": true,
+  "contrarian": false,
+  "url": "https://flatiron.com",
+  "date_added": "2026-03-11"
+}

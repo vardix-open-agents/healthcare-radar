@@ -1,0 +1,154 @@
+{
+  "round": 187,
+  "focus_area": "Home Health / DME (France/Benelux)",
+  "target": "6-8 companies in Home Health / DME in France and Benelux",
+  "focus": [
+    "Home health agency software",
+    "Durable medical equipment tracking",
+    "Home infusion management",
+    "Remote patient monitoring",
+    "Care coordination"
+  ],
+  "exclude": [
+    "Consumer health apps",
+    "DME manufacturers (no software)"
+  ],
+  "companies": [
+    {
+      "company_name": "Nedap Ons",
+      "hq_location": "Groenlo, Netherlands",
+      "website_url": "https://nedap-ons.nl/",
+      "problem_solved": "Nedap Ons provides standardized data exchange solutions for home care organizations, enabling secure sharing of patient data across multiple care providers to improve care coordination and continuity.",
+      "who_buys_it": "Home care agencies, nursing homes, and healthcare organizations in the Netherlands that need to coordinate care across multiple providers and share patient information securely.",
+      "key_features": [
+        "Standardized data exchange platform",
+        "Secure information sharing across care networks",
+        "Integration with national healthcare infrastructure",
+        "Support for multi-organizational care coordination",
+        "Compliance with Dutch healthcare data standards"
+      ],
+      "business_model": "SaaS subscription model with per-user or per-organization pricing, likely including implementation and support services.",
+      "why_varden_should_care": "Nedap Ons addresses the critical need for interoperability in Dutch home care, where patients often receive care from multiple organizations. As the Netherlands pushes for integrated care models, solutions that enable secure, standardized data exchange become increasingly valuable. Their focus on national-level collaboration positions them well in a market moving toward connected care."
+    },
+    {
+      "company_name": "FocusCura",
+      "hq_location": "Amersfoort, Netherlands",
+      "website_url": "https://www.focuscura.com/",
+      "problem_solved": "FocusCura provides technology solutions that enable elderly and care-dependent individuals to maintain independence and live safely at home longer, offering remote care monitoring and emergency response systems.",
+      "who_buys_it": "Home care organizations, housing associations, municipalities, and healthcare providers seeking to support aging-in-place initiatives while maintaining care quality and safety.",
+      "key_features": [
+        "Remote care monitoring solutions",
+        "Emergency response systems with one-button activation",
+        "Technology-enabled independence for elderly",
+        "Safe-at-home monitoring without constant supervision",
+        "Integration with care provider workflows"
+      ],
+      "business_model": "Product/Service combination with hardware devices and software platforms, likely subscription-based for monitoring services and one-time purchase for equipment.",
+      "why_varden_should_care": "FocusCura sits at the intersection of aging-in-place trends and digital health transformation. With European healthcare systems facing aging populations and caregiver shortages, solutions that enable remote monitoring while maintaining safety address critical pain points. Their focus on dignity and independence for elderly patients aligns with broader policy shifts toward home-based care in the Netherlands and across Europe."
+    },
+    {
+      "company_name": "Enovacom (Orange Business)",
+      "hq_location": "Paris, France",
+      "website_url": "https://www.enovacom.com/",
+      "problem_solved": "Enovacom provides healthcare interoperability solutions that enable secure exchange of medical data between different healthcare systems, medical devices, and information systems, helping healthcare organizations digitize and modernize their data infrastructure.",
+      "who_buys_it": "Hospitals, clinics, laboratories, and healthcare networks in France and internationally that need to integrate disparate medical systems and ensure secure, standardized data exchange across their healthcare ecosystem.",
+      "key_features": [
+        "Healthcare interoperability platform (EAI)",
+        "Medical device integration and connectivity",
+        "Biomedical data centralization",
+        "HL7 and FHIR standards compliance",
+        "Secure health data exchange infrastructure",
+        "Biobank and laboratory data management"
+      ],
+      "business_model": "Enterprise software licensing with implementation services, maintenance, and support. Likely per-implementation or per-organization pricing based on complexity and scale.",
+      "why_varden_should_care": "Enovacom addresses the foundational challenge of healthcare IT: interoperability. As French healthcare moves toward integrated care pathways that include home health and DME, the ability to connect disparate systems becomes critical. Their existing relationships with major French healthcare institutions (CHU Montpellier, CHU Poitiers, IHU Mediterranée Infection) provide a strong base for expansion into home health and DME tracking as these markets grow."
+    },
+    {
+      "company_name": "Mediq (Medische Hulpmiddelen)",
+      "hq_location": "Utrecht, Netherlands",
+      "website_url": "https://mediq.nl/",
+      "problem_solved": "Mediq provides medical supplies and devices along with home care services, offering integrated solutions for patients with chronic conditions (diabetes, incontinence, stoma care, sleep apnea, wound care) who need ongoing medical supplies and support at home.",
+      "who_buys_it": "Patients with chronic conditions, health insurers, and healthcare providers who need reliable supply of medical devices and consumables along with specialized nursing support for home-based care.",
+      "key_features": [
+        "Medical device and supplies delivery to home",
+        "Specialized nursing care at home",
+        "Online ordering and supply management (Mijn Mediq)",
+        "Insurance claims processing and reimbursement handling",
+        "Disease-specific care programs (diabetes, stoma, incontinence)",
+        "Patient education and knowledge center"
+      ],
+      "business_model": "Direct-to-consumer and B2B model, with contracts with all Dutch health insurers. Revenue from medical supplies, devices, and nursing services, with reimbursement through insurance.",
+      "why_varden_should_care": "Mediq represents the integration of DME supply with home health services, a model that is becoming increasingly important as healthcare systems shift care to the home. Their direct relationships with insurers and patients, combined with digital ordering capabilities, create an efficient channel for DME distribution. As value-based care expands, organizations that can manage the full supply chain from prescription to delivery to patient education become strategic partners."
+    },
+    {
+      "company_name": "Cegedim",
+      "hq_location": "Boulogne-Billancourt, France",
+      "website_url": "https://www.cegedim.com/",
+      "problem_solved": "Cegedim provides software and services for healthcare professionals, enabling digital transformation of healthcare practices with solutions for practice management, patient records, prescribing, and healthcare data management.",
+      "who_buys_it": "General practitioners, specialists, pharmacists, and healthcare facilities in France and internationally who need practice management software and digital tools to modernize their operations.",
+      "key_features": [
+        "Practice management software for healthcare providers",
+        "Electronic medical records and prescribing",
+        "Healthcare data hosting and cloud services (cegedim.cloud)",
+        "Secure messaging and communication tools",
+        "Regulatory compliance solutions for French healthcare",
+        "Sovereign cloud hosting with HDS certification"
+      ],
+      "business_model": "SaaS subscription model for software, with additional revenue from cloud hosting services, implementation, and support. Enterprise licensing for larger healthcare organizations.",
+      "why_varden_should_care": "Cegedim is the leading healthcare software provider in France with deep relationships across the healthcare ecosystem. Their sovereign cloud infrastructure (cegedim.cloud) with HDS certification provides a secure foundation for home health and DME applications. As the largest healthcare IT player in France, they have the distribution and trust needed to expand into adjacent markets like home health software and DME tracking."
+    },
+    {
+      "company_name": "Covidence",
+      "hq_location": "Paris, France / London, UK / Melbourne, Australia",
+      "website_url": "https://www.covidence.org/",
+      "problem_solved": "Covidence provides systematic review management software that helps researchers, healthcare organizations, and academic institutions conduct evidence-based research more efficiently, enabling faster synthesis of medical evidence.",
+      "who_buys_it": "Universities, research institutions, hospitals, and healthcare organizations conducting systematic reviews to inform clinical guidelines, policy decisions, and evidence-based practice.",
+      "key_features": [
+        "Systematic review workflow automation",
+        "Collaborative review platform",
+        "Study screening and selection tools",
+        "Data extraction and quality assessment",
+        "PRISMA flow diagram generation",
+        "Integration with reference managers"
+      ],
+      "business_model": "SaaS subscription model with institutional licensing. Free basic access for researchers with premium features for organizations and unlimited use subscriptions.",
+      "why_varden_should_care": "While Covidence focuses on systematic reviews rather than direct home health software, they represent the evidence-based medicine infrastructure that drives healthcare policy and practice. As home health and DME markets seek validation and standardization, evidence synthesis becomes crucial. Organizations that control the evidence pipeline influence which treatments and interventions get adopted by healthcare systems."
+    },
+    {
+      "company_name": "Keyrus",
+      "hq_location": "Suresnes, France (with significant operations in Belgium)",
+      "website_url": "https://www.keyrus.com/",
+      "problem_solved": "Keyrus provides data analytics, business intelligence, and digital transformation services, helping healthcare organizations leverage their data for better decision-making and operational efficiency.",
+      "who_buys_it": "Healthcare organizations, pharmaceutical companies, and life sciences businesses seeking to implement data-driven strategies and digital transformation initiatives.",
+      "key_features": [
+        "Data analytics and business intelligence platforms",
+        "Healthcare data visualization and reporting",
+        "Digital transformation consulting",
+        "Cloud and data architecture services",
+        "AI and machine learning implementation",
+        "Regulatory compliance and data governance"
+      ],
+      "business_model": "Professional services and consulting model with project-based and managed services engagements. Long-term partnerships for data platform development and maintenance.",
+      "why_varden_should_care": "Keyrus represents the data layer that underpins modern healthcare operations. As home health and DME organizations collect more data through remote monitoring and connected devices, the ability to analyze and act on that data becomes critical. Keyrus's presence in both France and Belgium positions them to serve the Benelux market, and their data expertise could be valuable for organizations seeking to optimize care coordination and resource allocation."
+    },
+    {
+      "company_name": "Axians (VINCI Energies)",
+      "hq_location": "Paris, France (with extensive operations in Belgium and Netherlands)",
+      "website_url": "https://www.axians.fr/",
+      "problem_solved": "Axians provides ICT infrastructure, digital workspace solutions, and cybersecurity services for healthcare organizations, enabling digital transformation while ensuring data security and regulatory compliance.",
+      "who_buys_it": "Healthcare providers, hospitals, and medical facilities in France and Benelux that need robust IT infrastructure, cybersecurity, and digital transformation services.",
+      "key_features": [
+        "Healthcare IT infrastructure and networking",
+        "Cybersecurity and data protection services",
+        "Digital workspace and collaboration tools",
+        "Cloud and datacenter solutions",
+        "Business application integration",
+        "Regulatory compliance support for healthcare"
+      ],
+      "business_model": "Managed services and project-based delivery with long-term contracts for infrastructure maintenance and support. Combination of hardware, software, and services revenue.",
+      "why_varden_should_care": "Axians brings the infrastructure foundation that healthcare digital transformation requires. Their cybersecurity expertise is particularly relevant as home health and DME solutions increasingly involve connected devices and remote data access. With operations across France and Benelux, they can support regional healthcare organizations in implementing secure, compliant home health platforms. Their experience with healthcare cyberattacks (e.g., Polyclinique du Cotentin) demonstrates real-world crisis response capabilities."
+    }
+  ],
+  "notes": "This research focused on identifying companies in France and Benelux that provide software solutions for home health agencies, DME tracking, home infusion, remote patient monitoring, and care coordination. The market appears to have several established players with strong regional presence. Key trends include: 1) Interoperability as a foundational requirement for connected home care, 2) Integration of medical supplies distribution with digital ordering and monitoring, 3) Sovereign cloud hosting becoming critical for healthcare data compliance, and 4) Data analytics emerging as a key differentiator for care optimization. Many traditional healthcare IT players (Cegedim, Enovacom) are well-positioned to expand into home health and DME as the market grows.",
+  "research_date": "2026-03-14"
+}

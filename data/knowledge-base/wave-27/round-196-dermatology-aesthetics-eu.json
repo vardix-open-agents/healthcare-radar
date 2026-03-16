@@ -1,0 +1,142 @@
+{
+  "round": 196,
+  "theme": "Dermatology / Aesthetics (EU)",
+  "date": "2026-03-14",
+  "focus": [
+    "Dermatology practice management",
+    "Aesthetic clinic software",
+    "Skin imaging/analysis",
+    "Teledermatology platforms"
+  ],
+  "exclude": [
+    "Consumer beauty apps",
+    "Cosmetic products"
+  ],
+  "companies": [
+    {
+      "company_name": "SkinVision",
+      "hq_location": "Amsterdam, Netherlands",
+      "website_url": "https://www.skinvision.com",
+      "problem_solved": "Early detection of skin cancer through AI-powered analysis of skin lesions and moles, addressing delayed diagnosis and limited access to dermatologists",
+      "who_buys_it": "Healthcare consumers (B2C), health insurers, employers, and healthcare systems looking to reduce skin cancer mortality and costs",
+      "key_features": [
+        "AI-powered skin cancer detection algorithm (90%+ sensitivity)",
+        "Smartphone-based skin imaging and analysis",
+        "Clinical validation with >5 million skin checks performed",
+        "Integration with dermatologist review for high-risk cases",
+        "3+ million users worldwide",
+        "CE-marked medical device"
+      ],
+      "business_model": "B2C subscription (€5-10/month or annual plans), B2B partnerships with health insurers and employers, per-check fees for enterprise customers",
+      "why_varden_should_care": "Market leader in European skin cancer screening with proven clinical validation. Addresses massive unmet need - skin cancer is one of the most common cancers globally. Strong B2B2C model with insurer partnerships creates sticky revenue. 3M+ users demonstrates product-market fit. Positioned to benefit from growing consumer health monitoring trend and AI-driven diagnostics adoption."
+    },
+    {
+      "company_name": "Pabau",
+      "hq_location": "London, UK (with offices in Skopje, North Macedonia and Pristina, Kosovo)",
+      "website_url": "https://www.pabau.com",
+      "problem_solved": "Fragmented practice management for aesthetic clinics and medspas, including scheduling, patient records, payments, marketing, and compliance",
+      "who_buys_it": "Aesthetic clinics, medspas, cosmetic surgery practices, dermatology clinics, and healthcare practices in ~40 countries",
+      "key_features": [
+        "All-in-one practice management (scheduling, CRM, EHR)",
+        "AI-powered clinical documentation",
+        "Online booking and payment processing",
+        "Marketing automation and patient communication",
+        "Video consultations",
+        "Inventory management",
+        "25,000+ registered users globally"
+      ],
+      "business_model": "SaaS subscription with tiered pricing based on clinic size and features, no external funding (bootstrapped profitable growth)",
+      "why_varden_should_care": "Bootstrapped profitable company with 200+ employees and 25K+ users - demonstrates strong unit economics without VC dependency. Serves aesthetic/dermatology market across 40 countries. AI-powered documentation positions them well for ongoing AI trend. No external funding means they may be open to strategic investment or acquisition. Growing Middle East and APAC expansion shows market momentum."
+    },
+    {
+      "company_name": "DermEngine (MetaOptima)",
+      "hq_location": "Vancouver, Canada (with operations in Europe and Australia)",
+      "website_url": "https://www.dermengine.com",
+      "problem_solved": "Inefficient dermatology workflows, lack of integrated skin imaging and teledermatology, fragmented patient data across multiple systems",
+      "who_buys_it": "Dermatologists, dermatology clinics, hospitals, teledermatology providers, and skin cancer screening programs",
+      "key_features": [
+        "AI-powered skin imaging and dermoscopy analysis",
+        "Total body photography and mole mapping",
+        "Teledermatology platform for remote consultations",
+        "Patient management and EHR for dermatology",
+        "Clinical decision support with AI",
+        "Multi-language support for global markets"
+      ],
+      "business_model": "SaaS subscription for clinics and health systems, per-consultation fees for teledermatology, enterprise licensing for health systems",
+      "why_varden_should_care": "Comprehensive dermatology platform combining imaging AI, teledermatology, and practice management - addresses multiple pain points. European presence (particularly Italy and Australia) shows international scalability. Dermatology-specific EHR is a defensible niche vs generic EMR players. AI-powered imaging aligns with diagnostic AI investment thesis. Potential consolidation target for larger dermatology practice management platforms."
+    },
+    {
+      "company_name": "FotoFinder Systems",
+      "hq_location": "Bad Birnbach, Bavaria, Germany",
+      "website_url": "https://www.fotofinder.com",
+      "problem_solved": "Lack of standardized, high-quality dermatological imaging systems for skin cancer screening and mole monitoring",
+      "who_buys_it": "Dermatologists, dermatology clinics, hospitals, skin cancer screening centers, and aesthetic medicine practitioners",
+      "key_features": [
+        "Medical-grade dermoscopy cameras and imaging systems",
+        "Automated total body photography (BODYSCAN)",
+        "AI-powered mole analysis (FotoFinder Bodystudio)",
+        "Digital dermoscopy with magnification",
+        "Longitudinal mole tracking and change detection",
+        "Integration with practice management systems",
+        "CE-marked and FDA-cleared medical devices"
+      ],
+      "business_model": "Hardware sales (camera systems) + software subscriptions for analysis and documentation, service contracts and maintenance",
+      "why_varden_should_care": "Established German medical device company with 25+ years in dermatological imaging - deep clinical credibility. Hardware + software model creates high switching costs and recurring revenue. AI-powered analysis (Bodystudio) shows innovation in diagnostic support. Installed base in dermatology clinics across Europe provides distribution advantage. Plays into skin cancer screening market growth and teledermatology trend."
+    },
+    {
+      "company_name": "First Derm",
+      "hq_location": "Global operations (US, Europe, Australia)",
+      "website_url": "https://www.firstderm.com",
+      "problem_solved": "Long wait times for dermatologist appointments, lack of access to dermatological expertise, embarrassment/stigma around certain skin conditions",
+      "who_buys_it": "Healthcare consumers seeking quick dermatological advice, employers (as employee benefit), health plans, and telemedicine platforms",
+      "key_features": [
+        "Fully anonymous online dermatology consultations",
+        "Board-certified dermatologist reviews (US, Europe, Australia)",
+        "Response times of 8-48 hours",
+        "No account creation required",
+        "Covers 90%+ of common skin conditions",
+        "250,000+ cases reviewed since 2014",
+        "Mobile apps (iOS and Android)"
+      ],
+      "business_model": "B2C pay-per-consultation ($34.95-$59.95 per case), B2B partnerships with employers and health plans",
+      "why_varden_should_care": "Unique positioning as fully anonymous teledermatology platform - addresses privacy concerns that prevent care-seeking. 12+ years operating experience with 250K+ cases demonstrates product-market fit. Pure-play teledermatology vs generalist telehealth platforms. Human dermatologist review (not AI-only) provides clinical credibility. Potential acquisition target for larger telehealth platforms looking to add dermatology specialization."
+    },
+    {
+      "company_name": "Phorest Salon Software",
+      "hq_location": "Dublin, Ireland",
+      "website_url": "https://www.phorest.com",
+      "problem_solved": "Inefficient salon and clinic management including no-shows, booking inefficiencies, client retention, and operational complexity",
+      "who_buys_it": "Salons, spas, and medi-aesthetic clinics (11,000+ businesses, 155,000+ professionals worldwide)",
+      "key_features": [
+        "Online booking and appointment scheduling",
+        "SMS/email appointment reminders (reduces no-shows)",
+        "Client CRM and marketing automation",
+        "Inventory and stock management",
+        "Payments and e-commerce integration",
+        "Dedicated business advisor for each client",
+        "Custom branded salon apps"
+      ],
+      "business_model": "SaaS subscription, additional fees for premium features (custom apps, advanced marketing), payment processing revenue share",
+      "why_varden_should_care": "Market leader in salon/clinic management with 11K+ businesses and 155K+ professionals - strong market penetration. Dedicated business advisor model creates high customer retention and expansion opportunities. Irish/European HQ with global reach (US, UK, EU markets). Profitable and established (nearly 20 years in business). Medi-aesthetic clinic focus aligns with dermatology/aesthetics theme. Potential platform for consolidating fragmented salon/clinic software market."
+    },
+    {
+      "company_name": "WriteUpp",
+      "hq_location": "United Kingdom",
+      "website_url": "https://www.writeupp.com",
+      "problem_solved": "Fragmented practice management for small to medium healthcare practices, including scheduling, patient records, invoicing, and compliance",
+      "who_buys_it": "Healthcare practitioners including dermatologists, aesthetic clinicians, physiotherapists, podiatrists, and other allied health professionals (50,000+ clinicians)",
+      "key_features": [
+        "Practice management software with scheduling",
+        "Electronic health records (EHR)",
+        "Online booking system with branded interface",
+        "Video consultations",
+        "SMS and email reminders",
+        "Invoicing and payment processing (Stripe integration)",
+        "UK-based support (7-minute average response time)",
+        "ISO27001 certified, GDPR compliant"
+      ],
+      "business_model": "SaaS subscription with tiered pricing (£19.95-£79/month depending on plan and features), add-on fees for SMS credits and video consultations",
+      "why_varden_should_care": "UK-focused practice management platform with strong presence in dermatology and aesthetics. 50,000+ clinicians demonstrates scale and product-market fit. Only UK practice management software with dedicated mobile app. ISO27001 certification and GDPR compliance important for healthcare market. UK-specific focus creates defensible regional position vs global competitors. Potential consolidation target for larger European healthcare IT players."
+    }
+  ]
+}

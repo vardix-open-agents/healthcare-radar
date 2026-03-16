@@ -1,0 +1,14 @@
+{
+  "company": "Solutionreach",
+  "country": "US",
+  "problem": "Healthcare practices lose patients due to poor communication, no online presence optimization, manual intake processes, and lack of systematic patient engagement throughout the care journey.",
+  "solution": "Patient engagement platform offering paperless intake processes, form distribution via email/text, online presence management, new patient acquisition tools, group messaging, and timely automated communication to improve patient retention.",
+  "problem_type": "patient_intake",
+  "solution_type": "SaaS",
+  "buyer": "providers",
+  "varden_fit": "high",
+  "url": "https://www.solutionreach.com/",
+  "source": "web",
+  "discovery_round": 88,
+  "discovered_by": "sky"
+}

@@ -1,0 +1,14 @@
+{
+  "company": "Cognizant TriZetto",
+  "country": "US",
+  "problem": "Healthcare payers and providers struggle with disconnected systems for claims processing, revenue cycle management, and payer-provider communication that increases administrative costs and delays payments.",
+  "solution": "Cognizant TriZetto provides healthcare technology solutions including the Facets core administration platform and TriZetto Unify framework for payer-provider connectivity. They process 4.4 billion annual transactions and help organizations reduce denials by 30%, increase claims auto-adjudication to 94%, and accelerate collections.",
+  "problem_type": "claims_billing",
+  "solution_type": "SaaS",
+  "buyer": "providers",
+  "varden_fit": "high",
+  "url": "https://www.cognizant.com/healthcare",
+  "source": "web",
+  "discovery_round": 82,
+  "discovered_by": "sky"
+}

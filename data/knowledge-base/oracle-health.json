@@ -1,0 +1,14 @@
+{
+  "company": "Oracle Health",
+  "country": "US",
+  "problem": "Large health systems and hospitals need enterprise-grade EHR solutions that support specialty care coordination, surgical scheduling, and implant tracking while ensuring data security and interoperability",
+  "solution": "Comprehensive cloud-based healthcare suite (formerly Cerner) with AI-powered clinical and operational solutions, surgical scheduling, inventory management, and enterprise interoperability for orthopedic service lines",
+  "problem_type": "orthopedics",
+  "solution_type": "SaaS",
+  "buyer": "clinics",
+  "varden_fit": "medium",
+  "url": "https://www.oracle.com/health/",
+  "source": "web",
+  "discovery_round": 109,
+  "discovered_by": "sky"
+}

@@ -1,0 +1,14 @@
+{
+  "company": "Sysmex Corporation",
+  "country": "JP",
+  "problem": "Blood banks need integrated information systems to manage transfusion workflows, from sample collection and testing to blood product release, while maintaining accurate records for patient safety and regulatory audits.",
+  "solution": "Blood bank information systems (BBIS) integrated with hematology analyzers and laboratory information systems. Their software manages pre-analytical processing, blood typing, crossmatch documentation, and blood product release with full traceability for transfusion services.",
+  "problem_type": "blood_bank",
+  "solution_type": "SaaS",
+  "buyer": "hospitals",
+  "varden_fit": "low",
+  "url": "https://www.sysmex.com/",
+  "source": "web",
+  "discovery_round": 130,
+  "discovered_by": "sky"
+}

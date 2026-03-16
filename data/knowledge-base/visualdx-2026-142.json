@@ -1,0 +1,30 @@
+{
+  "id": "visualdx-2026-142",
+  "title": "VisualDx - Clinical Decision Support",
+  "company": "VisualDx",
+  "country": "USA",
+  "region": "NA",
+  "segment": "clinical_decision_support",
+  "problem": "Dermatological diagnosis is challenging for non-specialists due to visual complexity and vast number of possible conditions.",
+  "solution": "Clinical decision support tool with comprehensive medical image library and AI-powered differential diagnosis builder for skin conditions.",
+  "technology": "Medical image database, AI-powered search, clinical knowledge base",
+  "target_customer": "Primary care, dermatologists, medical education, emergency medicine",
+  "care_setting": "multiple",
+  "care_domain": "dermatology",
+  "care_stage": "diagnosis",
+  "automation_level": "full",
+  "ai_type": "AI-powered visual search and differential diagnosis",
+  "traction_signals": [
+    "Used in 2000+ hospitals",
+    "Medical schools globally",
+    "Established clinical reference tool",
+    "Founded 1999, Rochester NY"
+  ],
+  "funding": "Private, profitable",
+  "regulatory_notes": "Clinical decision support, not diagnostic device",
+  "varden_fit": "Moderate - Diagnostic support tool. Helps primary care with dermatology cases, potentially reducing unnecessary referrals.",
+  "source": "Industry knowledge",
+  "url": "https://visualdx.com",
+  "date_added": "2026-03-11",
+  "notes": "Established clinical reference. Strong image library. Used widely in medical education."
+}

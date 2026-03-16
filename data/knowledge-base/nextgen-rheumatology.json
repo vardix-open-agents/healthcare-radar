@@ -1,0 +1,14 @@
+{
+  "company": "NextGen Healthcare",
+  "country": "US",
+  "problem": "Rheumatology practices need comprehensive EHR and practice management solutions with specialty-specific content, chronic care management tools, and AI-powered documentation to reduce administrative burden",
+  "solution": "NextGen Office and NextGen Enterprise EHR platforms with rheumatology-specific templates, Ambient Assist AI for documentation, integrated chronic care management services, and remote patient monitoring capabilities",
+  "problem_type": "rheumatology",
+  "solution_type": "SaaS",
+  "buyer": "clinics",
+  "varden_fit": "medium",
+  "url": "https://www.nextgen.com/specialties/rheumatology",
+  "source": "web",
+  "discovery_round": 117,
+  "discovered_by": "nova"
+}

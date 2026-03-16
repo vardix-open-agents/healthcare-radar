@@ -1,0 +1,14 @@
+{
+  "company": "Somatus",
+  "country": "US",
+  "problem": "Patients with kidney disease and heart conditions struggle to navigate complex healthcare systems, leading to poor outcomes, frequent hospitalizations, and delayed access to optimal treatment options like home dialysis and transplant",
+  "solution": "Value-based kidney and heart care management platform providing individualized clinical, emotional, and social support. Offers local hands-on health support teams, intelligent decision-making tools for providers, and customized partnerships for health plans. Increases home dialysis rates and transplant options while reducing hospital admissions",
+  "problem_type": "nephrology",
+  "solution_type": "SaaS + services",
+  "buyer": "health plans, providers, patients",
+  "varden_fit": "medium",
+  "url": "https://www.somatus.com/",
+  "source": "web",
+  "discovery_round": 105,
+  "discovered_by": "sky"
+}

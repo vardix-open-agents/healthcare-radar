@@ -1,0 +1,14 @@
+{
+  "company": "Augmedix",
+  "country": "US",
+  "problem": "Clinicians spend excessive time on EHR documentation, leading to burnout, reduced patient engagement, and after-hours charting that impacts work-life balance",
+  "solution": "AI-powered ambient documentation platform that captures natural clinician-patient conversations and converts them into structured medical notes, supporting nearly 500,000 clinicians across hospitals and health systems",
+  "problem_type": "medical_coding",
+  "solution_type": "SaaS",
+  "buyer": "providers",
+  "varden_fit": "high",
+  "url": "https://www.augmedix.com",
+  "source": "web",
+  "discovery_round": 84,
+  "discovered_by": "sky"
+}

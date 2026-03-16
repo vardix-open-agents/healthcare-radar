@@ -1,0 +1,14 @@
+{
+  "company": "RevolutionEHR",
+  "country": "US",
+  "problem": "Optometry practices need a unified cloud platform that eliminates multiple software systems and provides seamless access from any location",
+  "solution": "Cloud-based all-in-one optometry EHR and practice management platform with 97% retention rate, featuring scheduling, billing, patient engagement, and embedded payments",
+  "problem_type": "optometry",
+  "solution_type": "SaaS",
+  "buyer": "clinics",
+  "varden_fit": "medium",
+  "url": "https://www.revolutionehr.com",
+  "source": "web",
+  "discovery_round": 110,
+  "discovered_by": "nova"
+}

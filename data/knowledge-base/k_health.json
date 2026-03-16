@@ -1,0 +1,14 @@
+{
+  "company": "K Health",
+  "country": "US",
+  "problem": "Primary care access is limited with long wait times, and chronic pain conditions often go undiagnosed or poorly managed due to fragmented care and lack of 24/7 access to medical guidance.",
+  "solution": "AI-powered primary care platform integrated with major health systems (Cedars-Sinai, Hartford HealthCare, Hackensack Meridian). Provides 24/7 access through AI Physician Mode that automates intake and provides clinical insights, with seamless integration to single medical records for comprehensive care including pain management.",
+  "problem_type": "pain_management",
+  "solution_type": "SaaS",
+  "buyer": "health_systems",
+  "varden_fit": "medium",
+  "url": "https://khealth.com",
+  "source": "web",
+  "discovery_round": 135,
+  "discovered_by": "nova"
+}

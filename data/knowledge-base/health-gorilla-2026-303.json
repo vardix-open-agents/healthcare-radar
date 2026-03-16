@@ -1,0 +1,22 @@
+{
+  "id": "health-gorilla-2026-303",
+  "title": "Health Gorilla - Lab Network & Interoperability",
+  "company": "Health Gorilla",
+  "country": "USA",
+  "segment": "infrastructure",
+  "problem": "Lab ordering and results access fragmented across thousands of labs with no unified digital pathway",
+  "solution": "National lab network enabling electronic ordering and results retrieval from any lab through single API/portal",
+  "technology": "API platform, interoperability network, health data exchange",
+  "target_customer": "Health systems, telehealth companies, digital health platforms",
+  "care_setting": "all",
+  "care_domain": "diagnostics",
+  "care_stage": "diagnosis",
+  "automation_level": "full",
+  "ai_type": null,
+  "traction_signals": ["Connected to 40K+ labs", "Raised $115M", "TEFCA participant"],
+  "funding": "Series D",
+  "regulatory_notes": "ONC certified, HIPAA compliant",
+  "source": "sky-round18-diagnostics",
+  "url": "https://www.healthgorilla.com",
+  "date_added": "2026-03-11"
+}

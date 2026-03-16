@@ -1,0 +1,29 @@
+{
+  "id": "wello-2026-058",
+  "title": "Wello - Digital Health Records Platform",
+  "company": "Wello",
+  "country": "Netherlands",
+  "region": "EU",
+  "segment": "infrastructure",
+  "problem": "Personal health records are fragmented. Patients cannot easily access and share their health information.",
+  "solution": "Personal health record platform enabling patients to store, access, and share their health information with providers.",
+  "technology": "PHR platform, health data aggregation, provider sharing",
+  "target_customer": "Patients, healthcare providers",
+  "care_setting": "primary_care",
+  "care_domain": "general",
+  "care_stage": "admin",
+  "automation_level": "partial",
+  "ai_type": null,
+  "traction_signals": [
+    "Dutch personal health record platform",
+    "Patient-controlled data",
+    "Provider integration"
+  ],
+  "funding": null,
+  "regulatory_notes": "Health data platform, GDPR compliance.",
+  "varden_fit": "Moderate — PHR could integrate with Varden's patient portal. Data portability is valuable.",
+  "source": "EU health tech ecosystem",
+  "url": "https://www.wello.health",
+  "date_added": "2026-03-11",
+  "notes": "Personal health records. Growing category in EU."
+}

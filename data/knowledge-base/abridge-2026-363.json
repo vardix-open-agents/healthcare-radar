@@ -1,0 +1,23 @@
+{
+  "company_name": "Abridge",
+  "problem_solved": "Clinical documentation burden causes burnout for clinicians, nurses, and revenue cycle teams while reducing patient care quality",
+  "solution_description": "Generative AI platform that transforms patient-clinician conversations into clinically useful, billable notes. Features Abridge Contextual Reasoning Engine for enterprise-grade AI. Integrated directly inside Epic (Haiku to Hyperdrive). Multi-specialty, multilingual support",
+  "buyer_persona": "health_systems|providers",
+  "care_stage": "treatment",
+  "automation_level": "partial",
+  "varden_fit": "very_high",
+  "region": "US",
+  "country": "US",
+  "funding_stage": "series_c",
+  "traction_signals": [
+    "Best in KLAS 2025 & 2026 - Market Leader in Ambient AI",
+    "Trusted by largest healthcare systems",
+    "Direct Epic integration (Haiku to Hyperdrive)",
+    "Multi-specialty and multilingual support",
+    "Built by practicing MDs, AI scientists, PhDs"
+  ],
+  "notes": "Top-tier US player with Best in KLAS recognition. Strong Epic integration makes it ideal for large health systems. Clinical DNA with practicing physicians on team",
+  "discovery_round": 51,
+  "discovered_by": "sky",
+  "timestamp": "2026-03-11T23:21:00Z"
+}

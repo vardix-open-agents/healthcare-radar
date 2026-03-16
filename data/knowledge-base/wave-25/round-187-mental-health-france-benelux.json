@@ -1,0 +1,82 @@
+[
+  {
+    "company_name": "Minddistrict",
+    "hq_location": "Amsterdam, Netherlands",
+    "website_url": "https://www.minddistrict.com",
+    "problem_solved": "Mental health providers lack scalable digital tools to deliver interventions, track patient progress, and maintain continuous care between in-person sessions",
+    "who_buys_it": "Mental health providers (psychologists, psychiatrists, psychotherapists), Employee Assistance Programs (EAPs), Social enterprises, Mental health clinics and hospitals",
+    "key_features": "Digital mental health platform with 250,000+ users, ISO 27001:2022 certified, Medical Device Class I certified, Extensive catalog of online interventions (modules, plans, diaries, questionnaires), Communication tools for therapist-patient interaction, Data insights and analytics, Blended care capabilities combining online and face-to-face therapy",
+    "business_model": "B2B SaaS subscription model - mental health providers and organizations pay licensing fees to access the platform and interventions; also serves Employee Assistance Programs",
+    "why_varden_should_care": "Leading European digital mental health platform with strong clinical validation (Class I medical device), significant scale (250K+ users), and positioned to capitalize on the shift to blended care models. Strong presence in Benelux with expansion potential across Europe. Key player in the digital therapeutics infrastructure space."
+  },
+  {
+    "company_name": "Brainclinics",
+    "hq_location": "Nijmegen, Netherlands (operates across Netherlands/Belgium)",
+    "website_url": "https://www.brainclinics.com",
+    "problem_solved": "Traditional psychiatric treatments often lack precision and personalization; patients with treatment-resistant depression, OCD, and ADHD need advanced, evidence-based neuromodulation therapies",
+    "who_buys_it": "Psychiatrists, neurologists, mental health clinics, TMS treatment centers, Academic medical centers, Patients seeking non-pharmacological treatments for depression/OCD/ADHD",
+    "key_features": "Specialized in rTMS (repetitive Transcranial Magnetic Stimulation) for depression and OCD, EEG-based precision psychiatry, Stratified psychiatry approaches for Depression and ADHD, TMS-induced Heart-Brain Coupling technology, TMS Masterclass & Certification training programs, Open-access TDBRAIN EEG dataset (1,200+ EEGs), 316+ scientific publications, 14,807+ citations",
+    "business_model": "Clinical services revenue (TMS treatments) + Research and consulting services + Training and certification programs + Research grants and partnerships",
+    "why_varden_should_care": "World-renowned applied neuroscience research institute with deep clinical expertise in neuromodulation (TMS). Strong scientific credibility (316 publications, 14K+ citations) positions them as thought leaders in precision psychiatry. Potential acquisition target for companies looking to enter the TMS/neuromodulation space or expand digital therapeutic offerings with hardware integration."
+  },
+  {
+    "company_name": "Carenity",
+    "hq_location": "Paris, France",
+    "website_url": "https://www.carenity.com",
+    "problem_solved": "Patients with chronic conditions (including mental health disorders) lack centralized platforms to share experiences, access reliable information, track their health, and contribute to medical research",
+    "who_buys_it": "Pharmaceutical companies, Healthcare market research firms, Medical device companies (for patient insights and research), Patients and caregivers (free to use)",
+    "key_features": "Patient community platform with 500,000+ members, 1.4M+ forum messages, 75,800+ treatment evaluations, Health tracking and condition monitoring, Disease-specific forums and information, Anonymous patient surveys for medical research, Data analytics for healthcare industry partners, Strong focus on mental health conditions",
+    "business_model": "B2B data and insights services - generates revenue through market research studies, patient surveys, and data analytics services for pharma and healthcare companies. Free for patients. Patient-centric data monetization model.",
+    "why_varden_should_care": "Largest European patient community platform with strong mental health component. Valuable data asset with 500K+ engaged patients providing real-world insights. Positioned at intersection of patient engagement, real-world evidence generation, and pharmaceutical market research. Potential strategic value for companies building patient engagement platforms or real-world evidence capabilities."
+  },
+  {
+    "company_name": "Qare",
+    "hq_location": "Paris, France",
+    "website_url": "https://www.qare.fr",
+    "problem_solved": "Patients face barriers accessing medical specialists including mental health professionals due to geographic constraints, long wait times, and limited availability of in-person appointments",
+    "who_buys_it": "Patients seeking convenient medical consultations, Health insurance companies (for their members), Employers (for employee health benefits), Mental health professionals wanting to offer teleconsultation",
+    "key_features": "24/7 online medical teleconsultation platform, Video consultations with GPs and specialists including psychologists and psychiatrists, Online prescription services, Integration with French healthcare system, Multi-specialty coverage including mental health, Mobile app and web platform",
+    "business_model": "B2C consultation fees (paid by patients with partial reimbursement by French social security) + B2B partnerships with insurers and employers + Platform fees from healthcare providers",
+    "why_varden_should_care": "Leading French telemedicine platform with mental health services integration. Positioned to benefit from post-COVID acceleration of telehealth adoption in France. Strong regulatory positioning in French healthcare system. Potential to expand mental health services or partner with digital therapeutic companies."
+  },
+  {
+    "company_name": "OpenUp",
+    "hq_location": "Amsterdam, Netherlands",
+    "website_url": "https://www.openup.co.uk",
+    "problem_solved": "Employees struggle to access mental health support through traditional channels; employers lack scalable, stigma-free solutions to support employee mental wellbeing and prevent burnout",
+    "who_buys_it": "HR departments, People & Culture teams, Employers across all industries (B2B), Employee Benefits managers",
+    "key_features": "B2B employee mental health platform, Direct access to licensed psychologists (no waiting lists), Video consultations and chat support, Workshops and group sessions on mental health topics, Self-help tools and resources, Anonymous and confidential services, Integration with employee benefits packages, Scalable solution for organizations of all sizes",
+    "business_model": "B2B subscription model - employers pay per-employee-per-month fees for access to mental health services. Tiered pricing based on organization size and service level.",
+    "why_varden_should_care": "Leading Dutch B2B employee mental health platform addressing the growing corporate wellbeing market. Strong positioning in the booming employee mental health space, particularly relevant post-COVID. Scalable model with predictable recurring revenue. Potential for European expansion or acquisition by larger HR tech/wellbeing platforms."
+  },
+  {
+    "company_name": "Psyvium",
+    "hq_location": "Netherlands",
+    "website_url": "https://www.psyvium.nl",
+    "problem_solved": "Organizations lack specialized mental health support for employees dealing with workplace challenges, trauma, or difficult situations; traditional EAPs often provide insufficient specialized psychiatric expertise",
+    "who_buys_it": "Corporate HR departments, Organizations seeking specialized mental health support, Companies dealing with workplace incidents or trauma, Government agencies",
+    "key_features": "Corporate Mental Health specialists, Specialized psychiatrists and psychologists for workplace issues, Trauma support and intervention, Confidential employee assistance programs, Vertrouwenspersoon (confidential counselor) services, Organizational mental health consulting, Executive mental health support",
+    "business_model": "B2B retainer and project-based consulting fees - organizations contract Psyvium for ongoing employee mental health support or specific interventions/consulting projects",
+    "why_varden_should_care": "Specialized B2B mental health provider focusing on corporate/organizational clients. Differentiated from general EAPs through psychiatric expertise and trauma specialization. Positioned for growth as organizations invest more in employee mental health post-COVID. Part of the broader GGZ Netherlands ecosystem."
+  },
+  {
+    "company_name": "GGZ Netherlands (Mental Health Organization)",
+    "hq_location": "Netherlands (multiple locations)",
+    "website_url": "https://ggz.nl",
+    "problem_solved": "Dutch mental healthcare sector lacks coordinated support services, quality standards, digital tools, and knowledge sharing among providers and professionals",
+    "who_buys_it": "Mental healthcare providers and organizations, Psychiatrists and psychologists, Mental health clinics and hospitals, Healthcare policymakers",
+    "key_features": "Umbrella organization for Dutch mental healthcare, MINDS digital testing platform, Directie adviseurs (management advisory services), Scientific research and publications (ANAMH - Applied Neuroscience & Mental Health journal, GGZ Vaktijdschrift), Network of affiliated organizations (ACTP, Hersencentrum, PMC), GGZ Aan Huis (at-home mental health services), GreenScout collaboration platform, Professional forums and knowledge sharing",
+    "business_model": "Membership fees from affiliated organizations + Advisory and consulting services + Research grants and partnerships + Publication revenues + Digital platform licensing (MINDS testing)",
+    "why_varden_should_care": "Central organizing body and thought leader in Dutch mental healthcare with extensive network of providers. Strategic platform for understanding and accessing the Benelux mental health market. Potential partnership opportunities for digital therapeutics companies seeking market entry. Strong research and publication capabilities create credibility and thought leadership."
+  },
+  {
+    "company_name": "Minds Digital Testing (MINDS)",
+    "hq_location": "Netherlands (part of GGZ network)",
+    "website_url": "https://www.mindsware.nl",
+    "problem_solved": "Mental health professionals lack validated, standardized digital assessment tools for diagnosing and monitoring psychiatric conditions accurately and efficiently",
+    "who_buys_it": "Psychologists, Psychiatrists, Mental health clinics, Hospitals with psychiatric departments, Research institutions, EAP providers",
+    "key_features": "Digital psychological testing platform, Validated diagnostic instruments, Standardized mental health assessments, Computerized testing tools, Integration with clinical workflows, Research-grade assessment tools, Part of GGZ ecosystem ensuring quality standards",
+    "business_model": "B2B SaaS licensing - mental health professionals and organizations pay subscription fees for access to digital testing platform and instruments",
+    "why_varden_should_care": "Specialized digital assessment platform addressing the clinical need for standardized psychiatric testing. Integration with GGZ network provides credibility and distribution. Positioned in the growing digital mental health assessment space. Potential acquisition target for larger mental health platforms seeking to add diagnostic capabilities."
+  }
+]

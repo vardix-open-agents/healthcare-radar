@@ -1,0 +1,28 @@
+{
+  "company": "Rupa Health (USA)",
+  "country": "United States",
+  "founded_year": 2019,
+  "category": "Healthcare Infrastructure",
+  "subsector": "Lab Ordering Platform",
+  "description": "Platform for ordering lab tests from multiple labs through single interface. Simplifies lab ordering workflow for functional medicine practitioners. Aggregates 20+ specialty lab companies into unified ordering and results platform.",
+  "business_model": "B2B - Lab ordering platform to healthcare practitioners",
+  "target_market": "Functional medicine practitioners, direct primary care, concierge medicine",
+  "funding_stage": "Series A",
+  "funding_amount_usd": 20000000,
+  "key_investors": "First Round Capital, General Catalyst, others",
+  "employees": "50+",
+  "customers": "2000+ practitioners",
+  "revenue_usd": null,
+  "tech_stack": ["Lab ordering platform", "Results aggregation", "EHR integration", "Patient portal"],
+  "integration_points": ["20+ specialty labs", "EHR systems", "Practice management"],
+  "competitive_advantage": "Single platform for specialty labs, simplified workflow, modern UX",
+  "boring_software": true,
+  "varden_fit": {
+    "threat_level": "low",
+    "opportunity": "partner",
+    "rationale": "Lab infrastructure - potential integration for occupational health lab ordering"
+  },
+  "data_quality": "high",
+  "sources": ["rupahealth.com", "crunchbase.com"],
+  "last_updated": "2026-03-11"
+}

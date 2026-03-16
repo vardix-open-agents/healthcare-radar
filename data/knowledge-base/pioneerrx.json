@@ -1,0 +1,14 @@
+{
+  "company": "PioneerRx",
+  "country": "US",
+  "problem": "Independent community pharmacies lack affordable, modern pharmacy management software to compete with large chains",
+  "solution": "Comprehensive pharmacy management system with point-of-sale, workflow optimization, clinical services integration, and patient engagement tools for independent pharmacies",
+  "problem_type": "pharmacy",
+  "solution_type": "SaaS",
+  "buyer": "pharmacies",
+  "varden_fit": "medium",
+  "url": "https://www.pioneerrx.com/",
+  "source": "web",
+  "discovery_round": 75,
+  "discovered_by": "nova"
+}

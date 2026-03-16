@@ -1,0 +1,14 @@
+{
+  "company": "ResMed",
+  "country": "US",
+  "problem": "Sleep apnea patients require continuous positive airway pressure therapy with ongoing compliance monitoring and support from sleep clinics",
+  "solution": "Cloud-based CPAP management platform (AirView) that enables remote monitoring of patient therapy data, compliance tracking, and care team collaboration for sleep medicine clinics",
+  "problem_type": "sleep_medicine",
+  "solution_type": "SaaS",
+  "buyer": "clinics",
+  "varden_fit": "high",
+  "url": "https://www.resmed.com",
+  "source": "web",
+  "discovery_round": 104,
+  "discovered_by": "nova"
+}

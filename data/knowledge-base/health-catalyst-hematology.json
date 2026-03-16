@@ -1,0 +1,14 @@
+{
+  "company": "Health Catalyst",
+  "country": "US",
+  "problem": "Hematology departments and health systems lack unified analytics to track blood disorder outcomes, identify care gaps, and optimize treatment protocols across diverse patient populations.",
+  "solution": "Healthcare analytics and data platform that unifies clinical and operational data, providing AI-assisted insights for hematology care improvement, benchmarking, and blood disorder outcome tracking.",
+  "problem_type": "hematology",
+  "solution_type": "SaaS",
+  "buyer": "clinics",
+  "varden_fit": "medium",
+  "url": "https://www.healthcatalyst.com",
+  "source": "web",
+  "discovery_round": 120,
+  "discovered_by": "sky"
+}

@@ -1,0 +1,14 @@
+{
+  "company": "Incredible Health",
+  "country": "US",
+  "problem": "Health systems face prolonged nurse vacancies and high recruitment costs, while nurses struggle to find permanent positions that match their skills and preferences efficiently.",
+  "solution": "AI-powered healthcare career marketplace with intelligent job matching, AI voice interview agents (Lyn, Gale), and streamlined hiring workflows connecting 1.5M+ nurses with 1,500+ healthcare employers.",
+  "problem_type": "healthcare_staffing",
+  "solution_type": "SaaS",
+  "buyer": "health_system",
+  "varden_fit": "low",
+  "url": "https://www.incrediblehealth.com/",
+  "source": "web",
+  "discovery_round": 127,
+  "discovered_by": "sky"
+}

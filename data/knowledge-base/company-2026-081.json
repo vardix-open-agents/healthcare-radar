@@ -1,0 +1,27 @@
+{
+  "company": "Tiim",
+  "country": "Germany",
+  "founded_year": 2020,
+  "category": "Practice Management",
+  "subsector": "Team Scheduling for Healthcare",
+  "description": "German startup providing team scheduling and workforce management for healthcare organizations. Focuses on nurse and doctor scheduling, shift planning, and absence management.",
+  "business_model": "B2B - SaaS subscription to hospitals, clinics, and care facilities",
+  "target_market": "German healthcare organizations, expanding to DACH region",
+  "funding_stage": "Seed",
+  "funding_amount_eur": 3000000,
+  "key_investors": "German VCs, healthtech-focused investors",
+  "employees": 30,
+  "customers": "200+ healthcare facilities",
+  "revenue_eur": 2000000,
+  "tech_stack": ["Web platform", "Mobile app", "AI scheduling algorithms", "Integration APIs"],
+  "integration_points": ["HR systems", "Payroll", "Time tracking", "PACS systems"],
+  "competitive_advantage": "Purpose-built for healthcare, AI optimization, German market focus",
+  "varden_fit": {
+    "threat_level": "low",
+    "opportunity": "acquire/partner",
+    "rationale": "Complementary infrastructure tool - could enhance Varden's practice management capabilities"
+  },
+  "data_quality": "medium",
+  "sources": ["tiim.de", "linkedin.com"],
+  "last_updated": "2026-03-11"
+}

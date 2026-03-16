@@ -1,0 +1,33 @@
+{
+  "id": "greenwayhealth-2026-083",
+  "title": "Greenway Health (Novare) - AI EHR with Intelligent Insurance Readiness",
+  "company": "Greenway Health",
+  "country": "US",
+  "region": "US",
+  "segment": "admin",
+  "problem": "Ambulatory practices need modern EHR with embedded AI for clinical encounters and intelligent insurance verification.",
+  "solution": "Novare AI-powered EHR with embedded AI agents for clinical encounters. Intelligent insurance readiness improves patient capacity by 10%+. Unified platform for clinical, RCM, and patient engagement. AWS-powered cloud infrastructure.",
+  "technology": "AI agents, AWS cloud, EHR, RCM platform",
+  "target_customer": "Ambulatory practices, medical groups",
+  "care_setting": "primary_care",
+  "care_domain": "general",
+  "care_stage": "admin",
+  "automation_level": "partial",
+  "ai_type": "AI agents for clinical encounters, intelligent insurance",
+  "traction_signals": [
+    "KLAS Research Most Improved 2026",
+    "14,000 hours saved annually with AI assistants",
+    "$1M potential revenue uplift with intelligent coding",
+    "10%+ patient capacity improvement"
+  ],
+  "funding": "Private company",
+  "regulatory_notes": "HIPAA compliant, AWS-hosted",
+  "varden_fit": "HIGH — Greenway's intelligent insurance readiness concept is exactly what European multi-payer systems need.",
+  "source": "Web research",
+  "url": "https://www.greenwayhealth.com",
+  "date_added": "2026-03-11",
+  "problem_type": "eligibility",
+  "contrarian": true,
+  "boring_software": true,
+  "notes": "CONTRARIAN: Intelligent insurance readiness is a concept European healthcare systems lack. Pre-verification improves capacity and revenue."
+}

@@ -1,0 +1,14 @@
+{
+  "company": "TytoCare",
+  "country": "IL",
+  "problem": "Traditional telehealth is limited to video calls without physical examination capabilities, making it difficult to diagnose conditions remotely and forcing patients to travel to clinics",
+  "solution": "AI-powered home and pro smart clinic solutions with FDA-cleared remote physical examination devices for ear, lungs, heart, throat, skin, and abdomen, enabling clinical-grade remote diagnosis from home or community sites",
+  "problem_type": "telemedicine",
+  "solution_type": "SaaS",
+  "buyer": "clinics",
+  "varden_fit": "medium",
+  "url": "https://www.tytocare.com",
+  "source": "web",
+  "discovery_round": 77,
+  "discovered_by": "sky"
+}

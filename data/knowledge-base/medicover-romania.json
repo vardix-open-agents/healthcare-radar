@@ -1,0 +1,14 @@
+{
+  "company": "Medicover Romania",
+  "country": "RO",
+  "problem": "Patients need convenient booking and management of private healthcare services",
+  "solution": "Medicover Online app for appointment booking, medical records access, and telemedicine consultations in Romania",
+  "problem_type": "practice_management",
+  "solution_type": "SaaS",
+  "buyer": "clinics",
+  "varden_fit": "medium",
+  "url": "https://www.medicover.ro",
+  "source": "web",
+  "discovery_round": 72,
+  "discovered_by": "sky"
+}

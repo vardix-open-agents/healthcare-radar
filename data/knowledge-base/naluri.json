@@ -1,0 +1,14 @@
+{
+  "company": "Naluri",
+  "country": "SG",
+  "problem": "Employers lack effective tools to support employee mental health, chronic disease management, and overall wellness, leading to reduced productivity and increased healthcare costs",
+  "solution": "Digital workplace wellness platform combining behavioral science, psychology, and medical expertise. Offers mental health support, chronic disease management, and personalized wellness programs for corporate clients across Southeast Asia",
+  "problem_type": "practice_management",
+  "solution_type": "SaaS",
+  "buyer": "clinics",
+  "varden_fit": "medium",
+  "url": "https://www.naluri.life",
+  "source": "web",
+  "discovery_round": 78,
+  "discovered_by": "nova"
+}

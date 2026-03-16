@@ -1,0 +1,28 @@
+{
+  "company": "Verato (USA)",
+  "country": "United States",
+  "founded_year": 2012,
+  "category": "Healthcare Infrastructure",
+  "subsector": "Healthcare Identity Resolution",
+  "description": "Healthcare identity resolution platform. Matches and manages patient identities across healthcare systems using referential matching. Solves duplicate medical records and improves patient matching accuracy.",
+  "business_model": "B2B - Identity platform to healthcare organizations",
+  "target_market": "Health systems, HIEs, payers",
+  "funding_stage": "Series C",
+  "funding_amount_usd": 45000000,
+  "key_investors": "Felicitas Global Partners, Bessemer Venture Partners",
+  "employees": "100+",
+  "customers": "Health systems and HIEs",
+  "revenue_usd": null,
+  "tech_stack": ["Referential matching", "Identity resolution", "Duplicate record management", "MPI enhancement"],
+  "integration_points": ["EHRs", "HIEs", "Payer systems", "Data warehouses"],
+  "competitive_advantage": "99.9% match accuracy, referential matching technology, proven results",
+  "boring_software": true,
+  "varden_fit": {
+    "threat_level": "low",
+    "opportunity": "monitor",
+    "rationale": "Identity infrastructure - critical for multi-system healthcare"
+  },
+  "data_quality": "high",
+  "sources": ["verato.com", "crunchbase.com"],
+  "last_updated": "2026-03-11"
+}

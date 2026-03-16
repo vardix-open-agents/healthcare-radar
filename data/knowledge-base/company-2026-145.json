@@ -1,0 +1,27 @@
+{
+  "company": "Meno (Germany)",
+  "country": "Germany",
+  "founded_year": 2020,
+  "category": "Women's Health",
+  "subsector": "Menopause Support Platform",
+  "description": "German startup providing digital health platform for menopause support. Offers personalized care plans, coaching, and community for women experiencing menopause.",
+  "business_model": "B2B - Employer contracts; B2C - Individual subscriptions",
+  "target_market": "German employers and women seeking menopause support",
+  "funding_stage": "Seed",
+  "funding_amount_eur": 2000000,
+  "key_investors": "German angels, early-stage VCs",
+  "employees": 20,
+  "customers": "50+ companies",
+  "revenue_eur": 1000000,
+  "tech_stack": ["Web platform", "Mobile app", "Coaching tools", "Community platform"],
+  "integration_points": ["HR systems", "Benefits platforms"],
+  "competitive_advantage": "First mover in menopause support for employers, clinical validation",
+  "varden_fit": {
+    "threat_level": "low",
+    "opportunity": "partner",
+    "rationale": "Specialized women's health platform - could complement occupational health offering"
+  },
+  "data_quality": "low",
+  "sources": ["linkedin.com", "startup databases"],
+  "last_updated": "2026-03-11"
+}

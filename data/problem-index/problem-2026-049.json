@@ -1,0 +1,16 @@
+{
+  "id": "problem-2026-049",
+  "problem": "Moroccan diabetes patients lack continuous monitoring, leading to preventable complications",
+  "problem_type": "monitoring",
+  "solution_type": "SMS-based glucose tracking, community health worker support, digital coaching",
+  "care_stage": "monitoring",
+  "automation_type": "manual_augmentation",
+  "buyer": "health_system",
+  "care_setting": "home",
+  "companies": ["Ministry of Health programs", "Diabetes associations", "Digital health startups"],
+  "signals": ["Morocco NCD burden", "CNOPS coverage expansion", "Digital health pilots"],
+  "boring_software": true,
+  "contrarian": false,
+  "url": "https://www.sante.gov.ma",
+  "date_added": "2026-03-11"
+}

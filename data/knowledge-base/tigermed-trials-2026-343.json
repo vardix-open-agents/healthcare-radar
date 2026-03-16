@@ -1,0 +1,22 @@
+{
+  "id": "tigermed-trials-2026-343",
+  "title": "Tigermed - Clinical Trial Services & Lab",
+  "company": "Tigermed",
+  "country": "China",
+  "segment": "infrastructure",
+  "problem": "Clinical trials in China need lab and imaging services with global quality standards",
+  "solution": "Full-service CRO with central lab and imaging capabilities for clinical trials",
+  "technology": "Central lab, imaging core lab, data management, clinical operations",
+  "target_customer": "Pharma, biotech, medical device companies",
+  "care_setting": "clinical_trial",
+  "care_domain": "diagnostics",
+  "care_stage": "research",
+  "automation_level": "partial",
+  "ai_type": null,
+  "traction_signals": ["Largest China CRO", "Global expansion", "Raised $2B+ IPO"],
+  "funding": "Public (HKEX: 1833)",
+  "regulatory_notes": "GCP compliant, ISO certified",
+  "source": "sky-round18-diagnostics",
+  "url": "https://www.tigermed.com",
+  "date_added": "2026-03-11"
+}

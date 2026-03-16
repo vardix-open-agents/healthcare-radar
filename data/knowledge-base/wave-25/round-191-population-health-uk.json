@@ -1,0 +1,183 @@
+{
+  "round": 191,
+  "wave": 25,
+  "topic": "Population Health (UK)",
+  "focus_areas": [
+    "Population health management platforms",
+    "Public health surveillance",
+    "Epidemiology platforms",
+    "Community health IT",
+    "Health promotion systems"
+  ],
+  "exclusions": [
+    "Consumer health apps",
+    "Government-only (non-commercial) entities"
+  ],
+  "companies": [
+    {
+      "company_name": "Graphnet Health",
+      "hq_location": "Milton Keynes, UK",
+      "website_url": "https://www.graphnethealth.com",
+      "problem_solved": "Healthcare providers lack integrated population-level data across health and social care. Graphnet's CIPHA platform aggregates data from multiple sources to enable population health management, infection control, and integrated care records.",
+      "who_buys_it": "NHS Integrated Care Boards (ICBs), NHS Trusts, Primary Care Networks (PCNs), Local Authorities, Public Health England",
+      "key_features": [
+        "CIPHA (Controlling Infection and Protecting Health and Advice) platform",
+        "Population health management dashboards",
+        "Integrated care records across health and social care",
+        "Real-time data aggregation from GP systems, hospitals, and social care",
+        "Risk stratification and predictive analytics",
+        "COVID-19 surveillance and vaccine management",
+        "Care planning and coordination tools"
+      ],
+      "business_model": "SaaS subscription model with implementation services. Contracts typically multi-year with NHS organisations and ICBs. Revenue from software licensing, implementation, and ongoing support.",
+      "why_varden_should_care": "Graphnet is the dominant UK population health platform with deep NHS relationships and critical pandemic-proven infrastructure. As NHS England pushes toward integrated care systems (ICSs), Graphnet's population health capabilities are increasingly strategic. The CIPHA platform demonstrated massive scale during COVID-19, handling data for millions of patients across regions."
+    },
+    {
+      "company_name": "Patients Know Best (PKB)",
+      "hq_location": "London, UK",
+      "website_url": "https://patientsknowbest.com",
+      "problem_solved": "Patient health data is fragmented across multiple providers. PKB provides a single, patient-controlled personal health record that integrates data from NHS trusts, GPs, and other providers, enabling better care coordination and patient engagement.",
+      "who_buys_it": "NHS Trusts, Integrated Care Boards, Health Boards (Wales/Scotland), GP Practices, Community Health Services, Mental Health Trusts",
+      "key_features": [
+        "Patient-controlled personal health record (PHR)",
+        "Integration with NHS Spine and NHS Digital",
+        "Real-time test results and health information",
+        "Care plans and appointment management",
+        "Secure messaging with healthcare professionals",
+        "Wearable device integration",
+        "Population health analytics for commissioners",
+        "Integrated into NHS App"
+      ],
+      "business_model": "Free for patients, funded by NHS organisations (hospitals, health boards, practices). SaaS licensing with implementation services. Over 6 million registered users as of 2024.",
+      "why_varden_should_care": "PKB is the world's largest personal health record platform and deeply embedded in NHS infrastructure. With NHS England's push for patient empowerment and integrated care, PKB's patient-controlled model is strategically aligned. 20M+ test results processed monthly and 100K+ new users monthly shows significant traction."
+    },
+    {
+      "company_name": "DrDoctor",
+      "hq_location": "London, UK",
+      "website_url": "https://www.drdoctor.com",
+      "problem_solved": "Patient engagement and appointment management are fragmented, leading to high DNA (Did Not Attend) rates and inefficient healthcare delivery. DrDoctor provides intelligent patient engagement tools to reduce missed appointments and improve care access.",
+      "who_buys_it": "NHS Trusts, Integrated Care Boards, Primary Care Networks, Community Health Providers",
+      "key_features": [
+        "Intelligent appointment booking and reminders",
+        "Patient self-scheduling portal",
+        "Automated follow-up and recall management",
+        "Virtual consultations integration",
+        "Waiting list management and validation",
+        "Population-level engagement analytics",
+        "Multi-channel communication (SMS, email, app)",
+        "Integration with EPR systems"
+      ],
+      "business_model": "SaaS subscription model with implementation and integration services. Contracts with NHS organisations based on volume and modules deployed.",
+      "why_varden_should_care": "DrDoctor is a leading NHS patient engagement platform helping trusts reduce DNAs and improve operational efficiency. As NHS faces capacity pressures, intelligent patient engagement becomes critical. Strong NHS relationships and proven ROI make this a strategic play in healthcare operations."
+    },
+    {
+      "company_name": "System C",
+      "hq_location": "Maidstone, Kent, UK",
+      "website_url": "https://www.systemc.com",
+      "problem_solved": "Healthcare organisations need integrated software solutions that span acute care, child health, mental health, and social care. System C provides connected software across the care continuum with a focus on population-level data sharing.",
+      "who_buys_it": "NHS Trusts, Local Authorities, Integrated Care Boards, Child Health Services, Mental Health Trusts",
+      "key_features": [
+        "Electronic Patient Records (EPR) for acute and community care",
+        "Child Health Information Systems (CHIS)",
+        "Mental health software solutions",
+        "Social care integration and case management",
+        "Population health management dashboards",
+        "Interoperability and data sharing platforms",
+        "Care planning and pathway management",
+        "NHS England accredited solutions"
+      ],
+      "business_model": "Software licensing and SaaS subscriptions. Implementation services, training, and ongoing support. Multi-year contracts with NHS and local government.",
+      "why_varden_should_care": "System C provides critical infrastructure across health and social care, uniquely positioned to support integrated care systems. Their child health systems are widely deployed across the NHS, providing deep relationships and population health data access."
+    },
+    {
+      "company_name": "Agilio Software",
+      "hq_location": "Newcastle upon Tyne, UK",
+      "website_url": "https://agiliosoftware.com",
+      "problem_solved": "Primary care organisations struggle with workforce management, compliance, information sharing, and clinical knowledge. Agilio provides integrated software solutions to help GP practices, PCNs, and ICBs operate efficiently and deliver better care.",
+      "who_buys_it": "GP Practices, Primary Care Networks (PCNs), Integrated Care Boards (ICBs), GP Federations, Independent Healthcare Providers",
+      "key_features": [
+        "GP appraisal and revalidation platform",
+        "Workforce management and HR software",
+        "CQC compliance tools",
+        "Information sharing and governance platforms for PCNs/ICBs",
+        "Clinical knowledge and e-learning (NICE accredited)",
+        "Team learning and mandatory training",
+        "Cross-organisation data sharing",
+        "Population health analytics for primary care"
+      ],
+      "business_model": "SaaS subscriptions across multiple product lines. Trusted by 70% of GP practices and 85% of GPs in the UK. Revenue from software licensing, training content, and compliance services.",
+      "why_varden_should_care": "Agilio (formed through merger of Clarity Informatics, Cognify, and other companies) has dominant market share in UK primary care software. With the shift to PCNs and ICBs, their information sharing and population health capabilities for primary care networks are strategically important."
+    },
+    {
+      "company_name": "Mayden",
+      "hq_location": "Bath, UK",
+      "website_url": "https://www.mayden.com",
+      "problem_solved": "Healthcare services need intelligent digital tools to transform care delivery, particularly in psychological therapies and mental health. Mayden provides cloud-based systems that support population health management and care coordination.",
+      "who_buys_it": "NHS Mental Health Trusts, IAPT services, Psychological Therapy Services, Integrated Care Boards, Community Health Services",
+      "key_features": [
+        "iaptus - psychological therapies patient management system",
+        "Population health analytics and dashboards",
+        "Care pathway management",
+        "Outcome measurement and reporting",
+        "Integration with NHS Spine and other systems",
+        "Referral management and triage",
+        "Real-time performance monitoring",
+        "Multi-agency data sharing"
+      ],
+      "business_model": "SaaS subscription model. iaptus is the most widely used IAPT patient management system in the NHS. Implementation, training, and support services included in contracts.",
+      "why_varden_should_care": "Mayden's iaptus dominates the NHS psychological therapy market, providing deep access to mental health population data. As mental health becomes a higher priority in population health management, their analytics capabilities across large patient populations become increasingly valuable."
+    },
+    {
+      "company_name": "Alcidion",
+      "hq_location": "London, UK (UK operations), Melbourne, Australia (HQ)",
+      "website_url": "https://www.alcidion.com",
+      "problem_solved": "Hospitals struggle with patient flow, bed management, and clinical decision-making due to siloed systems and lack of real-time insights. Alcidion's Miya Precision platform provides intelligent patient journey management and clinical decision support.",
+      "who_buys_it": "NHS Trusts (UK), Health Boards (Scotland), Australian Health Services, New Zealand District Health Boards",
+      "key_features": [
+        "Miya Precision - FHIR-events platform for patient flow",
+        "Electronic patient journey boards",
+        "Clinical decision support and alerts",
+        "Real-time observations and risk assessments",
+        "Smartpage - clinical communications platform",
+        "Emergency department and ward management",
+        "AI-powered insights and predictive analytics",
+        "Integration with existing EPR/EHR systems"
+      ],
+      "business_model": "SaaS subscriptions and implementation services. Strong NHS presence with trusts including Lancashire Teaching Hospitals, NHS Fife, and South Tees. Used by 95 healthcare organisations globally.",
+      "why_varden_should_care": "Alcidion has strong UK NHS traction with proven outcomes (42% reduction in medical errors, 15 mins saved per hour per doctor). Their FHIR-based platform enables population-level patient flow optimisation across health systems, critical for NHS winter pressures and capacity management."
+    },
+    {
+      "company_name": "Oracle Health (UK)",
+      "hq_location": "London, UK (UK operations), Austin, Texas (HQ)",
+      "website_url": "https://www.oracle.com/uk/health/",
+      "problem_solved": "Healthcare organisations need comprehensive population health management, EHR, and analytics capabilities. Oracle Health (formerly Cerner) provides enterprise-scale solutions for population health, clinical operations, and patient engagement.",
+      "who_buys_it": "NHS Trusts, Integrated Care Boards, Health Boards, Large Healthcare Systems, Academic Health Science Centres",
+      "key_features": [
+        "Population health management platform",
+        "Oracle Health EHR (formerly Cerner)",
+        "Care Management and coordination",
+        "Real-time health system analytics",
+        "Patient engagement and consumer experience tools",
+        "Revenue cycle management",
+        "Interoperability and data exchange",
+        "AI and machine learning insights"
+      ],
+      "business_model": "Enterprise software licensing, SaaS subscriptions, implementation services, and ongoing support. Large multi-year contracts with NHS organisations.",
+      "why_varden_should_care": "Oracle Health (acquired Cerner) has the largest global EHR market share and significant UK NHS deployments. Their population health capabilities, combined with Oracle's cloud and AI infrastructure, position them as a major player in UK integrated care transformation."
+    }
+  ],
+  "market_notes": {
+    "uk_context": "The UK population health market is driven by NHS England's Integrated Care Systems (ICSs) which bring together NHS organisations, local authorities, and other partners to improve population health outcomes. Key policy drivers include the NHS Long Term Plan, Core20PLUS5 initiative for reducing health inequalities, and the shift to value-based care.",
+    "key_trends": [
+      "Growth of Integrated Care Systems (ICSs) creating demand for population-level data integration",
+      "Focus on health inequalities and targeted interventions for underserved populations",
+      "Rise of personal health records and patient-controlled data",
+      "Post-pandemic emphasis on infection control and surveillance systems",
+      "Primary care networks (PCNs) requiring information sharing and population health tools",
+      "Mental health transformation programmes driving demand for therapy management systems"
+    ],
+    "competitive_landscape": "The UK population health market is fragmented with both UK-native companies (Graphnet, PKB, System C, Agilio, Mayden) and global players (Oracle Health/Cerner). UK companies often have deeper NHS relationships and understand local workflows, while global players offer scale and comprehensive EHR integration. Interoperability standards (FHIR, NHS Spine) are enabling greater data sharing."
+  },
+  "research_date": "2026-03-14",
+  "researcher_notes": "This round focused on UK-based or UK-focused population health companies. Some companies (Alcidion, Oracle Health) have non-UK headquarters but maintain significant UK operations and NHS deployments. All companies serve NHS organisations and align with UK population health priorities. Graphnet and PKB emerged as the most distinctly UK-native with deepest NHS integration."
+}

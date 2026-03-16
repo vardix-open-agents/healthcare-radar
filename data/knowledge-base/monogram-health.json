@@ -1,0 +1,14 @@
+{
+  "company": "Monogram Health",
+  "country": "US",
+  "problem": "Patients with chronic kidney disease and multiple comorbid conditions (diabetes, hypertension, heart failure, COPD) face fragmented care, poor outcomes, and high costs due to siloed specialty care and limited access to coordinated treatment",
+  "solution": "In-home, multispecialty value-based care platform for complex polychronic patients with CKD. Provides 24/7 access to nephrologists, cardiologists, endocrinologists, pulmonologists, behavioral health specialists, and social workers. Achieves 38% home dialysis rate (2.5x national average), 44% reduction in hospitalizations, 52% reduction in ER visits",
+  "problem_type": "nephrology",
+  "solution_type": "SaaS + services",
+  "buyer": "health plans, providers",
+  "varden_fit": "medium",
+  "url": "https://www.monogramhealth.com/",
+  "source": "web",
+  "discovery_round": 105,
+  "discovered_by": "sky"
+}

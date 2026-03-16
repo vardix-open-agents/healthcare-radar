@@ -1,0 +1,86 @@
+[
+  {
+    "company_name": "Monsenso",
+    "hq_location": "Copenhagen, Denmark",
+    "website_url": "https://www.monsenso.com",
+    "problem_solved": "Mental health clinics and providers lack digital tools to monitor patients with mental health conditions including addiction between appointments, leading to poor treatment outcomes and preventable relapses.",
+    "target_buyers": "Mental health clinics, psychiatrists, addiction treatment centers, public healthcare systems",
+    "key_features": [
+      "Mobile app for real-time symptom tracking and behavioral data collection",
+      "Clinician dashboard with AI-powered alerts for early warning signs of relapse",
+      "Integration with wearables and contextual data for comprehensive patient monitoring"
+    ],
+    "business_model": "SaaS subscription for healthcare providers",
+    "why_varden_cares": "Proven digital mental health platform with CE marking that can be replicated across European markets. Strong clinical validation and integration with existing healthcare workflows makes it attractive for partnerships and acquisition by larger healthcare IT players."
+  },
+  {
+    "company_name": "Flow Neuroscience",
+    "hq_location": "Malmö, Sweden",
+    "website_url": "https://www.flowneuroscience.com",
+    "problem_solved": "Depression and addiction patients often don't respond to medication alone, and clinics lack effective non-pharmacological treatment options to offer as alternatives or complementary therapies.",
+    "target_buyers": "Mental health clinics, psychiatry practices, addiction treatment centers, patients directly (DTC)",
+    "key_features": [
+      "FDA-cleared transcranial direct current stimulation (tDCS) headset for depression treatment",
+      "Digital therapy app with behavioral activation programs",
+      "Remote treatment monitoring and progress tracking"
+    ],
+    "business_model": "Medical device sales (B2B to clinics) + DTC subscription for app",
+    "why_varden_cares": "Novel digital therapeutic combining hardware and software that can be expanded beyond depression to addiction treatment. Regulatory-cleared technology platform with potential to replicate across mental health conditions and geographic markets."
+  },
+  {
+    "company_name": "Meela",
+    "hq_location": "Stockholm, Sweden",
+    "website_url": "https://meelahealth.com",
+    "problem_solved": "Patients struggle to find the right therapist for their specific needs, leading to high dropout rates and ineffective treatment. Mental health providers lack efficient patient matching tools.",
+    "target_buyers": "Individual patients (B2C), employers (B2B for employee benefits), healthcare providers seeking referral partnerships",
+    "key_features": [
+      "AI-powered therapist matching based on patient needs, personality, and treatment preferences",
+      "Network of 450+ licensed psychologists and psychotherapists across Sweden",
+      "Price guarantee and seamless booking platform"
+    ],
+    "business_model": "Marketplace/transaction fee model (takes commission from therapist sessions)",
+    "why_varden_cares": "Scalable marketplace model that can expand to addiction treatment matching. Strong founder story and proven product-market fit (100,000+ matches, 9/10 success rate) demonstrates replicability potential across Nordic countries and beyond."
+  },
+  {
+    "company_name": "Mindler",
+    "hq_location": "Stockholm, Sweden",
+    "website_url": "https://www.mindler.se",
+    "problem_solved": "Long wait times and limited access to psychological treatment through public healthcare systems leave patients without timely mental health support.",
+    "target_buyers": "Patients seeking psychological treatment, employers (B2B for occupational health), healthcare regions",
+    "key_features": [
+      "Video-based consultations with licensed psychologists and psychotherapists",
+      "Digital CBT (cognitive behavioral therapy) programs for various conditions",
+      "Integration with public healthcare systems for reimbursed treatment"
+    ],
+    "business_model": "SaaS/transaction hybrid - session fees paid by patients, employers, or healthcare regions",
+    "why_varden_cares": "Established player in Swedish market with integration into public healthcare reimbursement. Platform can be adapted for addiction treatment programs and replicated to other Nordic markets with similar healthcare structures."
+  },
+  {
+    "company_name": "Kry (Livi)",
+    "hq_location": "Stockholm, Sweden",
+    "website_url": "https://www.kry.se",
+    "problem_solved": "Patients lack easy access to healthcare professionals for mental health concerns, and primary care systems are overburdened, leading to delayed diagnosis and treatment.",
+    "target_buyers": "Patients, employers (B2B), healthcare regions, insurance companies",
+    "key_features": [
+      "Video consultations with doctors, psychologists, and therapists within minutes",
+      "Digital mental health programs including CBT and mindfulness",
+      "Prescription services and sick leave certification"
+    ],
+    "business_model": "SaaS/transaction hybrid - consultation fees from patients, employers, or healthcare systems",
+    "why_varden_cares": "Largest digital health platform in Europe with established infrastructure for mental health services. Strong foundation for expanding addiction treatment services, with proven ability to scale across multiple countries."
+  },
+  {
+    "company_name": "29k",
+    "hq_location": "Stockholm, Sweden",
+    "website_url": "https://www.29k.org",
+    "problem_solved": "Mental health support is often expensive and inaccessible. Many people cannot afford therapy or face stigma in seeking help.",
+    "target_buyers": "Individuals (B2C free app), employers (B2B for employee wellbeing programs), healthcare providers",
+    "key_features": [
+      "Free mental health app with evidence-based psychological exercises and meditations",
+      "Peer support community and group sessions",
+      "Courses on anxiety, depression, relationships, and personal growth"
+    ],
+    "business_model": "Freemium (free for users) + B2B licensing to employers and healthcare providers",
+    "why_varden_cares": "Non-profit model with strong clinical backing that can be adapted for addiction recovery support. Scalable digital platform with low marginal cost, making it attractive for public healthcare partnerships and international expansion."
+  }
+]

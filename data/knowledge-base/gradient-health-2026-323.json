@@ -1,0 +1,22 @@
+{
+  "id": "gradient-health-2026-323",
+  "title": "Gradient Health - Medical Imaging Datasets",
+  "company": "Gradient Health",
+  "country": "USA",
+  "segment": "infrastructure",
+  "problem": "Training AI imaging algorithms requires massive labeled datasets not publicly available",
+  "solution": "Platform providing access to de-identified medical imaging datasets for AI development",
+  "technology": "Data aggregation, de-identification, annotation tools, dataset marketplace",
+  "target_customer": "AI companies, research institutions, pharma",
+  "care_setting": "N/A",
+  "care_domain": "infrastructure",
+  "care_stage": "N/A",
+  "automation_level": "partial",
+  "ai_type": null,
+  "traction_signals": ["Raised $3M seed", "100+ customers", "Growing dataset library"],
+  "funding": "Seed",
+  "regulatory_notes": "HIPAA compliant de-identification",
+  "source": "sky-round18-diagnostics",
+  "url": "https://www.gradienthealth.io",
+  "date_added": "2026-03-11"
+}

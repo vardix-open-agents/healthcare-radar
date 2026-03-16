@@ -1,0 +1,14 @@
+{
+  "company": "Cuviva",
+  "country": "SE",
+  "problem": "Elderly and chronically ill patients lack adequate support at home, healthcare providers need tools to monitor vulnerable populations remotely, inefficient care delivery",
+  "solution": "White-label digital RPM platform for municipalities, regions, and private care providers across Europe, focusing on elderly care, chronic disease management, and home healthcare with health measurements and self-testing tools",
+  "problem_type": "remote_monitoring",
+  "solution_type": "SaaS",
+  "buyer": "providers",
+  "varden_fit": "high",
+  "url": "https://cuviva.com",
+  "source": "web",
+  "discovery_round": 76,
+  "discovered_by": "sky"
+}

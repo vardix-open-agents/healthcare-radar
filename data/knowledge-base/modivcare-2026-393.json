@@ -1,0 +1,23 @@
+{
+  "company_name": "Modivcare",
+  "problem_solved": "Medicaid and Medicare members often miss medical appointments due to lack of reliable transportation, leading to worse health outcomes and increased emergency department utilization",
+  "solution_description": "Non-emergency medical transportation (NEMT) and supportive care platform combining people, technology, and data to manage 35M+ paid trips annually. MyModivcare hub for ride booking, combined with remote patient monitoring and medication management services. Serves Medicaid plans, Medicare/SNP plans, and health systems",
+  "buyer_persona": "payers",
+  "care_stage": "transport",
+  "automation_level": "partial",
+  "varden_fit": "medium",
+  "region": "US",
+  "country": "United States",
+  "funding_stage": "public",
+  "traction_signals": [
+    "1B+ moments of care",
+    "34M lives managed",
+    "35M paid trips per year",
+    "98%+ trip completion rate",
+    "59% increase in member engagement"
+  ],
+  "notes": "Largest NEMT provider in US (formerly Logisticare). Combined transportation and RPM/monitoring services. 40-60% reduction in ER utilization reported. Medium Varden fit - more payer-focused than provider-focused.",
+  "discovery_round": 52,
+  "discovered_by": "sky",
+  "timestamp": "2026-03-11T23:20:00Z"
+}

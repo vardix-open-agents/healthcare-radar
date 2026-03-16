@@ -1,0 +1,14 @@
+{
+  "company": "Nomad Health",
+  "country": "US",
+  "problem": "Travel nurses and allied health professionals face opaque job markets with unclear pay and complex contract terms, while facilities struggle to source qualified travel clinicians efficiently.",
+  "solution": "Digital marketplace for travel nursing and allied health jobs with transparent pay, personalized job matching based on clinician profiles, and dedicated support from Nomad Navigators.",
+  "problem_type": "healthcare_staffing",
+  "solution_type": "SaaS",
+  "buyer": "health_system",
+  "varden_fit": "low",
+  "url": "https://www.nomadhealth.com/",
+  "source": "web",
+  "discovery_round": 127,
+  "discovered_by": "sky"
+}

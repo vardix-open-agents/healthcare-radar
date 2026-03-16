@@ -1,0 +1,23 @@
+{
+  "company_name": "Ada Health",
+  "problem_solved": "Patients struggle to understand symptoms and determine appropriate care pathways, leading to delayed treatment or unnecessary healthcare utilization",
+  "solution_description": "AI-powered symptom checker and health guidance platform. Provides personalized health assessments based on symptoms, medical history, and clinical knowledge base. Medical library with clinician-reviewed content. Supports patients in understanding conditions and finding appropriate care",
+  "buyer_persona": "patients|health_systems|health_plans",
+  "care_stage": "triage",
+  "automation_level": "partial",
+  "varden_fit": "high",
+  "region": "EU",
+  "country": "Germany",
+  "funding_stage": "series_c",
+  "traction_signals": [
+    "Global symptom checker with medical library",
+    "Content created by doctors and grounded in research",
+    "Health. Powered by Ada branding",
+    "Consumer-facing mobile application",
+    "B2B2C model with health system partnerships"
+  ],
+  "notes": "Strong European presence from Germany. Consumer-facing brand with B2B2C model. Medical library adds value beyond triage. German engineering credibility for clinical AI",
+  "discovery_round": 51,
+  "discovered_by": "sky",
+  "timestamp": "2026-03-11T23:23:00Z"
+}

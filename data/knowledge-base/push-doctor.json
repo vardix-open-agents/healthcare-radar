@@ -1,0 +1,14 @@
+{
+  "company": "Push Doctor",
+  "country": "GB",
+  "problem": "UK patients face long wait times for GP appointments and need convenient access to primary care consultations",
+  "solution": "UK's first video consultation platform connecting patients with GPs via smartphone; available to both NHS and private patients with prescription services",
+  "problem_type": "primary_care",
+  "solution_type": "SaaS",
+  "buyer": "health_system",
+  "varden_fit": "high",
+  "url": "https://www.pushdoctor.co.uk",
+  "source": "web",
+  "discovery_round": 125,
+  "discovered_by": "sky"
+}

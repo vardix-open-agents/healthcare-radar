@@ -1,0 +1,33 @@
+{
+  "id": "changehealthcare-2026-073",
+  "title": "Change Healthcare (Optum) - Payer-Provider Transaction Infrastructure",
+  "company": "Change Healthcare (now Optum)",
+  "country": "US",
+  "region": "US",
+  "segment": "infrastructure",
+  "problem": "Payers and providers need efficient transaction processing for eligibility, claims, and payments. Fragmented systems create delays, errors, and administrative costs.",
+  "solution": "End-to-end healthcare transaction platform. Eligibility verification, claims processing, prior authorization, payment processing, and analytics. Deep integration with payers and providers.",
+  "technology": "X12 transaction processing, clearinghouse, real-time APIs, analytics",
+  "target_customer": "Payers, providers, pharmacies",
+  "care_setting": "all",
+  "care_domain": "general",
+  "care_stage": "admin",
+  "automation_level": "full",
+  "ai_type": "AI for claims analytics",
+  "traction_signals": [
+    "4 out of 5 US health plans rely on them",
+    "Massive scale in payer-provider transactions",
+    "Now part of UnitedHealth Group/Optum",
+    "Industry-standard infrastructure"
+  ],
+  "funding": "Acquired by UnitedHealth Group",
+  "regulatory_notes": "HIPAA compliant, handles PHI at scale",
+  "varden_fit": "HIGH — This IS the US healthcare transaction infrastructure. Europe has nothing equivalent. The clearinghouse model is directly applicable to EU multi-payer systems.",
+  "source": "Web research",
+  "url": "https://www.changehealthcare.com",
+  "date_added": "2026-03-11",
+  "problem_type": "eligibility",
+  "contrarian": true,
+  "boring_software": true,
+  "notes": "CONTRARIAN: This is pure infrastructure plumbing. Unsexy but processes trillions in healthcare transactions. EU needs this desperately."
+}

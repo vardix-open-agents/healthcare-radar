@@ -1,0 +1,16 @@
+{
+  "id": "problem-2026-029",
+  "problem": "South Korean hospitals lose patients to competitors due to poor appointment availability transparency",
+  "problem_type": "scheduling",
+  "solution_type": "Real-time availability APIs, multi-hospital booking platforms, wait time predictions",
+  "care_stage": "intake",
+  "automation_type": "ai_assisted",
+  "buyer": "hospital",
+  "care_setting": "specialty",
+  "companies": ["Kakao Healthcare", "Naver Healthcare", "Local scheduling vendors"],
+  "signals": ["Korean healthcare competition", "Tech-savvy patient population", "Platform economy adoption"],
+  "boring_software": false,
+  "contrarian": false,
+  "url": "https://www.kakaocorp.com/service/KakaoHealthcare",
+  "date_added": "2026-03-11"
+}

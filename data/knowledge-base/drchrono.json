@@ -1,0 +1,14 @@
+{
+  "company": "DrChrono",
+  "country": "US",
+  "problem": "Independent medical practices lack unified platforms to manage clinical workflows, patient engagement, and revenue efficiently",
+  "solution": "AI-powered cloud-based EHR platform combining clinical workflows, patient engagement via OnPatient portal, telehealth, and billing management for independent practices",
+  "problem_type": "primary_care",
+  "solution_type": "SaaS",
+  "buyer": "health_system",
+  "varden_fit": "high",
+  "url": "https://www.drchrono.com",
+  "source": "web",
+  "discovery_round": 125,
+  "discovered_by": "sky"
+}

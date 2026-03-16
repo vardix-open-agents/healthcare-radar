@@ -1,0 +1,14 @@
+{
+  "company": "Signant Health",
+  "country": "US",
+  "problem": "Sponsors and CROs struggle to extract clean, reliable clinical trial data from patients and sites, with quality gaps that compromise regulatory submissions.",
+  "solution": "Best-in-class eClinical solutions with 30 years experience, supporting thousands of trials and hundreds of drug approvals. Includes early-stage protocol guidance from 50+ in-house scientists, tailored implementation, and comprehensive clinical technology for high-quality data generation.",
+  "problem_type": "clinical_trials",
+  "solution_type": "SaaS",
+  "buyer": "research_orgs",
+  "varden_fit": "low",
+  "url": "https://signanthealth.com/",
+  "source": "web",
+  "discovery_round": 103,
+  "discovered_by": "sky"
+}

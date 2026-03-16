@@ -1,0 +1,14 @@
+{
+  "company": "Epic Systems",
+  "country": "US",
+  "problem": "Large academic medical centers and health systems require comprehensive hematology/oncology EHR solutions that integrate blood disorder management with precision medicine, clinical trials, and multidisciplinary care coordination.",
+  "solution": "Enterprise EHR platform with specialized hematology/oncology modules for chemotherapy management, blood disorder tracking, coagulation monitoring, integrated oncology pathways, and clinical trial management.",
+  "problem_type": "hematology",
+  "solution_type": "SaaS",
+  "buyer": "clinics",
+  "varden_fit": "medium",
+  "url": "https://www.epic.com",
+  "source": "web",
+  "discovery_round": 120,
+  "discovered_by": "sky"
+}

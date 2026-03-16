@@ -1,0 +1,30 @@
+{
+  "id": "modmed-2026-131",
+  "title": "Modernizing Medicine - Specialty EHR Platform",
+  "company": "Modernizing Medicine",
+  "country": "USA",
+  "region": "NA",
+  "segment": "specialty_ehr",
+  "problem": "Dermatology and other specialty practices need EHR systems designed for their specific workflows, not generic primary care systems.",
+  "solution": "AI-powered specialty EHR with dermatology-specific templates, image management, procedure documentation, and practice analytics.",
+  "technology": "Cloud EHR, AI documentation assistance, specialty-specific workflows, image management",
+  "target_customer": "Dermatology practices, orthopedic practices, ophthalmology, other specialties",
+  "care_setting": "outpatient_specialty",
+  "care_domain": "multiple_specialties",
+  "care_stage": "care_delivery",
+  "automation_level": "full",
+  "ai_type": "AI-powered documentation and clinical decision support",
+  "traction_signals": [
+    "11,000+ providers using platform",
+    "$100M+ annual revenue",
+    "Multi-specialty platform",
+    "Founded 2010, Boca Raton FL"
+  ],
+  "funding": "$231M raised, private equity backed",
+  "regulatory_notes": "ONC-certified EHR, HIPAA compliant",
+  "varden_fit": "Moderate - Specialty EHR layer. Strong in dermatology specifically. Could be integration partner or model for specialty practice management.",
+  "source": "Industry knowledge",
+  "url": "https://modmed.com",
+  "date_added": "2026-03-11",
+  "notes": "Leading specialty EHR, especially in dermatology. AI-powered documentation is interesting."
+}

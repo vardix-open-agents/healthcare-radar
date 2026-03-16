@@ -1,0 +1,14 @@
+{
+  "company": "Siemens Healthineers Cancer Care (Varian)",
+  "country": "DE",
+  "problem": "Cancer centers need integrated hardware and software solutions for radiation therapy that deliver precise treatment while managing complex clinical workflows and patient positioning.",
+  "solution": "Comprehensive oncology solutions including linear accelerators (Halcyon, TrueBeam), treatment planning systems, and patient positioning technologies with advanced imaging and motion management for precise radiotherapy delivery.",
+  "problem_type": "oncology",
+  "solution_type": "SaaS",
+  "buyer": "clinics",
+  "varden_fit": "medium",
+  "url": "https://cancercare.siemens-healthineers.com",
+  "source": "web",
+  "discovery_round": 108,
+  "discovered_by": "nova"
+}

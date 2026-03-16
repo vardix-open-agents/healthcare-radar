@@ -1,0 +1,14 @@
+{
+  "company": "Athenahealth",
+  "country": "US",
+  "problem": "Allergists face administrative burden managing immunotherapy schedules, prior authorizations, and treatment documentation",
+  "solution": "Cloud-based EHR with network-enabled services including allergy specialty templates and immunotherapy management tools",
+  "problem_type": "allergy",
+  "solution_type": "SaaS",
+  "buyer": "clinics",
+  "varden_fit": "medium",
+  "url": "https://athenahealth.com",
+  "source": "web",
+  "discovery_round": 114,
+  "discovered_by": "nova"
+}

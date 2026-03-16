@@ -1,0 +1,27 @@
+{
+  "company": "Kry Germany",
+  "country": "Germany",
+  "founded_year": 2018,
+  "category": "Telemedicine",
+  "subsector": "German Digital Health Operations",
+  "description": "German operations of Kry/Livi group. Offering video consultations with German doctors. Part of Kry's European expansion strategy. Growing but smaller than Swedish operations.",
+  "business_model": "B2C - Direct to patients; exploring B2B",
+  "target_market": "German consumers seeking digital healthcare access",
+  "funding_stage": "Series D (part of Kry Group)",
+  "funding_amount_eur": 400000000,
+  "key_investors": "Index Ventures, Creandum, Accel, General Atlantic",
+  "employees": 150,
+  "customers": "500000+ German users",
+  "revenue_eur": 20000000,
+  "tech_stack": ["Shared Kry platform", "German doctor network"],
+  "integration_points": ["German health system", "Telematics infrastructure"],
+  "competitive_advantage": "Backed by well-funded group, proven tech platform, growing brand",
+  "varden_fit": {
+    "threat_level": "medium",
+    "opportunity": "monitor",
+    "rationale": "Competitor in German market - watch for expansion into occupational health"
+  },
+  "data_quality": "medium",
+  "sources": ["kry.de", "kry.tech"],
+  "last_updated": "2026-03-11"
+}

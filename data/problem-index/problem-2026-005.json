@@ -1,0 +1,16 @@
+{
+  "id": "problem-2026-005",
+  "problem": "Emergency dispatchers struggle to prioritize calls accurately, leading to over/under-triage",
+  "problem_type": "triage",
+  "solution_type": "AI-powered speech recognition, decision support, predictive risk scoring",
+  "care_stage": "intake",
+  "automation_type": "ai_assisted",
+  "buyer": "health_system",
+  "care_setting": "emergency",
+  "companies": ["Corti", "Nuance", "Augmedix"],
+  "signals": ["NHS 111 pilots", "Corti $60M funding", "Dispatch accuracy improvements"],
+  "boring_software": false,
+  "contrarian": false,
+  "url": "https://corti.ai",
+  "date_added": "2026-03-11"
+}

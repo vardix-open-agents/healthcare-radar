@@ -1,0 +1,14 @@
+{
+  "company": "When I Work",
+  "country": "US",
+  "problem": "Healthcare facilities and other shift-based businesses struggle with employee scheduling, time tracking, and team communication, leading to coverage gaps, labor inefficiencies, and staff turnover.",
+  "solution": "When I Work provides a mobile-first workforce management platform combining employee scheduling, time and attendance tracking, and team messaging. Features include AI-powered auto-scheduling, labor forecasting, GPS clock-ins, shift swapping, and integrations with major payroll providers to streamline operations for shift-based teams.",
+  "problem_type": "scheduling",
+  "solution_type": "SaaS",
+  "buyer": "providers",
+  "varden_fit": "medium",
+  "url": "https://www.wheniwork.com/",
+  "source": "web",
+  "discovery_round": 85,
+  "discovered_by": "nova"
+}

@@ -1,0 +1,27 @@
+{
+  "company": "NHS Digital",
+  "country": "United Kingdom",
+  "founded_year": 2013,
+  "category": "Digital Health Infrastructure",
+  "subsector": "Public Sector Health IT",
+  "description": "UK public sector body responsible for digital health infrastructure for the NHS. Develops and operates NHS Spine, e-prescription service, NHS App, and other national digital health systems.",
+  "business_model": "Public sector - Government-funded infrastructure",
+  "target_market": "NHS England, UK healthcare providers, citizens",
+  "funding_stage": "Government-funded",
+  "funding_amount_gbp": null,
+  "key_investors": "UK Government / NHS England",
+  "employees": 3000,
+  "customers": "All NHS providers, 60M+ UK citizens",
+  "revenue_gbp": 1000000000,
+  "tech_stack": ["NHS Spine", "NHS App", "E-prescription service", "NHS login", "GP systems integration"],
+  "integration_points": ["All NHS systems", "GP systems", "Hospital EHRs", "Pharmacy systems"],
+  "competitive_advantage": "National infrastructure, universal access, data integration",
+  "varden_fit": {
+    "threat_level": "low",
+    "opportunity": "partner",
+    "rationale": "NHS infrastructure - essential partner for any UK public sector health contracts"
+  },
+  "data_quality": "high",
+  "sources": ["digital.nhs.uk"],
+  "last_updated": "2026-03-11"
+}

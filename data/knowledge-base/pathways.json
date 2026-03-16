@@ -1,0 +1,14 @@
+{
+  "company": "Pathways",
+  "country": "IE",
+  "problem": "Chronic pain affects over 3 months for millions of people, often leading to medication dependency and poor quality of life. Traditional treatments focus on symptoms rather than retraining the brain-nervous system connection.",
+  "solution": "Online pain management program using mind-body techniques to break the chronic pain cycle. Combines guided pain relief education, CBT, meditation library, physiotherapy exercises, yoga, and breathing routines. Evidence-based approach to retrain the nervous system.",
+  "problem_type": "pain_management",
+  "solution_type": "SaaS",
+  "buyer": "consumers",
+  "varden_fit": "medium",
+  "url": "https://www.pathways.health",
+  "source": "web",
+  "discovery_round": 135,
+  "discovered_by": "nova"
+}

@@ -1,0 +1,14 @@
+{
+  "company": "Wibbi (Physiotec)",
+  "country": "CA",
+  "problem": "Physical therapists and rehabilitation specialists spend excessive time creating exercise programs and managing patient compliance, with limited tools for tracking progress and engaging patients between visits.",
+  "solution": "Home exercise prescription platform with 20,000+ rehab exercise videos, 300+ customizable templates, patient education sheets, outcome measures, and 70+ EMR integrations. Includes remote therapeutic monitoring and patient mobile app for improved adherence.",
+  "problem_type": "pain_management",
+  "solution_type": "SaaS",
+  "buyer": "clinics",
+  "varden_fit": "medium",
+  "url": "https://wibbi.com",
+  "source": "web",
+  "discovery_round": 135,
+  "discovered_by": "nova"
+}

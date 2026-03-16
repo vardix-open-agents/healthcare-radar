@@ -1,0 +1,16 @@
+{
+  "id": "problem-2026-061",
+  "problem": "South Korean clinics lack interoperability between EMR systems, forcing patients to carry paper records between facilities",
+  "problem_type": "data_integration",
+  "solution_type": "National health data exchange, standardized APIs, patient-mediated data sharing",
+  "care_stage": "diagnosis",
+  "automation_type": "data_integration",
+  "buyer": "government",
+  "care_setting": "primary_care",
+  "companies": ["DrNow", "MyDoctor", "Macjong", "Grapher"],
+  "signals": ["Korea NHIS digital initiatives", "Telemedicine deregulation post-COVID", "Smart hospital investments"],
+  "boring_software": false,
+  "contrarian": false,
+  "url": "https://www.nhis.or.kr",
+  "date_added": "2026-03-11"
+}

@@ -1,0 +1,14 @@
+{
+  "company": "Clipboard Health",
+  "country": "US",
+  "problem": "Healthcare facilities struggle to fill staffing gaps with qualified nursing professionals, while independent healthcare workers lack access to flexible work opportunities and facilities that need their skills.",
+  "solution": "Digital marketplace platform connecting independent healthcare professionals (nurses, CNAs) with healthcare facilities for per-diem shifts, enabling flexible scheduling and transparent job matching.",
+  "problem_type": "healthcare_staffing",
+  "solution_type": "SaaS",
+  "buyer": "health_system",
+  "varden_fit": "low",
+  "url": "https://www.clipboardhealth.com/",
+  "source": "web",
+  "discovery_round": 127,
+  "discovered_by": "sky"
+}

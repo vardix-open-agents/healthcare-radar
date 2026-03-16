@@ -1,0 +1,33 @@
+{
+  "id": "doctoralia-latam-2026-215",
+  "title": "Doctoralia - LATAM Doctor Discovery & Booking",
+  "company": "Doctoralia",
+  "country": "Brazil/Mexico/Colombia/Chile/Argentina",
+  "region": "LATAM",
+  "segment": "scheduling",
+  "problem": "Patients in LATAM struggle to find doctors, check availability, and book appointments. Fragmented information across clinic websites, no reviews, no pricing transparency. Doctors lack efficient patient acquisition channels.",
+  "solution": "Doctor discovery platform with profiles, reviews, online booking, and clinic information. Doctor dashboard for appointment management. Free listing for doctors, premium features for enhanced profiles and analytics.",
+  "technology": "Web platform, mobile app, practice management software for doctors, booking system, review platform",
+  "target_customer": "Individual doctors, clinics, patients (B2B2C)",
+  "care_setting": "all",
+  "care_domain": "general",
+  "care_stage": "admin",
+  "automation_level": "partial",
+  "ai_type": null,
+  "traction_signals": [
+    "Part of Docplanner Group (Polish unicorn)",
+    "Operating in 5+ LATAM countries",
+    "Largest doctor listing platform in region",
+    "Millions of monthly users"
+  ],
+  "funding": "Part of Docplanner (valued $1B+)",
+  "regulatory_notes": "Medical advertising regulations vary by country",
+  "varden_fit": "COMPETITOR - Directly competes with Varden's scheduling/booking. But they're consumer-facing, Varden could be B2B infrastructure provider to similar platforms.",
+  "source": "Industry knowledge",
+  "url": "https://doctoralia.com.br",
+  "date_added": "2026-03-11",
+  "problem_type": "discovery",
+  "contrarian": false,
+  "boring_software": false,
+  "notes": "ZocDoc/Docplanner model for LATAM. Well-funded, pan-regional player. Varden should differentiate by going deeper on infrastructure/enterprise rather than consumer discovery."
+}

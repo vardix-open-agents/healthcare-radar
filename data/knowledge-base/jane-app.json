@@ -1,0 +1,14 @@
+{
+  "company": "Jane App",
+  "country": "CA",
+  "problem": "Health and wellness practitioners including physiotherapists, massage therapists, counselors, and midwives need affordable, intuitive practice management software that handles scheduling, billing, and client communication in one place.",
+  "solution": "Web-based practice management software designed for interdisciplinary health clinics, offering online booking, automated reminders, simple billing with insurance tracking, secure file storage, and team collaboration features at pricing scaled to practice size.",
+  "problem_type": "mental_health",
+  "solution_type": "SaaS",
+  "buyer": "providers",
+  "varden_fit": "medium",
+  "url": "https://jane.app",
+  "source": "web",
+  "discovery_round": 90,
+  "discovered_by": "sky"
+}

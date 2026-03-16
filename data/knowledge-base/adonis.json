@@ -1,0 +1,65 @@
+{
+  "company_name": "Adonis",
+  "website": "https://adonis.io",
+  "hq_location": "New York, NY, USA",
+  "founded_year": 2022,
+  "category": "Revenue Cycle Management",
+  "subcategories": [
+    "Revenue Cycle Intelligence",
+    "Claims Management",
+    "Denial Prevention",
+    "AI-Driven Automation"
+  ],
+  "description": "Adonis is a healthcare technology company that provides AI-powered revenue cycle management solutions. Their platform uses machine learning to identify and address revenue leakage, automate claims processing, and prevent denials before they occur. The company focuses on helping medical practices improve their financial performance through intelligent automation.",
+  "value_proposition": "Combines AI-driven intelligence with automation to help healthcare organizations maximize revenue capture, reduce denials, and improve overall financial performance without increasing staff workload.",
+  "technology": [
+    "AI/ML",
+    "Predictive Analytics",
+    "Process Automation",
+    "Natural Language Processing"
+  ],
+  "target_customers": [
+    "Medical practices",
+    "Healthcare systems",
+    "Revenue cycle teams",
+    "Billing companies"
+  ],
+  "geographic_focus": [
+    "United States"
+  ],
+  "funding_status": "Series B",
+  "funding_amount": "$54M+",
+  "key_investors": [
+    "General Catalyst",
+    "Blisce",
+    "Max Ventures"
+  ],
+  "employees": "100-200",
+  "traction": "Serving hundreds of healthcare organizations",
+  "competitors": [
+    "Waystar",
+    "R1 RCM",
+    "Change Healthcare"
+  ],
+  "varden_relevance": {
+    "replication_potential": "HIGH",
+    "key_learnings": [
+      "AI-first approach to RCM showing strong market adoption",
+      "Predictive denial prevention more valuable than reactive denial management",
+      "Integration with existing EHR/PM systems essential",
+      "Focus on revenue intelligence not just automation"
+    ],
+    "similarities_to_varden": [
+      "AI-powered automation",
+      "Focus on reducing manual work",
+      "Healthcare financial infrastructure"
+    ]
+  },
+  "data_sources": [
+    "LinkedIn profiles",
+    "Industry reports"
+  ],
+  "last_updated": "2026-03-14",
+  "discovered_round": 62,
+  "discovered_by": "nova"
+}

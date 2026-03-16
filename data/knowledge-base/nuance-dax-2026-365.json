@@ -1,0 +1,23 @@
+{
+  "company_name": "Nuance DAX (Microsoft)",
+  "problem_solved": "Clinical documentation burden and administrative tasks reduce provider productivity and patient satisfaction",
+  "solution_description": "Dragon Ambient eXperience (DAX) - ambient clinical intelligence that automatically documents patient encounters. Part of Microsoft Cloud for Healthcare. Integrates Dragon Medical One for speech recognition and PowerMic Mobile for wireless dictation. Enterprise-grade AI for clinical workflow transformation",
+  "buyer_persona": "health_systems|clinics|providers",
+  "care_stage": "treatment",
+  "automation_level": "partial",
+  "varden_fit": "medium",
+  "region": "US",
+  "country": "US",
+  "funding_stage": "acquired",
+  "traction_signals": [
+    "Acquired by Microsoft for $19.7B (2022)",
+    "Dragon Medical One - advanced speech recognition",
+    "PowerMic Mobile for wireless EHR navigation",
+    "Part of Microsoft Cloud for Healthcare",
+    "Enterprise-scale deployment capability"
+  ],
+  "notes": "Microsoft ownership provides enterprise credibility and Azure integration. Dragon speech recognition technology is market-leading. May be less suitable for smaller Nordic deployments due to enterprise focus",
+  "discovery_round": 51,
+  "discovered_by": "sky",
+  "timestamp": "2026-03-11T23:22:00Z"
+}

@@ -1,0 +1,14 @@
+{
+  "company": "Cognibox",
+  "country": "CA",
+  "problem": "Companies need to manage contractor compliance, worker qualifications, and safety training across multiple sites and jurisdictions, but face challenges tracking certifications, competencies, and training records for external workers and suppliers.",
+  "solution": "Cognibox offers a compliance and training management solution that centralizes contractor qualification, skills management, and online training delivery, enabling organizations to verify worker competencies, manage supplier compliance, and maintain safety standards across their contractor workforce.",
+  "problem_type": "occupational_health",
+  "solution_type": "SaaS",
+  "buyer": "employers",
+  "varden_fit": "medium",
+  "url": "https://www.cognibox.com",
+  "source": "web",
+  "discovery_round": 132,
+  "discovered_by": "sky"
+}

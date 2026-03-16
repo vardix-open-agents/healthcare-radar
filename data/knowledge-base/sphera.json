@@ -1,0 +1,14 @@
+{
+  "company": "Sphera",
+  "country": "US",
+  "problem": "Enterprises face increasing complexity in managing operational risk, workplace safety, and sustainability programs across products, operations, and supply chains, with fragmented data creating blind spots that can lead to safety incidents and compliance failures.",
+  "solution": "Sphera provides an Operational Intelligence Platform that unifies risk management, safety management, and sustainability into a single enterprise-wide view, powered by Sphera AI and proprietary data to deliver actionable insights for safer, more sustainable operations.",
+  "problem_type": "occupational_health",
+  "solution_type": "SaaS",
+  "buyer": "employers",
+  "varden_fit": "medium",
+  "url": "https://sphera.com",
+  "source": "web",
+  "discovery_round": 132,
+  "discovered_by": "sky"
+}

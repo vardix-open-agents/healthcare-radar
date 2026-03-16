@@ -1,0 +1,14 @@
+{
+  "company": "Lyra Health",
+  "country": "US",
+  "problem": "Employers struggle to provide effective mental health benefits that employees actually use, while traditional EAPs have low utilization rates and unmeasured treatment outcomes.",
+  "solution": "Comprehensive workforce mental health benefit platform offering AI-powered care matching, evidence-based treatment through an exclusive provider network, real-time outcome tracking, and self-care tools that drive 10x utilization over traditional EAPs with measurable business impact.",
+  "problem_type": "mental_health",
+  "solution_type": "SaaS",
+  "buyer": "providers",
+  "varden_fit": "medium",
+  "url": "https://www.lyrahealth.com",
+  "source": "web",
+  "discovery_round": 90,
+  "discovered_by": "sky"
+}

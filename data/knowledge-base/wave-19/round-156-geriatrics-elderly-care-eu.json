@@ -1,0 +1,114 @@
+[
+  {
+    "company_name": "Birdie",
+    "hq_location": "London, United Kingdom",
+    "website": "https://www.birdie.care",
+    "problem_solved": "Homecare agencies struggle with fragmented systems for care management, rostering, billing, and compliance. Birdie provides a unified platform that connects all operations in one system, eliminating duplicate data entry and improving care quality.",
+    "customers": "Homecare agencies, domiciliary care providers, care management organizations",
+    "key_features": [
+      "Unified care management with client records, care plans, and eMAR in single profile",
+      "Predictive CQC benchmarking with Q-Score for compliance monitoring",
+      "Automated rostering with seamless connection to care plans and billing"
+    ],
+    "business_model": "SaaS subscription platform with tiered pricing for homecare agencies",
+    "why_varden_should_care": "Strong B2B SaaS model in growing homecare market. Platform approach (care + rostering + billing + compliance) demonstrates replicability across European markets. 1000+ agency customers shows product-market fit."
+  },
+  {
+    "company_name": "Log my Care",
+    "hq_location": "London, United Kingdom",
+    "website": "https://www.logmycare.co.uk",
+    "problem_solved": "Care providers face administrative burden with outdated software that takes too long to use and isn't fit for purpose. Log my Care provides intuitive, easy-to-use care management software that reduces admin time and improves compliance.",
+    "customers": "Care homes, domiciliary care providers, supported living services, nursing homes",
+    "key_features": [
+      "Person-centered support plans with PBS (Positive Behaviour Support) framework integration",
+      "Built-in incident management with escalation and follow-up tracking",
+      "Integrated rostering add-on that matches staff skills to care needs"
+    ],
+    "business_model": "Freemium SaaS model with free Starter Plan and paid Pro/Outstanding plans with add-ons",
+    "why_varden_should_care": "Freemium model enables rapid adoption and market penetration. Focus on UX/usability addresses key pain point in care sector. 2000+ providers demonstrates scalability. PBS framework integration shows depth in specialized care areas."
+  },
+  {
+    "company_name": "Kraydel",
+    "hq_location": "Belfast, Northern Ireland, United Kingdom",
+    "website": "https://www.kraydel.com",
+    "problem_solved": "Elderly people living independently need monitoring and support without invasive surveillance. Kraydel provides TV-based monitoring and communication platform that helps carers track wellbeing through non-intrusive daily routine monitoring.",
+    "customers": "Care providers, healthcare organizations, families with elderly relatives living independently",
+    "key_features": [
+      "TV-based platform with video calling, messaging, and medication reminders",
+      "Intelligent monitoring that learns daily routines and alerts carers to anomalies",
+      "Works with existing TV and Wi-Fi or 3G/4G for easy setup"
+    ],
+    "business_model": "B2B2C SaaS platform sold through care providers and healthcare organizations",
+    "why_varden_should_care": "Novel TV-based form factor addresses adoption barriers (elderly already know how to use TV). Non-intrusive monitoring respects privacy while ensuring safety. B2B2C model provides scalable distribution through care providers."
+  },
+  {
+    "company_name": "Sensara",
+    "hq_location": "Utrecht, Netherlands",
+    "website": "https://www.sensara.eu",
+    "problem_solved": "Care organizations need to support elderly people living independently while efficiently managing care resources. Sensara provides smart care technology platform that enables early detection of changes in wellbeing and supports aging in place.",
+    "customers": "Care organizations, nursing homes, homecare providers, municipalities",
+    "key_features": [
+      "AI-powered monitoring with smart algorithms for reliable care signals",
+      "Single platform spanning from home to nursing home (intramural and extramural care)",
+      "Privacy-friendly technology fully hosted in Netherlands"
+    ],
+    "business_model": "SaaS platform with implementation and ongoing support services for care organizations",
+    "why_varden_should_care": "20+ years experience in elderly care provides deep domain expertise. Platform works across care settings (home to nursing home), enabling continuity as care needs change. Strong privacy focus critical for EU market. Dutch market leadership shows replicability to other European countries."
+  },
+  {
+    "company_name": "Caren",
+    "hq_location": "Amsterdam, Netherlands",
+    "website": "https://www.caren.nl",
+    "problem_solved": "Families and care professionals struggle to coordinate care and share information about elderly relatives. Caren provides a digital health environment that enables care coordination, information sharing, and task planning among family members and care professionals.",
+    "customers": "Families caring for elderly relatives, care organizations, healthcare providers, insurers",
+    "key_features": [
+      "Care coordination platform with calendar, task management, and communication tools",
+      "Secure data sharing with granular control over who sees what information",
+      "Integration with professional care organizations for connected care"
+    ],
+    "business_model": "B2C freemium model (free for families) with B2B partnerships with care organizations and insurers",
+    "why_varden_should_care": "719,816+ active users and 1290+ connected organizations demonstrates strong network effects. Family-focused approach fills gap between consumer apps and professional care software. B2B2C model via insurers and care organizations provides scalable distribution."
+  },
+  {
+    "company_name": "Altoida",
+    "hq_location": "Zurich, Switzerland",
+    "website": "https://www.altoida.com",
+    "problem_solved": "Traditional dementia and cognitive decline assessments take 2-4 hours, require trained neuropsychologists, and lack sensitivity to detect early mild cognitive impairment (MCI). Altoida provides 10-minute digital assessment using AR and sensor data for early detection.",
+    "customers": "Neurology clinics, memory clinics, hospitals, pharmaceutical companies (clinical trials), primary care providers",
+    "key_features": [
+      "10-minute self-administered digital cognitive assessment using tablet-based AR tasks",
+      "Sensor-based data collection (touch, accelerometer, gyroscope) for objective measurement",
+      "Real-time results enabling same-day clinical decisions"
+    ],
+    "business_model": "SaaS platform for healthcare providers with per-assessment or subscription pricing",
+    "why_varden_should_care": "Digital biomarker approach represents paradigm shift in neurological diagnostics. 10-minute assessment vs 2-4 hours traditional testing dramatically improves scalability. AR/sensor-based approach shows potential for other neurological conditions beyond dementia."
+  },
+  {
+    "company_name": "Clinitouch",
+    "hq_location": "Nottingham, United Kingdom",
+    "website": "https://www.clinitouch.com",
+    "problem_solved": "Healthcare providers struggle to monitor chronic conditions proactively, leading to reactive care and unnecessary hospitalizations. Clinitouch provides remote patient monitoring platform that enables early detection of health deterioration in chronic conditions.",
+    "customers": "Public hospitals, private clinics, health insurance providers, NHS trusts, virtual ward programs",
+    "key_features": [
+      "Simple, age-friendly interface usable by patients aged 65-105+",
+      "Clinical risk stratification to prioritize patients needing attention",
+      "Published evidence showing 67.5% reduction in unscheduled hospital admissions"
+    ],
+    "business_model": "SaaS platform with partner program for distribution across healthcare providers",
+    "why_varden_should_care": "Strong clinical evidence (826% ROI, 67.5% hospitalization reduction) demonstrates value proposition. Works across chronic conditions relevant to elderly population (COPD, heart failure, diabetes). Partner program with 20+ partners in 15 countries shows international scalability. Virtual ward focus aligns with post-COVID healthcare trends."
+  },
+  {
+    "company_name": "Nui Care",
+    "hq_location": "Munich, Germany",
+    "website": "https://www.nui.care",
+    "problem_solved": "Family caregivers in Germany struggle to navigate complex care system, understand entitlements, and manage care for elderly relatives. Nui Care provides digital platform that guides families through care process, optimizes care budgets, and provides expert support.",
+    "customers": "Family caregivers, health insurers (AOK Bayern, Allianz PKV provide free access to members)",
+    "key_features": [
+      "Pflegegrad (care level) calculator and automated application submission",
+      "Personalized care planning with optimization of care benefits and budget",
+      "Direct access to care experts for questions and support"
+    ],
+    "business_model": "B2B2C model with insurer partnerships (free for members) or direct B2C subscription (€9.99/month)",
+    "why_varden_should_care": "Insurer partnership model provides scalable B2B2C distribution. Addresses specific German care system complexity with localized solution. Government funding (Bundesregierung) validates approach. KI/personalization roadmap shows innovation potential. Model replicable to other countries with complex care entitlement systems."
+  }
+]

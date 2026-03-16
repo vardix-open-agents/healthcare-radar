@@ -1,0 +1,22 @@
+{
+  "company_name": "DynaMed (EBSCO)",
+  "problem_solved": "Clinicians need point-of-care access to current, evidence-based clinical information for diagnosis and treatment decisions",
+  "solution_description": "Evidence-based clinical reference tool providing current disease, drug, and condition information. Part of EBSCO Health, offering clinical decision support integrated into EHR workflows. Peer-reviewed content updated regularly",
+  "buyer_persona": "health_systems|clinics|providers",
+  "care_stage": "diagnosis|treatment",
+  "automation_level": "assistive",
+  "varden_fit": "medium",
+  "region": "US",
+  "country": "US",
+  "funding_stage": "acquired",
+  "traction_signals": [
+    "Part of EBSCO Industries portfolio",
+    "Peer-reviewed clinical content",
+    "EHR integration capabilities",
+    "EBSCO's established library and healthcare presence"
+  ],
+  "notes": "Alternative to UpToDate in the clinical decision support space. EBSCO ownership provides distribution through existing library/healthcare channels",
+  "discovery_round": 51,
+  "discovered_by": "sky",
+  "timestamp": "2026-03-11T23:22:00Z"
+}

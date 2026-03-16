@@ -1,0 +1,14 @@
+{
+  "company": "HHAeXchange",
+  "country": "US",
+  "problem": "Homecare ecosystem is fragmented between providers, state Medicaid programs, MCOs, and caregivers, causing communication breakdowns, compliance issues, and delayed care delivery",
+  "solution": "Connected homecare platform that seamlessly links providers, state Medicaid programs, MCOs, and caregivers through one unified system with EVV, caregiver mobile app, value-based care tools, and real-time analytics",
+  "problem_type": "home_health",
+  "solution_type": "SaaS",
+  "buyer": "agencies",
+  "varden_fit": "medium",
+  "url": "https://www.hhaexchange.com",
+  "source": "web",
+  "discovery_round": 95,
+  "discovered_by": "nova"
+}

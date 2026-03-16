@@ -1,0 +1,16 @@
+{
+  "id": "problem-2026-098",
+  "problem": "Veterans Affairs community care referrals require manual eligibility verification, delaying private sector care by 2-4 weeks",
+  "problem_type": "eligibility_verification",
+  "solution_type": "Automated VA eligibility checking, integrated community care workflows, real-time authorization",
+  "care_stage": "triage_navigation",
+  "automation_type": "workflow_automation",
+  "buyer": "federal_program",
+  "care_setting": "mixed",
+  "companies": ["OptumServe", "TriWest", "Magellan Federal", "Health Net Federal Services", "Humana Military"],
+  "signals": ["VA MISSION Act implementation", "Community care program growth", "Veteran access challenges"],
+  "boring_software": true,
+  "contrarian": false,
+  "url": "https://www.va.gov/communitycare",
+  "date_added": "2026-03-11"
+}

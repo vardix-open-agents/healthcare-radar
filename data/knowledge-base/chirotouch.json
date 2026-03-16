@@ -1,0 +1,14 @@
+{
+  "company": "ChiroTouch",
+  "country": "US",
+  "problem": "Chiropractic practices struggle with fragmented workflows, documentation fatigue, manual billing processes, and inefficient appointment management that reduces time for patient care",
+  "solution": "AI-powered cloud-based EHR and practice management platform with 15-second compliant SOAP notes, automated appointment reminders, integrated payment processing, insurance claims management, and Rheo AI assistant for documentation",
+  "problem_type": "chiropractic",
+  "solution_type": "SaaS",
+  "buyer": "clinics",
+  "varden_fit": "medium",
+  "url": "https://www.chirotouch.com",
+  "source": "web",
+  "discovery_round": 139,
+  "discovered_by": "nova"
+}

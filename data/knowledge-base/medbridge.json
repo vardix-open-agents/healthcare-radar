@@ -1,0 +1,14 @@
+{
+  "company": "MedBridge",
+  "country": "US",
+  "problem": "Healthcare providers lack easy access to evidence-based education and patient engagement tools for musculoskeletal and pain management care, leading to inconsistent treatment quality and poor patient adherence.",
+  "solution": "Comprehensive healthcare education and digital care platform offering 2,500+ accredited CE courses, digital MSK pathways, remote therapeutic monitoring, triage tools with motion capture, and home exercise programs. Serves 360K+ healthcare professionals.",
+  "problem_type": "pain_management",
+  "solution_type": "SaaS",
+  "buyer": "health_systems",
+  "varden_fit": "medium",
+  "url": "https://www.medbridge.com",
+  "source": "web",
+  "discovery_round": 135,
+  "discovered_by": "nova"
+}

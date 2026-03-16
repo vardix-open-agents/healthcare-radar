@@ -1,0 +1,28 @@
+{
+  "company": "Cedar (USA)",
+  "country": "United States",
+  "founded_year": 2016,
+  "category": "Healthcare Infrastructure",
+  "subsector": "Patient Billing Platform",
+  "description": "Healthcare patient billing and payments platform. Improves patient financial experience through price transparency, flexible payment options, and AI-powered billing communications. Reduces bad debt for health systems.",
+  "business_model": "B2B - Billing platform to health systems and physician groups",
+  "target_market": "Health systems, hospitals, large physician practices",
+  "funding_stage": "Series D",
+  "funding_amount_usd": 350000000,
+  "key_investors": "Tiger Global, Andreessen Horowitz, Thrive Capital",
+  "employees": "500+",
+  "customers": "100+ health systems",
+  "revenue_usd": null,
+  "tech_stack": ["Patient billing", "Payment processing", "Price transparency", "AI communications", "Financial assistance"],
+  "integration_points": ["EHR systems", "Practice management", "Clearinghouse", "Payment processors"],
+  "competitive_advantage": "Consumer-grade UX, improves patient collections by 20%+, reduces bad debt",
+  "boring_software": true,
+  "varden_fit": {
+    "threat_level": "low",
+    "opportunity": "benchmark",
+    "rationale": "Patient billing innovation - could integrate with occupational health billing"
+  },
+  "data_quality": "high",
+  "sources": ["cedar.com", "crunchbase.com"],
+  "last_updated": "2026-03-11"
+}

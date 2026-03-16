@@ -1,0 +1,16 @@
+{
+  "id": "problem-2026-125",
+  "problem": "Claims appeals have 50% success rate but require 45-60 days and extensive manual documentation, with 65% of denied claims never appealed",
+  "problem_type": "appeals_management",
+  "solution_type": "Automated appeal generation, denial reason code mapping, deadline tracking, evidence assembly, payer-specific appeal templates",
+  "care_stage": "admin",
+  "automation_type": "workflow_automation",
+  "buyer": "health_system",
+  "care_setting": "hospital",
+  "companies": ["Waystar", "Change Healthcare", "Experian Health", "ZirMed", "Cedar"],
+  "signals": ["50% appeal success rate", "65% never appealed", "45-60 day appeal cycles", "Deadlines frequently missed"],
+  "boring_software": true,
+  "contrarian": false,
+  "url": "https://www.cms.gov/claims-appeals",
+  "date_added": "2026-03-11"
+}

@@ -1,0 +1,14 @@
+{
+  "company": "Canfield Scientific",
+  "country": "US",
+  "problem": "Dermatology clinics lack standardized, high-quality medical photography and imaging systems to document skin conditions, track lesion changes over time, and support clinical research",
+  "solution": "Medical imaging software and photography systems including VECTRA 3D whole-body imaging, dermoscopy cameras, and clinical research platforms for dermatology practices",
+  "problem_type": "dermatology",
+  "solution_type": "SaaS",
+  "buyer": "clinics",
+  "varden_fit": "medium",
+  "url": "https://www.canfieldsci.com",
+  "source": "web",
+  "discovery_round": 106,
+  "discovered_by": "nova"
+}

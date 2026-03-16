@@ -1,0 +1,29 @@
+{
+  "id": "navamed-2026-053",
+  "title": "Navamed - Healthcare Navigation Platform",
+  "company": "Navamed",
+  "country": "Norway",
+  "region": "Nordics",
+  "segment": "triage",
+  "problem": "Patients don't know where to seek care. Navigation through the healthcare system is confusing and leads to inappropriate utilization.",
+  "solution": "Digital health navigation platform helping patients find appropriate care based on symptoms and local availability.",
+  "technology": "Symptom navigation, provider matching, booking",
+  "target_customer": "Healthcare regions, insurers, employers",
+  "care_setting": "primary_care",
+  "care_domain": "general",
+  "care_stage": "triage",
+  "automation_level": "partial",
+  "ai_type": null,
+  "traction_signals": [
+    "Norwegian health navigation",
+    "Care pathway guidance",
+    "Provider matching"
+  ],
+  "funding": null,
+  "regulatory_notes": "Health navigation tool, not medical device.",
+  "varden_fit": "High — care navigation is core to Varden's value proposition. Direct overlap.",
+  "source": "Nordic health tech ecosystem",
+  "url": "https://www.navamed.no",
+  "date_added": "2026-03-11",
+  "notes": "Norwegian care navigation. Similar model to Varden."
+}

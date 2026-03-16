@@ -1,0 +1,14 @@
+{
+  "company": "Candid Health",
+  "country": "US",
+  "problem": "Healthcare providers struggle with complex, manual revenue cycle management processes that result in denied claims, delayed payments, and high administrative costs. Traditional RCM requires significant human intervention to submit, track, and resolve insurance claims.",
+  "solution": "Candid Health provides a transformative RCM automation platform custom-built for healthcare providers to achieve touchless claims processing. Their platform automates the entire claims lifecycle from submission to payment, enabling providers to increase net collections, reduce cost to collect, and accelerate cash flow without human intervention. Key metrics include high touchless claim rates (TCR) and payer net collection rates.",
+  "problem_type": "claims_billing",
+  "solution_type": "SaaS",
+  "buyer": "providers",
+  "varden_fit": "high",
+  "url": "https://candidhealth.com",
+  "source": "web research",
+  "discovery_round": 65,
+  "discovered_by": "sky"
+}

@@ -1,0 +1,31 @@
+{
+  "id": "nhanes-2026-089",
+  "title": "NH Direct - Electronic Prior Authorization for Medications",
+  "company": "NH Direct",
+  "country": "US",
+  "region": "US",
+  "segment": "admin",
+  "problem": "Electronic prior authorization for medications needs standardized workflows connecting providers, pharmacies, and payers.",
+  "solution": "Electronic prior authorization services integrated with e-prescribing workflows. NCPDP SCRIPT standard compliance. Streamlined prior auth submission and response processing.",
+  "technology": "NCPDP SCRIPT, e-prescribing integration, prior auth APIs",
+  "target_customer": "EHR vendors, pharmacies, health plans",
+  "care_setting": "all",
+  "care_domain": "general",
+  "care_stage": "admin",
+  "automation_level": "partial",
+  "ai_type": null,
+  "traction_signals": [
+    "NCPDP SCRIPT compliant",
+    "E-prescribing integration"
+  ],
+  "funding": "Private company",
+  "regulatory_notes": "NCPDP standards, HIPAA compliant",
+  "varden_fit": "HIGH — Electronic prior auth standards are essential infrastructure. European systems need similar standardized workflows.",
+  "source": "Industry knowledge",
+  "url": "https://www.nhdirect.com",
+  "date_added": "2026-03-11",
+  "problem_type": "prior_auth",
+  "contrarian": true,
+  "boring_software": true,
+  "notes": "CONTRARIAN: Prior auth infrastructure is essential plumbing. European healthcare lacks standardized ePA workflows."
+}

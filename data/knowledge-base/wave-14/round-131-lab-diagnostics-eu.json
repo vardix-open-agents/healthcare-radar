@@ -1,0 +1,114 @@
+[
+  {
+    "company_name": "Clinisys",
+    "hq_location": "Chertsey, United Kingdom",
+    "website_url": "https://www.clinisys.com",
+    "problem_solved": "Provides laboratory information management systems (LIS) for clinical laboratories to automate sample tracking, workflow management, and results reporting. Helps labs improve efficiency and reduce errors in diagnostic testing processes.",
+    "target_customers": "Clinical laboratories, pathology labs, blood banks, public health laboratories, hospitals with in-house labs",
+    "key_features": [
+      "End-to-end sample lifecycle management and tracking",
+      "Automated result reporting and integration with EHR systems",
+      "Quality control and compliance management for laboratory accreditation"
+    ],
+    "business_model": "SaaS/Perpetual licensing with annual maintenance and support fees",
+    "why_varden_care": "High replicability - core LIS functionality (sample tracking, workflow automation, results reporting) is well-understood and can be adapted to different markets. Strong regional presence in UK/Europe provides playbook for market entry."
+  },
+  {
+    "company_name": "Medavis",
+    "hq_location": "Karlsruhe, Germany",
+    "website_url": "https://www.medavis.com",
+    "problem_solved": "Provides radiology information systems (RIS) and teleradiology platforms to manage diagnostic imaging workflows, from scheduling to reporting. Enables radiologists to work remotely and share images securely across facilities.",
+    "target_customers": "Radiology departments, imaging centers, hospitals, teleradiology service providers",
+    "key_features": [
+      "Integrated RIS/PACS workflow management for radiology departments",
+      "Teleradiology platform for remote image access and collaboration",
+      "AI-assisted reporting and structured findings templates"
+    ],
+    "business_model": "SaaS/On-premise licensing with implementation and support services",
+    "why_varden_care": "Teleradiology infrastructure is increasingly relevant post-COVID. The combination of RIS + teleradiology + AI reporting represents a replicable software stack that can be adapted to other diagnostic imaging markets."
+  },
+  {
+    "company_name": "Dedalus",
+    "hq_location": "Florence, Italy",
+    "website_url": "https://www.dedalus.com",
+    "problem_solved": "Provides comprehensive healthcare IT solutions including laboratory information systems, diagnostic workflow management, and EHR integration. Connects 5,700+ labs and diagnostic centers producing 4B+ results annually.",
+    "target_customers": "Hospitals, regional health systems, diagnostic centers, public health organizations, laboratory networks",
+    "key_features": [
+      "Integrated laboratory and diagnostic information management platform",
+      "FHIR-based interoperability for seamless data exchange across care settings",
+      "Continuum of care platform connecting prevention, diagnosis, treatment, and follow-up"
+    ],
+    "business_model": "Enterprise SaaS/licensing with regional deployment and managed services",
+    "why_varden_care": "Dedalus demonstrates the value of integrated diagnostic platforms spanning multiple modalities (lab, radiology, pathology). Their FHIR-first approach and regional deployment model provides a blueprint for building comprehensive diagnostic infrastructure."
+  },
+  {
+    "company_name": "Aiforia",
+    "hq_location": "Helsinki, Finland",
+    "website_url": "https://www.aiforia.com",
+    "problem_solved": "Provides AI-powered digital pathology image analysis and management platform to help pathologists analyze tissue samples faster and more accurately. Addresses the bottleneck in pathology diagnostics through automated image analysis.",
+    "target_customers": "Pathology laboratories, hospital pathology departments, research institutions, pharmaceutical companies",
+    "key_features": [
+      "Deep learning AI models for automated detection and quantification in pathology images",
+      "Cloud-based image management with CE-IVD marked clinical applications",
+      "Aiforia Create tool for building custom AI models without coding expertise"
+    ],
+    "business_model": "SaaS subscription with per-case or enterprise pricing; clinical and research tiers",
+    "why_varden_care": "AI-powered diagnostic support is a high-growth area. Aiforia's platform approach - combining clinical AI applications with tools for building custom models - demonstrates how to create a scalable, defensible position in digital diagnostics."
+  },
+  {
+    "company_name": "Nightingale Health",
+    "hq_location": "Helsinki, Finland",
+    "website_url": "https://nightingalehealth.com",
+    "problem_solved": "Provides advanced blood analysis technology that delivers comprehensive metabolic profiling from standard blood samples. Goes beyond traditional biomarkers to provide disease risk assessment and preventive health insights.",
+    "target_customers": "Healthcare providers, public health systems, preventive health programs, research institutions",
+    "key_features": [
+      "High-throughput metabolic biomarker analysis from standard blood samples",
+      "Disease risk prediction algorithms for cardiovascular disease, diabetes, and liver conditions",
+      "Population health analytics for preventive care programs"
+    ],
+    "business_model": "B2B service model - per-test fees and enterprise contracts with healthcare organizations",
+    "why_varden_care": "Demonstrates how to extract more value from existing diagnostic workflows (blood tests) through advanced analytics. The disease risk prediction approach could be replicated for other diagnostic modalities or conditions."
+  },
+  {
+    "company_name": "Optomed",
+    "hq_location": "Oulu, Finland",
+    "website_url": "https://www.optomed.com",
+    "problem_solved": "Provides handheld fundus cameras and AI-powered eye screening software for point-of-care diabetic retinopathy and eye disease detection. Makes retinal screening accessible outside traditional ophthalmology settings.",
+    "target_customers": "Primary care clinics, diabetes centers, pharmacies, community health programs, rural healthcare facilities",
+    "key_features": [
+      "Portable non-mydriatic retinal cameras for point-of-care screening",
+      "AI-powered real-time analysis for diabetic retinopathy detection",
+      "Integration with existing clinical workflows and EHR systems"
+    ],
+    "business_model": "Device sales (hardware) + SaaS subscription for AI analysis software",
+    "why_varden_care": "Point-of-care diagnostic software is a rapidly growing segment. Optomed's model of combining portable hardware with AI analysis software demonstrates how to expand access to specialized diagnostics beyond hospital settings."
+  },
+  {
+    "company_name": "Quantib (now DeepHealth)",
+    "hq_location": "Rotterdam, Netherlands",
+    "website_url": "https://deephealth.com/quantib/",
+    "problem_solved": "Develops AI software for automated analysis of medical imaging data (MRI, CT) to assist radiologists in detecting and quantifying abnormalities. Spun out of Erasmus MC to commercialize quantitative imaging biomarkers.",
+    "target_customers": "Radiology departments, imaging centers, hospitals, research institutions",
+    "key_features": [
+      "AI-powered prostate cancer detection compatible with fusion biopsy systems",
+      "Brain atrophy quantification and white matter hyperintensity detection",
+      "FDA-cleared and CE-marked clinical applications integrated into PACS workflows"
+    ],
+    "business_model": "SaaS/per-exam licensing for clinical AI applications; enterprise subscriptions",
+    "why_varden_care": "Academic spin-out model demonstrates path from research to clinical product. Focus on quantitative imaging biomarkers shows how to create measurable clinical value that integrates into existing radiology workflows. Acquired by RadNet/DeepHealth in 2022."
+  },
+  {
+    "company_name": "Labguru",
+    "hq_location": "Tel Aviv, Israel (significant European presence)",
+    "website_url": "https://www.labguru.com",
+    "problem_solved": "Provides an all-in-one laboratory management platform combining electronic lab notebook (ELN), LIMS, and inventory management. Helps research and clinical labs organize data, automate workflows, and ensure compliance.",
+    "target_customers": "Research laboratories, clinical diagnostic labs, biotech companies, pharmaceutical R&D, academic institutions",
+    "key_features": [
+      "Integrated ELN and LIMS for experiment documentation and sample tracking",
+      "Inventory management with automated ordering and location mapping",
+      "Workflow automation with customizable triggers and step-by-step processes"
+    ],
+    "business_model": "SaaS subscription with tiered pricing based on users and features",
+    "why_varden_care": "Unified lab management platforms address fragmentation in lab software. Labguru's approach of combining ELN, LIMS, and inventory demonstrates the value of integrated solutions over point products - a replicable pattern for other diagnostic workflows."
+  }
+]

@@ -1,0 +1,31 @@
+{
+  "id": "heartflow-2026-132",
+  "title": "HeartFlow - Non-Invasive Coronary Analysis",
+  "company": "HeartFlow",
+  "country": "USA",
+  "region": "NA",
+  "segment": "cardiac_imaging",
+  "problem": "Diagnosing coronary artery disease often requires invasive angiography, which carries risks and is resource-intensive.",
+  "solution": "Non-invasive CT-derived FFRct analysis using computational fluid dynamics and AI to assess coronary artery blockage severity.",
+  "technology": "Deep learning, computational fluid dynamics, CT image analysis, cloud computing",
+  "target_customer": "Cardiologists, hospitals, health systems",
+  "care_setting": "outpatient_cardiology",
+  "care_domain": "cardiology",
+  "care_stage": "diagnosis",
+  "automation_level": "full",
+  "ai_type": "Deep learning + computational fluid dynamics",
+  "traction_signals": [
+    "FDA cleared",
+    "CE marked",
+    "150+ hospital customers globally",
+    "Founded 2007, Redwood City CA",
+    "Backed by major VCs"
+  ],
+  "funding": "$400M+ raised",
+  "regulatory_notes": "FDA cleared, CE marked, covered by Medicare",
+  "varden_fit": "Moderate - Diagnostic tool with care pathway implications. Reduces need for invasive procedures. Could integrate into cardiology referral routing.",
+  "source": "Industry knowledge",
+  "url": "https://heartflow.com",
+  "date_added": "2026-03-11",
+  "notes": "Breakthrough technology in non-invasive cardiac diagnosis. Strong clinical evidence."
+}

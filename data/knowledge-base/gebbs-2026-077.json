@@ -1,0 +1,33 @@
+{
+  "id": "gebbs-2026-077",
+  "title": "GeBBS Healthcare Solutions - RCM & Patient Contact Solutions",
+  "company": "GeBBS Healthcare Solutions",
+  "country": "US",
+  "region": "US",
+  "segment": "billing",
+  "problem": "Healthcare providers face high denial rates, eligibility-related denials, inconsistent prior authorization tracking, and inefficient patient contact processes.",
+  "solution": "Technology-enabled RCM services with AI-enabled iCode platform. Patient contact solutions for eligibility verification, authorization tracking, POS collections. Extended business office services for claims and AR management.",
+  "technology": "iCode AI platform, RPA, business process automation, ML",
+  "target_customer": "Healthcare providers, radiology groups, health systems",
+  "care_setting": "all",
+  "care_domain": "general",
+  "care_stage": "admin",
+  "automation_level": "partial",
+  "ai_type": "AI, ML, NLP for coding and RCM",
+  "traction_signals": [
+    "300+ healthcare organization partners",
+    "Everest Group RCM PEAK Matrix Leader 2023",
+    "iCode award-winning technology",
+    "Strong testimonials from radiology groups"
+  ],
+  "funding": "Private company",
+  "regulatory_notes": "HIPAA compliant, risk adjustment coding expertise",
+  "varden_fit": "HIGH — GeBBS proves offshore + AI model works for RCM. European healthcare could use similar services for multi-payer eligibility and claims.",
+  "source": "Web research",
+  "url": "https://www.gebbs.com",
+  "date_added": "2026-03-11",
+  "problem_type": "eligibility",
+  "contrarian": true,
+  "boring_software": true,
+  "notes": "CONTRARIAN: Offshore RCM with AI augmentation is a proven model. European payers and providers need similar services."
+}

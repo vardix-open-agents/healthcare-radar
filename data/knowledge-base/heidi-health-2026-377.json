@@ -1,0 +1,22 @@
+{
+  "company_name": "Heidi Health",
+  "problem_solved": "Clinical documentation burden reduces provider efficiency and contributes to burnout",
+  "solution_description": "AI medical scribe that automatically generates clinical notes from patient consultations. Offers customizable templates, multi-specialty support, and EHR integration. Competes with DeepScribe and PatientNotes in the AI scribing market",
+  "buyer_persona": "health_systems|clinics|providers",
+  "care_stage": "treatment",
+  "automation_level": "partial",
+  "varden_fit": "high",
+  "region": "US|AU",
+  "country": "Australia",
+  "funding_stage": "series_a",
+  "traction_signals": [
+    "Comparison tools with DeepScribe/PatientNotes available",
+    "Multi-specialty support",
+    "Growing presence in US and Australian markets",
+    "Customizable note templates"
+  ],
+  "notes": "Australian-origin AI scribe with US expansion. Strong competitor to DeepScribe and Abridge in certain markets. May have different regulatory approach given AU origins",
+  "discovery_round": 51,
+  "discovered_by": "sky",
+  "timestamp": "2026-03-11T23:25:00Z"
+}

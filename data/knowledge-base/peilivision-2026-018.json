@@ -1,0 +1,29 @@
+{
+  "id": "peilivision-2026-018",
+  "title": "Peili Vision - VR Rehabilitation for Eye Care",
+  "company": "Peili Vision",
+  "country": "Finland",
+  "region": "Nordics",
+  "segment": "treatment",
+  "problem": "Vision rehabilitation after stroke or brain injury is limited, expensive, and requires specialized equipment and clinic visits.",
+  "solution": "VR-based gamified vision rehabilitation exercises delivered via headset. Patients can do therapy at home with remote monitoring by clinicians.",
+  "technology": "VR, gamification, eye tracking",
+  "target_customer": "Rehabilitation clinics, neurology departments, patients",
+  "care_setting": "home",
+  "care_domain": "neurology, vision rehabilitation",
+  "care_stage": "recovery",
+  "automation_level": "partial",
+  "ai_type": null,
+  "traction_signals": [
+    "Founded in Finland",
+    "Developing VR games for vision rehabilitation",
+    "Nordic health tech focus"
+  ],
+  "funding": null,
+  "regulatory_notes": "Medical device pathway likely required for rehabilitation claims.",
+  "varden_fit": "Low — specialized neuro/vision rehabilitation, not primary care infrastructure. Interesting niche but not core to Varden.",
+  "source": "Nordic health tech report",
+  "url": "https://www.peilivision.com",
+  "date_added": "2026-03-11",
+  "notes": "Interesting example of VR in healthcare rehabilitation. Finnish startup."
+}

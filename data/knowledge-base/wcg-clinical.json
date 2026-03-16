@@ -1,0 +1,14 @@
+{
+  "company": "WCG Clinical",
+  "country": "US",
+  "problem": "Clinical trials suffer from long start-up times, enrollment delays, protocol complexity, and increased site burden that slow drug development.",
+  "solution": "ClinSphere integrated ecosystem with AI-powered Trial IntelX for predictive trial planning, eReview Manager for IRB workflows, Total Training for end-to-end clinical trial training, and Study Accelerator connecting site identification, ethical review, and recruitment. Largest protocol dataset (80k+) in the industry.",
+  "problem_type": "clinical_trials",
+  "solution_type": "SaaS",
+  "buyer": "research_orgs",
+  "varden_fit": "low",
+  "url": "https://www.wcgclinical.com/",
+  "source": "web",
+  "discovery_round": 103,
+  "discovered_by": "sky"
+}

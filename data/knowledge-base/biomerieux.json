@@ -1,0 +1,14 @@
+{
+  "company": "bioMérieux",
+  "country": "FR",
+  "problem": "Hospitals struggle with antimicrobial resistance and sepsis management due to lack of integrated diagnostic solutions for rapid pathogen identification and antibiotic susceptibility",
+  "solution": "Comprehensive infectious disease diagnostic portfolio including VITEK, VIDAS, and BIOFIRE systems for antimicrobial stewardship, sepsis management, and syndromic testing with integrated decision support",
+  "problem_type": "infectious_disease",
+  "solution_type": "SaaS",
+  "buyer": "clinics",
+  "varden_fit": "medium",
+  "url": "https://www.biomerieux.com",
+  "source": "web",
+  "discovery_round": 119,
+  "discovered_by": "nova"
+}

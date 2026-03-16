@@ -1,0 +1,44 @@
+{
+  "generated": "2026-03-11T21:54:00Z",
+  "synthesis_round": 3,
+  "total_entries": 206,
+  "round_9_added": 50,
+  "problem_types": {
+    "booking_scheduling": 16,
+    "mental_health_access": 7,
+    "documentation": 6,
+    "medication_management": 5,
+    "patient_communication": 4,
+    "chronic_disease": 4,
+    "triage_navigation": 4,
+    "remote_monitoring": 3,
+    "diagnostics_imaging": 3,
+    "data_integration": 27,
+    "staffing_workforce": 15,
+    "eligibility_verification": 11,
+    "insurance_routing": 11,
+    "revenue_cycle": 8,
+    "claims_automation": 6
+  },
+  "convergence_threshold": 3,
+  "strategic_zones": {
+    "care_navigation": 14,
+    "provider_infrastructure": 15,
+    "healthcare_search": 6
+  },
+  "boring_software_count": 122,
+  "contrarian_count": 12,
+  "new_regions_added": {
+    "asia_pacific": ["Japan", "South Korea", "Singapore", "India", "Indonesia"],
+    "latin_america": ["Brazil", "Mexico", "Colombia"],
+    "middle_east": ["UAE", "Saudi Arabia", "Israel", "Egypt"],
+    "nordics": ["Sweden", "Norway", "Denmark", "Finland"]
+  },
+  "top_opportunities": [
+    {"company": "Doctolib", "score": 8.0},
+    {"company": "Doctrin", "score": 7.7},
+    {"company": "AccuRx", "score": 7.6},
+    {"company": "Leyr", "score": 7.2},
+    {"company": "Medevis", "score": 7.2}
+  ]
+}

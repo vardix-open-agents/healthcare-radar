@@ -1,0 +1,22 @@
+{
+  "company_name": "Florence eBinders",
+  "problem_solved": "Inefficient site management and document workflows in clinical trials",
+  "solution_description": "Clinical trial site management platform with eReg, eSource, and site workflows. Streamlines site operations, regulatory binders, and document management for research sites.",
+  "buyer_persona": "pharma_lifesciences,biotech",
+  "care_stage": "clinical_trials",
+  "automation_level": "partial",
+  "varden_fit": "medium",
+  "region": "US",
+  "country": "US",
+  "funding_stage": "series_c",
+  "traction_signals": [
+    "$160M+ raised",
+    "10,000+ research sites",
+    "90% of top pharma",
+    "Site-first approach"
+  ],
+  "notes": "Site-focused clinical trial platform. eReg leader. Competes with Veeva, Medidata. Strong in site operations and regulatory document management.",
+  "discovery_round": 53,
+  "discovered_by": "sky",
+  "timestamp": "2026-03-11T23:18:00Z"
+}

@@ -1,0 +1,30 @@
+{
+  "id": "irhythm-2026-130",
+  "title": "iRhythm - Zio Patch Cardiac Monitor",
+  "company": "iRhythm Technologies",
+  "country": "USA",
+  "region": "NA",
+  "segment": "cardiac_monitoring",
+  "problem": "Cardiac arrhythmia diagnosis requires extended monitoring, but traditional Holter monitors are cumbersome and limited to 24-48 hours.",
+  "solution": "Zio patch - single-use wearable patch for up to 14 days of continuous cardiac monitoring with AI-powered analysis and reporting.",
+  "technology": "Wearable patch sensor, machine learning arrhythmia detection, cloud analytics platform",
+  "target_customer": "Cardiologists, primary care physicians, health systems",
+  "care_setting": "ambulatory",
+  "care_domain": "cardiology",
+  "care_stage": "diagnosis",
+  "automation_level": "full",
+  "ai_type": "ML for arrhythmia detection and classification",
+  "traction_signals": [
+    "5M+ patients monitored",
+    "$500M+ annual revenue (2024)",
+    "FDA cleared, widely adopted",
+    "Founded 2006, publicly traded (NASDAQ: IRTC)"
+  ],
+  "funding": "Public company",
+  "regulatory_notes": "FDA 510(k) cleared, CE marked",
+  "varden_fit": "Moderate-HIGH - Monitoring creates referral flow to cardiology. Could integrate with Varden routing for follow-up care.",
+  "source": "Industry knowledge",
+  "url": "https://irhythmtech.com",
+  "date_added": "2026-03-11",
+  "notes": "Category-defining product in ambulatory cardiac monitoring. Strong AI capabilities."
+}

@@ -1,0 +1,14 @@
+{
+  "company": "NCCN (National Comprehensive Cancer Network)",
+  "country": "US",
+  "problem": "Oncology clinicians need access to up-to-date, evidence-based treatment guidelines and decision support tools to ensure patients receive optimal, standardized cancer care across all settings.",
+  "solution": "Oncology guidelines platform providing comprehensive clinical practice guidelines, drugs and biologics compendium, and decision support tools used by cancer centers worldwide to standardize and optimize cancer treatment protocols.",
+  "problem_type": "oncology",
+  "solution_type": "SaaS",
+  "buyer": "clinics",
+  "varden_fit": "medium",
+  "url": "https://www.nccn.org",
+  "source": "web",
+  "discovery_round": 108,
+  "discovered_by": "nova"
+}

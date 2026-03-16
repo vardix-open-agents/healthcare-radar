@@ -1,0 +1,27 @@
+{
+  "company": "GetHarley",
+  "country": "United Kingdom",
+  "founded_year": 2019,
+  "category": "Specialty Care",
+  "subsector": "Dermatology & Skincare Platform",
+  "description": "UK platform connecting patients with dermatologists for online consultations and prescription skincare. Niche focus on dermatology with B2C and B2B2C models through employer benefits.",
+  "business_model": "B2C - Direct to consumers; B2B2C through employers and insurers",
+  "target_market": "UK consumers seeking dermatology care; employers adding to benefits",
+  "funding_stage": "Series A",
+  "funding_amount_gbp": 8000000,
+  "key_investors": "UK VCs, healthtech investors",
+  "employees": 40,
+  "customers": "50000+ consultations",
+  "revenue_gbp": 5000000,
+  "tech_stack": ["Video platform", "E-prescribing", "Pharmacy integration"],
+  "integration_points": ["Pharmacies", "Insurers", "Employer benefits platforms"],
+  "competitive_advantage": "Specialist dermatology focus, quick access, premium positioning",
+  "varden_fit": {
+    "threat_level": "low",
+    "opportunity": "partner",
+    "rationale": "Specialist add-on service - could integrate with occupational health for skin conditions"
+  },
+  "data_quality": "medium",
+  "sources": ["getharley.com", "linkedin.com"],
+  "last_updated": "2026-03-11"
+}

@@ -1,0 +1,14 @@
+{
+  "company": "Tali",
+  "country": "CA",
+  "problem": "Canadian healthcare providers struggle with extensive documentation workload, leading to burnout, reduced patient engagement, and after-hours charting",
+  "solution": "Canadian-built AI ambient scribe and medical dictation platform that turns patient conversations into structured clinical notes, saving clinicians 15+ hours per week with 95%+ accuracy, integrated with major Canadian EMRs",
+  "problem_type": "medical_coding",
+  "solution_type": "SaaS",
+  "buyer": "providers",
+  "varden_fit": "high",
+  "url": "https://tali.ai",
+  "source": "web",
+  "discovery_round": 84,
+  "discovered_by": "sky"
+}

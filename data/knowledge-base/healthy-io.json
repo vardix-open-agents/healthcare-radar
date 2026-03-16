@@ -1,0 +1,14 @@
+{
+  "company": "Healthy.io",
+  "country": "IL",
+  "problem": "Wound care imaging is inconsistent due to varying lighting conditions and skin tones. Traditional documentation lacks color accuracy, making it hard to track wound healing progress objectively.",
+  "solution": "Minuteful for Wound - smartphone-based digital wound management using computer vision and colorimetric analysis. Works regardless of lighting, skin tone, and color. Clinical-grade imaging with unique calibration method for consistent in-color documentation.",
+  "problem_type": "wound_care",
+  "solution_type": "SaaS",
+  "buyer": "clinics",
+  "varden_fit": "high",
+  "url": "https://healthy.io",
+  "source": "web",
+  "discovery_round": 134,
+  "discovered_by": "sky"
+}

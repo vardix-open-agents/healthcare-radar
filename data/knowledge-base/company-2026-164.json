@@ -1,0 +1,28 @@
+{
+  "company": "Cliniko (Australia)",
+  "country": "Australia",
+  "founded_year": 2009,
+  "category": "Practice Management",
+  "subsector": "Practice Management Software",
+  "description": "Australian practice management software for allied health practitioners. Appointment scheduling, clinical notes, invoicing, and patient management. Used by 50000+ healthcare practitioners globally.",
+  "business_model": "B2B SaaS - Practice management to healthcare providers",
+  "target_market": "Allied health practitioners, small clinics",
+  "funding_stage": "Bootstrapped",
+  "funding_amount_aud": null,
+  "key_investors": "None",
+  "employees": "50+",
+  "customers": "50000+ practitioners",
+  "revenue_aud": null,
+  "tech_stack": ["Practice management", "Scheduling", "Clinical notes", "Billing", "Video consultations"],
+  "integration_points": ["Payment processors", "Telemedicine", "Accounting software"],
+  "competitive_advantage": "Simple, affordable, designed for allied health, global customer base",
+  "boring_software": true,
+  "varden_fit": {
+    "threat_level": "low",
+    "opportunity": "monitor",
+    "rationale": "Practice management for allied health - potential integration target"
+  },
+  "data_quality": "medium",
+  "sources": ["cliniko.com"],
+  "last_updated": "2026-03-11"
+}

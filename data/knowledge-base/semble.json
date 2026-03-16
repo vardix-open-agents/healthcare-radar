@@ -1,0 +1,14 @@
+{
+  "company": "Semble",
+  "country": "GB",
+  "problem": "Private healthcare practices struggle with fragmented systems for bookings, clinical records, billing, and compliance, leading to inefficient workflows and reduced time for patient care",
+  "solution": "All-in-one practice management and EHR platform that unites scheduling, clinical documentation, AI-powered notes, prescribing, billing, and automation with 1,200+ integrations for private healthcare providers",
+  "problem_type": "practice_management",
+  "solution_type": "SaaS",
+  "buyer": "clinics",
+  "varden_fit": "medium",
+  "url": "https://www.semble.io",
+  "source": "web",
+  "discovery_round": 87,
+  "discovered_by": "nova"
+}

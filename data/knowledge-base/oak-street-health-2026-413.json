@@ -1,0 +1,22 @@
+{
+  "company_name": "Oak Street Health",
+  "problem_solved": "Medicare patients in underserved communities lack access to primary care that addresses their social and medical needs",
+  "solution_description": "Value-based primary care provider for Medicare patients with community-centered model. Operates neighborhood clinics with care teams addressing medical, behavioral, and social needs. Provides transportation, social activities, and connects patients to community resources. Acquired by CVS Health",
+  "buyer_persona": "payers",
+  "care_stage": "treatment",
+  "automation_level": "partial",
+  "varden_fit": "high",
+  "region": "US",
+  "country": "United States",
+  "funding_stage": "acquired",
+  "traction_signals": [
+    "Acquired by CVS Health for $10.6B",
+    "200+ neighborhood clinics",
+    "Medicare-focused value-based care",
+    "Community-centered model with SDOH integration"
+  ],
+  "notes": "Major value-based primary care provider acquired by CVS. Strong SDOH integration through community model. High Varden fit - proven model for addressing social determinants in primary care. Transportation and social services built into model",
+  "discovery_round": 50,
+  "discovered_by": "sky",
+  "timestamp": "2026-03-11T23:20:00Z"
+}

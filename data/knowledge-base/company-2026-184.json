@@ -1,0 +1,28 @@
+{
+  "company": "DIPS (Norway)",
+  "country": "Norway",
+  "founded_year": 1976,
+  "category": "Healthcare Infrastructure",
+  "subsector": "Nordic EHR System",
+  "description": "Norwegian EHR system provider. Dominant EHR in Norwegian hospitals and health trusts. Comprehensive patient record system used across Norwegian specialist healthcare. Part of Norway's national health IT infrastructure.",
+  "business_model": "B2B - EHR to Norwegian health trusts and hospitals",
+  "target_market": "Norwegian health trusts, hospitals",
+  "funding_stage": "Private",
+  "funding_amount_nok": null,
+  "key_investors": "Norwegian health trusts",
+  "employees": "500+",
+  "customers": "Norwegian health trusts, majority of Norwegian hospitals",
+  "revenue_nok": null,
+  "tech_stack": ["EHR", "Patient records", "Clinical workflows", "Lab integration", "Imaging integration"],
+  "integration_points": ["Norwegian national health network", "Lab systems", "Imaging systems"],
+  "competitive_advantage": "Dominant in Norwegian hospital market, government partnerships",
+  "boring_software": true,
+  "varden_fit": {
+    "threat_level": "low",
+    "opportunity": "monitor",
+    "rationale": "Critical EHR in Norway - key integration target for Varden in Norwegian market"
+  },
+  "data_quality": "high",
+  "sources": ["dips.no"],
+  "last_updated": "2026-03-11"
+}

@@ -1,0 +1,14 @@
+{
+  "company": "Smith+Nephew",
+  "country": "GB",
+  "problem": "Complex wounds require comprehensive solutions spanning exudate management, infection prevention, and advanced therapies for non-healing wounds. Healthcare systems need integrated wound care products.",
+  "solution": "Global medical technology company with Advanced Wound Management portfolio including negative pressure wound therapy (NPWT), antimicrobial dressings, bioengineered tissues, and compression therapy. Comprehensive solutions for acute, chronic, and surgical wounds.",
+  "problem_type": "wound_care",
+  "solution_type": "devices",
+  "buyer": "hospitals",
+  "varden_fit": "low",
+  "url": "https://www.smith-nephew.com",
+  "source": "web",
+  "discovery_round": 134,
+  "discovered_by": "sky"
+}

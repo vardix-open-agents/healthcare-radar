@@ -1,0 +1,82 @@
+[
+  {
+    "company_name": "EMIS (Optum UK)",
+    "product": "EMIS Web",
+    "description": "Leading NHS GP clinical system provider offering electronic patient records, appointment scheduling, prescribing, and practice management. Acquired by Optum (UnitedHealth Group) in 2023. Systems used by 100,000+ healthcare professionals across 10,000+ organisations in primary care, community care, pharmacy, and A&E settings.",
+    "founding_year": "1987",
+    "headquarters": "Leeds, United Kingdom",
+    "website": "https://www.emishealth.com",
+    "categories": ["Practice Management", "Electronic Patient Records", "Appointment Scheduling", "Document Management"],
+    "region": "UK"
+  },
+  {
+    "company_name": "TPP (The Phoenix Partnership)",
+    "product": "SystmOne",
+    "description": "Major UK clinical IT system provider founded in 1997. SystmOne stores 61 million electronic health records and serves 300,000+ users across 7,800+ NHS organisations in 25+ healthcare settings. Provides integrated care records, appointment management, prescribing, and document management for primary care.",
+    "founding_year": "1997",
+    "headquarters": "Horsforth, Leeds, United Kingdom",
+    "website": "https://tpp-uk.com",
+    "categories": ["Practice Management", "Electronic Patient Records", "Appointment Scheduling", "Document Management"],
+    "region": "UK"
+  },
+  {
+    "company_name": "Medesk",
+    "product": "Medesk Practice Management",
+    "description": "Cloud-based medical practice management software serving 15,000+ practitioners across 50 countries. Offers integrated EHR, appointment scheduling with Google Calendar/iCal sync, patient management, online booking, payments, telehealth, and reporting analytics. Designed for private medical practices in the UK and internationally.",
+    "founding_year": "2013",
+    "headquarters": "London, United Kingdom",
+    "website": "https://www.medesk.net",
+    "categories": ["Practice Management", "Electronic Patient Records", "Appointment Scheduling", "Document Management"],
+    "region": "UK"
+  },
+  {
+    "company_name": "MediOffice",
+    "product": "MediOffice Practice Management",
+    "description": "UK-based cloud practice management software designed for private doctors and medical consultants. Features include appointment scheduling, video consultations, clinical records, financial management, patient portal, document storage, and body chart drawing. Enables paperless practice management across mobile, tablet and desktop.",
+    "founding_year": "2020",
+    "headquarters": "United Kingdom",
+    "website": "https://www.medioffice.co.uk",
+    "categories": ["Practice Management", "Electronic Patient Records", "Appointment Scheduling", "Document Management"],
+    "region": "UK"
+  },
+  {
+    "company_name": "Function 365",
+    "product": "Function 365 Private GP CRM",
+    "description": "UK practice management and CRM software specifically designed for private GP clinics. Offers online booking, patient onboarding, e-prescribing, templating for patient notes, consent forms, landing pages, and appointment scheduling. Focuses on automating administrative tasks to help clinics scale and grow.",
+    "founding_year": "2019",
+    "headquarters": "United Kingdom",
+    "website": "https://function365.co.uk",
+    "categories": ["Practice Management", "Electronic Patient Records", "Appointment Scheduling", "Document Management"],
+    "region": "UK"
+  },
+  {
+    "company_name": "TouchPoints.health",
+    "product": "TouchPoints Practice Management",
+    "description": "UK-based cloud practice management platform for private consultants and clinics, ISO 27001:2022 certified. Features include online booking, patient records, Healthcode billing integration, medical transcription, telehealth, invoicing, and AI-powered patient record summarisation. Designed by doctors for multi-speciality private practice.",
+    "founding_year": "2021",
+    "headquarters": "London, United Kingdom",
+    "website": "https://www.touchpoints.health",
+    "categories": ["Practice Management", "Electronic Patient Records", "Appointment Scheduling", "Document Management"],
+    "region": "UK"
+  },
+  {
+    "company_name": "Accurx",
+    "product": "Accurx Platform",
+    "description": "NHS-approved patient communication platform used by 98% of GP practices and 68% of NHS trusts. Serves 350,000+ NHS users and 54 million patients. Provides SMS messaging, online consultations, patient triage, appointment booking, document sharing, and video consultations. Critical infrastructure for GP practice communication.",
+    "founding_year": "2016",
+    "headquarters": "London, United Kingdom",
+    "website": "https://www.accuRx.com",
+    "categories": ["Practice Management", "Patient Communication", "Appointment Scheduling", "Document Management"],
+    "region": "UK"
+  },
+  {
+    "company_name": "iPLATO",
+    "product": "iPLATO Patient Engagement Platform",
+    "description": "UK primary care patient engagement and population health platform. Provides multi-channel patient communication, SMS messaging, online consultations, appointment reminders, and digital-first patient pathways. Used to transform overburdened healthcare routes into streamlined digital pathways in partnership with NHS innovation partners.",
+    "founding_year": "2006",
+    "headquarters": "London, United Kingdom",
+    "website": "https://www.iplato.com",
+    "categories": ["Practice Management", "Patient Communication", "Appointment Scheduling", "Document Management"],
+    "region": "UK"
+  }
+]

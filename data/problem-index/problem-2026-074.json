@@ -1,0 +1,16 @@
+{
+  "id": "problem-2026-074",
+  "problem": "Radiology practices lose 15-25% of revenue due to incomplete insurance information and failed prior authorizations for imaging studies",
+  "problem_type": "eligibility_verification",
+  "solution_type": "Automated imaging prior auth, AI-powered clinical decision support, integrated eligibility checking",
+  "care_stage": "diagnosis",
+  "automation_type": "workflow_automation",
+  "buyer": "practice",
+  "care_setting": "radiology",
+  "companies": ["Nuance", "Change Healthcare Imaging", "Wellsky Imaging", "RamSoft", "AbbaDox"],
+  "signals": ["Appropriate use criteria mandates", "Radiology benefit management expansion", "AI imaging triage"],
+  "boring_software": true,
+  "contrarian": false,
+  "url": "https://www.rsna.org/practice-tools",
+  "date_added": "2026-03-11"
+}

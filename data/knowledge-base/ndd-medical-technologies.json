@@ -1,0 +1,14 @@
+{
+  "company": "ndd Medical Technologies",
+  "country": "CH",
+  "problem": "Millions of people live with undiagnosed or mismanaged COPD and other lung diseases due to lack of accurate and accessible pulmonary function testing in clinical settings.",
+  "solution": "Portable spirometers and complete PFT (pulmonary function testing) systems including the EasyOne product line, providing precise and reliable lung function testing for COPD, asthma, and other respiratory conditions at point of care.",
+  "problem_type": "pulmonology",
+  "solution_type": "device",
+  "buyer": "clinics, hospitals",
+  "varden_fit": "medium",
+  "url": "https://nddmed.com",
+  "source": "web",
+  "discovery_round": 115,
+  "discovered_by": "sky"
+}

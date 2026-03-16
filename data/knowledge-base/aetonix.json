@@ -1,0 +1,14 @@
+{
+  "company": "Aetonix",
+  "country": "CA",
+  "problem": "Patients with complex care needs, including those requiring palliative care, face fragmented care coordination and lack remote monitoring to prevent unnecessary hospitalizations.",
+  "solution": "Virtual care platform (aTouchAway) with 25+ customizable care pathways, remote patient monitoring, video conferencing, and multidisciplinary collaboration tools achieving 40% reduction in hospitalizations.",
+  "problem_type": "hospice",
+  "solution_type": "SaaS",
+  "buyer": "providers",
+  "varden_fit": "medium",
+  "url": "https://www.aetonix.com",
+  "source": "web",
+  "discovery_round": 142,
+  "discovered_by": "sky"
+}

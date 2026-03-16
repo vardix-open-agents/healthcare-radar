@@ -1,0 +1,16 @@
+{
+  "id": "problem-2026-052",
+  "problem": "Employers pay for duplicate occupational health services across multiple providers",
+  "problem_type": "billing",
+  "solution_type": "Unified employee health records, consolidated OH platforms, bundled services",
+  "care_stage": "admin",
+  "automation_type": "workflow_automation",
+  "buyer": "employer",
+  "care_setting": "occupational",
+  "companies": ["HealthPod", "Varden (potential)", "Occupational health networks"],
+  "signals": ["Employer healthcare spending growth", "OH consolidation trends", "Data integration demand"],
+  "boring_software": true,
+  "contrarian": true,
+  "url": "https://en.wikipedia.org/wiki/Occupational_health_nursing",
+  "date_added": "2026-03-11"
+}

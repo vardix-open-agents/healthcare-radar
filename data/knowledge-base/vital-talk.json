@@ -1,0 +1,14 @@
+{
+  "company": "VitalTalk",
+  "country": "US",
+  "problem": "Clinicians often lack training and confidence in having difficult conversations with seriously ill patients about prognosis, goals of care, and end-of-life decisions",
+  "solution": "Training and education platform for healthcare professionals to improve communication skills in serious illness conversations and shared decision-making",
+  "problem_type": "palliative_care",
+  "solution_type": "SaaS",
+  "buyer": "providers",
+  "varden_fit": "medium",
+  "url": "https://www.vitaltalk.org",
+  "source": "web",
+  "discovery_round": 121,
+  "discovered_by": "nova"
+}

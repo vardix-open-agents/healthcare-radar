@@ -1,0 +1,27 @@
+{
+  "company": "Minddistrict",
+  "country": "Netherlands",
+  "founded_year": 2008,
+  "category": "Mental Health Technology",
+  "subsector": "Digital Mental Health Platform",
+  "description": "Dutch digital mental health platform offering online therapy modules, self-help tools, and blended care solutions. Used by mental health institutions, employers, and insurers across Europe.",
+  "business_model": "B2B - SaaS to mental health providers, insurers, and employers",
+  "target_market": "European healthcare organizations, insurers, and employers",
+  "funding_stage": "Profitable / Growth Equity",
+  "funding_amount_eur": 15000000,
+  "key_investors": "Private investors, healthcare funds",
+  "employees": 100,
+  "customers": "500+ healthcare organizations",
+  "revenue_eur": 12000000,
+  "tech_stack": ["Web platform", "Mobile apps", "Therapy modules", "Outcome measurement tools"],
+  "integration_points": ["EHR systems", "Insurer platforms", "Employer HR systems"],
+  "competitive_advantage": "Evidence-based modules, long track record, European focus, GDPR compliance",
+  "varden_fit": {
+    "threat_level": "low",
+    "opportunity": "partner",
+    "rationale": "Strong mental health content platform - could power Varden's mental health offering"
+  },
+  "data_quality": "medium",
+  "sources": ["minddistrict.com", "linkedin.com"],
+  "last_updated": "2026-03-11"
+}

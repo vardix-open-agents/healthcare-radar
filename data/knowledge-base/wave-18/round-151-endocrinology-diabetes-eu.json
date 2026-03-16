@@ -1,0 +1,100 @@
+[
+  {
+    "company_name": "Diabeloop",
+    "hq_location": "Paris, France",
+    "website_url": "https://www.diabeloop.fr",
+    "problem_solved": "Automates and personalizes insulin delivery for type 1 diabetes patients using AI algorithms, reducing the mental burden of dozens of daily therapeutic decisions.",
+    "who_buys_it": "Hospitals, diabetes clinics, healthcare providers, national health systems",
+    "key_features": [
+      "Self-learning AI algorithm for automated insulin dosing",
+      "Hybrid closed-loop system integration with CGM and insulin pumps",
+      "Real-time glucose monitoring and predictive analytics"
+    ],
+    "business_model": "B2B SaaS with medical device partnerships (partners with Roche, Terumo, SOOIL)",
+    "why_varden_should_care": "Proven AI-driven insulin dosing algorithm that can be adapted for other chronic conditions; regulatory pathway established in EU; strong partnership model with device manufacturers"
+  },
+  {
+    "company_name": "CamDiab (CamAPS FX)",
+    "hq_location": "Cambridge, United Kingdom",
+    "website_url": "https://camdiab.com",
+    "problem_solved": "Provides hybrid closed-loop (artificial pancreas) technology for type 1 diabetes, automating insulin delivery based on continuous glucose monitoring data.",
+    "who_buys_it": "NHS trusts, diabetes specialist clinics, hospitals, healthcare providers",
+    "key_features": [
+      "Adaptive hybrid closed-loop algorithm for automated insulin delivery",
+      "Integration with Dana Diabecare pumps and Dexcom CGM",
+      "NHS-approved and CE-marked medical device"
+    ],
+    "business_model": "B2B SaaS/device combination sold through healthcare systems",
+    "why_varden_should_care": "University of Cambridge spinout with strong clinical validation; NHS deployment provides replicable public healthcare adoption model; algorithm-based approach can be adapted for other endocrine conditions"
+  },
+  {
+    "company_name": "Nightingale Health",
+    "hq_location": "Helsinki, Finland",
+    "website_url": "https://nightingalehealth.com",
+    "problem_solved": "Provides AI-powered metabolic biomarker analysis from blood samples to predict disease risks including diabetes, cardiovascular disease, and other chronic conditions.",
+    "who_buys_it": "Public health systems, insurance companies, occupational health providers, primary care clinics",
+    "key_features": [
+      "Metabolic biomarker profiling for disease risk prediction",
+      "AI-driven analysis of blood samples for early detection",
+      "Population health analytics for preventive care"
+    ],
+    "business_model": "B2B SaaS with laboratory services; contracts with health systems and insurers",
+    "why_varden_should_care": "Finnish public health system adoption demonstrates scalable preventive care model; metabolic profiling approach applicable to diabetes and endocrine disorder screening; strong clinical evidence base"
+  },
+  {
+    "company_name": "Luscii",
+    "hq_location": "Utrecht, Netherlands",
+    "website_url": "https://luscii.com",
+    "problem_solved": "Provides remote patient monitoring platform for chronic diseases including diabetes, enabling hospitals to monitor and guide patients safely from home while preventing unnecessary hospital visits.",
+    "who_buys_it": "Hospitals, healthcare systems, specialty clinics (cardiology, pulmonology, endocrinology)",
+    "key_features": [
+      "Single app for multiple chronic disease monitoring",
+      "EHR integration for seamless clinical workflows",
+      "Automated patient triage and alerts"
+    ],
+    "business_model": "B2B SaaS with per-patient or per-hospital licensing",
+    "why_varden_should_care": "85% Dutch hospital adoption shows strong product-market fit; platform approach applicable to endocrinology/diabetes monitoring; replicable European healthcare system integration model"
+  },
+  {
+    "company_name": "Glooko (Diasend)",
+    "hq_location": "Palo Alto, USA (European HQ in Germany)",
+    "website_url": "https://glooko.com",
+    "problem_solved": "Aggregates diabetes data from multiple devices (CGMs, pumps, meters) into a unified platform for patients and healthcare providers, enabling better glycemic control through data insights.",
+    "who_buys_it": "Diabetes clinics, endocrinology practices, hospitals, health systems",
+    "key_features": [
+      "Universal diabetes device data aggregation",
+      "Population health analytics for clinics",
+      "Remote patient monitoring and telehealth integration"
+    ],
+    "business_model": "B2B SaaS with clinic/provider subscriptions; device manufacturer partnerships",
+    "why_varden_should_care": "Acquired Diasend (European platform); demonstrates consolidation opportunity in diabetes data space; GDPR-compliant European data infrastructure; cross-border expansion model"
+  },
+  {
+    "company_name": "DreaMed Diabetes",
+    "hq_location": "Petah Tikva, Israel",
+    "website_url": "https://dreamed-diabetes.com",
+    "problem_solved": "Develops AI-powered insulin dosing advisor and glucose management solutions for type 1 and type 2 diabetes, optimizing treatment decisions for patients and clinicians.",
+    "who_buys_it": "Diabetes clinics, endocrinologists, hospitals, health systems",
+    "key_features": [
+      "MD.AI Advisor for automated insulin dosing recommendations",
+      "Glucose pattern analysis and predictive insights",
+      "Integration with major CGM and pump manufacturers"
+    ],
+    "business_model": "B2B SaaS with regulatory-approved medical device software",
+    "why_varden_should_care": "FDA-cleared and CE-marked algorithm; partnership model with Medtronic demonstrates scalability; AI dosing approach transferable to other endocrine therapies"
+  },
+  {
+    "company_name": "Doctolib",
+    "hq_location": "Paris, France",
+    "website_url": "https://www.doctolib.com",
+    "problem_solved": "Provides practice management and patient booking platform for healthcare providers including endocrinologists, enabling online appointment scheduling, video consultations, and patient communication.",
+    "who_buys_it": "Endocrinology practices, diabetes clinics, hospitals, individual specialists",
+    "key_features": [
+      "Online appointment booking and calendar management",
+      "Video consultation platform",
+      "Practice management and patient communication tools"
+    ],
+    "business_model": "B2B SaaS with subscription fees for healthcare providers",
+    "why_varden_should_care": "Largest European health tech unicorn; demonstrates rapid adoption of practice management tools by specialists including endocrinologists; replicable SaaS model across European markets"
+  }
+]

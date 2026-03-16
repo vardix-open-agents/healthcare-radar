@@ -1,0 +1,114 @@
+[
+  {
+    "company": "FDB Health UK",
+    "hq_location": "London, United Kingdom",
+    "website": "https://www.fdbhealth.co.uk/",
+    "problem_solved": "Healthcare providers need reliable drug interaction checking and medicines optimization at the point of prescribing to prevent medication errors and improve patient safety. FDB Health provides the UK's leading medicines decision support database integrated into clinical systems.",
+    "who_buys": "hospitals, NHS trusts, clinical system vendors, primary care providers",
+    "key_features": [
+      "Drug-drug interaction checking and alerts",
+      "Medicines terminology and dm+d compliance",
+      "Prescribing decision support integrated into EHR systems"
+    ],
+    "business_model": "SaaS / database licensing to clinical system vendors",
+    "why_varden_care": "Proven model: specialized drug database sold via EHR integrations. FDB demonstrates how to build a sustainable B2B2H business by embedding into existing clinical workflows rather than competing with EHRs."
+  },
+  {
+    "company": "Better",
+    "hq_location": "Ljubljana, Slovenia",
+    "website": "https://www.better.care/",
+    "problem_solved": "Healthcare organizations struggle with rigid EHR systems that don't adapt to clinical needs. Better provides an open digital health platform with low-code tools to build personalized clinical applications on vendor-neutral clinical data repositories.",
+    "who_buys": "hospitals, healthcare systems, regional health authorities",
+    "key_features": [
+      "openEHR-based clinical data repository for data persistence",
+      "Low-code platform (Better Studio) for building clinical applications",
+      "Interoperability through open standards"
+    ],
+    "business_model": "SaaS / platform licensing",
+    "why_varden_care": "Strong replicability: openEHR is an open standard, and the low-code approach reduces implementation costs. Varden could target similar markets (Nordics, Baltics) with an open platform strategy."
+  },
+  {
+    "company": "SOPHiA GENETICS",
+    "hq_location": "Lausanne, Switzerland / Saint-Sulpice, Switzerland",
+    "website": "https://www.sophiagenetics.com/",
+    "problem_solved": "Cancer and rare disease patients lack equal access to precision medicine due to complex genomic data analysis requirements. SOPHiA provides AI-driven data analysis to convert complex genomic profiles into actionable clinical insights.",
+    "who_buys": "hospitals, cancer centers, diagnostic laboratories",
+    "key_features": [
+      "AI-powered genomic data analysis with 98-99% accuracy",
+      "Multi-modal health data integration (genomics, radiology, pathology)",
+      "Federated network connecting 990+ healthcare institutions globally"
+    ],
+    "business_model": "SaaS / per-analysis licensing",
+    "why_varden_care": "High-value niche: precision oncology is a defensible, high-margin segment. SOPHiA demonstrates the federated data network model—aggregating insights without centralizing data—which is increasingly relevant for GDPR compliance."
+  },
+  {
+    "company": "System C",
+    "hq_location": "Maidstone, United Kingdom",
+    "website": "https://www.systemc.com/",
+    "problem_solved": "Hospitals and care providers need integrated electronic patient records and medicines management to replace fragmented paper-based systems. System C provides cloud-based EPR and prescribing platforms for NHS and social care.",
+    "who_buys": "hospitals, NHS trusts, local government social care departments",
+    "key_features": [
+      "CareFlow EPR - cloud-based electronic patient record",
+      "CareFlow Medicines Management - e-prescribing and pharmacy integration",
+      "BadgerNet for maternity and neonatal care"
+    ],
+    "business_model": "SaaS / enterprise licensing",
+    "why_varden_care": "NHS-focused success: System C shows how to build deep NHS integrations. The medicines management module is a logical entry point for a new CDS vendor targeting UK hospitals."
+  },
+  {
+    "company": "CompuGroup Medical (CGM)",
+    "hq_location": "Koblenz, Germany",
+    "website": "https://www.cgm.com/",
+    "problem_solved": "Healthcare providers across Europe need modern, interoperable EHR systems that support digital health transformation. CGM provides comprehensive e-health solutions including EHR, telemedicine, and clinical information systems.",
+    "who_buys": "primary care clinics, specialist practices, laboratories, occupational health, hospitals",
+    "key_features": [
+      "CGM J4 - journal system for primary and specialist care",
+      "CGM Video for telemedicine consultations",
+      "Laboratory information systems integration"
+    ],
+    "business_model": "SaaS / enterprise licensing",
+    "why_varden_care": "Scale and geography: 1.6M users across 60 countries with 40+ years experience. CGM demonstrates how to build a pan-European healthcare IT business starting from the DACH region."
+  },
+  {
+    "company": "Dedalus",
+    "hq_location": "Florence, Italy",
+    "website": "https://www.dedalus.com/",
+    "problem_solved": "Healthcare organizations need a unified platform to manage the full continuum of care from prevention to end-of-life. Dedalus provides integrated EHR, diagnostic, and care management solutions for hospitals and regional health systems.",
+    "who_buys": "hospitals, regional health authorities, diagnostic centers, laboratories",
+    "key_features": [
+      "Enterprise EHR with continuum of care from prevention to follow-up",
+      "FHIR-based interoperability platform",
+      "PACS and diagnostic imaging solutions"
+    ],
+    "business_model": "SaaS / enterprise licensing",
+    "why_varden_care": "Market leader in Southern Europe: #1 KLAS ranking for Acute Care EHR in DACH and Southern Europe. Dedalus shows how to win regional tenders and build scale through acquisition."
+  },
+  {
+    "company": "Cegedim",
+    "hq_location": "Boulogne-Billancourt, France",
+    "website": "https://www.cegedim.com/",
+    "problem_solved": "Healthcare professionals, insurers, and life sciences companies need secure digital solutions for patient data management, e-prescribing, and regulatory compliance. Cegedim provides healthcare IT solutions and B2B services across Europe.",
+    "who_buys": "healthcare professionals, health insurers, life sciences companies, pharmacies",
+    "key_features": [
+      "Electronic health record and patient data management",
+      "Health insurance claims processing and third-party payment",
+      "CRM and data services for life sciences"
+    ],
+    "business_model": "SaaS / transaction-based services",
+    "why_varden_care": "Diversified revenue model: Cegedim serves multiple healthcare stakeholders (providers, payers, pharma). The pharmacy software division could be a replicable entry point for new CDS solutions."
+  },
+  {
+    "company": "Wolters Kluwer Health",
+    "hq_location": "Alphen aan den Rijn, Netherlands",
+    "website": "https://www.wolterskluwer.com/en/solutions/uptodate",
+    "problem_solved": "Clinicians need trusted, evidence-based clinical decision support at the point of care to reduce variability and improve patient outcomes. Wolters Kluwer Health provides UpToDate, Lexidrug, and ClinicalKey for clinical and drug decision support.",
+    "who_buys": "hospitals, health systems, clinics, individual clinicians",
+    "key_features": [
+      "UpToDate - evidence-based clinical decision support used by 3M+ clinicians",
+      "Lexidrug (formerly Lexicomp) - drug reference and interaction checker",
+      "AI-enhanced clinical content with Expert AI for generative insights"
+    ],
+    "business_model": "SaaS subscription (individual and enterprise)",
+    "why_varden_care": "Gold standard content: UpToDate demonstrates how to monetize curated clinical knowledge at scale. The enterprise model (embedding into EHRs) shows how to reach hospital-wide adoption rather than individual users."
+  }
+]

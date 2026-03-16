@@ -1,0 +1,14 @@
+{
+  "company": "Levels Health",
+  "country": "US",
+  "problem": "People lack visibility into their metabolic health and how food, exercise, and lifestyle choices affect blood glucose and long-term health outcomes.",
+  "solution": "Levels combines continuous glucose monitoring with comprehensive lab testing and AI-powered insights to help users understand their metabolic health. The platform provides personalized guidance from clinicians, tracks glucose responses to foods and activities, and offers programs for improving metabolic markers. Also has a practitioner platform for clinicians.",
+  "problem_type": "endocrinology",
+  "solution_type": "SaaS",
+  "buyer": "clinics",
+  "varden_fit": "medium",
+  "url": "https://www.levels.com",
+  "source": "web",
+  "discovery_round": 116,
+  "discovered_by": "nova"
+}

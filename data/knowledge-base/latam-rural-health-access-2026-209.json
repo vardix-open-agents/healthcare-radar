@@ -1,0 +1,33 @@
+{
+  "id": "latam-rural-health-access-2026-209",
+  "title": "Latin America Rural Healthcare Access Crisis",
+  "company": null,
+  "country": "Brazil/Mexico/Colombia/Regional",
+  "region": "LATAM",
+  "segment": "infrastructure",
+  "problem": "Rural populations across LATAM (estimated 120M+ people) have minimal healthcare access. In Brazil's Amazon region, patients travel 12+ hours for basic care. In rural Mexico, 30% of municipalities lack doctors. In Colombia's conflict-affected regions, healthcare infrastructure was destroyed. Existing solutions focus on urban centers, leaving massive underserved populations.",
+  "solution": "Hybrid telemedicine + mobile clinic platform. Satellite-connected telemedicine kiosks in rural communities with diagnostic equipment (vitals, ECG, basic labs). Mobile app for health workers to conduct remote consults with specialists. Drone delivery for medications and lab samples. Offline-first design for low-connectivity areas.",
+  "technology": "Telemedicine platform, IoT diagnostic devices, satellite connectivity, drone logistics, offline-capable mobile app",
+  "target_customer": "Ministry of Health (public sector), NGOs, mining/agriculture companies (for worker health)",
+  "care_setting": "primary_care",
+  "care_domain": "general",
+  "care_stage": "diagnosis",
+  "automation_level": "assistive",
+  "ai_type": "Telemedicine triage, diagnostic assistance",
+  "traction_signals": [
+    "120M+ rural population across LATAM",
+    "COVID-19 proved telemedicine viability",
+    "Satellite internet (Starlink) expanding coverage",
+    "Government rural health initiatives"
+  ],
+  "funding": null,
+  "regulatory_notes": "Cross-border telemedicine regulations, medical device certifications in each country",
+  "varden_fit": "MEDIUM FIT - Infrastructure play but requires hardware deployment. Higher complexity than pure software. Public sector focus creates long sales cycles but large contracts.",
+  "source": "Healthcare system research + opportunity analysis",
+  "url": "https://en.wikipedia.org/wiki/Healthcare_in_Brazil",
+  "date_added": "2026-03-11",
+  "problem_type": "access",
+  "contrarian": true,
+  "boring_software": false,
+  "notes": "CONTRARIAN: Everyone chases urban telemedicine. Rural is harder but massive unmet need. Requires hybrid approach (tech + physical infrastructure). Most VCs won't touch this = opportunity."
+}

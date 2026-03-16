@@ -1,0 +1,30 @@
+{
+  "id": "tricog-2026-129",
+  "title": "Tricog Health - Telecardiology Platform",
+  "company": "Tricog Health",
+  "country": "India",
+  "region": "APAC",
+  "segment": "telecardiology",
+  "problem": "ECG interpretation expertise is unavailable in many settings, particularly in emerging markets, delaying cardiac diagnosis and treatment.",
+  "solution": "Cloud-based ECG interpretation platform combining AI analysis with remote cardiologist support, enabling rapid diagnosis anywhere.",
+  "technology": "AI ECG analysis, telecardiology platform, cloud infrastructure, remote specialist review",
+  "target_customer": "Primary care clinics, hospitals, clinics in emerging markets",
+  "care_setting": "multiple",
+  "care_domain": "cardiology",
+  "care_stage": "diagnosis",
+  "automation_level": "hybrid",
+  "ai_type": "AI ECG analysis + remote cardiologist oversight",
+  "traction_signals": [
+    "4M+ ECGs analyzed",
+    "Presence in 15+ countries",
+    "Strong presence in India and emerging markets",
+    "Founded 2014, Bangalore"
+  ],
+  "funding": "$15M+ raised",
+  "regulatory_notes": "CE marked, regulatory clearance in multiple countries",
+  "varden_fit": "VERY HIGH - Democratizes specialty cardiology access via telecardiology. Perfect model for Varden's specialty access mission in emerging markets.",
+  "source": "Industry knowledge",
+  "url": "https://tricog.com",
+  "date_added": "2026-03-11",
+  "notes": "Excellent example of democratizing specialty care access. Strong emerging market fit."
+}

@@ -1,0 +1,14 @@
+{
+  "company": "Chiro8000",
+  "country": "US",
+  "problem": "Chiropractic practices need integrated software that connects billing, scheduling, practice management, marketing, EMR/EHR, communication, patient education, and collections in one system",
+  "solution": "Complete chiropractic practice management software offering simplified billing, marketing integration, comprehensive EHR with SOAP notes, patient education tools, and one-time purchase pricing model",
+  "problem_type": "chiropractic",
+  "solution_type": "SaaS",
+  "buyer": "clinics",
+  "varden_fit": "medium",
+  "url": "https://www.chiro8000.com",
+  "source": "web",
+  "discovery_round": 139,
+  "discovered_by": "nova"
+}

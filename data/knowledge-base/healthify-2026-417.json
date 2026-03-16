@@ -1,0 +1,22 @@
+{
+  "company_name": "Healthify (acquired by WellSky)",
+  "problem_solved": "Healthcare organizations need tools to systematically screen for and address social determinants of health",
+  "solution_description": "SDOH platform providing screening tools, resource directories, and referral tracking for healthcare organizations. Focus on integrating social care into clinical workflows. Provides analytics on SDOH interventions and outcomes. Acquired by WellSky to expand post-acute and social care capabilities",
+  "buyer_persona": "health_systems",
+  "care_stage": "screening",
+  "automation_level": "partial",
+  "varden_fit": "very_high",
+  "region": "US",
+  "country": "United States",
+  "funding_stage": "acquired",
+  "traction_signals": [
+    "Acquired by WellSky",
+    "SDOH screening and referral platform",
+    "Integration with clinical workflows",
+    "Analytics on social care interventions"
+  ],
+  "notes": "SDOH platform acquired by WellSky. Very high Varden fit - purpose-built SDOH infrastructure. Competed with Findhelp and Unite Us. Now part of larger post-acute/social care platform. Represents important SDOH market segment",
+  "discovery_round": 50,
+  "discovered_by": "sky",
+  "timestamp": "2026-03-11T23:20:00Z"
+}

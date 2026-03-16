@@ -1,0 +1,14 @@
+{
+  "company": "Change Healthcare (Optum)",
+  "country": "US",
+  "problem": "Healthcare payers and providers face disconnected systems for claims processing, payment management, and financial transactions that create friction and increase administrative costs across the healthcare ecosystem.",
+  "solution": "Change Healthcare, now part of Optum, provides a unified platform for healthcare financial solutions including claims processing, payment accuracy, and revenue cycle management. They process billions of transactions annually, connecting payers and providers to lower the cost of healthcare administration.",
+  "problem_type": "claims_billing",
+  "solution_type": "SaaS",
+  "buyer": "providers",
+  "varden_fit": "high",
+  "url": "https://www.changehealthcare.com",
+  "source": "web",
+  "discovery_round": 82,
+  "discovered_by": "sky"
+}

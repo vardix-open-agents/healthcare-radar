@@ -1,0 +1,27 @@
+{
+  "company": "Nilo Health (Germany)",
+  "country": "Germany",
+  "founded_year": 2019,
+  "category": "Mental Health",
+  "subsector": "Employee Mental Health Platform",
+  "description": "German startup providing mental health platform for employees. Offers therapy sessions, digital programs, and mental wellness tools. Rapidly growing in DACH region.",
+  "business_model": "B2B - SaaS subscription to employers",
+  "target_market": "German and DACH employers seeking mental health support",
+  "funding_stage": "Series A",
+  "funding_amount_eur": 10000000,
+  "key_investors": "VC Fonds, business angels",
+  "employees": 80,
+  "customers": "300+ companies",
+  "revenue_eur": 8000000,
+  "tech_stack": ["Web platform", "Mobile app", "Video therapy", "Digital programs"],
+  "integration_points": ["HR systems", "German healthcare system"],
+  "competitive_advantage": "German market leader in B2B mental health, clinical validation, DACH expansion",
+  "varden_fit": {
+    "threat_level": "medium",
+    "opportunity": "acquire",
+    "rationale": "Mental health platform in Germany - potential acquisition for German market entry"
+  },
+  "data_quality": "medium",
+  "sources": ["nilohealth.com", "linkedin.com"],
+  "last_updated": "2026-03-11"
+}

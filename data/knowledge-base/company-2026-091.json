@@ -1,0 +1,27 @@
+{
+  "company": "Babylon Health (Legacy Operations)",
+  "country": "United Kingdom",
+  "founded_year": 2013,
+  "category": "Telemedicine",
+  "subsector": "AI-Powered Digital Health",
+  "description": "UK digital health company offering AI-powered symptom checker, GP video consultations, and healthcare monitoring. Significant NHS partnerships and global expansion. Financially distressed but technologically advanced.",
+  "business_model": "B2B2C - NHS partnerships, insurer partnerships, B2C subscriptions",
+  "target_market": "UK (NHS and private), US (employer), Rwanda (government)",
+  "funding_stage": "Public (distressed)",
+  "funding_amount_usd": 600000000,
+  "key_investors": "Public markets; formerly backed by Kinnevik, Vostok New Ventures",
+  "employees": "2000 (declining)",
+  "customers": "6M+ registered users globally",
+  "revenue_usd": 200000000,
+  "tech_stack": ["AI triage", "Video platform", "EHR", "Wearables integration"],
+  "integration_points": ["NHS systems", "Hospital EHRs", "Wearables", "Pharmacy"],
+  "competitive_advantage": "Advanced AI, global footprint (though shrinking), NHS track record",
+  "varden_fit": {
+    "threat_level": "low",
+    "opportunity": "talent/tech",
+    "rationale": "Distressed asset - potential opportunity to acquire talent or technology at discount"
+  },
+  "data_quality": "medium",
+  "sources": ["babylonhealth.com", "public filings"],
+  "last_updated": "2026-03-11"
+}

@@ -1,0 +1,14 @@
+{
+  "company": "eClinicalWorks",
+  "country": "US",
+  "problem": "Hematology practices of all sizes need affordable, cloud-based EHR solutions with blood disorder documentation capabilities, coagulation tracking, and integrated telehealth for patient follow-up.",
+  "solution": "Cloud-based EHR platform with specialty configurations for hematology, AI-powered documentation tools, telehealth integration, and population health analytics for blood disorder management.",
+  "problem_type": "hematology",
+  "solution_type": "SaaS",
+  "buyer": "clinics",
+  "varden_fit": "medium",
+  "url": "https://www.eclinicalworks.com",
+  "source": "web",
+  "discovery_round": 120,
+  "discovered_by": "sky"
+}

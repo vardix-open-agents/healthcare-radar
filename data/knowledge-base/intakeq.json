@@ -1,0 +1,14 @@
+{
+  "company": "IntakeQ",
+  "country": "CA",
+  "problem": "Healthcare practitioners and therapists spend excessive time managing paper intake forms, struggle with incomplete submissions, and face challenges collecting electronic signatures and consent forms securely.",
+  "solution": "Digital intake form platform enabling secure form creation, SMS/email delivery, electronic signatures, paperless patient registration, medical health history collection, and mobile-friendly form completion. Forms can be completed anywhere on any device.",
+  "problem_type": "patient_intake",
+  "solution_type": "SaaS",
+  "buyer": "providers",
+  "varden_fit": "high",
+  "url": "https://forms.intakeq.com/",
+  "source": "web",
+  "discovery_round": 88,
+  "discovered_by": "sky"
+}

@@ -1,0 +1,16 @@
+{
+  "id": "problem-2026-015",
+  "problem": "Prior authorization requires 20+ minutes per request, delaying patient care by days to weeks",
+  "problem_type": "eligibility",
+  "solution_type": "AI-powered authorization prediction, automated form filling, payer API integration",
+  "care_stage": "admin",
+  "automation_type": "ai_assisted",
+  "buyer": "clinic",
+  "care_setting": "specialty",
+  "companies": ["Cohere Health", "SamaCare", "Inflect Health"],
+  "signals": ["Physician survey: top pain point", "Payer automation initiatives", "CMS prior auth rules"],
+  "boring_software": false,
+  "contrarian": true,
+  "url": "https://coherehealth.com",
+  "date_added": "2026-03-11"
+}

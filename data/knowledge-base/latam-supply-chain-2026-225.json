@@ -1,0 +1,33 @@
+{
+  "id": "latam-supply-chain-2026-225",
+  "title": "LATAM Healthcare Supply Chain Opacity",
+  "company": null,
+  "country": "Brazil/Mexico/Colombia/Regional",
+  "region": "LATAM",
+  "segment": "admin",
+  "problem": "Healthcare supply chain in LATAM is opaque and inefficient. Hospitals don't know real-time inventory levels. Stockouts of critical medications common. No visibility into supplier capacity. Manual ordering processes. No demand forecasting. COVID-19 exposed supply chain fragility with PPE and medication shortages.",
+  "solution": "Healthcare supply chain management platform. Real-time inventory tracking across hospital network. Automated reordering based on par levels. Supplier marketplace with transparent pricing. Demand forecasting using AI. Integration with hospital ERPs. Analytics on utilization and costs.",
+  "technology": "IoT sensors for inventory tracking, API integration with suppliers, demand forecasting ML, ERP integration, analytics dashboard",
+  "target_customer": "Hospital systems, clinic networks, pharmacy chains, medical device distributors",
+  "care_setting": "all",
+  "care_domain": "general",
+  "care_stage": "admin",
+  "automation_level": "full",
+  "ai_type": "Demand forecasting, inventory optimization",
+  "traction_signals": [
+    "COVID-19 exposed supply chain weaknesses",
+    "Hospitals seeking cost reduction",
+    "Pharmaceutical supply chain digitization trends",
+    "Proven B2B marketplace models in other sectors"
+  ],
+  "funding": null,
+  "regulatory_notes": "Pharmaceutical supply chain regulations, medical device distribution laws",
+  "varden_fit": "HIGH FIT - Supply chain infrastructure is classic B2B software. High switching costs once integrated. Recurring revenue. Similar to Procurify/Teampay but healthcare-specific.",
+  "source": "Opportunity analysis + market gap identification",
+  "url": null,
+  "date_added": "2026-03-11",
+  "problem_type": "supply_chain",
+  "contrarian": false,
+  "boring_software": true,
+  "notes": "BOREALING: Supply chain software is incredibly boring. But healthcare supply chain is complex and critical. High margins once entrenched in hospital systems."
+}

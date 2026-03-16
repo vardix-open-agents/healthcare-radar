@@ -1,0 +1,14 @@
+{
+  "company": "Modernizing Medicine (ModMed)",
+  "country": "US",
+  "problem": "Dermatology practices struggle with generic EHR systems that don't address specialty-specific workflows for skin conditions, imaging documentation, and dermatology-specific billing codes",
+  "solution": "Specialty-specific EHR platform designed for dermatologists with built-in dermatology templates, skin imaging integration, dermoscopy documentation, and AI-powered clinical documentation tools",
+  "problem_type": "dermatology",
+  "solution_type": "SaaS",
+  "buyer": "clinics",
+  "varden_fit": "medium",
+  "url": "https://www.modmed.com",
+  "source": "web",
+  "discovery_round": 106,
+  "discovered_by": "nova"
+}

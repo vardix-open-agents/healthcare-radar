@@ -1,0 +1,14 @@
+{
+  "company": "askmyGP",
+  "country": "GB",
+  "problem": "NHS GP practices face overwhelming patient demand with inefficient triage systems that don't prioritize by clinical need and create administrative burden",
+  "solution": "Digital patient engagement platform with plain language interface for patients to describe problems, effective triage prioritization, and network management for connected care across PCNs",
+  "problem_type": "practice_management",
+  "solution_type": "SaaS",
+  "buyer": "clinics",
+  "varden_fit": "low",
+  "url": "https://askmygp.uk",
+  "source": "web",
+  "discovery_round": 87,
+  "discovered_by": "nova"
+}

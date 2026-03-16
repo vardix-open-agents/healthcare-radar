@@ -1,0 +1,28 @@
+{
+  "company": "HealthTech Nordic (Sweden)",
+  "country": "Sweden",
+  "founded_year": 2016,
+  "category": "Healthcare Infrastructure",
+  "subsector": "Health Tech Ecosystem",
+  "description": "Nordic health tech ecosystem and directory showcasing 226+ digital health startups from Sweden, Norway, Denmark, Finland, and Iceland. Provides visibility, networking, and market access for Nordic health tech companies.",
+  "business_model": "Ecosystem - Directory and network for health tech startups",
+  "target_market": "Nordic health tech startups, investors, healthcare organizations",
+  "funding_stage": "Non-profit/Government supported",
+  "funding_amount_sek": null,
+  "key_investors": "Government agencies, regional innovation programs",
+  "employees": "10+",
+  "customers": "226+ startups",
+  "revenue_sek": null,
+  "tech_stack": ["Directory platform", "Matchmaking", "Market access", "Investor network"],
+  "integration_points": ["Nordic health systems", "Investors", "Startups"],
+  "competitive_advantage": "Comprehensive Nordic health tech overview, regional focus",
+  "boring_software": true,
+  "varden_fit": {
+    "threat_level": "none",
+    "opportunity": "benchmark",
+    "rationale": "Ecosystem resource - excellent source for Nordic market intelligence"
+  },
+  "data_quality": "high",
+  "sources": ["healthtechnordic.com"],
+  "last_updated": "2026-03-11"
+}

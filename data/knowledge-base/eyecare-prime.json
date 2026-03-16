@@ -1,0 +1,14 @@
+{
+  "company": "EyeCare Prime",
+  "country": "US",
+  "problem": "Ophthalmology practices need comprehensive software solutions that combine clinical documentation with revenue cycle management and patient communication",
+  "solution": "Ophthalmology-focused EHR and practice management software featuring clinical documentation templates, claims processing, patient portal, and optical dispensing management",
+  "problem_type": "optometry",
+  "solution_type": "SaaS",
+  "buyer": "clinics",
+  "varden_fit": "medium",
+  "url": "https://www.eyecareleaders.com",
+  "source": "web",
+  "discovery_round": 110,
+  "discovered_by": "nova"
+}

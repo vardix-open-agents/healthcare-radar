@@ -1,0 +1,112 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "title": "Healthcare Opportunity Entry",
+  "type": "object",
+  "required": ["id", "title", "country", "problem", "source", "url", "date_added"],
+  "properties": {
+    "id": {
+      "type": "string",
+      "description": "Unique identifier (e.g., corti-2026-001)"
+    },
+    "title": {
+      "type": "string",
+      "description": "Short descriptive title"
+    },
+    "company": {
+      "type": ["string", "null"],
+      "description": "Company name if applicable"
+    },
+    "country": {
+      "type": "string",
+      "description": "Primary country of operation"
+    },
+    "region": {
+      "type": "string",
+      "description": "Broader region (Nordics, EU, US, APAC, etc.)"
+    },
+    "segment": {
+      "type": "string",
+      "enum": ["triage", "diagnostics", "treatment", "monitoring", "admin", "scheduling", "billing", "infrastructure", "other"],
+      "description": "Healthcare segment"
+    },
+    "problem": {
+      "type": "string",
+      "description": "What problem does this solve?"
+    },
+    "solution": {
+      "type": "string",
+      "description": "How does it solve the problem?"
+    },
+    "technology": {
+      "type": "string",
+      "description": "Key technologies used (AI, speech, vision, API, etc.)"
+    },
+    "target_customer": {
+      "type": "string",
+      "description": "Who buys this? (clinics, hospitals, patients, insurers)"
+    },
+    "care_setting": {
+      "type": "string",
+      "enum": ["primary_care", "emergency", "specialist", "telehealth", "home", "hospital", "pharmacy", "other"],
+      "description": "Where does this operate?"
+    },
+    "care_domain": {
+      "type": "string",
+      "description": "Medical domain (cardiology, mental health, dermatology, general, etc.)"
+    },
+    "care_stage": {
+      "type": "string",
+      "enum": ["prevention", "diagnosis", "treatment", "monitoring", "recovery", "admin", "other"],
+      "description": "Stage of care journey"
+    },
+    "automation_level": {
+      "type": "string",
+      "enum": ["full", "partial", "assistive", "none"],
+      "description": "How automated is the solution?"
+    },
+    "ai_type": {
+      "type": ["string", "null"],
+      "description": "Type of AI if applicable (NLP, computer vision, ML, LLM, etc.)"
+    },
+    "traction_signals": {
+      "type": "array",
+      "items": { "type": "string" },
+      "description": "Evidence of traction (users, pilots, revenue, partnerships)"
+    },
+    "funding": {
+      "type": ["string", "null"],
+      "description": "Funding stage and amount if known"
+    },
+    "regulatory_notes": {
+      "type": ["string", "null"],
+      "description": "Any regulatory considerations (FDA, CE mark, GDPR, etc.)"
+    },
+    "varden_fit": {
+      "type": ["string", "null"],
+      "description": "Potential fit with Varden ecosystem"
+    },
+    "source": {
+      "type": "string",
+      "description": "Where did we find this?"
+    },
+    "url": {
+      "type": "string",
+      "format": "uri",
+      "description": "Link to original source"
+    },
+    "date_added": {
+      "type": "string",
+      "format": "date",
+      "description": "When was this entry added"
+    },
+    "last_updated": {
+      "type": "string",
+      "format": "date",
+      "description": "When was this entry last updated"
+    },
+    "notes": {
+      "type": ["string", "null"],
+      "description": "Additional notes"
+    }
+  }
+}

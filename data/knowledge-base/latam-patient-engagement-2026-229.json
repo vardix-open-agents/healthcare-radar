@@ -1,0 +1,33 @@
+{
+  "id": "latam-patient-engagement-2026-229",
+  "title": "LATAM Patient Communication Infrastructure",
+  "company": null,
+  "country": "Brazil/Mexico/Colombia/Regional",
+  "region": "LATAM",
+  "segment": "admin",
+  "problem": "Patient communication in LATAM is fragmented. Phone tag for appointment scheduling. No automated reminders for appointments or preventive care. No digital intake forms. Patients show up unprepared. No post-visit follow-up communication. Language barriers (indigenous populations). Low health literacy complicates communication.",
+  "solution": "Patient communication platform. Automated SMS/WhatsApp reminders. Digital intake forms (multilingual). Two-way messaging with clinic staff. Post-visit care instructions. Preventive care nudges. Integration with EMR. Patient portal for accessing records and messaging.",
+  "technology": "WhatsApp Business API, SMS automation, mobile forms, patient portal, EMR integration, multilingual support",
+  "target_customer": "Primary care practices, hospital outpatient departments, specialty clinics, dental practices",
+  "care_setting": "all",
+  "care_domain": "general",
+  "care_stage": "admin",
+  "automation_level": "full",
+  "ai_type": null,
+  "traction_signals": [
+    "WhatsApp penetration 90%+ in LATAM",
+    "Patient no-shows cost practices revenue",
+    "COVID-19 accelerated digital communication",
+    "Proven models (Luma Health, Phreesia in US)"
+  ],
+  "funding": null,
+  "regulatory_notes": "WhatsApp Business API terms, patient data privacy, medical communication regulations",
+  "varden_fit": "HIGH FIT - Patient communication is essential infrastructure. WhatsApp-first for LATAM. Recurring SaaS revenue. Reduces no-shows = immediate ROI for practices.",
+  "source": "Opportunity analysis + market gap identification",
+  "url": null,
+  "date_added": "2026-03-11",
+  "problem_type": "communication",
+  "contrarian": false,
+  "boring_software": true,
+  "notes": "BOREALING: Patient communication is basic infrastructure. But in LATAM, WhatsApp is the internet. WhatsApp-first strategy is key differentiator."
+}

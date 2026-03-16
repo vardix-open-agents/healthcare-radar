@@ -1,0 +1,14 @@
+{
+  "company": "AssistiveWare",
+  "country": "NL",
+  "problem": "Children and adults with autism, cerebral palsy, and developmental disabilities cannot use verbal speech, needing tools to communicate and develop language skills.",
+  "solution": "Proloquo and Proloquo2Go AAC apps with symbol-based communication systems, vocabulary building tools, and multi-language support running on iOS devices.",
+  "problem_type": "speech_therapy",
+  "solution_type": "SaaS",
+  "buyer": "clinics",
+  "varden_fit": "medium",
+  "url": "https://www.assistiveware.com",
+  "source": "web",
+  "discovery_round": 141,
+  "discovered_by": "nova"
+}

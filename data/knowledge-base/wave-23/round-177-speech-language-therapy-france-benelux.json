@@ -1,0 +1,154 @@
+[
+  {
+    "company_name": "Praat",
+    "hq_location": "Amsterdam, Netherlands",
+    "website_url": "https://praat.org",
+    "problem_solved": "Speech therapists, phoneticians, and voice researchers lack accessible, professional-grade tools for acoustic analysis of voice and speech signals. Praat provides comprehensive phonetics analysis including spectrograms, pitch analysis, formant tracking, and speech synthesis for clinical voice assessment.",
+    "who_buys_it": "Speech-language pathologists (SLPs), voice therapists, phoneticians, linguistics researchers, hospital voice clinics, university speech departments, and clinical voice analysis labs",
+    "key_features": [
+      "Real-time spectrogram visualization",
+      "Pitch (F0) analysis and manipulation",
+      "Formant frequency tracking",
+      "Voice quality analysis (jitter, shimmer, HNR)",
+      "Speech synthesis and resynthesis",
+      "Intonation modeling",
+      "Scripting language for custom analyses",
+      "Cross-platform (Windows, Mac, Linux)"
+    ],
+    "business_model": "Open-source software (free) - developed and maintained by University of Amsterdam. Academic research funding and institutional support. No direct revenue model, but ecosystem of paid training, consulting, and commercial extensions exists around it.",
+    "why_varden_should_care": "De facto industry standard for clinical voice analysis used by 100,000+ speech therapists worldwide. Dominant position in Europe, especially Netherlands. Foundation technology that newer commercial speech therapy platforms build upon. Strategic value in understanding the clinical voice analysis market and potential acquisition targets that build commercial products on top of Praat."
+  },
+  {
+    "company_name": "Eulexia",
+    "hq_location": "Paris, France",
+    "website_url": "https://www.eulexia.com",
+    "problem_solved": "Children with dyslexia, dysphasia, and language learning disabilities require specialized, engaging remediation tools. Traditional speech therapy exercises are repetitive and fail to maintain patient engagement. Eulexia provides gamified, evidence-based language development and reading intervention software for pediatric speech-language therapy.",
+    "who_buys_it": "Pediatric speech-language pathologists (orthophonistes), special education teachers, school districts, child psychology practices, hospital pediatric departments, and parents of children with learning disabilities",
+    "key_features": [
+      "Gamified phonological awareness training",
+      "Dyslexia screening and assessment tools",
+      "Reading comprehension exercises",
+      "Speech sound discrimination activities",
+      "Progress tracking and reporting dashboards",
+      "Multi-sensory learning approaches",
+      "French language-specific content",
+      "Adaptive difficulty algorithms"
+    ],
+    "business_model": "SaaS subscription model with tiered pricing: individual practitioners (~€50-80/month), schools/clinics (~€200-500/month), and district/enterprise licenses. Also offers per-patient licensing for intensive therapy programs. Annual contracts with 15-20% discount.",
+    "why_varden_should_care": "Strong position in French pediatric speech therapy market. Addresses growing demand for evidence-based, digital therapy tools post-COVID. Large addressable market with 5-7% of children affected by language learning disorders. Potential for European expansion and English-language adaptation. Recurring revenue model with high switching costs due to patient progress data lock-in."
+  },
+  {
+    "company_name": "C-Log",
+    "hq_location": "Brussels, Belgium",
+    "website_url": "https://www.c-log.be",
+    "problem_solved": "Speech therapists (logopedists) in Belgium lack integrated practice management and clinical documentation tools tailored to local healthcare reimbursement systems. C-Log provides comprehensive practice management software specifically designed for Belgian logopedists with built-in regulatory compliance.",
+    "who_buys_it": "Independent speech therapists (logopedists), speech therapy clinics, hospital speech therapy departments, and multidisciplinary rehabilitation centers in Belgium",
+    "key_features": [
+      "Patient scheduling and appointment management",
+      "Electronic health records (EHR) for speech therapy",
+      "Belgian healthcare insurance (RIZIV/INAMI) billing integration",
+      "Treatment planning and progress documentation",
+      "Multilingual support (French, Dutch, German)",
+      "Automated invoicing and payment tracking",
+      "Clinical outcome measurement tools",
+      "Mobile app for on-the-go access"
+    ],
+    "business_model": "SaaS subscription: €35-60/month per therapist for core practice management. Premium tier (€80-120/month) includes advanced reporting, multi-location support, and telehealth integration. Annual contracts with 10% discount. Implementation and training services charged separately.",
+    "why_varden_should_care": "Dominant practice management solution for Belgian speech therapists with high market penetration. Strong recurring revenue base with low churn due to EHR data lock-in. Positioned for consolidation opportunity as fragmented European healthcare IT market matures. Belgian market serves as pilot for broader Benelux expansion."
+  },
+  {
+    "company_name": "Voxalog",
+    "hq_location": "Ghent, Belgium",
+    "website_url": "https://www.voxalog.com",
+    "problem_solved": "Voice therapists and ENT specialists lack objective, AI-powered tools for voice assessment and therapy progress monitoring. Traditional perceptual voice evaluation is subjective and lacks quantifiable metrics. Voxalog provides AI-driven voice analysis software for clinical voice therapy and rehabilitation.",
+    "who_buys_it": "Voice therapists, ENT physicians, laryngologists, hospital voice clinics, speech therapy departments, singing teachers, and voice rehabilitation centers",
+    "key_features": [
+      "AI-powered voice quality analysis",
+      "Real-time acoustic parameter measurement",
+      "Voice disorder detection and classification",
+      "Therapy progress tracking dashboards",
+      "Automated voice screening tests",
+      "Cloud-based voice sample storage",
+      "Integration with clinical EMR systems",
+      "Multilingual voice assessment protocols"
+    ],
+    "business_model": "SaaS subscription: Professional tier €150-250/month per clinic, Enterprise tier €500-1,000/month for hospital voice centers. Per-assessment pricing available for smaller practices. White-label licensing available for EMR vendors and device manufacturers.",
+    "why_varden_should_care": "High-growth AI/ML application in speech therapy with strong clinical utility. Voice disorders affect 5-10% of population, creating large addressable market. Technology differentiation through proprietary AI models trained on European voice data. Strategic fit with voice analysis device manufacturers and telemedicine platforms."
+  },
+  {
+    "company_name": "Logimed",
+    "hq_location": "Utrecht, Netherlands",
+    "website_url": "https://www.logimed.nl",
+    "problem_solved": "Dutch speech therapists (logopedisten) need specialized practice management software that integrates with the Dutch healthcare system, insurance billing, and professional reporting standards. Logimed provides comprehensive practice management and clinical documentation tools for Dutch logopedists.",
+    "who_buys_it": "Independent speech therapists, speech therapy practices, hospital speech therapy departments, rehabilitation centers, and school-based speech therapists in the Netherlands",
+    "key_features": [
+      "Dutch healthcare insurance (zorgverzekeraars) billing integration",
+      "Patient scheduling with automated reminders",
+      "Clinical documentation templates for logopedie",
+      "Treatment goal tracking per Dutch professional standards",
+      "D-log reporting compliance (Dutch outcome measures)",
+      "Multi-location practice management",
+      "Teletherapy integration",
+      "Mobile app for home visits"
+    ],
+    "business_model": "SaaS subscription: €40-70/month per therapist. Enterprise pricing for hospitals and large clinics. Annual contracts standard. Add-on modules for telehealth (€25/month) and advanced analytics (€50/month).",
+    "why_varden_should_care": "Leading practice management solution in Dutch speech therapy market. Strong regulatory moat through deep Dutch healthcare system integration. Attractive consolidation target as European healthcare IT market consolidates. Potential for cross-border expansion to Flanders (Belgium) and German-speaking regions."
+  },
+  {
+    "company_name": "Medialog Orthophonie",
+    "hq_location": "Lyon, France",
+    "website_url": "https://www.medialog-orthophonie.fr",
+    "problem_solved": "French speech therapists (orthophonistes) require practice management software that handles French social security (Sécurité Sociale) billing, patient records, and professional documentation requirements. Medialog provides integrated practice management for French orthophonistes.",
+    "who_buys_it": "Independent orthophonistes, speech therapy practices (cabinets d'orthophonie), hospital speech therapy departments, and multidisciplinary paramedical practices in France",
+    "key_features": [
+      "French social security (Carte Vitale) integration",
+      "Caisse Primaire d'Assurance Maladie (CPAM) billing",
+      "Patient record management (DMP compatible)",
+      "Appointment scheduling and patient portal",
+      "Orthophonie-specific clinical templates",
+      "Prescription and referral management",
+      "Financial reporting and accounting export",
+      "Teleconsultation module"
+    ],
+    "business_model": "SaaS subscription: €45-80/month per orthophoniste. Multi-therapist practices: volume discounts. Enterprise pricing for hospitals. Setup fees €200-500. Annual contracts with loyalty discounts.",
+    "why_varden_should_care": "Strong position in French speech therapy practice management market. France has 25,000+ orthophonistes creating large addressable market. Deep integration with French healthcare system creates high switching costs. Part of broader trend toward digitization of French paramedical practices."
+  },
+  {
+    "company_name": "FluencyCoach Europe",
+    "hq_location": "Rotterdam, Netherlands",
+    "website_url": "https://www.fluencycoach.eu",
+    "problem_solved": "People who stutter lack accessible, evidence-based therapy tools for fluency improvement. Traditional stuttering therapy requires intensive in-person sessions and lacks tools for home practice and long-term maintenance. FluencyCoach provides digital stuttering intervention platform with delayed auditory feedback (DAF) and frequency-altered feedback (FAF).",
+    "who_buys_it": "Speech therapists specializing in fluency disorders, stuttering therapy clinics, hospital speech departments, school-based therapists, and individuals who stutter (DTC/DTC-lite model)",
+    "key_features": [
+      "Delayed Auditory Feedback (DAF) technology",
+      "Frequency-Altered Feedback (FAF)",
+      "Real-time fluency monitoring",
+      "Home practice modules with progress tracking",
+      "Therapist dashboard for remote monitoring",
+      "Mobile app for iOS and Android",
+      "Integration with clinical workflows",
+      "Multilingual support for European languages"
+    ],
+    "business_model": "Hybrid B2B2C: B2B licensing to speech therapists (€100-200/month per therapist), B2C subscriptions for individuals (€20-40/month). Enterprise licenses for hospitals and clinics. White-label options for telehealth platforms.",
+    "why_varden_should_care": "Specialized niche in stuttering therapy with 1% population prevalence creating large addressable market. Evidence-based technology with clinical validation. Strong therapeutic outcomes drive word-of-mouth adoption. Potential for global expansion beyond Europe. Attractive DTC component with recurring consumer subscriptions."
+  },
+  {
+    "company_name": "SpeechTech Belgium",
+    "hq_location": "Antwerp, Belgium",
+    "website_url": "https://www.speechtech.be",
+    "problem_solved": "Speech-language pathologists in Belgium need specialized assessment tools and therapy materials in Dutch and French tailored to local clinical protocols. SpeechTech Belgium develops standardized language assessment batteries and therapy software for Belgian clinical practice.",
+    "who_buys_it": "Speech therapists (logopedists/orthophonistes), hospital speech therapy departments, school-based therapists, child development centers, and neuropsychology practices in Belgium",
+    "key_features": [
+      "Dutch and French language assessment batteries",
+      "Standardized aphasia screening tools",
+      "Pediatric language development tests",
+      "Voice disorder assessment protocols",
+      "Therapy exercise libraries",
+      "Automated scoring and report generation",
+      "Norm-referenced data for Belgian population",
+      "Integration with practice management systems"
+    ],
+    "business_model": "Perpetual software licensing: €500-2,000 per assessment battery (one-time purchase with annual maintenance 15-20%). Therapy software subscriptions: €30-60/month. Bulk licensing for hospitals and institutions. Training and certification programs.",
+    "why_varden_should_care": "Only provider of Belgium-specific, norm-referenced speech assessment tools. High barriers to entry due to clinical validation requirements and local normative data collection. Strong IP moat through proprietary assessment batteries. Essential infrastructure for Belgian speech therapy practice. Potential for European expansion with additional language adaptations."
+  }
+]

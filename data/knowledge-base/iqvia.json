@@ -1,0 +1,14 @@
+{
+  "company": "IQVIA",
+  "country": "US",
+  "problem": "Life sciences companies need to integrate massive amounts of healthcare data, AI capabilities, and technology to accelerate drug development and improve patient outcomes.",
+  "solution": "Connected Intelligence platform combining 64+ petabytes of proprietary data with AI/ML, analytics, and technology solutions. Includes AI Assistant, Field Force Agent, Global Market Insights Agent, and clinical trial acceleration (46% faster site identification).",
+  "problem_type": "clinical_trials",
+  "solution_type": "SaaS",
+  "buyer": "research_orgs",
+  "varden_fit": "low",
+  "url": "https://www.iqvia.com/",
+  "source": "web",
+  "discovery_round": 103,
+  "discovered_by": "sky"
+}

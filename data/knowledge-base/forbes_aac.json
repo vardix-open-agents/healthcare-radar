@@ -1,0 +1,14 @@
+{
+  "company": "Forbes AAC",
+  "country": "US",
+  "problem": "People with complex communication needs require customizable speech-generating devices with language systems that can adapt to their specific abilities and environments.",
+  "solution": "iOS and Windows-based speech-generating devices with CoreWord language system, CoughDrop app integration, environmental controls, and custom mounting solutions.",
+  "problem_type": "speech_therapy",
+  "solution_type": "Device",
+  "buyer": "clinics",
+  "varden_fit": "high",
+  "url": "https://www.forbesaac.com",
+  "source": "web",
+  "discovery_round": 141,
+  "discovered_by": "nova"
+}

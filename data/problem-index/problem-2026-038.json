@@ -1,0 +1,16 @@
+{
+  "id": "problem-2026-038",
+  "problem": "Brazilian SUS patients wait 6+ months for specialist appointments, with 30% no-show rates",
+  "problem_type": "scheduling",
+  "solution_type": "Integrated scheduling systems, SMS reminders, waitlist optimization",
+  "care_stage": "intake",
+  "automation_type": "workflow_automation",
+  "buyer": "health_system",
+  "care_setting": "specialty",
+  "companies": ["DATASUS", "Dr. Consulta", "Conexa Saúde"],
+  "signals": ["SUS digital transformation", "Private sector scheduling solutions", "Access inequality"],
+  "boring_software": true,
+  "contrarian": false,
+  "url": "https://www.drconsulta.com",
+  "date_added": "2026-03-11"
+}

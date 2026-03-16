@@ -1,0 +1,14 @@
+{
+  "company": "CureMD",
+  "country": "US",
+  "problem": "Specialty practices including orthopedics need affordable, integrated EHR and practice management with specialty-specific templates and workflows",
+  "solution": "Cloud-based specialty-focused EHR, practice management, and revenue cycle management platform with workflow editor and templates designed for accelerated adaptation and documentation speed",
+  "problem_type": "orthopedics",
+  "solution_type": "SaaS",
+  "buyer": "clinics",
+  "varden_fit": "medium",
+  "url": "https://www.curemd.com",
+  "source": "web",
+  "discovery_round": 109,
+  "discovered_by": "sky"
+}

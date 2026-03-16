@@ -1,0 +1,114 @@
+[
+  {
+    "company_name": "CompuGroup Medical (CGM Allergie-Modul)",
+    "hq_location": "Koblenz, Germany",
+    "website": "https://www.cgm.com/de/",
+    "problem_solved": "Provides integrated allergy and immunotherapy documentation modules within their practice management systems, enabling allergists to track hyposensitization therapy, document skin test results, and manage immunotherapy schedules.",
+    "target_buyers": "Allergy practices, dermatology clinics, ENT specialists, hospital outpatient departments",
+    "key_features": [
+      "Immunotherapy (SIT/SLIT) tracking and scheduling with automatic reminder system",
+      "Allergy test documentation (skin prick, intracutaneous, patch tests) with digital images",
+      "Integrated allergen database with cross-reactivity warnings and dose calculation"
+    ],
+    "business_model": "SaaS/Perpetual license with annual maintenance fees; modular pricing",
+    "varden_replicability": "High - The allergy module is built on their general practice software infrastructure. Core functionality (immunotherapy scheduling, test documentation, allergen database) can be replicated as standalone solution or integrated module for other EHR systems."
+  },
+  {
+    "company_name": "medatixx (Allergologie-Modul)",
+    "hq_location": "Dortmund, Germany",
+    "website": "https://medatixx.de/",
+    "problem_solved": "Offers specialized allergy documentation and immunotherapy management within their practice management software, helping allergists efficiently track patient allergies, document test results, and manage desensitization protocols.",
+    "target_buyers": "Allergist practices, dermatology clinics, pediatric allergy specialists, pulmonary practices",
+    "key_features": [
+      "Complete allergology documentation with structured anamnesis forms",
+      "Hyposensitization therapy management with automatic dose escalation protocols",
+      "Integration with German telematics infrastructure for e-prescriptions and electronic patient records"
+    ],
+    "business_model": "SaaS with subscription-based pricing; includes TI-compliance and support",
+    "varden_replicability": "High - The allergy functionality is modular and can be developed as a standalone SaaS product. Key components (therapy tracking, documentation templates, dose protocols) are well-defined and replicable for new market entrants."
+  },
+  {
+    "company_name": "jameda Pro (Allergologie-Funktionen)",
+    "hq_location": "Munich, Germany",
+    "website": "https://pro.jameda.de/",
+    "problem_solved": "Provides practice management and patient booking platform with allergy-specific documentation tools, enabling allergists to manage appointments, document patient visits, and track allergy treatments while building online reputation.",
+    "target_buyers": "Allergist practices, dermatology clinics, ENT practices with allergy focus",
+    "key_features": [
+      "Online appointment booking with allergy-specific consultation types",
+      "Patient feedback and reputation management for allergists",
+      "Practice management with allergy documentation capabilities"
+    ],
+    "business_model": "SaaS subscription; freemium model with premium features for practice management",
+    "varden_replicability": "Medium-High - The platform approach combines booking, reputation, and practice management. Allergy-specific features can be built as a specialized module on a general practice management platform."
+  },
+  {
+    "company_name": "Docplanner Group (jameda - Allergy Focus)",
+    "hq_location": "Warsaw, Poland (German HQ: Munich)",
+    "website": "https://www.docplanner.com/",
+    "problem_solved": "Operates jameda.de (acquired) as Germany's leading doctor booking platform with allergy specialist listings, helping patients find allergists and enabling practices to manage appointments and patient communications.",
+    "target_buyers": "Allergist practices, dermatology clinics, hospitals with allergy departments",
+    "key_features": [
+      "Patient acquisition and online booking for allergy specialists",
+      "Practice management software with calendar and patient CRM",
+      "Telemedicine integration for allergy consultations"
+    ],
+    "business_model": "SaaS subscription + marketplace (patient bookings); per-booking fees for premium placement",
+    "varden_replicability": "Medium - The marketplace model requires significant network effects. However, the practice management and booking technology is replicable. Allergy-specific features could be developed as niche offering."
+  },
+  {
+    "company_name": "Oracle Health / i.s.h.med (Allergy Module)",
+    "hq_location": "Walldorf, Germany",
+    "website": "https://www.oracle.com/de/health/",
+    "problem_solved": "Provides comprehensive hospital information system with specialized allergy and clinical immunology documentation, supporting inpatient and outpatient allergy diagnostics, immunotherapy tracking, and integration with laboratory systems.",
+    "target_buyers": "University hospitals, large hospital networks, specialized allergy clinics, clinical immunology departments",
+    "key_features": [
+      "Clinical documentation for allergy diagnostics with integration to hospital LIS",
+      "Immunotherapy protocol management for inpatient and outpatient settings",
+      "Integration with SAP-based hospital workflows and German DRG billing"
+    ],
+    "business_model": "Enterprise license + implementation services; annual maintenance; cloud hosting options",
+    "varden_replicability": "Low-Medium - Highly complex enterprise system with deep hospital integrations. However, the allergy documentation workflows and protocol management concepts are replicable for smaller-scale solutions."
+  },
+  {
+    "company_name": "AIDA (Allergie-Dokumentation & Immuntherapie-Administration)",
+    "hq_location": "Berlin, Germany",
+    "website": "https://www.aida-praxissoftware.de/",
+    "problem_solved": "Specialized practice management software with dedicated allergy module for documenting skin tests, managing specific immunotherapy, and tracking treatment outcomes for allergists and dermatologists.",
+    "target_buyers": "Allergist practices, dermatology clinics with allergy focus, pediatric allergists",
+    "key_features": [
+      "Structured allergy anamnesis with standardized questionnaires",
+      "Skin test documentation with digital image capture and measurement",
+      "SIT/SLIT therapy planning with automatic dose scheduling and documentation"
+    ],
+    "business_model": "Perpetual license with annual support fees; cloud hosting optional",
+    "varden_replicability": "High - Focused allergy module with clear workflows. Core functionality (test documentation, therapy tracking) can be developed as modern cloud-native SaaS for new market entrants."
+  },
+  {
+    "company_name": "MediTouch (Allergologie)",
+    "hq_location": "Ulm, Germany",
+    "website": "https://www.meditouch.de/",
+    "problem_solved": "Cloud-based practice management system with allergy-specific features for documenting hypersensitivity reactions, managing immunotherapy schedules, and integrating with German healthcare telematics for e-prescriptions.",
+    "target_buyers": "Allergist practices, ENT practices, dermatology clinics, hospital outpatient departments",
+    "key_features": [
+      "Cloud-native architecture with German data center hosting",
+      "Allergy documentation templates compliant with German allergology society guidelines",
+      "Integration with TI for e-prescriptions and electronic patient records (ePA)"
+    ],
+    "business_model": "SaaS subscription with per-user pricing; includes TI-connectivity and updates",
+    "varden_replicability": "High - Modern cloud architecture makes this highly replicable. The allergy-specific templates and TI-integration can be developed for new SaaS platforms targeting German allergists."
+  },
+  {
+    "company_name": "Allergie-Immun-Netzwerk (AIN) Software",
+    "hq_location": "Zurich, Switzerland",
+    "website": "https://www.allergie-immun-netzwerk.ch/",
+    "problem_solved": "Swiss platform connecting allergists, immunologists, and primary care physicians with specialized documentation tools for allergy diagnostics and shared patient management across the care continuum.",
+    "target_buyers": "Allergist practices, immunology specialists, hospital allergy departments, primary care networks",
+    "key_features": [
+      "Network-based care coordination for complex allergy patients",
+      "Shared documentation standards for allergy testing and immunotherapy",
+      "Integration with Swiss healthcare infrastructure (eHealth Suisse, TARMED billing)"
+    ],
+    "business_model": "SaaS subscription for practices; network participation fees; integration services",
+    "varden_replicability": "Medium-High - The network/coordinated care model is replicable in other regions. The platform technology (shared documentation, referral management) can be adapted for different healthcare systems."
+  }
+]

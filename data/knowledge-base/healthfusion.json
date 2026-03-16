@@ -1,0 +1,14 @@
+{
+  "company": "HealthFusion (MediTouch)",
+  "country": "US",
+  "problem": "Physical therapy and rehab practices need comprehensive practice management tools but often struggle with fragmented systems that don't integrate billing, documentation, and scheduling",
+  "solution": "Cloud-based EHR and practice management system with specialty-specific workflows for physical therapy, featuring integrated billing, compliant documentation templates, and analytics",
+  "problem_type": "rehab",
+  "solution_type": "SaaS",
+  "buyer": "clinics",
+  "varden_fit": "medium",
+  "url": "https://www.healthfusion.com",
+  "source": "web",
+  "discovery_round": 98,
+  "discovered_by": "nova"
+}

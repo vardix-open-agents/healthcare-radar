@@ -1,0 +1,29 @@
+{
+  "id": "halodoc-2026-054",
+  "title": "HaloDoc - Telemedicine and Health Services Platform",
+  "company": "HaloDoc",
+  "country": "Indonesia (EU expansion interest)",
+  "region": "APAC",
+  "segment": "infrastructure",
+  "problem": "Healthcare access is limited in emerging markets. Patients cannot easily consult doctors or access health services.",
+  "solution": "Comprehensive digital health platform offering telemedicine, pharmacy delivery, and health content.",
+  "technology": "Telemedicine platform, pharmacy integration, content",
+  "target_customer": "Direct-to-consumer patients, insurers",
+  "care_setting": "telehealth",
+  "care_domain": "general",
+  "care_stage": "treatment",
+  "automation_level": "partial",
+  "ai_type": null,
+  "traction_signals": [
+    "Indonesian super-app health platform",
+    "Multiple health services",
+    "Significant funding and scale"
+  ],
+  "funding": "Series D+",
+  "regulatory_notes": "Licensed healthcare provider in Indonesia.",
+  "varden_fit": "Low — APAC market, different regulatory environment. Interesting model to study.",
+  "source": "Industry knowledge",
+  "url": "https://www.halodoc.com",
+  "date_added": "2026-03-11",
+  "notes": "APAC super-app health model. Different market but interesting benchmark."
+}

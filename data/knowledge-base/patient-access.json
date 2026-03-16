@@ -1,0 +1,14 @@
+{
+  "company": "Patient Access (EMIS/Optum)",
+  "country": "GB",
+  "problem": "UK patients need a convenient way to book GP appointments, order repeat prescriptions, and access health records online without visiting the practice in person",
+  "solution": "Patient portal and mobile app integrated with NHS login that enables 24/7 online GP appointment booking, prescription ordering, and secure access to medical records for UK patients",
+  "problem_type": "practice_management",
+  "solution_type": "SaaS",
+  "buyer": "clinics",
+  "varden_fit": "low",
+  "url": "https://www.patientaccess.com",
+  "source": "web",
+  "discovery_round": 87,
+  "discovered_by": "nova"
+}

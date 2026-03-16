@@ -1,0 +1,22 @@
+{
+  "company_name": "K Health",
+  "problem_solved": "Primary care access is limited and expensive, with long wait times preventing timely diagnosis and treatment",
+  "solution_description": "AI-powered virtual primary care platform integrated with major health systems. Provides 24/7 access through AI-driven symptom assessment and clinical decision support. Partners with Hartford HealthCare, Hackensack Meridian, Cedars-Sinai for hybrid virtual/in-person care with shared medical records",
+  "buyer_persona": "health_systems",
+  "care_stage": "diagnosis",
+  "automation_level": "full",
+  "varden_fit": "medium",
+  "region": "US",
+  "country": "United States",
+  "funding_stage": "series_d",
+  "traction_signals": [
+    "10M+ medical chats completed",
+    "Partnerships with top US health systems",
+    "AI Physician Mode integrated with EHRs",
+    "Single medical record with health system partners"
+  ],
+  "notes": "AI-first primary care platform. Not specifically SDOH-focused but could integrate SDOH screening. Strong health system partnerships. Medium Varden fit - primary care automation vs. SDOH infrastructure. Advisory board includes leaders from Cedars-Sinai, Mayo Clinic",
+  "discovery_round": 50,
+  "discovered_by": "sky",
+  "timestamp": "2026-03-11T23:20:00Z"
+}

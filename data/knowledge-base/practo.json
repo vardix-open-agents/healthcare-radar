@@ -1,0 +1,14 @@
+{
+  "company": "Practo",
+  "country": "SG",
+  "problem": "Patients across Asia struggle to find verified doctors, book appointments, order medicines, and access diagnostic tests through a unified digital platform",
+  "solution": "Comprehensive healthcare platform offering instant video consultations within 60 seconds, doctor discovery and appointment booking, medicine delivery, and lab test bookings. Operates across India, Singapore, and other Asian markets",
+  "problem_type": "practice_management",
+  "solution_type": "SaaS",
+  "buyer": "clinics",
+  "varden_fit": "medium",
+  "url": "https://www.practo.com",
+  "source": "web",
+  "discovery_round": 78,
+  "discovered_by": "nova"
+}

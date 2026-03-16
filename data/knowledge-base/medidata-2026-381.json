@@ -1,0 +1,22 @@
+{
+  "company_name": "Medidata",
+  "problem_solved": "Complex, fragmented clinical trial operations with manual data capture and slow trial execution",
+  "solution_description": "Unified clinical trial platform including Rave EDC, CTMS, patient recruitment, and analytics. Acquired by Dassault Systemes. Powers ~50% of all clinical trials globally.",
+  "buyer_persona": "pharma_lifesciences,biotech",
+  "care_stage": "clinical_trials",
+  "automation_level": "partial",
+  "varden_fit": "medium",
+  "region": "Global",
+  "country": "US",
+  "funding_stage": "acquired",
+  "traction_signals": [
+    "Acquired by Dassault for $5.8B in 2019",
+    "17,000+ clinical trials on platform",
+    "Dominant EDC market share",
+    "AI-powered trial optimization"
+  ],
+  "notes": "Clinical trial infrastructure leader. Rave is the gold standard for electronic data capture. Competes with Veeva Vault CTMS, Oracle Clinical One.",
+  "discovery_round": 53,
+  "discovered_by": "sky",
+  "timestamp": "2026-03-11T23:18:00Z"
+}

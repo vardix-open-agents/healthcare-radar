@@ -1,0 +1,16 @@
+{
+  "id": "problem-2026-082",
+  "problem": "Perioperative staffing relies on manual phone trees to fill last-minute OR call-outs, canceling 8-12% of scheduled surgeries",
+  "problem_type": "staffing_workforce",
+  "solution_type": "Automated OR staffing platforms, mobile shift replacement, predictive attendance algorithms",
+  "care_stage": "treatment",
+  "automation_type": "workflow_automation",
+  "buyer": "health_system",
+  "care_setting": "surgery",
+  "companies": ["QGenda", "Schedule360", "TigerConnect", "Perceptive MyWorkforce", "API Healthcare"],
+  "signals": ["OR utilization optimization", "Perioperative efficiency programs", "Surgical backlog post-COVID"],
+  "boring_software": true,
+  "contrarian": false,
+  "url": "https://www.aorn.org",
+  "date_added": "2026-03-11"
+}

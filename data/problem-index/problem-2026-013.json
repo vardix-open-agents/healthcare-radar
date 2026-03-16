@@ -1,0 +1,16 @@
+{
+  "id": "problem-2026-013",
+  "problem": "Hospital discharge summaries are incomplete 40% of the time, leading to medication errors and readmissions",
+  "problem_type": "documentation",
+  "solution_type": "Automated discharge checklist generation, EHR templates, transitional care alerts",
+  "care_stage": "discharge",
+  "automation_type": "workflow_automation",
+  "buyer": "hospital",
+  "care_setting": "hospital",
+  "companies": ["Navina", "KeyCare", "Signify Health"],
+  "signals": ["Hospital readmission penalties", "Transitional care payments", "Patient safety focus"],
+  "boring_software": true,
+  "contrarian": false,
+  "url": "https://navina.ai",
+  "date_added": "2026-03-11"
+}

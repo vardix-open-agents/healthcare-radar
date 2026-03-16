@@ -1,0 +1,14 @@
+{
+  "company": "RaySearch Laboratories",
+  "country": "SE",
+  "problem": "Radiation therapy planning is complex and requires sophisticated software that integrates with various treatment machines while enabling clinicians to optimize treatment plans for individual patients.",
+  "solution": "RayStation treatment planning system - a comprehensive software platform for radiation therapy that supports multiple treatment modalities, machine learning-aided planning, and seamless integration with treatment delivery systems from various vendors.",
+  "problem_type": "oncology",
+  "solution_type": "SaaS",
+  "buyer": "clinics",
+  "varden_fit": "medium",
+  "url": "https://www.raysearchlabs.com",
+  "source": "web",
+  "discovery_round": 108,
+  "discovered_by": "nova"
+}

@@ -1,0 +1,14 @@
+{
+  "company": "First Derm",
+  "country": "SE",
+  "problem": "Patients face long wait times to see dermatologists in person and lack quick access to professional skin condition assessments",
+  "solution": "Anonymous online teledermatology platform connecting patients with board-certified dermatologists for skin condition evaluations within hours, starting at $34.95 per consultation",
+  "problem_type": "dermatology",
+  "solution_type": "SaaS",
+  "buyer": "clinics",
+  "varden_fit": "medium",
+  "url": "https://www.firstderm.com",
+  "source": "web",
+  "discovery_round": 106,
+  "discovered_by": "nova"
+}

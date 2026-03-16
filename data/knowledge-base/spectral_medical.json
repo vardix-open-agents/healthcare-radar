@@ -1,0 +1,14 @@
+{
+  "company": "Spectral Medical",
+  "country": "CA",
+  "problem": "Septic shock patients with elevated endotoxin levels have poor outcomes, but identifying endotoxemia and targeting treatment remains challenging",
+  "solution": "EAA endotoxin activity assay and Toraymyxin hemoadsorption therapy for endotoxin removal, enabling personalized sepsis treatment through endotoxin measurement and targeted intervention",
+  "problem_type": "infectious_disease",
+  "solution_type": "SaaS",
+  "buyer": "clinics",
+  "varden_fit": "medium",
+  "url": "https://spectraldx.com",
+  "source": "web",
+  "discovery_round": 119,
+  "discovered_by": "nova"
+}

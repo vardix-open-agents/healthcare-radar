@@ -1,0 +1,14 @@
+{
+  "company": "Migraine Buddy",
+  "country": "SG",
+  "problem": "Migraine patients need easy-to-use tools to track symptoms, triggers, medications, and share comprehensive data with their healthcare providers",
+  "solution": "Mobile migraine tracking app with intuitive interface for recording symptoms, triggers, and medications, with cloud sync and exportable reports for physician consultation",
+  "problem_type": "neurology",
+  "solution_type": "SaaS",
+  "buyer": "clinics",
+  "varden_fit": "medium",
+  "url": "https://www.migrainebuddy.com",
+  "source": "web",
+  "discovery_round": 118,
+  "discovered_by": "sky"
+}

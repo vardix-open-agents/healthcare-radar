@@ -1,0 +1,14 @@
+{
+  "company": "Amwell",
+  "country": "US",
+  "problem": "Healthcare systems need integrated telehealth platforms to extend specialty care access and manage patient demand across service lines",
+  "solution": "Hybrid care platform enabling hospitals and health systems to deliver virtual specialty care, including stroke consultations and specialty telemedicine programs",
+  "problem_type": "specialty_telemedicine",
+  "solution_type": "SaaS",
+  "buyer": "hospitals",
+  "varden_fit": "low",
+  "url": "https://amwell.com",
+  "source": "web",
+  "discovery_round": 100,
+  "discovered_by": "nova"
+}

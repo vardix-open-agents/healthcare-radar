@@ -1,0 +1,14 @@
+{
+  "company": "DarioHealth",
+  "country": "US",
+  "problem": "Managing multiple chronic conditions (diabetes, hypertension, MSK pain, behavioral health) requires fragmented solutions, leading to poor adherence, high costs, and suboptimal outcomes for patients with comorbidities.",
+  "solution": "Integrated digital health platform combining connected devices, personalized coaching, and AI-driven insights for metabolic conditions (diabetes, hypertension, weight), musculoskeletal health, and behavioral health. Single platform approach with consumer-centric design delivering 4.9/5 App Store rating, 80% retention, and 3.4-6x ROI for partners.",
+  "problem_type": "chronic_care",
+  "solution_type": "SaaS",
+  "buyer": "providers",
+  "varden_fit": "medium",
+  "url": "https://www.dariohealth.com",
+  "source": "web",
+  "discovery_round": 89,
+  "discovered_by": "nova"
+}

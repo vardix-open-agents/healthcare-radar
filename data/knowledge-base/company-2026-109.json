@@ -1,0 +1,27 @@
+{
+  "company": "MediJob (Romania)",
+  "country": "Romania",
+  "founded_year": 2016,
+  "category": "Healthcare Marketplace",
+  "subsector": "Doctor Booking Platform",
+  "description": "Romanian healthcare marketplace connecting patients with doctors and clinics. Offers appointment booking, doctor reviews, and healthcare information for Romanian consumers.",
+  "business_model": "B2C - Marketplace model; B2B - Marketing services to healthcare providers",
+  "target_market": "Romanian healthcare consumers and providers",
+  "funding_stage": "Seed",
+  "funding_amount_eur": 500000,
+  "key_investors": "Romanian angels, GapMinder VC",
+  "employees": 30,
+  "customers": "5000+ doctors listed, 200000+ monthly users",
+  "revenue_eur": 600000,
+  "tech_stack": ["Web platform", "Mobile app", "Review system", "Booking engine"],
+  "integration_points": ["Clinic management systems", "Insurance platforms"],
+  "competitive_advantage": "Leading healthcare marketplace in Romania, growing user base",
+  "varden_fit": {
+    "threat_level": "low",
+    "opportunity": "partner",
+    "rationale": "Distribution channel in Romania - could feature occupational health services"
+  },
+  "data_quality": "low",
+  "sources": ["medijob.ro", "linkedin.com"],
+  "last_updated": "2026-03-11"
+}

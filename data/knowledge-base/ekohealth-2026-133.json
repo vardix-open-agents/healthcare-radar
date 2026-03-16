@@ -1,0 +1,30 @@
+{
+  "id": "ekohealth-2026-133",
+  "title": "Eko Health - AI-Powered Digital Stethoscope",
+  "company": "Eko Health",
+  "country": "USA",
+  "region": "NA",
+  "segment": "cardiac_diagnostics",
+  "problem": "Cardiac auscultation skills vary among clinicians, and traditional stethoscopes lack digital capabilities for recording and analysis.",
+  "solution": "AI-powered digital stethoscopes with automated heart sound analysis and FDA-cleared arrhythmia detection.",
+  "technology": "Digital stethoscope hardware, machine learning for heart sound analysis, signal processing",
+  "target_customer": "Clinicians, health systems, telemedicine programs",
+  "care_setting": "primary_care_cardiology_telemedicine",
+  "care_domain": "cardiology",
+  "care_stage": "screening_diagnosis",
+  "automation_level": "full",
+  "ai_type": "ML for heart murmur and arrhythmia detection",
+  "traction_signals": [
+    "500,000+ devices in use",
+    "500+ health system customers",
+    "FDA cleared for arrhythmia detection",
+    "Founded 2013, Berkeley CA"
+  ],
+  "funding": "$60M+ raised",
+  "regulatory_notes": "FDA 510(k) cleared for heart murmur and AFib detection",
+  "varden_fit": "Moderate - Diagnostic tool that democratizes cardiac assessment. Creates referral pathways to cardiology.",
+  "source": "Industry knowledge",
+  "url": "https://ekohealth.com",
+  "date_added": "2026-03-11",
+  "notes": "Strong hardware + software play. Enabling primary care to do better cardiac screening."
+}

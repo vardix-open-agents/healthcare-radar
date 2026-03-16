@@ -1,0 +1,16 @@
+{
+  "id": "problem-2026-026",
+  "problem": "Greek pharmacies cannot access electronic prescriptions from different EHR systems",
+  "problem_type": "coordination",
+  "solution_type": "National e-prescription platform, pharmacy EHR integration, interoperability standards",
+  "care_stage": "treatment",
+  "automation_type": "workflow_automation",
+  "buyer": "health_system",
+  "care_setting": "primary_care",
+  "companies": ["IDIKA", "Pharmacy software vendors", "Greek MoH"],
+  "signals": ["Greek e-prescription rollout", "EU structural funds", "Digital Greece 2025"],
+  "boring_software": true,
+  "contrarian": false,
+  "url": "https://www.idika.gr",
+  "date_added": "2026-03-11"
+}

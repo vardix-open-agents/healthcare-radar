@@ -1,0 +1,16 @@
+{
+  "id": "problem-2026-079",
+  "problem": "Rural hospitals can't afford full-time specialists and rely on irregular telehealth coverage with 24-48 hour wait times",
+  "problem_type": "staffing_workforce",
+  "solution_type": "AI-assisted clinical decision support, hybrid telehealth staffing models, rural specialist networks",
+  "care_stage": "triage_navigation",
+  "automation_type": "decision_support",
+  "buyer": "health_system",
+  "care_setting": "rural",
+  "companies": ["Avel eCare", "TeleHealth Solution", "SOC Telemed", "Access TeleCare", "Specialist Direct"],
+  "signals": ["Rural hospital closures", "CMS telehealth reimbursement parity", "HRSA workforce grants"],
+  "boring_software": false,
+  "contrarian": true,
+  "url": "https://www.ruralhealthinfo.org",
+  "date_added": "2026-03-11"
+}

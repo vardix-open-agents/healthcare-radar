@@ -1,0 +1,22 @@
+{
+  "company_name": "211 (United Way)",
+  "problem_solved": "People in need struggle to find and access available social services in their communities, creating barriers to basic needs like housing, food, and utilities",
+  "solution_description": "Nationwide community resource hotline and database connecting people to local social services. Available 24/7 by dialing 211, provides referrals to food pantries, housing assistance, utility help, employment services, and other community resources. Partners with government agencies, nonprofits, and corporations",
+  "buyer_persona": "patients",
+  "care_stage": "screening",
+  "automation_level": "assistive",
+  "varden_fit": "medium",
+  "region": "US",
+  "country": "United States",
+  "funding_stage": "public",
+  "traction_signals": [
+    "Available in 99% of US population",
+    "Partnerships with Ad Council, IBM, Lyft, SingleCare",
+    "Millions of calls annually",
+    "Integrated into many SDOH platforms"
+  ],
+  "notes": "Foundational SDOH infrastructure. Not a tech platform but critical resource directory. Many SDOH platforms (Findhelp, Unite Us) integrate 211 data. Operated by local United Ways. Essential but not directly monetizable for Varden",
+  "discovery_round": 50,
+  "discovered_by": "sky",
+  "timestamp": "2026-03-11T23:20:00Z"
+}

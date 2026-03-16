@@ -1,0 +1,14 @@
+{
+  "company": "MEDITECH",
+  "country": "US",
+  "problem": "Health systems and hospitals need intelligent EHR solutions that improve physician experience, increase efficiency, and support specialty workflows like orthopedics without adding administrative burden",
+  "solution": "Intelligent EHR platform (MEDITECH Expanse) with AI-infused solutions for predictive analytics, genomics, and specialty-specific workflows supporting orthopedic care delivery",
+  "problem_type": "orthopedics",
+  "solution_type": "SaaS",
+  "buyer": "clinics",
+  "varden_fit": "medium",
+  "url": "https://www.meditech.com",
+  "source": "web",
+  "discovery_round": 109,
+  "discovered_by": "sky"
+}

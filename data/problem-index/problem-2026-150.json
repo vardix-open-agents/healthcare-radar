@@ -1,0 +1,16 @@
+{
+  "id": "problem-2026-150",
+  "problem": "Multi-plan coordination requires determining primary/secondary coverage with 15% error rate causing claim rejections",
+  "problem_type": "multi_plan_coordination",
+  "solution_type": "Automated payer hierarchy, COB determination, primary/secondary routing, plan stacking analysis",
+  "care_stage": "admin",
+  "automation_type": "workflow_automation",
+  "buyer": "health_system",
+  "care_setting": "hospital",
+  "companies": ["Change Healthcare", "Experian Health", "Waystar", "Availity"],
+  "signals": ["15% error rate", "Manual determination required", "Plan stacking complexity", "COB routing needs"],
+  "boring_software": true,
+  "contrarian": false,
+  "url": "https://www.cms.gov/cob",
+  "date_added": "2026-03-11"
+}

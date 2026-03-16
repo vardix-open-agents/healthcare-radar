@@ -1,0 +1,14 @@
+{
+  "company": "GeneDx",
+  "country": "US",
+  "problem": "Patients with rare diseases and undiagnosed genetic conditions faced years-long diagnostic odysseys with multiple inconclusive tests",
+  "solution": "Advanced genetic testing including whole exome and whole genome sequencing to diagnose rare diseases faster and more accurately than traditional testing methods",
+  "problem_type": "genomics",
+  "solution_type": "SaaS",
+  "buyer": "providers",
+  "varden_fit": "low",
+  "url": "https://www.genedx.com",
+  "source": "web",
+  "discovery_round": 133,
+  "discovered_by": "nova"
+}

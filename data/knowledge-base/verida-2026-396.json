@@ -1,0 +1,23 @@
+{
+  "company_name": "Verida",
+  "problem_solved": "State Medicaid and managed care organizations struggle to reliably coordinate non-emergency medical transportation for vulnerable populations while preventing fraud and ensuring quality",
+  "solution_description": "Minority-owned NEMT management company (formerly Southeastrans) providing comprehensive transportation broker services: call center, eligibility verification, claims management, provider credentialing, utilization review, and fraud/waste/abuse mitigation. Proprietary NET Insight GPS tracking technology for real-time vehicle monitoring",
+  "buyer_persona": "payers",
+  "care_stage": "transport",
+  "automation_level": "partial",
+  "varden_fit": "medium",
+  "region": "US",
+  "country": "United States",
+  "funding_stage": "private",
+  "traction_signals": [
+    "3M+ covered lives",
+    "5M+ calls annually",
+    "5M+ trips scheduled annually",
+    "99.9% complaint-free rating",
+    "URAC accredited since 2011"
+  ],
+  "notes": "Rebranded from Southeastrans. Strong regional presence in AR, GA, IN, LA, TN, DC. Proprietary mobile technology for providers. Medium Varden fit - payer-focused NEMT broker.",
+  "discovery_round": 52,
+  "discovered_by": "sky",
+  "timestamp": "2026-03-11T23:20:00Z"
+}

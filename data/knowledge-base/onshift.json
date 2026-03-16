@@ -1,0 +1,14 @@
+{
+  "company": "OnShift",
+  "country": "US",
+  "problem": "Senior care facilities struggle with high staff turnover, complex scheduling, and difficulty hiring in a competitive labor market, impacting care quality and operational costs.",
+  "solution": "Purpose-built workforce management platform for senior care including talent acquisition, scheduling, payroll & HRIS integrations, engagement & retention tools, and compliance reporting.",
+  "problem_type": "healthcare_staffing",
+  "solution_type": "SaaS",
+  "buyer": "health_system",
+  "varden_fit": "low",
+  "url": "https://www.onshift.com/",
+  "source": "web",
+  "discovery_round": 127,
+  "discovered_by": "sky"
+}

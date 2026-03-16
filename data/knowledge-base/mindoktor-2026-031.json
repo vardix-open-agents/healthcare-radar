@@ -1,0 +1,28 @@
+{
+  "id": "mindoctor-2026-031",
+  "title": "MinDoktor - AI Symptom Checker for Swedish Market",
+  "company": "MinDoktor",
+  "country": "Sweden",
+  "region": "Nordics",
+  "segment": "triage",
+  "problem": "Swedish patients lack localized digital triage tools. Existing solutions are not adapted to Swedish healthcare pathways.",
+  "solution": "Swedish-language AI symptom checker guiding patients to appropriate care based on local healthcare system structure.",
+  "technology": "AI reasoning, Swedish NLP, healthcare pathway logic",
+  "target_customer": "Healthcare regions, insurers, direct-to-consumer",
+  "care_setting": "primary_care",
+  "care_domain": "general",
+  "care_stage": "triage",
+  "automation_level": "full",
+  "ai_type": "NLP, reasoning engine",
+  "traction_signals": [
+    "Swedish-market focused symptom checker",
+    "Integration with Swedish healthcare pathways"
+  ],
+  "funding": null,
+  "regulatory_notes": "Medical device classification likely required.",
+  "varden_fit": "High — Swedish-specific triage could integrate directly with Varden's booking system to route patients appropriately.",
+  "source": "Swedish health tech ecosystem",
+  "url": "https://www.mindoktor.se",
+  "date_added": "2026-03-11",
+  "notes": "Swedish localization is key differentiator vs global players like Ada."
+}

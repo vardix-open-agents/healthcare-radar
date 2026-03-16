@@ -1,0 +1,33 @@
+{
+  "id": "nextgenhealthcare-2026-081",
+  "title": "NextGen Healthcare - Intelligent EHR with Closed Loop RCM",
+  "company": "NextGen Healthcare",
+  "country": "US",
+  "region": "US",
+  "segment": "admin",
+  "problem": "Specialty practices need EHR tailored to their workflows with integrated RCM, patient engagement, and care coordination.",
+  "solution": "Cloud EHR and PM for specialty practices. NextGen Ambient Assist for voice-to-SOAP notes. Intelligent Agent for AI-powered task orchestration. Closed Loop patient and practice experience from access to billing.",
+  "technology": "Ambient listening, AI agents, voice commands, EHR/PM platform",
+  "target_customer": "Specialty practices, mid-size to enterprise",
+  "care_setting": "specialist",
+  "care_domain": "general",
+  "care_stage": "admin",
+  "automation_level": "partial",
+  "ai_type": "Ambient AI, intelligent agents, voice AI",
+  "traction_signals": [
+    "26 specialty clinical templates",
+    "Intelligent Agent for hands-free EHR interaction",
+    "Closed Loop patient experience model",
+    "Integrated RCM and patient engagement"
+  ],
+  "funding": "Public company (NXGN)",
+  "regulatory_notes": "HIPAA compliant, AWS-hosted",
+  "varden_fit": "HIGH — NextGen's Closed Loop model and AI agents show the future of practice software. European specialists need similar tools.",
+  "source": "Web research",
+  "url": "https://www.nextgen.com",
+  "date_added": "2026-03-11",
+  "problem_type": "claims",
+  "contrarian": true,
+  "boring_software": true,
+  "notes": "CONTRARIAN: Specialty EHR with integrated RCM is essential infrastructure. The Intelligent Agent concept is transformative."
+}

@@ -1,0 +1,29 @@
+{
+  "id": "walr-2026-044",
+  "title": "Walr - Dermatology AI Diagnostics",
+  "company": "Walr",
+  "country": "Sweden",
+  "region": "Nordics",
+  "segment": "diagnostics",
+  "problem": "Skin condition diagnosis requires specialist dermatologist expertise, leading to long wait times and delayed treatment.",
+  "solution": "AI-powered skin analysis tool helping GPs and patients identify potential skin conditions from smartphone photos.",
+  "technology": "Computer vision, deep learning, image analysis",
+  "target_customer": "Primary care, patients, dermatology clinics",
+  "care_setting": "primary_care",
+  "care_domain": "dermatology",
+  "care_stage": "diagnosis",
+  "automation_level": "assistive",
+  "ai_type": "Computer vision",
+  "traction_signals": [
+    "Swedish dermatology AI startup",
+    "Skin image analysis",
+    "GP support tool"
+  ],
+  "funding": null,
+  "regulatory_notes": "Medical device classification for diagnostic claims.",
+  "varden_fit": "Moderate-High — dermatology AI could integrate with Varden's specialist referral workflow.",
+  "source": "Swedish health tech ecosystem",
+  "url": "https://www.walr.se",
+  "date_added": "2026-03-11",
+  "notes": "Dermatology AI. Similar to SkinVision but Swedish-focused."
+}

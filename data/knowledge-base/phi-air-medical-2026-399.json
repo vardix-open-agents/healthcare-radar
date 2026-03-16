@@ -1,0 +1,22 @@
+{
+  "company_name": "PHI Air Medical",
+  "problem_solved": "Rural and remote communities lack rapid access to critical care transport for time-sensitive medical emergencies and trauma cases",
+  "solution_description": "Air medical transport provider (part of PHI Group) operating helicopter air ambulance services across multiple US states. Specialized critical care transport with experienced flight crews including nurses and paramedics. Inter-facility and scene call capabilities",
+  "buyer_persona": "health_systems",
+  "care_stage": "transport",
+  "automation_level": "assistive",
+  "varden_fit": "medium",
+  "region": "US",
+  "country": "United States",
+  "funding_stage": "private",
+  "traction_signals": [
+    "Part of PHI aviation group",
+    "Multiple US state operations",
+    "Critical care flight crew specialization",
+    "Scene and inter-facility transport"
+  ],
+  "notes": "Major US air ambulance operator alongside Air Methods. Infrastructure service rather than software. Medium Varden fit - transport logistics provider.",
+  "discovery_round": 52,
+  "discovered_by": "sky",
+  "timestamp": "2026-03-11T23:20:00Z"
+}

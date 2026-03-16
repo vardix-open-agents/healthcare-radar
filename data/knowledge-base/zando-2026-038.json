@@ -1,0 +1,29 @@
+{
+  "id": "zando-2026-038",
+  "title": "Zando Health - Digital Prescription Platform",
+  "company": "Zando Health",
+  "country": "Germany",
+  "region": "EU",
+  "segment": "treatment",
+  "problem": "Access to prescription medications is fragmented. Patients need to visit doctors for repeat prescriptions.",
+  "solution": "Digital health platform enabling online consultations and prescriptions for common conditions, with medication delivery.",
+  "technology": "Telemedicine platform, prescription processing, pharmacy network",
+  "target_customer": "Direct-to-consumer patients",
+  "care_setting": "telehealth",
+  "care_domain": "general",
+  "care_stage": "treatment",
+  "automation_level": "partial",
+  "ai_type": null,
+  "traction_signals": [
+    "German digital health startup",
+    "Online prescription service",
+    "German pharmacy network"
+  ],
+  "funding": null,
+  "regulatory_notes": "German telemedicine regulations, pharmacy partnerships.",
+  "varden_fit": "Moderate — D2C prescription platform. Different model from B2B marketplace but prescription workflow relevant.",
+  "source": "Industry knowledge",
+  "url": "https://www.zando.health",
+  "date_added": "2026-03-11",
+  "notes": "German online prescription model. Regulatory context differs from Sweden."
+}

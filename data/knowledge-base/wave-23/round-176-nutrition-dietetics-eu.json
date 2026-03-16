@@ -1,0 +1,154 @@
+[
+  {
+    "company_name": "Nutrium",
+    "hq_location": "Braga, Portugal",
+    "website_url": "https://nutrium.com",
+    "problem_solved": "Dietitians and nutritionists struggle with manual meal planning, client management, appointment scheduling, and tracking patient progress. Time-consuming administrative tasks reduce time available for patient care.",
+    "who_buys_it": "Private practice dietitians, clinical nutritionists, hospitals with nutrition departments, wellness centers, and sports nutrition professionals across Europe.",
+    "key_features": [
+      "Automated nutritional analysis with macro and micronutrient breakdowns",
+      "Personalized meal planning with extensive food database",
+      "Client management with GDPR and HIPAA compliance",
+      "Mobile app for patients to track food intake and communicate",
+      "Automated appointment scheduling and reminders",
+      "Progress tracking with visual reports and charts",
+      "Telehealth integration (Zoom, Google Meet)",
+      "Invoice and payment management"
+    ],
+    "business_model": "SaaS subscription model with tiered pricing (€15-39/month). Free 14-day trial. Academic partnerships provide free access for nutrition students and faculty.",
+    "why_varden_should_care": "Leading European B2B SaaS in clinical nutrition space with strong traction among private practitioners. Positioned for growth as digital health adoption accelerates post-COVID. GDPR-native platform gives competitive advantage in European market. Potential for expansion into hospital/clinical settings."
+  },
+  {
+    "company_name": "Nutritics",
+    "hq_location": "Dublin, Ireland",
+    "website_url": "https://www.nutritics.com",
+    "problem_solved": "Hospitals and healthcare facilities struggle with accurate nutritional tracking for patients, meal planning for therapeutic diets, allergen management, and regulatory compliance. Manual processes lead to errors and inefficiencies.",
+    "who_buys_it": "NHS trusts, private hospitals, nursing homes, clinical dietitians, healthcare catering services, and food service operators in healthcare settings.",
+    "key_features": [
+      "Database of over 1 million foods with 258 nutrient indicators",
+      "Digital meal ordering system for patients",
+      "Real-time supplier integrations for ingredient data",
+      "Automated nutritional and allergen calculations",
+      "Carbon footprint tracking per dish",
+      "Recipe and menu management for therapeutic diets",
+      "Patient self-service ordering via tablet/desktop",
+      "Compliance reporting for audits and dietary reviews"
+    ],
+    "business_model": "Enterprise SaaS with per-site licensing. Pricing varies based on modules selected (food data, ordering system, sustainability tracking). Used by NHS trusts including Barts Health and Lewisham Hospital.",
+    "why_varden_should_care": "Established player in UK healthcare market with NHS references. Addresses critical pain points around patient safety (allergen management) and operational efficiency. ESG angle with carbon footprint tracking aligns with healthcare sustainability mandates."
+  },
+  {
+    "company_name": "CalcMenu (EGS CALCMENU)",
+    "hq_location": "Küsnacht, Switzerland",
+    "website_url": "https://www.calcmenu.com",
+    "problem_solved": "Hospital food service operations face complex menu planning challenges including therapeutic diet requirements, allergen management, nutritional compliance, cost control, and multi-site coordination. Manual systems are error-prone and time-intensive.",
+    "who_buys_it": "Hospitals, healthcare systems, nursing homes, rehabilitation centers, and healthcare catering companies across Europe.",
+    "key_features": [
+      "Centralized recipe management system",
+      "Automated nutritional analysis and labeling",
+      "Therapeutic diet customization (diabetic, renal, cardiac, low-sodium)",
+      "Allergen screening and filtering",
+      "Inventory integration and automated reordering",
+      "Multi-site menu synchronization",
+      "Food label printing with nutritional traffic light system",
+      "Real-time production scheduling and scaling"
+    ],
+    "business_model": "Enterprise SaaS with licensing based on number of facilities and users. Implementation and training services available.",
+    "why_varden_should_care": "Mature Swiss-based solution with established hospital references. Strong fit for Varden's healthcare vertical focus. Addresses operational efficiency and patient safety simultaneously. Potential for pan-European expansion given Swiss reputation for quality in healthcare."
+  },
+  {
+    "company_name": "LogMeal",
+    "hq_location": "Barcelona, Spain",
+    "website_url": "https://logmeal.com",
+    "problem_solved": "Hospitals lack accurate visibility into what patients actually eat versus what is served. Traditional food diaries are unreliable, time-consuming, and suffer from recall bias. This compromises nutritional assessment and intervention effectiveness.",
+    "who_buys_it": "Hospitals, clinical nutrition departments, rehabilitation centers, and outpatient nutrition clinics seeking objective dietary monitoring.",
+    "key_features": [
+      "AI-powered food recognition via computer vision",
+      "Before/after tray scanning for inpatient intake measurement",
+      "Mobile app for outpatient food logging",
+      "39 micro and macronutrient indicators per meal",
+      "Automatic nutritional calculation using EU/US databases",
+      "Real-time patient monitoring dashboard",
+      "Food waste tracking and analysis",
+      "GDPR-compliant data storage in EU"
+    ],
+    "business_model": "SaaS subscription with usage-based pricing. Per active patient/month with image processing limits. Free tier available for small practices.",
+    "why_varden_should_care": "Innovative AI/ML application in clinical nutrition with unique technology differentiation. Solves real measurement problem in hospital nutrition care. Barcelona-based with EU data compliance. Strong potential for clinical validation studies and hospital partnerships."
+  },
+  {
+    "company_name": "NutriAdmin",
+    "hq_location": "London, United Kingdom",
+    "website_url": "https://nutriadmin.com",
+    "problem_solved": "Nutritionists, dietitians, and wellness professionals struggle with fragmented tools for client management, meal planning, documentation, and business operations. Multiple disconnected systems create inefficiency and data silos.",
+    "who_buys_it": "Private practice nutritionists, registered dietitians, health coaches, personal trainers, and functional medicine practitioners.",
+    "key_features": [
+      "All-in-one practice management platform",
+      "Automated meal plan generation (60 seconds)",
+      "Client questionnaires and intake forms",
+      "HIPAA-compliant telehealth video calls",
+      "Recipe database with local ingredient support",
+      "Client portal for document access",
+      "Website integration for bookings and payments",
+      "Progress tracking and reporting"
+    ],
+    "business_model": "SaaS subscription at $34.99/month (basic) with 14-day free trial. Over 23,900 registered users globally.",
+    "why_varden_should_care": "Bootstrapped growth to significant user base demonstrates product-market fit. UK-based with global reach. Platform approach (all-in-one) increases switching costs and customer lifetime value. Well-positioned for consolidation play in fragmented practice management market."
+  },
+  {
+    "company_name": "Nutricia (Danone)",
+    "hq_location": "Amsterdam, Netherlands",
+    "website_url": "https://www.nutricia.com",
+    "problem_solved": "Patients with specific medical conditions (cancer, rare diseases, ICU patients, elderly with malnutrition) require specialized medical nutrition that standard food cannot provide. Healthcare providers need clinically validated nutritional solutions integrated with care pathways.",
+    "who_buys_it": "Hospitals, ICUs, oncology centers, pediatric departments, nursing homes, home care providers, and specialist clinicians across Europe.",
+    "key_features": [
+      "Specialized medical nutrition products for disease states",
+      "Enteral and parenteral nutrition solutions",
+      "Nutritional screening and assessment tools",
+      "Educational programs for healthcare professionals",
+      "Clinical evidence and research partnerships",
+      "Disease-specific formulations (oncology, rare diseases, pediatrics)",
+      "Home nutrition support programs",
+      "Digital patient monitoring tools"
+    ],
+    "business_model": "B2B medical nutrition products sold to healthcare institutions. Part of Danone's specialized nutrition division. Products reimbursed through healthcare systems in most EU countries.",
+    "why_varden_should_care": "Market leader in European medical nutrition with decades of clinical evidence. Strong relationships with healthcare systems and reimbursement pathways. Digital health initiatives (patient monitoring, educational platforms) represent modernization opportunity. Potential carve-out or partnership target given Danone's portfolio optimization."
+  },
+  {
+    "company_name": "Fresenius Kabi",
+    "hq_location": "Bad Homburg, Germany",
+    "website_url": "https://www.fresenius-kabi.com",
+    "problem_solved": "Critically ill patients and those unable to eat normally require parenteral (IV) and enteral (tube feeding) nutrition. Healthcare providers need reliable, high-quality clinical nutrition products with comprehensive support for complex patient needs.",
+    "who_buys_it": "Hospitals, intensive care units, surgical centers, home care providers, and long-term care facilities across Europe.",
+    "key_features": [
+      "Comprehensive parenteral nutrition portfolio",
+      "Enteral nutrition products (Fresubin brand)",
+      "Disease-specific nutritional formulations",
+      "Ready-to-use multi-chamber bags",
+      "Nutritional support devices and pumps",
+      "Clinical education and training programs",
+      "Home nutrition care services",
+      "Digital prescribing and monitoring tools"
+    ],
+    "business_model": "B2B medical device and pharmaceutical products. Global presence with strong European market share. Part of Fresenius Group (publicly traded).",
+    "why_varden_should_care": "Global leader in clinical nutrition with unmatched product portfolio and market presence. Part of large public conglomerate but potential for strategic partnerships or digital health collaboration. German quality reputation and extensive European hospital relationships."
+  },
+  {
+    "company_name": "Nestlé Health Science",
+    "hq_location": "Vevey, Switzerland",
+    "website_url": "https://www.nestlehealthscience.com",
+    "problem_solved": "Patients with chronic conditions, aging populations, and those requiring nutritional intervention need science-based nutritional solutions. Healthcare providers require clinically validated products and tools to integrate nutrition into treatment protocols.",
+    "who_buys_it": "Hospitals, healthcare systems, pharmacies, home care providers, and consumers seeking therapeutic nutrition across Europe.",
+    "key_features": [
+      "Medical nutrition products for specific conditions",
+      "Consumer health and wellness nutrition portfolio",
+      "Active lifestyle and sports nutrition",
+      "Clinical evidence and research programs",
+      "Healthcare professional education platforms",
+      "Digital health tools and apps",
+      "Nutritional screening solutions",
+      "Personalized nutrition initiatives"
+    ],
+    "business_model": "B2B and B2C model. Medical nutrition sold to healthcare institutions; consumer products through retail and e-commerce. Part of Nestlé with significant R&D investment.",
+    "why_varden_should_care": "Largest nutrition company globally with serious commitment to health science. Strong pipeline in personalized nutrition and digital health. Swiss-based with European HQ advantage. Potential partnership or spin-out opportunity as Nestlé continues portfolio transformation."
+  }
+]

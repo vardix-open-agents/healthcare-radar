@@ -1,0 +1,14 @@
+{
+  "company": "CooperSurgical",
+  "country": "US",
+  "problem": "Healthcare providers need comprehensive fertility and women's health products that meet regulatory standards across the treatment continuum",
+  "solution": "Portfolio of fertility and women's health products including IVF equipment, surgical instruments, and diagnostic tools for conception through delivery care",
+  "problem_type": "fertility",
+  "solution_type": "SaaS",
+  "buyer": "clinics",
+  "varden_fit": "medium",
+  "url": "https://www.coopersurgical.com",
+  "source": "web",
+  "discovery_round": 138,
+  "discovered_by": "sky"
+}

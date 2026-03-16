@@ -1,0 +1,27 @@
+{
+  "company": "Receta Electronica (Italy)",
+  "country": "Italy",
+  "founded_year": 2016,
+  "category": "Pharmacy Tech",
+  "subsector": "E-prescription Infrastructure",
+  "description": "Italian startup providing e-prescription and digital health services connecting doctors, pharmacies, and patients. Supports Italian national e-prescription system implementation.",
+  "business_model": "B2B - Platform services to healthcare providers and pharmacies",
+  "target_market": "Italian healthcare providers and pharmacies",
+  "funding_stage": "Seed",
+  "funding_amount_eur": 1500000,
+  "key_investors": "Italian VCs, angels",
+  "employees": 25,
+  "customers": "500+ pharmacies, 1000+ doctors",
+  "revenue_eur": 2000000,
+  "tech_stack": ["E-prescription platform", "Doctor app", "Pharmacy integration"],
+  "integration_points": ["Italian SSN e-prescription system", "Pharmacy POS systems"],
+  "competitive_advantage": "Italian e-prescription expertise, regulatory knowledge",
+  "varden_fit": {
+    "threat_level": "low",
+    "opportunity": "partner",
+    "rationale": "E-prescription infrastructure in Italy - potential integration partner"
+  },
+  "data_quality": "low",
+  "sources": ["linkedin.com", "startup databases"],
+  "last_updated": "2026-03-11"
+}

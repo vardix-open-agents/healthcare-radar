@@ -1,0 +1,27 @@
+{
+  "company": "Wellhub (formerly Gympass)",
+  "country": "Brazil / Global",
+  "founded_year": 2012,
+  "category": "Corporate Wellness",
+  "subsector": "Employee Fitness & Wellness Marketplace",
+  "description": "Global corporate wellness platform giving employees access to gyms, studios, personal trainers, and wellness apps. 90,000+ partner locations worldwide. Rebranded from Gympass to Wellhub in 2023.",
+  "business_model": "B2B2C - Companies pay platform fee, employees pay subsidized subscription",
+  "target_market": "Mid-to-large enterprises globally, strong presence in Latin America, US, and Europe",
+  "funding_stage": "Series G",
+  "funding_amount_usd": 600000000,
+  "key_investors": "General Atlantic, Softbank, Moore Strategic Ventures, Valor Capital",
+  "employees": 2000,
+  "customers": "15000+ corporate clients",
+  "revenue_usd": 500000000,
+  "tech_stack": ["Mobile app", "Web platform", "Check-in system", "Partner management"],
+  "integration_points": ["HRIS systems", "Benefits platforms", "Wearables (Strava, etc.)"],
+  "competitive_advantage": "Largest gym network globally, proven ROI (35% healthcare cost reduction), strong engagement rates",
+  "varden_fit": {
+    "threat_level": "low",
+    "opportunity": "partner",
+    "rationale": "Complementary to Varden's occupational health - could bundle physical + medical wellness"
+  },
+  "data_quality": "high",
+  "sources": ["wellhub.com", "crunchbase.com"],
+  "last_updated": "2026-03-11"
+}

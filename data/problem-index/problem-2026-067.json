@@ -1,0 +1,16 @@
+{
+  "id": "problem-2026-067",
+  "problem": "Saudi Arabian MOH facilities lack real-time bed availability data, causing ambulance diversions and ER boarding",
+  "problem_type": "staffing_workforce",
+  "solution_type": "Hospital capacity management systems, real-time location tracking, predictive discharge planning",
+  "care_stage": "triage_navigation",
+  "automation_type": "workflow_automation",
+  "buyer": "health_system",
+  "care_setting": "hospital",
+  "companies": ["Elm Company", "Naseej", "Saudi German Hospital IT", "Al-Rashed Healthcare"],
+  "signals": ["Vision 2030 health sector reform", "Seha Virtual Hospital expansion", "Riyadh health cluster development"],
+  "boring_software": false,
+  "contrarian": false,
+  "url": "https://www.moh.gov.sa",
+  "date_added": "2026-03-11"
+}

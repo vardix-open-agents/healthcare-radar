@@ -1,0 +1,114 @@
+[
+  {
+    "company_name": "XVIVO Perfusion AB",
+    "hq_location": "Gothenburg, Sweden",
+    "website": "https://www.xvivogroup.com",
+    "problem_solved": "Extends preservation time and viability of donor organs outside the body through ex-vivo machine perfusion, addressing the critical shortage of transplantable organs by enabling assessment and treatment of marginal organs that would otherwise be discarded.",
+    "customers": "Transplant centers, organ procurement organizations (OPOs), hospitals with transplant programs",
+    "key_features": [
+      "Kidney Assist Transport™ - portable hypothermic pulsatile perfusion device for donor kidneys with oxygenated solution for up to 24 hours",
+      "Liver Assist™ - versatile perfusion platform supporting hypothermic (HOPE/DHOPE), normothermic, and sub-normothermic protocols",
+      "XPS™ - comprehensive ex-vivo lung perfusion (EVLP) platform with real-time monitoring and assessment capabilities"
+    ],
+    "business_model": "Medical device sales (capital equipment) + recurring revenue from disposables/perfusion solutions + service contracts",
+    "why_varden_care": "Market leader in organ perfusion technology with proven clinical outcomes. Their modular approach (different devices for different organs) provides a clear playbook for building specialized organ-specific preservation solutions. High recurring revenue from consumables creates sticky customer relationships."
+  },
+  {
+    "company_name": "OrganOx Ltd",
+    "hq_location": "Oxford, United Kingdom",
+    "website": "https://www.organox.com",
+    "problem_solved": "Transforms liver transplantation by keeping donor livers functioning at body temperature outside the body for up to 24 hours, enabling real-time assessment of organ viability and potentially doubling the number of usable donor livers.",
+    "customers": "Transplant centers, liver transplant programs, organ procurement organizations",
+    "key_features": [
+      "metra® - normothermic machine perfusion device that maintains donor livers at physiological temperature with continuous blood flow",
+      "Real-time liver function assessment through bile production, glucose metabolism, and lactate clearance monitoring",
+      "Extended preservation window (up to 24 hours) vs. traditional cold storage (12-15 hours), enabling better logistics and matching"
+    ],
+    "business_model": "Medical device capital equipment sales + per-procedure disposable consumables",
+    "why_varden_care": "Pioneering normothermic preservation approach that's now the gold standard for liver. Their focus on real-time viability assessment (not just preservation) represents a different angle on the market. Strong IP position and clinical evidence creates defensible moat."
+  },
+  {
+    "company_name": "Bridge to Life Ltd",
+    "hq_location": "London, United Kingdom",
+    "website": "https://www.bridgetolife.com",
+    "problem_solved": "Advances organ preservation standards through hypothermic oxygenated perfusion (HOPE) technology, enabling safer transplantation of marginal organs while reducing post-transplant complications.",
+    "customers": "Organ procurement organizations, transplant centers, hospitals performing liver and kidney transplants",
+    "key_features": [
+      "VitaSmart™ System - simple and effective hypothermic oxygenated perfusion (HOPE) system for liver and kidney preservation",
+      "Belzer UW® Solutions - gold standard preservation solutions trusted by 90%+ of transplant clinics worldwide",
+      "Clinical resource library with peer-reviewed publications and best practices for HOPE implementation"
+    ],
+    "business_model": "Medical device sales + preservation solution consumables (high-margin recurring revenue)",
+    "why_varden_care": "Demonstrates the 'razor-blade' model in transplant - selling equipment while generating recurring revenue from preservation solutions. Their acquisition of Belzer UW® shows consolidation strategy in this space. Simpler technology than normothermic systems may have faster adoption curves."
+  },
+  {
+    "company_name": "Macopharma",
+    "hq_location": "Tourcoing, France",
+    "website": "https://www.macopharma.com",
+    "problem_solved": "Provides comprehensive blood processing solutions that support transfusion medicine and organ transplantation by ensuring safe, high-quality blood components for donors and patients.",
+    "customers": "Blood banks, transfusion centers, hospitals, organ transplant programs",
+    "key_features": [
+      "Complete blood processing ecosystem combining disposables, equipment, and software for blood component preparation",
+      "Whole blood processing solutions with quality control and pathogen reduction capabilities",
+      "Integrated software for blood bank management and traceability"
+    ],
+    "business_model": "B2B sales of blood processing equipment + high-frequency disposable consumables + software licensing",
+    "why_varden_care": "Adjacent to transplant market through blood/transfusion services - demonstrates the integrated equipment + consumables + software model. Their 45-year history shows long-term market staying power. Acquisition of Lmb Technologie (Germany) shows consolidation opportunities in this space."
+  },
+  {
+    "company_name": "Getinge AB",
+    "hq_location": "Gothenburg, Sweden",
+    "website": "https://www.getinge.com",
+    "problem_solved": "Provides critical life support and perfusion equipment essential for complex transplant surgeries, enabling cardiac and vascular procedures that require cardiopulmonary bypass.",
+    "customers": "Hospitals, transplant centers, cardiac surgery departments",
+    "key_features": [
+      "Cardiohelp II - portable extracorporeal life support system for emergency and transport situations",
+      "Comprehensive cardiopulmonary bypass systems for transplant and cardiac surgery",
+      "Integrated surgical workflow solutions including operating tables and sterilization equipment"
+    ],
+    "business_model": "Medical device capital equipment + service contracts + disposables",
+    "why_varden_care": "Diversified medtech player with strong transplant surgery infrastructure. Their life support systems are critical for heart/lung transplants. Demonstrates the broader ecosystem around transplantation beyond just organ preservation. Strong European footprint."
+  },
+  {
+    "company_name": "NHS Blood and Transplant - ODT Clinical",
+    "hq_location": "Bristol, United Kingdom",
+    "website": "https://www.odt.nhs.uk",
+    "problem_solved": "Coordinates the UK's organ donation and transplantation system through integrated software platforms that manage donor identification, organ allocation, and transplant waiting lists across all UK transplant centers.",
+    "customers": "NHS hospitals, transplant centers, organ procurement organizations, intensive care units",
+    "key_features": [
+      "Integrated organ allocation system matching donors with recipients based on clinical urgency and compatibility",
+      "Real-time transplant waiting list management and donor-recipient matching algorithms",
+      "Clinical decision support tools for transplant coordinators and surgical teams"
+    ],
+    "business_model": "Government-funded healthcare IT platform (not commercial - operated by NHSBT)",
+    "why_varden_care": "Reference implementation for national organ allocation systems. Their software architecture and workflows could be replicated for other countries building similar infrastructure. While not a commercial model, demonstrates the complexity and criticality of transplant coordination software."
+  },
+  {
+    "company_name": "LivaNova PLC",
+    "hq_location": "London, United Kingdom",
+    "website": "https://www.livanova.com",
+    "problem_solved": "Provides essential medical devices for cardiac surgery and neurological conditions, including heart-lung machines and life support systems critical for heart and lung transplant procedures.",
+    "customers": "Hospitals, cardiac surgery centers, transplant programs, neurology departments",
+    "key_features": [
+      "Heart-lung machines and perfusion systems for cardiac transplantation and complex cardiac surgery",
+      "Extracorporeal membrane oxygenation (ECMO) systems for critically ill patients awaiting transplantation",
+      "Neuromodulation devices for epilepsy and depression - shows diversified specialty medtech approach"
+    ],
+    "business_model": "Medical device manufacturing and sales + service contracts + disposables",
+    "why_varden_care": "Major player in cardiac surgery infrastructure with direct relevance to heart/lung transplantation. Their ECMO systems are essential bridge-to-transplant technology. Demonstrates the adjacent medical device ecosystem that supports transplantation."
+  },
+  {
+    "company_name": "MatchingDonors.com",
+    "hq_location": "Canton, Massachusetts, USA (operates globally including Europe)",
+    "website": "https://www.matchingdonors.com",
+    "problem_solved": "Accelerates kidney and organ transplantation by directly connecting patients needing transplants with living altruistic donors through an online platform, dramatically reducing wait times from years to months.",
+    "customers": "Patients needing kidney/organ transplants, living altruistic donors, transplant centers",
+    "key_features": [
+      "Online platform connecting transplant patients directly with potential living donors",
+      "Patient profile creation and donor matching system bypassing traditional waiting lists",
+      "Average transplant time of 6 months or less vs. 7-9 years on government waiting lists"
+    ],
+    "business_model": "Non-profit 501(c)(3) organization - donation-based funding model",
+    "why_varden_care": "Demonstrates the power of platform/network effects in transplant matching. While US-based, their model could be replicated in Europe. Shows how technology can disrupt traditional organ allocation systems. The marketplace/matching platform approach has replicability potential for other regions."
+  }
+]

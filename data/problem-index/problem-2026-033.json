@@ -1,0 +1,16 @@
+{
+  "id": "problem-2026-033",
+  "problem": "Philippines hospital billing is manual and error-prone, causing 30-day payment delays",
+  "problem_type": "billing",
+  "solution_type": "Automated charge capture, claims scrubbing, PhilHealth integration",
+  "care_stage": "admin",
+  "automation_type": "workflow_automation",
+  "buyer": "hospital",
+  "care_setting": "hospital",
+  "companies": ["Medserv", "Hospital IT vendors", "Local RCM companies"],
+  "signals": ["PhilHealth modernization", "Hospital cash flow issues", "Healthcare IT investment"],
+  "boring_software": true,
+  "contrarian": false,
+  "url": "https://www.philhealth.gov.ph",
+  "date_added": "2026-03-11"
+}

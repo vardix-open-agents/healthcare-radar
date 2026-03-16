@@ -1,0 +1,14 @@
+{
+  "company": "N1-Headache",
+  "country": "US",
+  "problem": "Migraine patients and their neurologists struggle to identify individual migraine triggers and track treatment effectiveness over time",
+  "solution": "Digital platform connecting patients to clinicians via mobile app and web dashboard to monitor headache outcomes, measure therapeutic response, and scientifically discover personal migraine risk factors",
+  "problem_type": "neurology",
+  "solution_type": "SaaS",
+  "buyer": "clinics",
+  "varden_fit": "medium",
+  "url": "https://www.n1-headache.com",
+  "source": "web",
+  "discovery_round": 118,
+  "discovered_by": "sky"
+}

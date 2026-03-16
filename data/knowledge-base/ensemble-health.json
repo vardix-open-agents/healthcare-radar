@@ -1,0 +1,14 @@
+{
+  "company": "Ensemble Health",
+  "country": "US",
+  "problem": "Senior, post-acute, and home-based populations often receive fragmented care with poor coordination between providers, leading to poor outcomes, unnecessary hospitalizations, and inefficient resource utilization",
+  "solution": "Clinically Integrated Networks platform designed specifically for senior, post-acute, and home-based populations, providing coordinated care networks that meet unique patient needs while aligning incentives for providers, payers, and partners",
+  "problem_type": "care_coordination",
+  "solution_type": "SaaS",
+  "buyer": "providers",
+  "varden_fit": "high",
+  "url": "https://www.ensemblehealth.com",
+  "source": "web",
+  "discovery_round": 81,
+  "discovered_by": "sky"
+}

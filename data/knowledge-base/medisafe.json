@@ -1,0 +1,14 @@
+{
+  "company": "Medisafe",
+  "country": "IL",
+  "problem": "Patients struggle with medication adherence, leading to poor health outcomes, increased hospitalizations, and billions in avoidable healthcare costs. Complex medication regimens, especially for chronic conditions, are difficult to manage without proper support.",
+  "solution": "Digital medication management platform with smart reminders, personalized engagement, and multichannel communication. Provides dynamic personalization at critical moments, behavior-based interventions, and seamless integration with treatment journeys. Includes caregiver support, data synchronization, and real-time transparency into patient medication behaviors.",
+  "problem_type": "medication_management",
+  "solution_type": "SaaS",
+  "buyer": "providers",
+  "varden_fit": "high",
+  "url": "https://www.medisafe.com",
+  "source": "web",
+  "discovery_round": 101,
+  "discovered_by": "sky"
+}

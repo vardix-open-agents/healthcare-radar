@@ -1,0 +1,14 @@
+{
+  "company": "EndoBase",
+  "country": "DE",
+  "problem": "European gastroenterology departments require endoscopy documentation systems that meet EU regulatory standards, support multiple languages, and integrate with regional healthcare IT infrastructure for quality reporting and procedure tracking.",
+  "solution": "EndoBase is an endoscopy information system designed for European GI departments. It provides structured procedure documentation, image management, quality indicator tracking, and integration with hospital IT systems. The platform supports colonoscopy surveillance programs and standardized endoscopy reporting across multi-site GI clinics.",
+  "problem_type": "gastroenterology",
+  "solution_type": "SaaS",
+  "buyer": "clinics",
+  "varden_fit": "medium",
+  "url": "https://www.endobase.com",
+  "source": "web",
+  "discovery_round": 113,
+  "discovered_by": "sky"
+}

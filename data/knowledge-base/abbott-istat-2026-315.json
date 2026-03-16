@@ -1,0 +1,22 @@
+{
+  "id": "abbott-istat-2026-315",
+  "title": "Abbott i-STAT - Point-of-Care Blood Analysis",
+  "company": "Abbott",
+  "country": "USA",
+  "segment": "diagnostics",
+  "problem": "Blood gas and chemistry analysis requires central lab, causing delays in critical care",
+  "solution": "Handheld blood analyzer providing lab-quality results at bedside in 2 minutes",
+  "technology": "Microfluidics, biosensors, cartridge-based testing",
+  "target_customer": "ICU, ED, OR, ambulances, military",
+  "care_setting": "hospital",
+  "care_domain": "diagnostics",
+  "care_stage": "acute_care",
+  "automation_level": "full",
+  "ai_type": null,
+  "traction_signals": ["Market leader POC blood analysis", "Millions of tests annually", "Global deployment"],
+  "funding": "Public (ABT)",
+  "regulatory_notes": "FDA cleared, CLIA waived",
+  "source": "sky-round18-diagnostics",
+  "url": "https://www Abbott.com",
+  "date_added": "2026-03-11"
+}

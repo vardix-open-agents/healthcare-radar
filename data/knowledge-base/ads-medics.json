@@ -1,0 +1,14 @@
+{
+  "company": "ADS (Advanced Data Systems)",
+  "country": "US",
+  "problem": "Medical practices struggle with fragmented billing systems, manual revenue cycle processes, and inefficient practice management that reduces collections and increases administrative burden.",
+  "solution": "ADS provides AI-powered healthcare software including the MedicsCloud EHR, MedicsPremier practice management, and MedicsRIS for radiology, along with outsourced RCM services. Their embedded AI architecture automates billing workflows to maximize revenue capture and reduce denial rates for specialty practices.",
+  "problem_type": "claims_billing",
+  "solution_type": "SaaS",
+  "buyer": "providers",
+  "varden_fit": "high",
+  "url": "https://www.adsc.com",
+  "source": "web",
+  "discovery_round": 82,
+  "discovered_by": "sky"
+}

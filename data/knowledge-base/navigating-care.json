@@ -1,0 +1,14 @@
+{
+  "company": "Navigating Care",
+  "country": "US",
+  "problem": "Cancer patients often feel disconnected from their care teams between visits, leading to delayed symptom reporting, poor adherence to oral therapies, and increased emergency department utilization.",
+  "solution": "Digital oncology care platform providing patient engagement portals, electronic patient-reported outcomes (ePRO), symptom triage pathways, and remote monitoring tools that keep patients connected to their care teams throughout treatment.",
+  "problem_type": "oncology",
+  "solution_type": "SaaS",
+  "buyer": "clinics",
+  "varden_fit": "medium",
+  "url": "https://www.navigatingcare.com",
+  "source": "web",
+  "discovery_round": 108,
+  "discovered_by": "nova"
+}

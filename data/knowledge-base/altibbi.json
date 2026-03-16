@@ -1,0 +1,14 @@
+{
+  "company": "Altibbi",
+  "country": "JO",
+  "problem": "Arabic-speaking patients lack access to reliable Arabic medical content and struggle to consult with doctors quickly without visiting clinics",
+  "solution": "Arabic-first telemedicine platform offering 24/7 text and voice consultations with verified doctors, comprehensive Arabic medical content library, and subscription-based healthcare access across MENA",
+  "problem_type": "telemedicine",
+  "solution_type": "SaaS",
+  "buyer": "clinics",
+  "varden_fit": "medium",
+  "url": "https://www.altibbi.com",
+  "source": "web",
+  "discovery_round": 77,
+  "discovered_by": "sky"
+}

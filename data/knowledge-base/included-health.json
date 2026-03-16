@@ -1,0 +1,14 @@
+{
+  "company": "Included Health",
+  "country": "US",
+  "problem": "Employees and their families struggle to navigate complex healthcare systems, find high-quality providers, understand insurance benefits, and coordinate care across multiple specialists and facilities",
+  "solution": "All-in-one personalized virtual care and navigation platform that combines primary care, mental health, expert medical opinions, insurance and claims support, and 24/7 care team coordination to guide members through their healthcare journey",
+  "problem_type": "care_coordination",
+  "solution_type": "SaaS",
+  "buyer": "providers",
+  "varden_fit": "high",
+  "url": "https://includedhealth.com",
+  "source": "web",
+  "discovery_round": 81,
+  "discovered_by": "sky"
+}

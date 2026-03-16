@@ -1,0 +1,14 @@
+{
+  "company": "K Health",
+  "country": "US",
+  "problem": "Health systems need to extend primary care access beyond traditional 9-5 hours and provide AI-powered intake to reduce provider burden",
+  "solution": "AI-powered virtual primary care platform partnering with major US health systems (Cedars-Sinai, Hartford HealthCare, Hackensack Meridian); provides 24/7 access, AI clinical intake, and single shared medical record with health system EHRs",
+  "problem_type": "primary_care",
+  "solution_type": "SaaS",
+  "buyer": "health_system",
+  "varden_fit": "high",
+  "url": "https://khealth.com",
+  "source": "web",
+  "discovery_round": 125,
+  "discovered_by": "sky"
+}

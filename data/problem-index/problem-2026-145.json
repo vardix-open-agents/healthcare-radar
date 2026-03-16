@@ -1,0 +1,16 @@
+{
+  "id": "problem-2026-145",
+  "problem": "Patient deductible tracking requires manual calculation across multiple visits, leading to 30% inaccurate patient cost estimates",
+  "problem_type": "deductible_tracking",
+  "solution_type": "Real-time deductible monitoring, cross-visit accumulation, patient balance estimation, automated alerts",
+  "care_stage": "admin",
+  "automation_type": "workflow_automation",
+  "buyer": "clinic",
+  "care_setting": "primary_care",
+  "companies": ["Experian Health", "Waystar", "Change Healthcare", "Cedar", "Simplee"],
+  "signals": ["30% inaccurate estimates", "Manual calculation required", "Cross-visit accumulation", "Patient balance confusion"],
+  "boring_software": true,
+  "contrarian": false,
+  "url": "https://www.cms.gov/deductibles",
+  "date_added": "2026-03-11"
+}

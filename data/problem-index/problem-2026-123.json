@@ -1,0 +1,16 @@
+{
+  "id": "problem-2026-123",
+  "problem": "Medical coding errors account for 20-30% of claim denials, requiring expensive manual review and resubmission",
+  "problem_type": "coding_validation",
+  "solution_type": "AI-assisted medical coding, automated CPT/ICD validation, NLP-based documentation analysis, real-time coding suggestions",
+  "care_stage": "admin",
+  "automation_type": "ai_assisted",
+  "buyer": "health_system",
+  "care_setting": "hospital",
+  "companies": ["Nym", "CodaMetrix", "Fathom", "3M Health Information Systems", "Optum"],
+  "signals": ["20-30% coding-related denials", "AI coding startups funded", "Revenue impact measurable", "FHIR R4 code validation"],
+  "boring_software": false,
+  "contrarian": false,
+  "url": "https://www.ahima.org",
+  "date_added": "2026-03-11"
+}

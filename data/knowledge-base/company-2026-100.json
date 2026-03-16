@@ -1,0 +1,27 @@
+{
+  "company": "Sympatient",
+  "country": "Germany",
+  "founded_year": 2017,
+  "category": "Mental Health",
+  "subsector": "Digital Anxiety Treatment",
+  "description": "German digital therapeutics company focused on treating anxiety disorders. CE-marked medical device offering online therapy programs. Partnering with insurers and employers.",
+  "business_model": "B2B2C - Sold to insurers who offer to members; B2B to employers",
+  "target_market": "German health insurers and employers",
+  "funding_stage": "Series A",
+  "funding_amount_eur": 10000000,
+  "key_investors": "German VCs, healthtech funds",
+  "employees": 50,
+  "customers": "15+ insurer partnerships",
+  "revenue_eur": 4000000,
+  "tech_stack": ["Web platform", "CBT modules", "Video coaching", "Outcome tracking"],
+  "integration_points": ["Insurer platforms", "EAP programs"],
+  "competitive_advantage": "CE-marked medical device, anxiety specialization, insurer partnerships",
+  "varden_fit": {
+    "threat_level": "low",
+    "opportunity": "partner",
+    "rationale": "Specialized mental health solution - could enhance Varden's mental health offering"
+  },
+  "data_quality": "medium",
+  "sources": ["sympatient.com", "linkedin.com"],
+  "last_updated": "2026-03-11"
+}

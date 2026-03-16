@@ -1,0 +1,14 @@
+{
+  "company": "Planer Limited",
+  "country": "GB",
+  "problem": "IVF clinics and research labs need reliable equipment for cryopreservation, incubation, and sample monitoring to ensure specimen safety",
+  "solution": "Cryogenic freezing and storage solutions, incubators, alarm and monitoring systems, and traceability software for IVF clinics and research laboratories",
+  "problem_type": "fertility",
+  "solution_type": "SaaS",
+  "buyer": "clinics",
+  "varden_fit": "medium",
+  "url": "https://www.planer.com",
+  "source": "web",
+  "discovery_round": 138,
+  "discovered_by": "sky"
+}

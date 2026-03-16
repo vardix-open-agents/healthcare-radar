@@ -1,0 +1,16 @@
+{
+  "id": "problem-2026-006",
+  "problem": "Chronic disease patients forget 50% of medication doses, leading to worse outcomes and hospital readmissions",
+  "problem_type": "monitoring",
+  "solution_type": "Automated SMS reminders, smart pill dispensers, adherence tracking apps",
+  "care_stage": "treatment",
+  "automation_type": "full_automation",
+  "buyer": "health_system",
+  "care_setting": "home",
+  "companies": ["Medisafe", "Hero Health", "AdhereTech"],
+  "signals": ["Insurers paying for adherence", "Hospital readmission penalties", "Digital therapeutics growth"],
+  "boring_software": true,
+  "contrarian": false,
+  "url": "https://medisafe.com",
+  "date_added": "2026-03-11"
+}

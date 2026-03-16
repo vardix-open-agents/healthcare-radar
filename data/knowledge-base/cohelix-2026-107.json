@@ -1,0 +1,32 @@
+{
+  "id": "cohelix-2026-107",
+  "title": "CoHelm - AI Prior Authorization for Health Plans",
+  "company": "CoHelm",
+  "country": "US",
+  "region": "US",
+  "segment": "admin",
+  "problem": "Health plans struggle with prior authorization backlogs. Clinical staff spend hours on manual reviews. Decisions are inconsistent and slow.",
+  "solution": "AI-powered prior authorization platform for health plans. Automated clinical review based on medical necessity criteria. Faster decisions with consistent application of guidelines.",
+  "technology": "AI/ML for clinical review, medical necessity criteria integration",
+  "target_customer": "Health plans, utilization management organizations",
+  "care_setting": "all",
+  "care_domain": "general",
+  "care_stage": "admin",
+  "automation_level": "full",
+  "ai_type": "AI for clinical decision support",
+  "traction_signals": [
+    "AI-first approach to prior auth",
+    "Focus on health plan efficiency",
+    "Clinical guidelines integration"
+  ],
+  "funding": "Early stage startup",
+  "regulatory_notes": "Utilization review requirements",
+  "varden_fit": "CRITICAL — AI-first prior auth for health plans is exactly what European insurers need.",
+  "source": "Industry knowledge",
+  "url": "https://www.cohelm.ai",
+  "date_added": "2026-03-11",
+  "problem_type": "prior_auth",
+  "contrarian": true,
+  "boring_software": true,
+  "notes": "CONTRARIAN: Prior auth automation for payers is high-value. European insurers lack AI-powered tools."
+}

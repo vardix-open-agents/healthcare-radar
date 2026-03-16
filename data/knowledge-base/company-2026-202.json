@@ -1,0 +1,32 @@
+{
+  "id": "company-2026-202",
+  "title": "Elucid - AI Cardiovascular Imaging Platform",
+  "company": "Elucid",
+  "country": "USA",
+  "region": "North America",
+  "segment": "diagnostics",
+  "problem": "Cardiovascular disease diagnosis relies on invasive procedures or expensive imaging with limited predictive value.",
+  "solution": "AI-powered analysis of CT angiography to non-invasively assess plaque composition and predict heart attack risk.",
+  "technology": "AI imaging analysis, computer vision, predictive modeling",
+  "target_customer": "Cardiologists, hospitals, imaging centers",
+  "care_setting": "hospital",
+  "care_domain": "cardiology",
+  "care_stage": "diagnosis",
+  "automation_level": "partial",
+  "ai_type": "computer vision, ML",
+  "traction_signals": [
+    "FDA cleared",
+    "Clinical validation studies",
+    "Deployed in major health systems"
+  ],
+  "funding": "Series B $80M+",
+  "regulatory_notes": "FDA cleared, CE mark pending",
+  "varden_fit": "LOW - AI imaging diagnostics. Different segment but shows AI in clinical workflow.",
+  "source": "scout-round7",
+  "url": "https://www.elucid.com",
+  "date_added": "2026-03-11",
+  "notes": "boring_software=false, contrarian=false. AI diagnostics in cardiology. Shows clinical AI adoption.",
+  "problem_type": "diagnostics_imaging",
+  "boring_software": false,
+  "contrarian": false
+}

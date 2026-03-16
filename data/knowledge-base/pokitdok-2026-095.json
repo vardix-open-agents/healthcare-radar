@@ -1,0 +1,32 @@
+{
+  "id": "pokitdok-2026-095",
+  "title": "PokitDok - Healthcare API Platform (Change Healthcare)",
+  "company": "PokitDok (Change Healthcare)",
+  "country": "US",
+  "region": "US",
+  "segment": "infrastructure",
+  "problem": "Digital health companies need easy access to healthcare data and transactions: eligibility, claims, appointments, and more.",
+  "solution": "API-first healthcare platform. X12 transactions, eligibility verification, claims submission, appointment scheduling, and more. Developer-friendly APIs for healthcare transactions.",
+  "technology": "REST APIs, X12 transactions, healthcare data exchange",
+  "target_customer": "Digital health companies, healthcare developers",
+  "care_setting": "all",
+  "care_domain": "general",
+  "care_stage": "admin",
+  "automation_level": "full",
+  "ai_type": null,
+  "traction_signals": [
+    "API-first healthcare platform",
+    "Acquired by Change Healthcare",
+    "Developer-friendly approach"
+  ],
+  "funding": "Acquired by Change Healthcare",
+  "regulatory_notes": "HIPAA compliant, X12 standards",
+  "varden_fit": "CRITICAL — PokitDok's API-first approach is exactly what European digital health needs. Healthcare transactions as APIs.",
+  "source": "Industry knowledge",
+  "url": "https://www.pokitdok.com",
+  "date_added": "2026-03-11",
+  "problem_type": "eligibility",
+  "contrarian": true,
+  "boring_software": true,
+  "notes": "CONTRARIAN: API-first healthcare infrastructure is the future. European developers lack equivalent platforms."
+}

@@ -1,0 +1,14 @@
+{
+  "company": "Athenahealth",
+  "country": "US",
+  "problem": "Healthcare practices struggle with administrative burden, complex billing workflows, and disconnected systems that reduce time for patient care",
+  "solution": "Cloud-based EHR platform with integrated practice management, revenue cycle management, patient engagement tools, and AI-powered documentation for ambulatory care providers",
+  "problem_type": "primary_care",
+  "solution_type": "SaaS",
+  "buyer": "health_system",
+  "varden_fit": "high",
+  "url": "https://www.athenahealth.com",
+  "source": "web",
+  "discovery_round": 125,
+  "discovered_by": "sky"
+}

@@ -1,0 +1,30 @@
+{
+  "id": "radiobotics-2026-023",
+  "title": "Radiobotics - AI X-Ray Analysis for Musculoskeletal",
+  "company": "Radiobotics",
+  "country": "Denmark",
+  "region": "Nordics",
+  "segment": "diagnostics",
+  "problem": "Radiologists face high workload and repetitive tasks. Musculoskeletal X-ray analysis is time-consuming and variation exists between interpreters.",
+  "solution": "AI software (RBknee) that automatically analyzes X-rays for osteoarthritis and other musculoskeletal conditions, providing standardized measurements and classifications.",
+  "technology": "Computer vision, ML, medical image analysis",
+  "target_customer": "Radiology departments, orthopedic clinics, hospitals",
+  "care_setting": "hospital",
+  "care_domain": "musculoskeletal, radiology",
+  "care_stage": "diagnosis",
+  "automation_level": "assistive",
+  "ai_type": "Computer vision, ML",
+  "traction_signals": [
+    "Founded 2017, Copenhagen-based",
+    "RBknee product for knee osteoarthritis",
+    "Deployed in Danish hospitals",
+    "CE marked medical device"
+  ],
+  "funding": null,
+  "regulatory_notes": "CE marked as medical device. Radiologist assist tool.",
+  "varden_fit": "Low — specialized radiology AI, not primary care infrastructure. Interesting example of Nordic AI diagnostic tool.",
+  "source": "Nordic health tech research",
+  "url": "https://www.radiobotics.com",
+  "date_added": "2026-03-11",
+  "notes": "Example of specialized AI diagnostics from Denmark. Similar to Corti's approach but for imaging."
+}

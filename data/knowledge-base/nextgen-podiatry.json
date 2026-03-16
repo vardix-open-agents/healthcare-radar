@@ -1,0 +1,14 @@
+{
+  "company": "NextGen Healthcare",
+  "country": "US",
+  "problem": "Podiatry practices require specialty-focused EHR solutions with advanced foot-specific content, integrated practice analytics, and support for complex wound care and surgical documentation",
+  "solution": "NextGen Healthcare provides an enterprise-grade EHR and practice management platform with podiatry-specific templates, integrated mobile solutions, patient engagement, and advanced analytics for specialty practices",
+  "problem_type": "podiatry",
+  "solution_type": "SaaS",
+  "buyer": "clinics",
+  "varden_fit": "medium",
+  "url": "https://www.nextgen.com/",
+  "source": "web",
+  "discovery_round": 111,
+  "discovered_by": "sky"
+}

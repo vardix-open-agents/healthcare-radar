@@ -1,0 +1,14 @@
+{
+  "company": "Lumeris",
+  "country": "US",
+  "problem": "Health systems and provider groups struggle to deliver high-value primary care in value-based arrangements, lacking tools to proactively manage patient populations and coordinate care across complex networks",
+  "solution": "AI-powered Primary Care as a Service platform (Tom) that provides scalable, coordinated care management, real-time patient insights, chronic condition management, and operational partnership to transform primary care delivery",
+  "problem_type": "care_coordination",
+  "solution_type": "SaaS",
+  "buyer": "providers",
+  "varden_fit": "high",
+  "url": "https://www.lumeris.com",
+  "source": "web",
+  "discovery_round": 81,
+  "discovered_by": "sky"
+}

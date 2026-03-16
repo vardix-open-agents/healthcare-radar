@@ -1,0 +1,33 @@
+{
+  "id": "latam-diagnostic-lab-integration-2026-216",
+  "title": "LATAM Diagnostic Lab Integration Gap",
+  "company": null,
+  "country": "Brazil/Mexico/Colombia/Regional",
+  "region": "LATAM",
+  "segment": "infrastructure",
+  "problem": "Diagnostic labs (blood work, imaging, pathology) in LATAM operate disconnected from ordering physicians. Orders sent via paper or fax. Results returned via email/PDF with no structured data. No real-time status tracking. Patients wait weeks for results. Physicians spend hours manually transcribing lab data into EMRs.",
+  "solution": "Lab integration platform connecting diagnostic labs with ordering physicians. Electronic ordering, structured results delivery, real-time status tracking, automatic EMR integration. API-first for lab information systems (LIS). Patient portal for result access.",
+  "technology": "HL7/FHIR integration, LIS API connections, structured data extraction from PDFs (OCR + ML), patient portal, physician dashboard",
+  "target_customer": "Diagnostic lab networks, hospital systems, independent physicians, radiology centers",
+  "care_setting": "all",
+  "care_domain": "general",
+  "care_stage": "diagnosis",
+  "automation_level": "full",
+  "ai_type": "OCR for PDF extraction, ML for result interpretation",
+  "traction_signals": [
+    "Massive market (every patient needs labs)",
+    "US/Europe solved this 10+ years ago",
+    "LATAM labs investing in digitization",
+    "Physicians demand integration"
+  ],
+  "funding": null,
+  "regulatory_notes": "Laboratory licensing, medical data privacy regulations in each country",
+  "varden_fit": "HIGH FIT - Classic infrastructure middleware. Lab integration is boring but essential. Build once, deploy to hundreds of labs. Recurring revenue model.",
+  "source": "Opportunity analysis + market gap identification",
+  "url": null,
+  "date_added": "2026-03-11",
+  "problem_type": "integration",
+  "contrarian": false,
+  "boring_software": true,
+  "notes": "BOREALING: Lab integration is the definition of boring software. But it's essential infrastructure. This is solved in US/EU but missing in LATAM. Huge opportunity for middleware player."
+}

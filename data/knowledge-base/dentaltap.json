@@ -1,0 +1,14 @@
+{
+  "company": "DentalTap",
+  "country": "US",
+  "problem": "Dental clinics and solo practitioners globally need free, accessible cloud-based practice management software with modern interfaces, AI integration, and mobile applications for digital dentistry",
+  "solution": "Free cloud-based dental practice management software with office management, treatment workflows, patient communications, mobile app, and AI-powered features including AI clinical notes, voice assistant, and image diagnostics, serving 2,500+ dental professionals across US, UK, Canada, Australia, New Zealand, Ireland, and South Africa",
+  "problem_type": "dental",
+  "solution_type": "SaaS",
+  "buyer": "dental_clinics",
+  "varden_fit": "medium",
+  "url": "https://www.dentaltap.com",
+  "source": "web",
+  "discovery_round": 91,
+  "discovered_by": "nova"
+}

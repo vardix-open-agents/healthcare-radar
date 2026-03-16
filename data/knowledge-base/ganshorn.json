@@ -1,0 +1,14 @@
+{
+  "company": "GANSHORN Medizin Electronic",
+  "country": "DE",
+  "problem": "Pulmonologists need precise, calibration-free lung function measurement tools for diagnosing asthma, COPD, and other respiratory conditions.",
+  "solution": "Complete pulmonary function testing portfolio including SpiroScout spirometer, PowerCube body plethysmographs, diffusion systems, ergospirometry, and oscillometry devices using proprietary ultrasound flow measurement technology.",
+  "problem_type": "pulmonology",
+  "solution_type": "device",
+  "buyer": "clinics, hospitals",
+  "varden_fit": "low",
+  "url": "https://www.ganshorn.de",
+  "source": "web",
+  "discovery_round": 115,
+  "discovered_by": "sky"
+}

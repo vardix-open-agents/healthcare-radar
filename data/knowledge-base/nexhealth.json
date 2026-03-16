@@ -1,0 +1,14 @@
+{
+  "company": "NexHealth",
+  "country": "US",
+  "problem": "Healthcare practices waste staff time on manual data entry from paper intake forms, lack seamless integration between patient data collection and practice management systems, and struggle to provide modern digital patient experiences.",
+  "solution": "EHR-integrated patient experience platform with two-way PMS/EHR integration, HIPAA-compliant digital forms, online scheduling, automated reminders, and patient communication tools. Forms instantly sync with practice management systems, eliminating manual data entry and saving practices up to $500/month by going paperless.",
+  "problem_type": "patient_intake",
+  "solution_type": "SaaS",
+  "buyer": "providers",
+  "varden_fit": "high",
+  "url": "https://www.nexhealth.com/",
+  "source": "web",
+  "discovery_round": 88,
+  "discovered_by": "sky"
+}

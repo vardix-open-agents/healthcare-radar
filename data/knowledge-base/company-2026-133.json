@@ -1,0 +1,27 @@
+{
+  "company": "Rementis (UK)",
+  "country": "United Kingdom",
+  "founded_year": 2019,
+  "category": "Mental Health",
+  "subsector": "Workplace Mental Health Platform",
+  "description": "UK startup providing digital mental health platform for employers. Focuses on early intervention and prevention through mental health assessments, digital therapies, and access to mental health professionals.",
+  "business_model": "B2B - SaaS subscription to employers",
+  "target_market": "UK employers seeking mental health support for employees",
+  "funding_stage": "Seed",
+  "funding_amount_gbp": 1500000,
+  "key_investors": "UK angels, early-stage VCs",
+  "employees": 20,
+  "customers": "100+ companies",
+  "revenue_gbp": 1200000,
+  "tech_stack": ["Web platform", "Mobile app", "Assessment tools", "Digital CBT"],
+  "integration_points": ["HR systems", "EAP programs"],
+  "competitive_advantage": "Early intervention focus, clinical validation, UK market expertise",
+  "varden_fit": {
+    "threat_level": "low",
+    "opportunity": "acquire",
+    "rationale": "Mental health platform in UK - potential acquisition for mental health capability"
+  },
+  "data_quality": "low",
+  "sources": ["linkedin.com", "startup databases"],
+  "last_updated": "2026-03-11"
+}

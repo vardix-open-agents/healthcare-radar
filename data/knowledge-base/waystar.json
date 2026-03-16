@@ -1,0 +1,14 @@
+{
+  "company": "Waystar",
+  "country": "US",
+  "problem": "Healthcare providers lose revenue due to confusing patient billing, low self-service payment rates, and inefficient collection workflows",
+  "solution": "AI-powered patient payments platform with omni-channel communications, behavior-based statements, and automated posting/reconciliation that increases patient collections by 20% and achieves 61%+ self-service pay rates",
+  "problem_type": "patient_payments",
+  "solution_type": "SaaS",
+  "buyer": "providers",
+  "varden_fit": "high",
+  "url": "https://www.waystar.com",
+  "source": "web",
+  "discovery_round": 99,
+  "discovered_by": "sky"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "ramsoft-2026-329",
+  "title": "RamSoft - Cloud RIS/PACS",
+  "company": "RamSoft",
+  "country": "Canada",
+  "segment": "infrastructure",
+  "problem": "Small radiology practices cannot afford enterprise PACS/RIS systems",
+  "solution": "Web-based PowerServer RIS/PACS for teleradiology and imaging centers",
+  "technology": "Cloud PACS, web RIS, teleradiology workflow tools",
+  "target_customer": "Radiology groups, imaging centers, teleradiology",
+  "care_setting": "outpatient",
+  "care_domain": "diagnostics",
+  "care_stage": "diagnosis",
+  "automation_level": "partial",
+  "ai_type": null,
+  "traction_signals": ["1000+ installations", "Strong teleradiology presence", "Private profitability"],
+  "funding": "Private",
+  "regulatory_notes": "FDA 510(k) cleared",
+  "source": "sky-round18-diagnostics",
+  "url": "https://www.ramsoft.com",
+  "date_added": "2026-03-11"
+}

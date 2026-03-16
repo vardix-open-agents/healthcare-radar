@@ -1,0 +1,29 @@
+{
+  "id": "nekohealth-2026-012",
+  "title": "Neko Health - AI-Powered Preventive Body Scanning",
+  "company": "Neko Health",
+  "country": "Sweden",
+  "region": "Nordics",
+  "segment": "diagnostics",
+  "problem": "Traditional preventive health screenings are time-consuming, expensive, and often miss early warning signs. Healthcare is reactive rather than proactive.",
+  "solution": "Full-body scanning technology using AI, lasers, and sensors to detect skin conditions, cardiovascular markers, and other health indicators in a single 30-minute session.",
+  "technology": "Computer vision, AI diagnostics, laser scanning, sensor arrays",
+  "target_customer": "Health-conscious consumers, employers (corporate wellness), clinics",
+  "care_setting": "specialist",
+  "care_domain": "preventive, dermatology, cardiovascular",
+  "care_stage": "prevention",
+  "automation_level": "partial",
+  "ai_type": "Computer vision, ML",
+  "traction_signals": [
+    "Founded by Daniel Ek (Spotify founder) and Hjalmar Nilsonne (2018)",
+    "Operating 3 clinics in Sweden",
+    "Series A funding (2023)"
+  ],
+  "funding": "Series A",
+  "regulatory_notes": "Operates as health clinic in Sweden. AI diagnostic tools require medical device certification.",
+  "varden_fit": "Low — consumer-facing preventive screening, requires physical infrastructure. Technology approach interesting but not directly applicable to Varden's B2B marketplace.",
+  "source": "Company website + press",
+  "url": "https://www.nekohealth.com",
+  "date_added": "2026-03-11",
+  "notes": "Premium consumer model. Could inspire Varden partners to offer similar preventive services through marketplace."
+}

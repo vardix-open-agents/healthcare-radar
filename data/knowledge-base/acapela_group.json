@@ -1,0 +1,14 @@
+{
+  "company": "Acapela Group",
+  "country": "BE",
+  "problem": "AAC devices and assistive technology applications need high-quality, natural-sounding voices in multiple languages to enable effective communication for users.",
+  "solution": "Text-to-speech voice synthesis technology offering personalized AI voices, vocal smileys for expressiveness, and support for 30+ languages integrated into AAC solutions.",
+  "problem_type": "speech_therapy",
+  "solution_type": "SaaS",
+  "buyer": "clinics",
+  "varden_fit": "low",
+  "url": "https://www.acapela-group.com",
+  "source": "web",
+  "discovery_round": 141,
+  "discovered_by": "nova"
+}

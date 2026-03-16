@@ -1,0 +1,14 @@
+{
+  "company": "ImageTrend",
+  "country": "US",
+  "problem": "Fire, EMS, and hospital emergency departments need integrated emergency management software to handle data collection, billing, compliance, and analytics across the continuum of emergency care.",
+  "solution": "ImageTrend provides comprehensive emergency management software platform connecting fire departments, EMS agencies, and hospitals with ePCR, billing, data analytics, and coordination tools in a unified ecosystem.",
+  "problem_type": "emergency_services",
+  "solution_type": "SaaS",
+  "buyer": "providers",
+  "varden_fit": "low",
+  "url": "https://www.imagetrend.com/",
+  "source": "web",
+  "discovery_round": 94,
+  "discovered_by": "sky"
+}

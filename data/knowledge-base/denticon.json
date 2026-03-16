@@ -1,0 +1,14 @@
+{
+  "company": "Denticon",
+  "country": "US",
+  "problem": "Dental practices and DSOs need cloud-based practice management software that provides modern solutions for scheduling, patient management, and practice operations",
+  "solution": "Cloud-based dental practice management software platform offering comprehensive solutions for dental practices and dental service organizations with scalable features for multi-location management",
+  "problem_type": "dental",
+  "solution_type": "SaaS",
+  "buyer": "dental_clinics",
+  "varden_fit": "medium",
+  "url": "https://www.denticon.com",
+  "source": "web",
+  "discovery_round": 91,
+  "discovered_by": "nova"
+}

@@ -1,0 +1,16 @@
+{
+  "id": "problem-2026-136",
+  "problem": "Prior auth status checking requires logging into 10-20 different payer portals, with average 20-30 minutes spent tracking per day",
+  "problem_type": "auth_tracking",
+  "solution_type": "Unified auth status dashboard, automated status polling, expiration alerts, auth number management",
+  "care_stage": "admin",
+  "automation_type": "workflow_automation",
+  "buyer": "clinic",
+  "care_setting": "specialty",
+  "companies": ["CoverMyMeds", "Surescripts", "Waystar", "Availity", "Change Healthcare"],
+  "signals": ["10-20 payer portals", "20-30 min daily tracking", "Status polling demand", "Unified dashboard pilots"],
+  "boring_software": true,
+  "contrarian": false,
+  "url": "https://www.hfma.org/prior-auth",
+  "date_added": "2026-03-11"
+}

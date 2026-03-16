@@ -1,0 +1,14 @@
+{
+  "company": "PneumaCare",
+  "country": "GB",
+  "problem": "Traditional spirometry requires patient effort, trained technicians, and cannot continuously measure breathing mechanics, limiting assessment in children and post-surgical patients.",
+  "solution": "Structured Light Plethysmography (SLP) technology using non-invasive optical imaging to measure lung function and chest wall movement without patient effort, suitable for all age groups and continuous monitoring.",
+  "problem_type": "pulmonology",
+  "solution_type": "device",
+  "buyer": "clinics, hospitals",
+  "varden_fit": "medium",
+  "url": "http://pneumacare.co.uk",
+  "source": "web",
+  "discovery_round": 115,
+  "discovered_by": "sky"
+}

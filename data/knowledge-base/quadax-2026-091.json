@@ -1,0 +1,32 @@
+{
+  "id": "quadax-2026-091",
+  "title": "Quadax - Healthcare Revenue Cycle Solutions",
+  "company": "Quadax",
+  "country": "US",
+  "region": "US",
+  "segment": "billing",
+  "problem": "Healthcare providers need efficient claims management, denial prevention, and revenue cycle optimization.",
+  "solution": "Revenue cycle management solutions including claims scrubbing, denial management, eligibility verification, and patient access services. Technology-enabled RCM with analytics.",
+  "technology": "Claims scrubbing, eligibility verification, analytics",
+  "target_customer": "Healthcare providers, health systems",
+  "care_setting": "all",
+  "care_domain": "general",
+  "care_stage": "admin",
+  "automation_level": "partial",
+  "ai_type": null,
+  "traction_signals": [
+    "Established RCM player",
+    "Technology-enabled services",
+    "Partnership with GeBBS"
+  ],
+  "funding": "Private company",
+  "regulatory_notes": "HIPAA compliant",
+  "varden_fit": "HIGH — Quadax proves RCM services with technology augmentation work. European providers need similar services.",
+  "source": "Industry knowledge",
+  "url": "https://www.quadax.com",
+  "date_added": "2026-03-11",
+  "problem_type": "claims",
+  "contrarian": true,
+  "boring_software": true,
+  "notes": "CONTRARIAN: RCM services are unsexy but essential. Technology augmentation improves outcomes."
+}

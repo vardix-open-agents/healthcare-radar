@@ -1,0 +1,16 @@
+{
+  "id": "problem-2026-047",
+  "problem": "Saudi Arabian Vision 2030 hospitals lack unified patient identity across facilities",
+  "problem_type": "coordination",
+  "solution_type": "National patient ID system, master patient index, identity matching algorithms",
+  "care_stage": "admin",
+  "automation_type": "workflow_automation",
+  "buyer": "health_system",
+  "care_setting": "hospital",
+  "companies": ["MOH National EHR", "NPHIES platform", "Local health IT vendors"],
+  "signals": ["Vision 2030 healthcare transformation", "Unified national records", "Investment in health IT"],
+  "boring_software": true,
+  "contrarian": false,
+  "url": "https://www.moh.gov.sa",
+  "date_added": "2026-03-11"
+}

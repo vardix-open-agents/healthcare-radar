@@ -1,0 +1,14 @@
+{
+  "company": "HealthStream",
+  "country": "US",
+  "problem": "Healthcare organizations struggle with fragmented workforce management systems for training, credentialing, scheduling, and compliance, leading to inefficiencies and increased risk.",
+  "solution": "Unified healthcare workforce management platform providing learning, clinical development, credentialing, scheduling, quality & compliance, revenue cycle, and resuscitation training solutions.",
+  "problem_type": "healthcare_staffing",
+  "solution_type": "SaaS",
+  "buyer": "health_system",
+  "varden_fit": "low",
+  "url": "https://www.healthstream.com/",
+  "source": "web",
+  "discovery_round": 127,
+  "discovered_by": "sky"
+}

@@ -1,0 +1,16 @@
+{
+  "id": "problem-2026-087",
+  "problem": "Self-insured employers can't route employees to high-value providers, overpaying for low-quality care by 30-50%",
+  "problem_type": "insurance_routing",
+  "solution_type": "Centers of excellence programs, value-based provider directories, AI-powered care navigation",
+  "care_stage": "triage_navigation",
+  "automation_type": "decision_support",
+  "buyer": "employer",
+  "care_setting": "mixed",
+  "companies": ["Grand Rounds", "Castlight Health", "Collective Health", "Included Health", "Firefly Health"],
+  "signals": ["Employer healthcare cost crisis", "Reference-based pricing adoption", "Direct contracting trends"],
+  "boring_software": false,
+  "contrarian": true,
+  "url": "https://www.kff.org/health-costs",
+  "date_added": "2026-03-11"
+}

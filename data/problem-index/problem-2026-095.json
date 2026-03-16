@@ -1,0 +1,16 @@
+{
+  "id": "problem-2026-095",
+  "problem": "Post-acute care facilities can't access real-time patient acuity data from hospitals, leading to inappropriate placements and readmissions",
+  "problem_type": "data_integration",
+  "solution_type": "Acuity-based discharge planning, real-time placement matching, integrated care transitions",
+  "care_stage": "treatment",
+  "automation_type": "data_integration",
+  "buyer": "post_acute",
+  "care_setting": "mixed",
+  "companies": ["Kindred Healthcare", "Genesis HealthCare", "Select Medical", "Encompass Health", "PruittHealth"],
+  "signals": ["PAC network adequacy", "Readmission reduction programs", "SNF value-based purchasing"],
+  "boring_software": false,
+  "contrarian": false,
+  "url": "https://www.cms.gov/Medicare/Quality-Initiatives-Patient-Assessment-Instruments/Value-Based-Programs",
+  "date_added": "2026-03-11"
+}

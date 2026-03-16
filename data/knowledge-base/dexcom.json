@@ -1,0 +1,14 @@
+{
+  "company": "Dexcom",
+  "country": "US",
+  "problem": "Traditional blood glucose monitoring requires frequent fingersticks and provides only intermittent snapshots, making it difficult for patients and clinicians to understand glucose patterns and trends.",
+  "solution": "Dexcom develops continuous glucose monitoring (CGM) systems including the G6, G7, and ONE+ sensors that provide real-time glucose readings every few minutes without fingersticks. The platform integrates with insulin pumps, smartphones, and clinic software to enable data-driven diabetes management and remote monitoring by healthcare providers.",
+  "problem_type": "endocrinology",
+  "solution_type": "SaaS",
+  "buyer": "clinics",
+  "varden_fit": "medium",
+  "url": "https://www.dexcom.com",
+  "source": "web",
+  "discovery_round": 116,
+  "discovered_by": "nova"
+}

@@ -1,0 +1,14 @@
+{
+  "company": "Sensely",
+  "country": "GB",
+  "problem": "Healthcare organizations struggle to provide scalable, personalized patient engagement and navigation that improves health outcomes while reducing costs",
+  "solution": "Empathy-driven conversational AI platform with avatar-based virtual assistants powered by Mayo Clinic and NHS content, offering health management modules, navigation, customer service, and multi-channel deployment across SMS, WhatsApp, web, and mobile apps",
+  "problem_type": "patient_communication",
+  "solution_type": "SaaS",
+  "buyer": "providers",
+  "varden_fit": "high",
+  "url": "https://sensely.com/",
+  "source": "web",
+  "discovery_round": 74,
+  "discovered_by": "sky"
+}

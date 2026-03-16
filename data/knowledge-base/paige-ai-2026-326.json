@@ -1,0 +1,22 @@
+{
+  "id": "paige-ai-2026-326",
+  "title": "Paige.ai - Prostate Cancer AI",
+  "company": "Paige.ai",
+  "country": "USA",
+  "segment": "diagnostics",
+  "problem": "Prostate cancer diagnosis requires expert pathologists; variability in grading",
+  "solution": "AI system for detecting and grading prostate cancer in biopsy samples",
+  "technology": "Deep learning for histopathology, digital pathology integration",
+  "target_customer": "Pathology labs, urology practices, hospital systems",
+  "care_setting": "hospital",
+  "care_domain": "diagnostics",
+  "care_stage": "diagnosis",
+  "automation_level": "full",
+  "ai_type": "computer vision",
+  "traction_signals": ["First FDA approval for pathology AI", "Raised $125M", "Strong clinical validation"],
+  "funding": "Series C",
+  "regulatory_notes": "FDA De Novo approval 2021",
+  "source": "sky-round18-diagnostics",
+  "url": "https://www.paige.ai",
+  "date_added": "2026-03-11"
+}

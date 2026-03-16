@@ -1,0 +1,14 @@
+{
+  "company": "Tebra (formerly Kareo)",
+  "country": "US",
+  "problem": "Independent medical practices use disconnected systems for EHR, billing, and patient engagement making insurance eligibility verification time-consuming and error-prone",
+  "solution": "All-in-one EHR+ platform combining clinical documentation, billing, scheduling, and reputation management with real-time insurance eligibility verification and claims management specifically designed for private practices",
+  "problem_type": "insurance_eligibility",
+  "solution_type": "SaaS",
+  "buyer": "providers",
+  "varden_fit": "high",
+  "url": "https://www.tebra.com",
+  "source": "web",
+  "discovery_round": 96,
+  "discovered_by": "sky"
+}

@@ -1,0 +1,14 @@
+{
+  "company": "Illumina",
+  "country": "US",
+  "problem": "Sequencing the human genome was expensive, slow, and inaccessible, limiting the adoption of genomic medicine and research",
+  "solution": "Next-generation sequencing (NGS) platforms and microarrays that dramatically reduce the cost and time of genomic sequencing, enabling researchers and clinicians to unlock the power of the genome for precision health",
+  "problem_type": "genomics",
+  "solution_type": "SaaS",
+  "buyer": "providers",
+  "varden_fit": "low",
+  "url": "https://www.illumina.com",
+  "source": "web",
+  "discovery_round": 133,
+  "discovered_by": "nova"
+}

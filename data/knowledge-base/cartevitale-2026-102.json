@@ -1,0 +1,32 @@
+{
+  "id": "cartevitale-2026-102",
+  "title": "French Carte Vitale System - Healthcare Coverage Verification",
+  "company": "French Health Insurance (Assurance Maladie)",
+  "country": "France",
+  "region": "EU",
+  "segment": "infrastructure",
+  "problem": "French healthcare needs electronic verification of patient coverage and entitlement to care.",
+  "solution": "Carte Vitale smart card system for patient identification and coverage verification. Integration with French health insurance (CPAM) for real-time coverage checks. Electronic transmission of care sheets (FSE).",
+  "technology": "Smart cards, SESAM-Vitale system, real-time coverage verification",
+  "target_customer": "All French healthcare providers",
+  "care_setting": "all",
+  "care_domain": "general",
+  "care_stage": "admin",
+  "automation_level": "partial",
+  "ai_type": null,
+  "traction_signals": [
+    "Universal coverage in France",
+    "Carte Vitale for all insured",
+    "Electronic care sheets (FSE)"
+  ],
+  "funding": "Government infrastructure",
+  "regulatory_notes": "French healthcare regulations, GDPR",
+  "varden_fit": "CRITICAL — French system has coverage verification but lacks prior auth automation. Opportunity to build on existing infrastructure.",
+  "source": "Industry knowledge",
+  "url": "https://www.ameli.fr",
+  "date_added": "2026-03-11",
+  "problem_type": "eligibility",
+  "contrarian": true,
+  "boring_software": true,
+  "notes": "CONTRARIAN: France has coverage verification infrastructure but no prior auth automation. This is the blue ocean."
+}

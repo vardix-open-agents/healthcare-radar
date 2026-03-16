@@ -1,0 +1,14 @@
+{
+  "company": "Computer-Rx",
+  "country": "US",
+  "problem": "Independent retail pharmacies need user-friendly pharmacy management software that handles prescription processing, inventory, and billing efficiently without requiring extensive training",
+  "solution": "Computer-Rx provides pharmacy management software for independent retail pharmacies featuring prescription processing, inventory control, patient profiles, insurance billing, and reporting tools designed for ease of use",
+  "problem_type": "retail_pharmacy",
+  "solution_type": "SaaS",
+  "buyer": "pharmacies",
+  "varden_fit": "medium",
+  "url": "https://www.computerrx.com",
+  "source": "web",
+  "discovery_round": 128,
+  "discovered_by": "sky"
+}

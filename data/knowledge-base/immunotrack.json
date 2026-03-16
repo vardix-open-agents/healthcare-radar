@@ -1,0 +1,14 @@
+{
+  "company": "ImmunoTrack",
+  "country": "US",
+  "problem": "Allergy clinics lack dedicated software for tracking SCIT and SLIT immunotherapy vial preparation, expiration, and patient schedules",
+  "solution": "Specialized immunotherapy management platform with vial tracking, dose escalation protocols, and compliance reporting",
+  "problem_type": "allergy",
+  "solution_type": "SaaS",
+  "buyer": "clinics",
+  "varden_fit": "medium",
+  "url": "https://immunotrack.com",
+  "source": "web",
+  "discovery_round": 114,
+  "discovered_by": "nova"
+}

@@ -1,0 +1,32 @@
+{
+  "id": "infra-2026-108",
+  "title": "Infra - Prior Authorization Platform for Providers",
+  "company": "Infra",
+  "country": "US",
+  "region": "US",
+  "segment": "admin",
+  "problem": "Providers spend excessive time on prior authorization. Multiple payer portals, fax machines, and phone calls create massive administrative burden.",
+  "solution": "Unified prior authorization platform for providers. Single interface for multiple payers. Automated status tracking and follow-up. Integration with EHR workflows.",
+  "technology": "Multi-payer integration, EHR integration, workflow automation",
+  "target_customer": "Healthcare providers, specialty practices",
+  "care_setting": "all",
+  "care_domain": "general",
+  "care_stage": "admin",
+  "automation_level": "partial",
+  "ai_type": null,
+  "traction_signals": [
+    "Provider-focused prior auth",
+    "Multi-payer integration",
+    "EHR workflow integration"
+  ],
+  "funding": "Early stage",
+  "regulatory_notes": "HIPAA compliant",
+  "varden_fit": "HIGH — Unified prior auth for providers is essential. European providers need single interface for multiple insurers.",
+  "source": "Industry knowledge",
+  "url": "https://www.infra.com",
+  "date_added": "2026-03-11",
+  "problem_type": "prior_auth",
+  "contrarian": true,
+  "boring_software": true,
+  "notes": "CONTRARIAN: Provider-side prior auth is painful. European multi-payer systems need unified solutions."
+}

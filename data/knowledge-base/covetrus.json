@@ -1,0 +1,14 @@
+{
+  "company": "Covetrus",
+  "country": "US",
+  "problem": "Veterinary practices need integrated technology solutions spanning practice management, prescription management, inventory optimization, and client engagement to improve operational efficiency and patient care outcomes",
+  "solution": "Veterinary technology and services platform providing practice management systems, prescription management with home delivery, inventory optimization tools, client communication solutions, and practice intelligence analytics for veterinary clinics",
+  "problem_type": "veterinary",
+  "solution_type": "SaaS",
+  "buyer": "vet_clinics",
+  "varden_fit": "low",
+  "url": "https://www.covetrus.com",
+  "source": "web",
+  "discovery_round": 102,
+  "discovered_by": "nova"
+}

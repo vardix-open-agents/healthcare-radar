@@ -1,0 +1,14 @@
+{
+  "company": "Doctolib",
+  "country": "DE",
+  "problem": "Patients need easy access to book doctor appointments; healthcare providers need digital tools to manage bookings and reduce no-shows",
+  "solution": "Doctor appointment booking platform operating in Germany and France, enabling patients to find and book appointments with healthcare providers, with practice management tools for doctors",
+  "problem_type": "practice_management",
+  "solution_type": "SaaS",
+  "buyer": "clinics",
+  "varden_fit": "medium",
+  "url": "https://www.doctolib.de",
+  "source": "web research",
+  "discovery_round": 63,
+  "discovered_by": "sky"
+}

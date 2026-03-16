@@ -1,0 +1,16 @@
+{
+  "id": "problem-2026-126",
+  "problem": "Payment posting and reconciliation requires 15-20 FTEs per $1B in revenue, with 835 ERA files often not matching 837 claims",
+  "problem_type": "payment_reconciliation",
+  "solution_type": "Automated 835/837 matching, payment variance analysis, denial auto-posting, reconciliation dashboards",
+  "care_stage": "admin",
+  "automation_type": "full_automation",
+  "buyer": "health_system",
+  "care_setting": "hospital",
+  "companies": ["Waystar", "Change Healthcare", "R1 RCM", "GeBBS", "Visionary RCM"],
+  "signals": ["15-20 FTEs per $1B revenue", "835/837 matching issues", "Manual posting errors", "Variance analysis demand"],
+  "boring_software": true,
+  "contrarian": false,
+  "url": "https://www.x12.org/835",
+  "date_added": "2026-03-11"
+}

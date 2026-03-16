@@ -1,0 +1,27 @@
+{
+  "company": "Knok (Portugal)",
+  "country": "Portugal",
+  "founded_year": 2015,
+  "category": "Telemedicine",
+  "subsector": "Hospital-at-Home Platform",
+  "description": "Portuguese healthtech providing hospital-at-home and telemedicine platform. Partners with hospitals and insurers to deliver care at home through remote monitoring and video consultations.",
+  "business_model": "B2B - Platform licensing to hospitals and insurers",
+  "target_market": "Portuguese hospitals, health insurers, employers",
+  "funding_stage": "Series A",
+  "funding_amount_eur": 6000000,
+  "key_investors": "Portugal Ventures, Bright Capital, HCapital",
+  "employees": 60,
+  "customers": "20+ hospitals, 5 insurers",
+  "revenue_eur": 5000000,
+  "tech_stack": ["Web platform", "Mobile app", "Remote monitoring devices", "Video conferencing"],
+  "integration_points": ["Hospital EHRs", "Insurance systems", "Remote monitoring devices"],
+  "competitive_advantage": "Hospital-at-home focus, clinical validation, Portuguese market leader",
+  "varden_fit": {
+    "threat_level": "low",
+    "opportunity": "partner",
+    "rationale": "Hospital-at-home platform in Portugal - could support occupational health programs"
+  },
+  "data_quality": "medium",
+  "sources": ["knok.care", "linkedin.com"],
+  "last_updated": "2026-03-11"
+}

@@ -1,0 +1,16 @@
+{
+  "id": "problem-2026-118",
+  "problem": "Rural hospitals cannot recruit specialty physicians, leaving communities without local specialists",
+  "problem_type": "staffing",
+  "solution_type": "Telemedicine staffing networks, locum tenens platforms, rural incentive programs",
+  "care_stage": "treatment",
+  "automation_type": "manual_augmentation",
+  "buyer": "hospital",
+  "care_setting": "specialty",
+  "companies": ["CompHealth", "Weatherby Healthcare", "Barton Associates", "Aya Healthcare"],
+  "signals": ["Rural hospital closures", "Specialist shortage 30K+", "Telehealth reimbursement parity"],
+  "boring_software": false,
+  "contrarian": true,
+  "url": "https://www.comphealth.com",
+  "date_added": "2026-03-11"
+}

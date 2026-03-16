@@ -1,0 +1,28 @@
+{
+  "company": "Leyr (Norway)",
+  "country": "Norway",
+  "founded_year": 2018,
+  "category": "Healthcare Infrastructure",
+  "subsector": "Healthcare API Platform",
+  "description": "Norwegian healthcare API platform providing unified integration to Nordic EHR systems. Single API connects to DIPS, EPJ, and other Nordic health IT systems. Focus on simplifying healthcare integration in Scandinavia.",
+  "business_model": "B2B - API platform to digital health companies",
+  "target_market": "Digital health startups, health IT vendors in Nordics",
+  "funding_stage": "Seed",
+  "funding_amount_nok": null,
+  "key_investors": "Nordic investors",
+  "employees": "20+",
+  "customers": "Digital health companies in Norway, Sweden",
+  "revenue_nok": null,
+  "tech_stack": ["Universal API", "Nordic EHR integration", "FHIR", "Data normalization"],
+  "integration_points": ["DIPS", "EPJ", "Other Nordic EHRs"],
+  "competitive_advantage": "Nordic focus, local market knowledge, simplifying regional integration",
+  "boring_software": true,
+  "varden_fit": {
+    "threat_level": "low",
+    "opportunity": "benchmark",
+    "rationale": "Nordic API platform - DIRECT COMPETITOR/BENCHMARK to what Varden needs"
+  },
+  "data_quality": "medium",
+  "sources": ["leyr.com"],
+  "last_updated": "2026-03-11"
+}

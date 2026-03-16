@@ -1,0 +1,16 @@
+{
+  "id": "problem-2026-094",
+  "problem": "Federally Qualified Health Centers spend 30% of front desk time verifying sliding scale eligibility and patient documentation",
+  "problem_type": "eligibility_verification",
+  "solution_type": "Automated income verification, integrated eligibility screening, FQHC-specific workflow tools",
+  "care_stage": "intake",
+  "automation_type": "workflow_automation",
+  "buyer": "federal_program",
+  "care_setting": "community_health",
+  "companies": ["NextGen Healthcare", "eClinicalWorks", "Athenahealth", "Epic Community Connect", "AbleTo"],
+  "signals": ["FQHC funding expansion", "340B program complexity", "Uninsured patient navigation"],
+  "boring_software": true,
+  "contrarian": false,
+  "url": "https://bphc.hrsa.gov",
+  "date_added": "2026-03-11"
+}

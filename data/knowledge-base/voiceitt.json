@@ -1,0 +1,14 @@
+{
+  "company": "Voiceitt",
+  "country": "IL",
+  "problem": "People with speech disabilities due to cerebral palsy, stroke, Parkinson's, or autism cannot use standard voice assistants and speech recognition, excluding them from voice-controlled technology.",
+  "solution": "AI-powered voice recognition platform trained on non-standard speech patterns, enabling people with speech disabilities to control smart home devices, dictation, and communication.",
+  "problem_type": "speech_therapy",
+  "solution_type": "SaaS",
+  "buyer": "clinics",
+  "varden_fit": "medium",
+  "url": "https://www.voiceitt.com",
+  "source": "web",
+  "discovery_round": 141,
+  "discovered_by": "nova"
+}

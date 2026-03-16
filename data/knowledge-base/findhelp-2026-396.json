@@ -1,0 +1,22 @@
+{
+  "company_name": "Findhelp (formerly Aunt Bertha)",
+  "problem_solved": "Connecting patients to social services and community resources is fragmented and inefficient, leading to unmet social needs that drive poor health outcomes",
+  "solution_description": "Platform providing comprehensive social care network with screening tools, closed-loop referrals, and marketplace fulfillment for SDOH needs. Includes 970k+ program locations nationwide, serves 60% of US health systems with directory search, referral tracking, and analytics",
+  "buyer_persona": "health_systems",
+  "care_stage": "screening",
+  "automation_level": "partial",
+  "varden_fit": "very_high",
+  "region": "US",
+  "country": "United States",
+  "funding_stage": "series_c",
+  "traction_signals": [
+    "Best in KLAS 2026 award for SDoH networks",
+    "70M+ platform users",
+    "825+ customers across 50 states",
+    "325k+ referrals per month"
+  ],
+  "notes": "Market leader in SDOH referral platforms. Originally Aunt Bertha, rebranded to Findhelp. Strong EHR integration capabilities. Marketplace fulfillment for direct delivery of goods/services (transportation, meals, diapers)",
+  "discovery_round": 50,
+  "discovered_by": "sky",
+  "timestamp": "2026-03-11T23:20:00Z"
+}

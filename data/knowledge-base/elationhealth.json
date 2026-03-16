@@ -1,0 +1,14 @@
+{
+  "company": "Elation Health",
+  "country": "US",
+  "problem": "Primary care practices need EHR systems that support relationship-based care without adding administrative burden or disrupting clinical workflows",
+  "solution": "Award-winning EHR software designed specifically for primary care with AI-powered medical scribe (Note Assist), clinical workflows, billing, and patient engagement tools",
+  "problem_type": "practice_management",
+  "solution_type": "SaaS",
+  "buyer": "clinics",
+  "varden_fit": "medium",
+  "url": "https://www.elationhealth.com",
+  "source": "web",
+  "discovery_round": 69,
+  "discovered_by": "sky"
+}

@@ -1,0 +1,14 @@
+{
+  "company": "Science 37",
+  "country": "US",
+  "problem": "Clinical trial participation is limited by geographic proximity to research sites, creating barriers for patients and reducing enrollment diversity and speed.",
+  "solution": "Direct-to-Patient Site platform enabling decentralized clinical trials with research-grade nursing, at-home clinical assessments, and nationwide patient recruitment. First and only FDA-inspected direct-to-patient site with NAI classification across 5 Phase 3 trials.",
+  "problem_type": "clinical_trials",
+  "solution_type": "SaaS",
+  "buyer": "research_orgs",
+  "varden_fit": "low",
+  "url": "https://www.science37.com/",
+  "source": "web",
+  "discovery_round": 103,
+  "discovered_by": "sky"
+}

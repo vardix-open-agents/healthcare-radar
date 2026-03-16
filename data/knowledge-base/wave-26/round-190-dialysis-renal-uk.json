@@ -1,0 +1,151 @@
+{
+  "round": 190,
+  "sector": "Dialysis / Renal",
+  "region": "UK",
+  "focus": [
+    "Dialysis clinic management",
+    "Renal failure tracking",
+    "Dialysis scheduling systems",
+    "Home dialysis platforms"
+  ],
+  "excluded": [
+    "Consumer health apps",
+    "Dialysis equipment manufacturers"
+  ],
+  "companies": [
+    {
+      "company_name": "System C Healthcare",
+      "hq_location": "Maidstone, Kent, UK",
+      "website_url": "https://www.systemc.com",
+      "problem_solved": "Fragmented patient records across NHS trusts leading to disjointed care for chronic conditions including renal disease. Lack of integrated systems for managing complex, long-term kidney care pathways.",
+      "who_buys_it": "NHS trusts, integrated care systems (ICS), acute hospitals, community health providers managing chronic kidney disease (CKD) patients and dialysis services.",
+      "key_features": [
+        "CareFlow EPR - cloud-based electronic patient record with mobile access",
+        "Integrated renal pathway management within EPR",
+        "BadgerNet platform for specialised care pathways",
+        "AI-enabled ambient clinical documentation",
+        "Medicines management including dialysis-related prescriptions",
+        "Integration with NHS Spine and national systems",
+        "Real-time clinical data repository for renal patient tracking"
+      ],
+      "business_model": "SaaS licensing to NHS organisations, implementation services, ongoing support contracts. Revenue from both software licensing and professional services for digital transformation projects.",
+      "why_varden_should_care": "Leading UK healthcare IT provider with deep NHS integration. Their EPR platform is used across every ICS in England, giving them massive market penetration. As NHS pushes for integrated renal pathways and earlier CKD detection, System C is positioned to be the backbone of digital renal care coordination. Strong M&A target for larger healthcare IT players or PE firms consolidating the UK digital health market."
+    },
+    {
+      "company_name": "DrDoctor",
+      "hq_location": "London, UK",
+      "website_url": "https://www.drdoctor.co.uk",
+      "problem_solved": "Inefficient appointment scheduling leading to high DNA (Did Not Attend) rates, wasted NHS resources, and delayed care for chronic conditions requiring regular appointments like dialysis patients.",
+      "who_buys_it": "NHS trusts, integrated care systems, hospital outpatient departments, and specialty clinics including renal units managing regular dialysis schedules.",
+      "key_features": [
+        "HybridOS - NHS-integrated scheduling platform",
+        "Patient-powered booking and rescheduling",
+        "Two-way automation for appointment reminders",
+        "Partial booking system to optimise clinic capacity",
+        "Integration with NHS App for patient access",
+        "35+ million patients on platform across 50%+ UK hospitals",
+        "Specialist pathways for chronic conditions requiring regular appointments"
+      ],
+      "business_model": "SaaS licensing to NHS organisations, typically 3-5 year contracts. Revenue from platform fees plus implementation and transformation services.",
+      "why_varden_should_care": "Exceptional market traction with 140M+ appointments managed and 35M+ patients using the platform. Strong ROI story with proven DNA reduction (e.g., 3% at Royal Orthopaedic Hospital). Critical infrastructure for NHS efficiency drives. Dialysis patients require 3x weekly appointments - perfect use case for their scheduling optimization. High growth potential as NHS pushes for hybrid healthcare models."
+    },
+    {
+      "company_name": "Patients Know Best",
+      "hq_location": "London, UK",
+      "website_url": "https://patientsknowbest.com",
+      "problem_solved": "Fragmented patient health records across multiple providers leading to poor care coordination for complex chronic conditions. Patients unable to access or contribute to their own health information, particularly problematic for renal patients seeing multiple specialists.",
+      "who_buys_it": "NHS trusts, integrated care systems, health boards, and specialty services managing chronic conditions including renal/dialysis patients requiring coordinated care across multiple providers.",
+      "key_features": [
+        "Personal health record platform with 6M+ registered users",
+        "Integration with NHS Digital and national systems",
+        "Care plan management and sharing",
+        "Secure messaging with healthcare professionals",
+        "Remote monitoring and symptom tracking",
+        "Wearable device integration",
+        "Specialist renal pathways and kidney disease management modules",
+        "Available via web, mobile, and NHS App"
+      ],
+      "business_model": "Platform funded by healthcare organisations (trusts, health boards). Free for patients. Revenue from NHS organisations implementing the platform, with risk-sharing rollout models.",
+      "why_varden_should_care": "World's largest personal health record platform with proven NHS adoption since 2008. Critical for chronic disease management where patient engagement improves outcomes. Renal patients are ideal users - complex care needs, multiple providers, long-term condition management. Strong growth trajectory (100K+ new users monthly). Positioned well for NHS shift to patient-powered, data-driven care models."
+    },
+    {
+      "company_name": "InterSystems",
+      "hq_location": "Cambridge, Massachusetts, USA (with UK operations in Windsor)",
+      "website_url": "https://www.intersystems.com",
+      "problem_solved": "Healthcare data silos preventing integrated care. Need for robust data platforms to manage complex, long-term conditions like chronic kidney disease across multiple care settings.",
+      "who_buys_it": "NHS trusts, integrated care systems, healthcare software vendors, and regional health systems requiring enterprise-grade healthcare data management for renal and other specialty services.",
+      "key_features": [
+        "HealthShare - interoperability platform for connected care",
+        "IRIS - data platform for healthcare applications",
+        "TrakCare - unified healthcare information system",
+        "Bureau services and managed hosting",
+        "Integration with Renal Registry and national datasets",
+        "Population health management capabilities",
+        "FHIR-compliant APIs for modern integration",
+        "1 billion health records managed globally"
+      ],
+      "business_model": "Enterprise software licensing, implementation services, ongoing support and maintenance. Multi-year contracts with NHS organisations and software partners.",
+      "why_varden_should_care": "Deep NHS penetration with critical infrastructure role. Their platforms underpin many NHS renal IT systems including connections to the UK Renal Registry. As NHS pushes for integrated care systems and population health management, InterSystems' interoperability platform becomes essential. Strong acquisition target for healthcare IT consolidators or cloud platforms (AWS, Azure, GCP) expanding healthcare presence."
+    },
+    {
+      "company_name": "Oracle Health (formerly Cerner)",
+      "hq_location": "Austin, Texas, USA (with UK operations in London)",
+      "website_url": "https://www.oracle.com/health",
+      "problem_solved": "Fragmented electronic health records preventing coordinated care for chronic conditions. Need for comprehensive EPR systems that can manage complex renal pathways including dialysis scheduling, medication management, and lab integration.",
+      "who_buys_it": "Large NHS trusts, integrated care systems, and multi-site healthcare organisations requiring enterprise-scale EPR systems for managing complex patient populations including renal services.",
+      "key_features": [
+        "Millennium - comprehensive EPR platform",
+        "Integrated renal replacement therapy module",
+        "Dialysis scheduling and capacity management",
+        "Laboratory integration for renal function monitoring",
+        "AI-powered clinical decision support",
+        "Population health management tools",
+        "Consumer experience platform for patient engagement",
+        "Cloud-based deployment on Oracle Cloud Infrastructure"
+      ],
+      "business_model": "Enterprise software licensing, implementation services, ongoing support and cloud hosting. Multi-year contracts with large NHS organisations.",
+      "why_varden_should_care": "Massive scale and NHS footprint with several major trusts using Cerner for renal services. Oracle acquisition provides deep resources for AI/ML development and cloud transformation. Their integrated dialysis management capabilities make them critical infrastructure for large renal units. Potential acquisition target for healthcare IT consolidators seeking NHS market share."
+    },
+    {
+      "company_name": "Epic Systems",
+      "hq_location": "Verona, Wisconsin, USA (with UK operations)",
+      "website_url": "https://www.epic.com",
+      "problem_solved": "Need for comprehensive, integrated EPR systems that can manage complex specialty pathways including renal disease progression, dialysis scheduling, and transplant coordination across multiple care settings.",
+      "who_buys_it": "Major NHS trusts, academic medical centres, and integrated health systems requiring sophisticated EPR platforms for managing complex patient populations including specialised renal services.",
+      "key_features": [
+        "MyChart - patient portal with renal-specific workflows",
+        "Integrated dialysis scheduling and documentation",
+        "Kidney disease progression tracking and alerts",
+        "Transplant coordination modules",
+        "Laboratory integration for eGFR and renal function monitoring",
+        "Population health management for CKD patients",
+        "Home dialysis patient monitoring capabilities",
+        "Strong interoperability with NHS systems"
+      ],
+      "business_model": "Enterprise software licensing, implementation services, ongoing support. Substantial multi-year contracts with major healthcare organisations.",
+      "why_varden_should_care": "Premier EPR vendor with growing NHS presence, particularly among academic and teaching hospitals with major renal units. Their integrated approach to chronic disease management makes them essential for advanced renal services including transplant programs. High switching costs create sticky customer relationships. Interesting for healthcare IT consolidators seeking premium market position."
+    },
+    {
+      "company_name": "UK Kidney Association (UKKA)",
+      "hq_location": "London, UK",
+      "website_url": "https://www.ukkidney.org",
+      "problem_solved": "Lack of standardised clinical guidelines, education, and quality improvement resources for UK renal healthcare professionals managing complex kidney disease and dialysis services.",
+      "who_buys_it": "Healthcare organisations, NHS trusts, and individual clinicians purchasing memberships, education resources, and quality improvement tools for renal care delivery.",
+      "key_features": [
+        "Clinical practice guidelines for renal care",
+        "Education Hub with eLearning courses",
+        "Quality improvement knowledge hubs",
+        "Multi-professional team resources",
+        "Kidney Disease Strategy development",
+        "Integration with Renal Registry data",
+        "Webinars and archived educational content",
+        "2000+ members across nephrology, renal nursing, and related specialties"
+      ],
+      "business_model": "Membership fees, educational programme fees, grants, partnerships with healthcare organisations and industry sponsors.",
+      "why_varden_should_care": "Leading professional body for UK renal community with direct access to 2000+ renal specialists. Influential in setting standards and guidelines that shape technology adoption. Strategic partnership potential for companies seeking credibility and market access in UK renal space. Their education hub and guideline development create opportunities for technology integration partnerships."
+    }
+  ],
+  "notes": "The UK dialysis/renal software market is characterised by large EPR vendors (Epic, Oracle Health/Cerner, InterSystems) providing infrastructure, with specialist scheduling (DrDoctor) and patient engagement (Patients Know Best) platforms addressing specific workflow needs. System C Healthcare is the primary UK-based EPR vendor with renal capabilities. The market is driven by NHS digital transformation initiatives and integrated care system requirements. Key trends include remote monitoring for home dialysis patients, AI-powered clinical decision support, and patient-centred care platforms. Limited pure-play dialysis/renal software companies in UK - most solutions are modules within broader healthcare IT platforms.",
+  "research_date": "2026-03-14",
+  "search_engine_issues": "SearXNG search engine returned highly irrelevant results for most queries, limiting discovery of niche players. Research relied heavily on direct URL fetching and existing knowledge of UK healthcare IT landscape."
+}

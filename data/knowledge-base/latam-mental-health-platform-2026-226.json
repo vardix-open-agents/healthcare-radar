@@ -1,0 +1,33 @@
+{
+  "id": "latam-mental-health-platform-2026-226",
+  "title": "LATAM Mental Health Access Crisis",
+  "company": null,
+  "country": "Brazil/Mexico/Colombia/Regional",
+  "region": "LATAM",
+  "segment": "treatment",
+  "problem": "Mental healthcare in LATAM is severely underserved. 15M+ people with depression in Brazil alone. 5M+ with anxiety disorders. Less than 20% receive treatment due to stigma, cost, and provider shortage. COVID-19 exacerbated mental health crisis. No digital mental health solutions at scale.",
+  "solution": "Digital mental health platform. Teletherapy with licensed psychologists. Self-guided CBT programs. Meditation and mood tracking. Employee assistance program (EAP) for corporations. Integration with health insurers. Stepped care model matching severity to intervention.",
+  "technology": "Teletherapy video platform, CBT app content, AI chatbot for screening, outcome tracking, mobile app",
+  "target_customer": "Corporations (EAP), health insurers, individuals (B2C), universities",
+  "care_setting": "mental_health",
+  "care_domain": "behavioral_health",
+  "care_stage": "treatment",
+  "automation_level": "partial",
+  "ai_type": "NLP chatbot for screening, outcome prediction",
+  "traction_signals": [
+    "Mental health stigma decreasing",
+    "COVID-19 created mental health epidemic",
+    "Corporate wellness budgets growing",
+    "Proven models (Talkspace, BetterHelp, Ginger)"
+  ],
+  "funding": null,
+  "regulatory_notes": "Psychologist licensing, teletherapy regulations, data privacy for sensitive mental health data",
+  "varden_fit": "MEDIUM FIT - Consumer-facing but has infrastructure components. Could focus on B2B (EAP) or be infrastructure for therapists. Competitive space but underserved market.",
+  "source": "Opportunity analysis + market gap identification",
+  "url": null,
+  "date_added": "2026-03-11",
+  "problem_type": "mental_health",
+  "contrarian": false,
+  "boring_software": false,
+  "notes": "Mental health tech is hot but crowded. Focus on LATAM-specific needs (Spanish/Portuguese, cultural adaptation, price sensitivity)."
+}

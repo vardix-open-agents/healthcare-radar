@@ -1,0 +1,23 @@
+{
+  "company_name": "TeleTracking",
+  "problem_solved": "Hospitals and health systems lack real-time visibility into bed availability, patient flow, and operational capacity across their network, leading to bottlenecks and inefficient resource utilization",
+  "solution_description": "AI-powered healthcare operations platform providing real-time patient flow management, bed management, and capacity optimization. Operations IQ ingests and analyzes data across the enterprise with workflow automation and decision intelligence. Covers 30% of US hospital beds and 8 of the largest health systems",
+  "buyer_persona": "health_systems",
+  "care_stage": "acute_care",
+  "automation_level": "partial",
+  "varden_fit": "high",
+  "region": "US",
+  "country": "United States",
+  "funding_stage": "private",
+  "traction_signals": [
+    "30% of US hospital beds",
+    "8 of largest US health systems",
+    "34% of US discharges processed",
+    "150+ health systems globally",
+    "455M+ events in AI foundation"
+  ],
+  "notes": "Leader in hospital operations and patient flow. Strong AI/automation capabilities. Critical for bed management and transfer center operations. High Varden fit for healthcare logistics infrastructure.",
+  "discovery_round": 52,
+  "discovered_by": "sky",
+  "timestamp": "2026-03-11T23:20:00Z"
+}

@@ -1,0 +1,27 @@
+{
+  "company": "Alan",
+  "country": "France",
+  "founded_year": 2016,
+  "category": "Health Insurance / Employee Benefits",
+  "subsector": "B2B Health Insurance Platform",
+  "description": "Digital-first health insurance provider offering supplementary health coverage to businesses and individuals. Combines insurance with preventive health tools and mental health support.",
+  "business_model": "B2B2C - Sells health insurance to employers who offer it as employee benefit",
+  "target_market": "French businesses (SMEs and enterprises), expanding to Belgium, Spain, and Canada",
+  "funding_stage": "Series E",
+  "funding_amount_eur": 450000000,
+  "key_investors": "Index Ventures, Ribbit Capital, Temasek, Coatue",
+  "employees": 800,
+  "customers": "30000+ companies",
+  "revenue_eur": 280000000,
+  "tech_stack": ["Mobile app", "Web platform", "AI-powered claims processing"],
+  "integration_points": ["HR systems", "Payroll", "Healthcare provider networks"],
+  "competitive_advantage": "User-friendly digital experience, preventive health focus, integrated mental health support",
+  "varden_fit": {
+    "threat_level": "low",
+    "opportunity": "partner",
+    "rationale": "Potential insurance partner for Varden's occupational health services in France"
+  },
+  "data_quality": "high",
+  "sources": ["alan.com", "crunchbase.com"],
+  "last_updated": "2026-03-11"
+}

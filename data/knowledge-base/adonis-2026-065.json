@@ -1,0 +1,14 @@
+{
+  "company": "Adonis",
+  "country": "US",
+  "problem": "Healthcare providers lack visibility into revenue cycle performance and struggle to identify root causes of claim denials, underpayments, and revenue leakage. Traditional RCM tools are reactive rather than predictive, leading to lost revenue and inefficient manual workflows.",
+  "solution": "Adonis provides an AI-powered revenue intelligence platform that helps healthcare providers optimize their revenue cycle through predictive analytics and automation. Their platform identifies patterns in claims data to predict and prevent denials before they occur, surfaces underpayment opportunities, and automates appeal workflows. Adonis integrates with existing EHR and practice management systems to provide real-time revenue insights and actionable recommendations for financial performance improvement.",
+  "problem_type": "claims_billing",
+  "solution_type": "SaaS",
+  "buyer": "providers",
+  "varden_fit": "high",
+  "url": "https://www.adonis.io",
+  "source": "web research",
+  "discovery_round": 65,
+  "discovered_by": "sky"
+}

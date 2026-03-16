@@ -1,0 +1,14 @@
+{
+  "company": "SamaCare",
+  "country": "US",
+  "problem": "Healthcare providers struggle with fragmented prior authorization workflows across multiple payers and drugs, leading to paper-based processes, missing information, and delayed approvals",
+  "solution": "Single portal platform for submitting, tracking, and managing all prior authorizations across payers and drugs with auto-fills, payer-specific intelligence, automatic reminders for expiring authorizations, and EMR integration",
+  "problem_type": "prior_authorization",
+  "solution_type": "SaaS",
+  "buyer": "providers",
+  "varden_fit": "high",
+  "url": "https://www.samacare.com",
+  "source": "web",
+  "discovery_round": 86,
+  "discovered_by": "sky"
+}

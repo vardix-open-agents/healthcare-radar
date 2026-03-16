@@ -1,0 +1,23 @@
+{
+  "company_name": "K Health",
+  "problem_solved": "Primary care access limited to 9-5, with 7-10 month waits to see physicians and 3-4 months for diagnostic/specialty visits",
+  "solution_description": "AI-powered virtual primary care platform that integrates with top health systems. AI Physician Mode automates intake and provides clinical insights, enabling providers to focus on personalized care. 24/7 access model with single medical record integration. 10M+ medical chats completed",
+  "buyer_persona": "health_systems|patients",
+  "care_stage": "triage|diagnosis|treatment",
+  "automation_level": "partial",
+  "varden_fit": "high",
+  "region": "US",
+  "country": "US",
+  "funding_stage": "series_d",
+  "traction_signals": [
+    "Partnerships with Hartford HealthCare, Hackensack Meridian Health, Cedars-Sinai",
+    "10M+ medical chats completed",
+    "24/7 access model",
+    "Single medical record with brick-and-mortar integration",
+    "CEO endorsements from major health system partners"
+  ],
+  "notes": "Strong US health system partnerships. Hybrid model connecting virtual and in-person care. High-profile endorsements (Hartford HealthCare, Cedars-Sinai CEOs). Not yet EU-focused but model is transferable",
+  "discovery_round": 51,
+  "discovered_by": "sky",
+  "timestamp": "2026-03-11T23:24:00Z"
+}

@@ -1,0 +1,14 @@
+{
+  "company": "ANT Neuro",
+  "country": "NL",
+  "problem": "Neurology clinics and research institutions require high-performance EEG systems, neuronavigation, and neurofeedback tools for advanced brain diagnostics and treatment",
+  "solution": "eego next-generation EEG amplifiers, visor2 TMS neuronavigation systems, and neurofeedback solutions for clinical and research applications with exceptional signal quality",
+  "problem_type": "neurology",
+  "solution_type": "SaaS",
+  "buyer": "clinics",
+  "varden_fit": "medium",
+  "url": "https://www.ant-neuro.com",
+  "source": "web",
+  "discovery_round": 118,
+  "discovered_by": "sky"
+}

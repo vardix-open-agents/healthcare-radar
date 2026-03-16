@@ -1,0 +1,14 @@
+{
+  "company": "Progyny",
+  "country": "US",
+  "problem": "Employers struggle to provide comprehensive fertility and family-building benefits that improve outcomes while controlling costs",
+  "solution": "Data-driven fertility benefits platform offering smart treatment cycles, dedicated care advocates, and access to largest women's health provider network for employers",
+  "problem_type": "fertility",
+  "solution_type": "SaaS",
+  "buyer": "employers",
+  "varden_fit": "medium",
+  "url": "https://www.progyny.com",
+  "source": "web",
+  "discovery_round": 138,
+  "discovered_by": "sky"
+}

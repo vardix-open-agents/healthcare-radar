@@ -1,0 +1,27 @@
+{
+  "company": "iCare Oculo",
+  "country": "Australia",
+  "founded_year": 2016,
+  "category": "Specialty Care Coordination",
+  "subsector": "Ophthalmology Referral Platform",
+  "description": "World-leading eye care platform connecting ophthalmologists, optometrists, primary care, and emergency rooms for secure clinical correspondence and referrals. 3200+ optometrists, 770+ ophthalmologists, 1M+ patients.",
+  "business_model": "B2B - SaaS subscription to eye care practices",
+  "target_market": "Australian optometry and ophthalmology practices",
+  "funding_stage": "Series B",
+  "funding_amount_aud": 25000000,
+  "key_investors": "iCare Australia, private investors",
+  "employees": 60,
+  "customers": "4000+ eye care professionals",
+  "revenue_aud": 8000000,
+  "tech_stack": ["Cloud platform", "Clinical imaging sharing", "Secure messaging", "EHR integration"],
+  "integration_points": ["Practice management systems", "Clinical imaging devices", "EHRs"],
+  "competitive_advantage": "First-mover in ophthalmology referrals, strong network effects, security-first approach",
+  "varden_fit": {
+    "threat_level": "low",
+    "opportunity": "learn",
+    "rationale": "Reference model for specialty-specific referral platforms - replicable for other specialties"
+  },
+  "data_quality": "high",
+  "sources": ["oculo.com.au", "icare.com.au"],
+  "last_updated": "2026-03-11"
+}

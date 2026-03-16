@@ -1,0 +1,14 @@
+{
+  "company": "PrimeRx",
+  "country": "US",
+  "problem": "Independent retail pharmacies need comprehensive pharmacy management systems that help them compete with chains while maintaining operational efficiency and patient care quality",
+  "solution": "PrimeRx provides pharmacy management software for independent retail pharmacies with prescription processing, POS integration, inventory management, patient engagement tools, clinical services documentation, and eCare Plan capabilities",
+  "problem_type": "retail_pharmacy",
+  "solution_type": "SaaS",
+  "buyer": "pharmacies",
+  "varden_fit": "medium",
+  "url": "https://www.pioneerrx.com",
+  "source": "web",
+  "discovery_round": 128,
+  "discovered_by": "sky"
+}

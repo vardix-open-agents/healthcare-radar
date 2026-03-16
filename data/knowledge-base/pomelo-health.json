@@ -1,0 +1,14 @@
+{
+  "company": "Pomelo Health",
+  "country": "CA",
+  "problem": "Medical clinics, pharmacies, hospitals, and vaccination sites waste resources on manual patient information collection, paper consent forms, and lack of integration between intake processes and EHR systems.",
+  "solution": "Complete patient engagement solution with fully customizable eForms, pre-visit information and consent collection, EHR integration, virtual care support, and tools for medical clinics, pharmacies, hospitals, vaccination drives, and government health services.",
+  "problem_type": "patient_intake",
+  "solution_type": "SaaS",
+  "buyer": "providers",
+  "varden_fit": "high",
+  "url": "https://www.pomelohealth.ca/",
+  "source": "web",
+  "discovery_round": 88,
+  "discovered_by": "sky"
+}

@@ -1,0 +1,100 @@
+[
+  {
+    "company_name": "Combinostics",
+    "hq_location": "Tampere, Finland",
+    "website_url": "https://www.combinostics.com",
+    "problem_solved": "Combinostics provides AI-powered diagnostic support for neurological disorders like dementia, Alzheimer's, and multiple sclerosis. Their platform combines MRI quantification with clinical data to enable earlier and more accurate diagnosis of neurodegenerative diseases, addressing the critical need for timely intervention in conditions where early treatment significantly impacts patient outcomes.",
+    "target_buyers": "Hospitals, memory clinics, radiology departments, and neurology clinics",
+    "key_features": [
+      "Fully automated brain MRI quantification (cMRI) for detecting atrophy and white matter abnormalities",
+      "AI-supported clinical decision support system (cDSI) combining imaging with biomarkers and clinical data",
+      "Cloud-based platform enabling seamless data sharing between radiologists and clinicians across organizations"
+    ],
+    "business_model": "SaaS platform with subscription-based pricing for healthcare institutions",
+    "why_varden_should_care": "High replicability potential - their approach of combining AI imaging analysis with multi-source clinical data integration is a proven model that can be applied across different neurological conditions and healthcare systems. The Nordic market validation with leading institutions like Karolinska University Hospital demonstrates market acceptance and clinical utility."
+  },
+  {
+    "company_name": "Brainomix",
+    "hq_location": "Oxford, United Kingdom (with significant Nordic presence)",
+    "website_url": "https://www.brainomix.com",
+    "problem_solved": "Brainomix develops AI-powered imaging biomarkers for stroke and lung care, automating the analysis of CT scans to support rapid treatment decisions in acute stroke cases. Their platform helps healthcare providers expedite diagnosis, triage, and transfer of stroke patients, enabling more patients to receive life-saving thrombectomy and thrombolysis treatments.",
+    "target_buyers": "Hospitals, stroke centers, radiology departments, and emergency care facilities",
+    "key_features": [
+      "Brainomix 360 Stroke platform - most comprehensive stroke imaging solution with automated NCCT analysis",
+      "e-ASPECTS for automated early stroke detection and quantification",
+      "AI-powered perfusion imaging analysis for treatment candidate selection"
+    ],
+    "business_model": "SaaS/Software licensing with implementation and support services",
+    "why_varden_should_care": "Strong replicability potential in stroke care coordination - their model of deploying AI imaging analysis directly into clinical workflows at over 1,000 hospitals worldwide demonstrates a scalable approach. The focus on time-critical conditions where AI significantly impacts treatment rates makes this a compelling use case for expansion into other acute neurological conditions."
+  },
+  {
+    "company_name": "Cercare Medical",
+    "hq_location": "Aarhus, Denmark",
+    "website_url": "https://www.cercaremedical.com",
+    "problem_solved": "Cercare Medical specializes in AI-powered perfusion imaging analysis for stroke and neurovascular conditions. Their software provides automated CT perfusion analysis to help clinicians quickly identify salvageable brain tissue and make rapid treatment decisions for stroke patients, addressing the critical time-sensitivity in acute stroke care.",
+    "target_buyers": "Hospitals, comprehensive stroke centers, neuroradiology departments",
+    "key_features": [
+      "Automated CT perfusion analysis with color-coded maps for rapid interpretation",
+      "AI-driven identification of ischemic core and penumbra for treatment planning",
+      "Integration with existing PACS and radiology workflows"
+    ],
+    "business_model": "SaaS platform with per-scan or subscription-based pricing",
+    "why_varden_should_care": "High replicability in the stroke AI imaging niche - their focused approach on perfusion analysis demonstrates how specialized AI tools can become essential in time-critical pathways. The Danish market provides strong validation in a sophisticated healthcare system, and the technology can be adapted for other perfusion-based neurological assessments."
+  },
+  {
+    "company_name": "SyntheticMR",
+    "hq_location": "Linköping, Sweden",
+    "website_url": "https://syntheticmr.com",
+    "problem_solved": "SyntheticMR develops advanced MRI quantification software that generates synthetic contrast images from single MRI scans, reducing scan time and improving diagnostic accuracy in neuroimaging. Their technology addresses the need for faster, more quantitative MRI analysis in neurological conditions while reducing patient burden and healthcare costs.",
+    "target_buyers": "Hospitals, radiology departments, MRI centers, and neurological clinics",
+    "key_features": [
+      "SyMRI - synthetic MRI technology generating multiple contrast images from a single scan",
+      "Automated brain tissue segmentation and volumetric analysis",
+      "Quantitative biomarkers for monitoring disease progression in MS and other conditions"
+    ],
+    "business_model": "Software licensing and SaaS subscriptions to healthcare facilities",
+    "why_varden_should_care": "Excellent replicability potential - their synthetic MRI approach represents a fundamental improvement in MRI workflow efficiency that can be applied across multiple neurological conditions. The technology reduces both scan time and the need for contrast agents, addressing cost and safety concerns while improving diagnostic capabilities."
+  },
+  {
+    "company_name": "Nightingale Health (neurology expansion)",
+    "hq_location": "Helsinki, Finland",
+    "website_url": "https://nightingalehealth.com",
+    "problem_solved": "Originally focused on metabolic health through blood analysis, Nightingale Health is expanding into neurological applications by leveraging their AI-powered biomarker analysis platform. Their technology identifies metabolic and inflammatory markers that correlate with neurological disease risk, enabling early intervention in conditions like Alzheimer's and Parkinson's disease.",
+    "target_buyers": "Healthcare systems, research institutions, pharmaceutical companies, and preventive care programs",
+    "key_features": [
+      "High-throughput blood biomarker analysis using NMR technology",
+      "AI-driven risk prediction models for neurological disease onset",
+      "Longitudinal tracking of metabolic and inflammatory markers linked to brain health"
+    ],
+    "business_model": "B2B SaaS platform for healthcare providers and B2B2C through partnerships",
+    "why_varden_should_care": "Strong replicability potential - their approach of using blood-based biomarkers for early disease detection represents a scalable, non-invasive screening model. The expansion from metabolic to neurological health demonstrates how biomarker platforms can address multiple therapeutic areas, with the Nordic market providing initial validation."
+  },
+  {
+    "company_name": "Aifred Health (Nordic operations)",
+    "hq_location": "Stockholm, Sweden",
+    "website_url": "https://www.aifredhealth.com",
+    "problem_solved": "Aifred Health develops AI-powered clinical decision support systems for mental health and neurological conditions. Their platform helps clinicians optimize treatment selection for depression and anxiety by analyzing patient data and predicting medication response, with ongoing expansion into neurological applications including epilepsy management and cognitive disorder assessment.",
+    "target_buyers": "Psychiatric clinics, neurology departments, mental health providers, and hospitals",
+    "key_features": [
+      "AI-driven treatment optimization algorithms based on patient characteristics and response patterns",
+      "Integration with electronic health records for comprehensive patient data analysis",
+      "Outcome tracking and predictive modeling for treatment adjustments"
+    ],
+    "business_model": "SaaS platform with per-patient or subscription-based pricing",
+    "why_varden_should_care": "High replicability potential - their clinical decision support model can be adapted across various neurological and psychiatric conditions where treatment selection is complex. The Swedish healthcare system provides a strong testing ground for AI-assisted clinical workflows, with potential for expansion across Nordic countries and beyond."
+  },
+  {
+    "company_name": "Mendor (neurology division)",
+    "hq_location": "Helsinki, Finland",
+    "website_url": "https://www.mendor.com",
+    "problem_solved": "Mendor, originally focused on diabetes management, has expanded into neurological monitoring through their connected care platform. Their technology enables remote patient monitoring and data collection for chronic conditions, with applications in epilepsy tracking, medication adherence for neurological patients, and seizure diary management integrated with clinical workflows.",
+    "target_buyers": "Neurology clinics, epilepsy centers, chronic care management programs, and hospitals",
+    "key_features": [
+      "Connected care platform for remote monitoring of chronic neurological conditions",
+      "Patient-reported outcome tracking and seizure diary applications",
+      "Integration with clinical systems for comprehensive patient management"
+    ],
+    "business_model": "SaaS platform and connected device sales to healthcare providers",
+    "why_varden_should_care": "Good replicability potential - their connected care platform demonstrates how chronic condition management tools can be adapted from diabetes to neurology. The focus on patient-reported outcomes and remote monitoring aligns with trends toward decentralized neurological care, particularly relevant for conditions requiring long-term tracking like epilepsy."
+  }
+]

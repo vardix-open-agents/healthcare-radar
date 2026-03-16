@@ -1,0 +1,14 @@
+{
+  "company": "Allergy Shot Scheduler",
+  "country": "US",
+  "problem": "Allergy practices spend excessive time manually scheduling immunotherapy appointments and tracking patient adherence",
+  "solution": "Automated scheduling and reminder platform specifically for allergy shot appointments with wait time tracking and capacity management",
+  "problem_type": "allergy",
+  "solution_type": "SaaS",
+  "buyer": "clinics",
+  "varden_fit": "medium",
+  "url": "https://allergyshotscheduler.com",
+  "source": "web",
+  "discovery_round": 114,
+  "discovered_by": "nova"
+}

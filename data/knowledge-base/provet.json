@@ -1,0 +1,14 @@
+{
+  "company": "Provet",
+  "country": "AU",
+  "problem": "Veterinary professionals spend excessive time on administrative tasks like scheduling, record-keeping, and client communication instead of focusing on patient care, leading to staff inefficiency and work-life imbalance",
+  "solution": "AI-powered cloud veterinary practice management software that saves one hour per person daily through automated scheduling, patient management, client communication, clinical AI for SOAP notes, integrated payments, and extensive third-party integrations",
+  "problem_type": "veterinary",
+  "solution_type": "SaaS",
+  "buyer": "vet_clinics",
+  "varden_fit": "low",
+  "url": "https://www.provet.com",
+  "source": "web",
+  "discovery_round": 102,
+  "discovered_by": "nova"
+}

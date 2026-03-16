@@ -1,0 +1,33 @@
+{
+  "id": "latam-pediatric-growth-2026-236",
+  "title": "LATAM Pediatric Care Coordination Gap",
+  "company": null,
+  "country": "Brazil/Mexico/Colombia/Regional",
+  "region": "LATAM",
+  "segment": "treatment",
+  "problem": "Pediatric care in LATAM lacks coordination. Vaccination schedules tracked on paper cards (often lost). No digital growth charts. Parents struggle with symptom triage (when to go to ER vs pediatrician). High ER utilization for non-emergencies. No integration between pediatricians, schools, and specialists.",
+  "solution": "Pediatric care coordination app. Digital vaccination record (automatic reminders). Growth tracking with WHO charts. Symptom checker for common childhood illnesses. Direct messaging with pediatrician. School health record sharing. Specialist referral coordination. Emergency guidance.",
+  "technology": "Mobile app, growth chart visualization, symptom checker (decision tree), secure messaging, school portal, EMR integration",
+  "target_customer": "Parents (B2C), pediatricians, health insurers (reduce ER visits), schools",
+  "care_setting": "home",
+  "care_domain": "pediatrics",
+  "care_stage": "prevention",
+  "automation_level": "assistive",
+  "ai_type": "Symptom checker logic, growth anomaly detection",
+  "traction_signals": [
+    "Vaccination coverage gaps documented",
+    "High pediatric ER utilization for non-emergencies",
+    "Parent anxiety about child health",
+    "Proven models (Kinsa, Blueberry Pediatrics)"
+  ],
+  "funding": null,
+  "regulatory_notes": "Pediatric medical advice regulations, vaccination record standards, child data privacy",
+  "varden_fit": "MEDIUM FIT - Consumer-facing pediatric app. Could be B2C or B2B2C through insurers. High engagement product if done well. Viral potential among parents.",
+  "source": "Opportunity analysis + market gap identification",
+  "url": null,
+  "date_added": "2026-03-11",
+  "problem_type": "pediatric",
+  "contrarian": false,
+  "boring_software": false,
+  "notes": "Pediatric apps can be very engaging (parents check daily). Vaccination tracking alone is valuable in LATAM where paper cards are still used."
+}

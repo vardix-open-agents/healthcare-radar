@@ -1,0 +1,22 @@
+{
+  "company_name": "Veeva Vault Safety",
+  "problem_solved": "Pharmacovigilance complexity and adverse event management",
+  "solution_description": "Cloud-based pharmacovigilance platform for adverse event processing, signal detection, and safety reporting. Part of Veeva Vault suite. Modern alternative to legacy Oracle Argus.",
+  "buyer_persona": "pharma_lifesciences",
+  "care_stage": "clinical_trials,commercial",
+  "automation_level": "partial",
+  "varden_fit": "medium",
+  "region": "Global",
+  "country": "US",
+  "funding_stage": "public",
+  "traction_signals": [
+    "Fastest growing Vault product",
+    "Displacing legacy Argus",
+    "Integrated with Vault RIM",
+    "Cloud-native architecture"
+  ],
+  "notes": "Modern cloud pharmacovigilance. Competes with Oracle Argus, ArisGlobal. Integrated with Veeva ecosystem. Strong growth trajectory.",
+  "discovery_round": 53,
+  "discovered_by": "sky",
+  "timestamp": "2026-03-11T23:18:00Z"
+}

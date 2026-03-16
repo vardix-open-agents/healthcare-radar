@@ -1,0 +1,16 @@
+{
+  "id": "problem-2026-081",
+  "problem": "Genetic test results are delivered via fax and PDF, making them inaccessible to EHR decision support and pharmacogenomic alerts",
+  "problem_type": "data_integration",
+  "solution_type": "Standardized genetic data APIs, FHIR genomics implementation, EHR-integrated genetic results",
+  "care_stage": "diagnosis",
+  "automation_type": "data_integration",
+  "buyer": "health_system",
+  "care_setting": "specialty",
+  "companies": ["GeneInsight", "Invitae", "Color Genomics", "Helix", "Foundation Medicine"],
+  "signals": ["Pharmacogenomic testing growth", "Direct-to-consumer genetic testing", "Precision medicine initiatives"],
+  "boring_software": false,
+  "contrarian": true,
+  "url": "https://www.genome.gov",
+  "date_added": "2026-03-11"
+}

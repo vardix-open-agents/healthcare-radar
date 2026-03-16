@@ -1,0 +1,14 @@
+{
+  "company": "ARANZ Medical",
+  "country": "NZ",
+  "problem": "Wound care documentation is fragmented, inaccurate, and lacks standardized imaging. Paper ruler measurements are imprecise, and data is difficult to track for billing and insurance claims.",
+  "solution": "Silhouette wound care charting solution providing high-quality wound imaging, online/offline charting, advanced measurement capabilities, and centralized database. Includes SilhouetteMobile app for Apple devices enabling mobile wound assessment.",
+  "problem_type": "wound_care",
+  "solution_type": "SaaS",
+  "buyer": "clinics",
+  "varden_fit": "medium",
+  "url": "https://www.aranzmedical.com",
+  "source": "web",
+  "discovery_round": 134,
+  "discovered_by": "sky"
+}

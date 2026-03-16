@@ -1,0 +1,154 @@
+[
+  {
+    "company_name": "samedi",
+    "hq_location": "Berlin, Germany",
+    "website_url": "https://www.samedi.com",
+    "problem_solved": "Reduces administrative burden in medical practices through AI-powered patient communication, online scheduling, and digital workflows",
+    "who_buys_it": "Medical practices, MVZs (Medical Care Centers), hospitals, and clinics in DACH region",
+    "key_features": [
+      "AI-powered telephone assistant for automated patient inquiries",
+      "Online appointment booking with white-label integration",
+      "Automated patient communication and reminders",
+      "Digital patient forms and documentation",
+      "Video consultation platform (KBV-approved)",
+      "40+ integrations with practice management systems",
+      "Resource management for rooms, personnel, and equipment",
+      "GDPR-compliant data handling with C5 Type 2 certification"
+    ],
+    "business_model": "SaaS subscription with tiered pricing based on practice size and features; packages range from basic to enterprise solutions",
+    "why_varden_should_care": "Leading DACH digital health infrastructure player with strong market position (6,000+ customers, 10,000+ institutions); AI automation reduces practice operational costs by up to 90%; strategic partnerships with major German healthcare players; proven scalability across multiple healthcare verticals"
+  },
+  {
+    "company_name": "medatixx",
+    "hq_location": "Dortmund, Germany",
+    "website_url": "https://www.medatixx.de",
+    "problem_solved": "Streamlines practice administration for medical professionals with comprehensive practice management software and TI (Telematics Infrastructure) integration",
+    "who_buys_it": "Medical practices across all specialties in Germany, including physiotherapy and rehabilitation centers",
+    "key_features": [
+      "Comprehensive practice management system",
+      "Telematics Infrastructure (TI) integration as a service",
+      "Electronic health record management",
+      "Appointment scheduling and patient communication",
+      "Billing and insurance claim processing",
+      "80+ service locations across Germany",
+      "Personal on-site support and training",
+      "Seamless data migration from other systems"
+    ],
+    "business_model": "Software licensing with annual maintenance fees; includes installation, training, and ongoing support; no double maintenance fees during transition period",
+    "why_varden_should_care": "Established player with 22,500+ practices using their software; strong service network with 80+ locations across Germany; deep expertise in German healthcare IT infrastructure and regulatory compliance; potential acquisition target for consolidating practice management market"
+  },
+  {
+    "company_name": "Terminland",
+    "hq_location": "Munich, Germany",
+    "website_url": "https://www.terminland.de",
+    "problem_solved": "Eliminates phone-based appointment scheduling inefficiencies by enabling 24/7 online booking for service providers",
+    "who_buys_it": "Medical practices, therapists, healthcare providers, and various service-based businesses in DACH region",
+    "key_features": [
+      "24/7 online appointment booking system",
+      "Industry-specific configurations",
+      "Automated appointment reminders via email and SMS",
+      "Calendar synchronization",
+      "GDPR-compliant with TLS encryption",
+      "Server hosting in Germany (EQUINIX)",
+      "Customizable booking workflows",
+      "Integration with existing practice systems"
+    ],
+    "business_model": "SaaS subscription with tiered pricing based on number of appointment calendars and features; free trial available",
+    "why_varden_should_care": "Proven platform with 16,000+ appointment plans and 61M+ appointments managed; reduces scheduling costs by up to 90%; strong foothold in German healthcare market; attractive unit economics with high customer retention; potential for European expansion"
+  },
+  {
+    "company_name": "Physitrack",
+    "hq_location": "London, UK (with significant DACH presence)",
+    "website_url": "https://www.physitrack.com",
+    "problem_solved": "Enables remote patient engagement and telehealth for physiotherapists, osteopaths, and chiropractors through digital exercise prescription and monitoring",
+    "who_buys_it": "Physiotherapists, osteopaths, chiropractors, and rehabilitation specialists in DACH region and globally",
+    "key_features": [
+      "18,000+ video exercise library",
+      "AI-assisted program building",
+      "Patient app (PhysiApp) with 3M+ downloads",
+      "Real-time progress and adherence monitoring",
+      "Built-in telehealth video consultations",
+      "Pain level tracking and reporting",
+      "Integration with 70+ practice management systems",
+      "ISO 27001 certified, GDPR and HIPAA compliant"
+    ],
+    "business_model": "SaaS subscription per practitioner; ROI calculator shows cost savings; free 14-day trial; tiered pricing based on team size and features",
+    "why_varden_should_care": "Market leader in digital physiotherapy with 80,000+ care providers globally; cited in 100+ clinical studies; strong DACH adoption through integrations with local PMS providers; telehealth + exercise prescription = comprehensive digital care platform; potential for expansion into adjacent specialties"
+  },
+  {
+    "company_name": "Jane App",
+    "hq_location": "North Vancouver, Canada (with European data centers including UK)",
+    "website_url": "https://jane.app",
+    "problem_solved": "Simplifies practice management for health and wellness practitioners with an intuitive, all-in-one platform",
+    "who_buys_it": "Chiropractors, osteopaths, physiotherapists, massage therapists, and allied health practitioners in DACH region",
+    "key_features": [
+      "Online booking and patient scheduling",
+      "Automated email and SMS reminders",
+      "Insurance billing and direct billing",
+      "HIPAA-compliant charting and documentation",
+      "Built-in video consultations",
+      "Payment processing and invoicing",
+      "Multi-location and multi-practitioner support",
+      "Patient exercise prescription"
+    ],
+    "business_model": "SaaS subscription based on number of practitioners; pricing scales with practice size; no per-feature fees; includes unlimited support",
+    "why_varden_should_care": "Strong growth in European market with regional data centers; specifically designed for interdisciplinary clinics including chiropractic/osteopathy; excellent user experience drives high retention; potential for DACH market expansion through localization"
+  },
+  {
+    "company_name": "Zanda (formerly Power Diary)",
+    "hq_location": "Brisbane, Australia (global presence)",
+    "website_url": "https://zandahealth.com",
+    "problem_solved": "Automates practice management workflows for health practitioners, reducing administrative burden and improving patient care",
+    "who_buys_it": "Chiropractors, osteopaths, physiotherapists, and allied health practitioners in DACH region and globally",
+    "key_features": [
+      "Drag-and-drop calendar management",
+      "BizzyAI - secure AI assistant for healthcare",
+      "HIPAA-compliant Zoom telehealth integration",
+      "Custom treatment notes and body charting",
+      "Automated SMS and email reminders",
+      "Online booking and patient portal",
+      "Insurance claiming and billing",
+      "Physitrack integration for exercise programs"
+    ],
+    "business_model": "SaaS subscription with tiered pricing; 50% discount for first 6 months; per-practitioner pricing model; includes unlimited support and updates",
+    "why_varden_should_care": "Dedicated chiropractic and osteopathy modules show deep domain expertise; BizzyAI differentiates through AI-powered workflow automation; strong integration ecosystem (Physitrack, Zoom); scalable platform serving solo to group practices; potential for DACH market penetration through strategic partnerships"
+  },
+  {
+    "company_name": "Cliniko",
+    "hq_location": "Melbourne, Australia (global platform)",
+    "website_url": "https://www.cliniko.com",
+    "problem_solved": "Provides comprehensive practice management for allied health practitioners with transparent pricing and strong security",
+    "who_buys_it": "Chiropractors, osteopaths, physiotherapists, and allied health practitioners in DACH region and globally",
+    "key_features": [
+      "Appointment scheduling and calendar management",
+      "Treatment records and clinical notes",
+      "Invoicing and payment processing",
+      "Online booking for patients",
+      "Automated reminders via email and SMS",
+      "Connected apps ecosystem (Xero, Mailchimp)",
+      "Bank-level security and encryption",
+      "Multi-location and multi-practitioner support"
+    ],
+    "business_model": "Flat-rate SaaS subscription regardless of features; 2% of subscriptions donated to charity; unlimited free support; no lock-in contracts; per-practitioner pricing",
+    "why_varden_should_care": "Simple, transparent pricing model appeals to solo and small practices; strong security focus builds trust in regulated healthcare market; charitable giving creates positive brand differentiation; growing DACH presence through organic adoption; potential for regional expansion through localization"
+  },
+  {
+    "company_name": "Wibbi (formerly Physiotec)",
+    "hq_location": "Montreal, Canada (global platform)",
+    "website_url": "https://wibbi.com",
+    "problem_solved": "Streamlines home exercise prescription for rehabilitation therapists with extensive exercise library and patient engagement tools",
+    "who_buys_it": "Physiotherapists, osteopaths, chiropractors, and rehabilitation specialists in DACH region and globally",
+    "key_features": [
+      "20,000+ home exercise videos across 18+ specialties",
+      "300+ exercise program templates",
+      "Patient education sheets and condition info",
+      "Patient mobile app with push notifications",
+      "Remote Therapeutic Monitoring (RTM)",
+      "70+ EMR and practice management integrations",
+      "Automated progress tracking and NPS surveys",
+      "Evidence-based care pathways"
+    ],
+    "business_model": "SaaS subscription with per-practitioner pricing; free 30-day trial; full refund guarantee after 6 months if unsatisfied; enterprise pricing for large organizations",
+    "why_varden_should_care": "Trusted by 8,000+ organizations and 40,000+ health specialists globally; 16M+ patients served demonstrates scale; strong European adoption through EMR integrations; Remote Therapeutic Monitoring addresses growing remote care demand; potential for DACH market expansion through strategic partnerships"
+  }
+]

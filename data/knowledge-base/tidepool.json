@@ -1,0 +1,14 @@
+{
+  "company": "Tidepool",
+  "country": "US",
+  "problem": "Diabetes data is scattered across multiple devices (CGMs, insulin pumps, meters) and platforms, making it difficult for patients and clinicians to get a unified view for treatment decisions.",
+  "solution": "Tidepool provides an open-source, cloud-based diabetes data platform that aggregates data from CGMs, insulin pumps, and meters into a single dashboard. The platform enables easy data sharing with caregivers and endocrinologists, supports telemedicine visits, and develops the FDA-cleared Tidepool Loop automated insulin delivery system.",
+  "problem_type": "endocrinology",
+  "solution_type": "SaaS",
+  "buyer": "clinics",
+  "varden_fit": "medium",
+  "url": "https://www.tidepool.org",
+  "source": "web",
+  "discovery_round": 116,
+  "discovered_by": "nova"
+}

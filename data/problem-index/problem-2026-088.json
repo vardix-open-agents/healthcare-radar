@@ -1,0 +1,16 @@
+{
+  "id": "problem-2026-088",
+  "problem": "Wheelchair and DME verification requires 6-8 separate phone calls to insurance, physician, and supplier, taking 2-3 hours per patient",
+  "problem_type": "eligibility_verification",
+  "solution_type": "DME eligibility automation, integrated ordering platforms, real-time benefit verification",
+  "care_stage": "treatment",
+  "automation_type": "workflow_automation",
+  "buyer": "practice",
+  "care_setting": "dme",
+  "companies": ["Numotion", "National Seating & Mobility", "CareLinc", "Edgepark Medical", "Byram Healthcare"],
+  "signals": ["DME competitive bidding", "Prior auth burden for DME", "Home medical equipment growth"],
+  "boring_software": true,
+  "contrarian": false,
+  "url": "https://www.cms.gov/Medicare/Medicare-Fee-for-Service-Payment/DMEPOSCompetitiveBid",
+  "date_added": "2026-03-11"
+}

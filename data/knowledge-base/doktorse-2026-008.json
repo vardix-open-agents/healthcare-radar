@@ -1,0 +1,30 @@
+{
+  "id": "doktorse-2026-008",
+  "title": "Doktor.se - Multi-Country Digital Healthcare Platform",
+  "company": "Doktor.se",
+  "country": "Sweden",
+  "region": "Nordics",
+  "segment": "infrastructure",
+  "problem": "Healthcare access fragmented across digital and physical channels. Need for integrated telemedicine and physical healthcare centers.",
+  "solution": "Hybrid platform combining digital telemedicine with physical healthcare centers. Operates across multiple European countries. Also powers veterinary care (AniCura).",
+  "technology": "Telemedicine, hybrid care model, multi-country platform, veterinary health tech",
+  "target_customer": "Patients, employers, healthcare systems, veterinary clinics",
+  "care_setting": "telehealth",
+  "care_domain": "general",
+  "care_stage": "diagnosis",
+  "automation_level": "none",
+  "ai_type": null,
+  "traction_signals": [
+    "€29.5M investment from Tencent",
+    "Operations in multiple European countries",
+    "Owns both digital platform and physical health centers",
+    "Veterinary telemedicine platform (AniCura)"
+  ],
+  "funding": "€29.5M from Tencent",
+  "regulatory_notes": "Operates across multiple EU jurisdictions. Each market has specific telemedicine regulations.",
+  "varden_fit": "MODERATE-HIGH - Direct hybrid care model similar to Varden's vision. Multi-country expansion experience valuable. Veterinary side less relevant but shows platform flexibility. Potential for knowledge sharing or selective partnership.",
+  "source": "Doktor.se press release",
+  "url": "https://doktor.se/press/digital-healthcare-startup-doktor-se-secures-up-to-euro29-5-million-in-investment-from-tencent",
+  "date_added": "2026-03-11",
+  "notes": "Tencent backing = significant resources. Multi-country operational experience valuable. Research: which countries, revenue breakdown, veterinary vs human health split."
+}

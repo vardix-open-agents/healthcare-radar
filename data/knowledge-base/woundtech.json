@@ -1,0 +1,14 @@
+{
+  "company": "Woundtech",
+  "country": "US",
+  "problem": "Access to specialized wound care is limited for homebound and non-homebound patients. Many patients lack access to wound specialists, leading to delayed treatment and poor outcomes.",
+  "solution": "Advanced mobile wound care services bringing specialized wound care directly to patients. Team includes advanced practice providers (NP, PA, DPM), licensed clinicians, and patient care navigators. Evidence-based pathways, debridement procedures, and proprietary wound care formulary.",
+  "problem_type": "wound_care",
+  "solution_type": "services",
+  "buyer": "health_plans",
+  "varden_fit": "low",
+  "url": "https://woundtech.net",
+  "source": "web",
+  "discovery_round": 134,
+  "discovered_by": "sky"
+}

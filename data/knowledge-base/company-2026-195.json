@@ -1,0 +1,27 @@
+{
+  "company": "Vida Health (USA)",
+  "country": "United States",
+  "founded_year": 2014,
+  "category": "Digital Therapeutics",
+  "subsector": "Chronic Condition Management Platform",
+  "description": "US digital therapeutics platform for chronic condition management. Mobile app provides coaching, programs, and support for diabetes, hypertension, obesity, and mental health. Sold to employers and health plans.",
+  "business_model": "B2B - Digital therapeutics to employers and health plans",
+  "target_market": "Self-insured employers, health plans",
+  "funding_stage": "Series D",
+  "funding_amount_usd": 150000000,
+  "key_investors": "General Atlantic, Canvas Ventures, others",
+  "employees": "200+",
+  "customers": "Employers, health plans",
+  "revenue_usd": null,
+  "tech_stack": ["Digital therapeutics", "Health coaching", "Chronic disease management", "Behavior change"],
+  "integration_points": ["Employer benefits platforms", "Health plan systems", "Medical devices"],
+  "competitive_advantage": "Multiple chronic conditions, clinical outcomes, employer sales",
+  "varden_fit": {
+    "threat_level": "low",
+    "opportunity": "monitor",
+    "rationale": "Chronic condition management - potential complement to occupational health"
+  },
+  "data_quality": "high",
+  "sources": ["vida.com", "crunchbase.com"],
+  "last_updated": "2026-03-11"
+}

@@ -1,0 +1,14 @@
+{
+  "company": "MacPractice",
+  "country": "US",
+  "problem": "Medical and dental practices using Mac environments lack specialized HIPAA-compliant practice management software with native Apple aesthetics and integration",
+  "solution": "HIPAA-compliant practice management solution for MacOS including appointment scheduling, electronic forms for iPad, claim management, paperless workflows, and secure web access for dental, medical, and chiropractic practices",
+  "problem_type": "chiropractic",
+  "solution_type": "SaaS",
+  "buyer": "clinics",
+  "varden_fit": "medium",
+  "url": "https://www.macpractice.com",
+  "source": "web",
+  "discovery_round": 139,
+  "discovered_by": "nova"
+}

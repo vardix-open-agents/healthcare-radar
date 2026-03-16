@@ -1,0 +1,14 @@
+{
+  "company": "Symphony Health",
+  "country": "US",
+  "problem": "Life sciences and healthcare organizations need comprehensive, integrated real-world data to understand patient journeys, but face challenges accessing clean, connected data across the healthcare ecosystem.",
+  "solution": "Symphony Health (an ICON company) provides expertly integrated US healthcare data processing 40B+ transactions annually, linking prescriptions to diagnoses for 3 out of 4 patients, enabling organizations to generate actionable insights for improved patient outcomes across therapeutic areas.",
+  "problem_type": "analytics",
+  "solution_type": "SaaS",
+  "buyer": "providers",
+  "varden_fit": "medium",
+  "url": "https://www.symphonyhealth.com",
+  "source": "web",
+  "discovery_round": 97,
+  "discovered_by": "sky"
+}

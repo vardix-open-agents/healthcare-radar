@@ -1,0 +1,14 @@
+{
+  "company": "RXNT",
+  "country": "US",
+  "problem": "Podiatry practices need an affordable, integrated cloud-based solution combining EHR, practice management, and medical billing without complex implementation or high ongoing costs",
+  "solution": "RXNT offers a unified cloud-based platform with certified EHR, practice management, and medical billing software with podiatry-specific templates, patient scheduling, and integrated payment processing",
+  "problem_type": "podiatry",
+  "solution_type": "SaaS",
+  "buyer": "clinics",
+  "varden_fit": "medium",
+  "url": "https://www.rxnt.com/",
+  "source": "web",
+  "discovery_round": 111,
+  "discovered_by": "sky"
+}

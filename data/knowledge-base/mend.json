@@ -1,0 +1,14 @@
+{
+  "company": "Mend",
+  "country": "US",
+  "problem": "Healthcare practices experience front-desk bottlenecks, workflow inefficiencies, and disjointed patient intake processes for both virtual and in-office care, leading to poor patient experience and wasted staff time.",
+  "solution": "Complete front-end solution for patient intake and communication featuring digital forms, automated workflows, no-show/cancellation prediction, telehealth integration, and tools to eliminate front-desk bottlenecks. Pricing from free to $29/month with enterprise options.",
+  "problem_type": "patient_intake",
+  "solution_type": "SaaS",
+  "buyer": "providers",
+  "varden_fit": "high",
+  "url": "https://www.mend.com/",
+  "source": "web",
+  "discovery_round": 88,
+  "discovered_by": "sky"
+}

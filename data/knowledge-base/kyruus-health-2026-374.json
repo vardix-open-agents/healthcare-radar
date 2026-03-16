@@ -1,0 +1,23 @@
+{
+  "company_name": "Kyruus Health",
+  "problem_solved": "Patients struggle to find and access the right care, leading to patient leakage, inefficient scheduling, and poor care coordination",
+  "solution_description": "Leading care access platform that unites data to drive care decisions. Provider data management, patient scheduling, and digital directory solutions. Acquired by RevSpring to create connected care journey from search to final payment. Serves health systems, medical groups, and health plans",
+  "buyer_persona": "health_systems|health_plans|clinics",
+  "care_stage": "triage",
+  "automation_level": "partial",
+  "varden_fit": "high",
+  "region": "US",
+  "country": "US",
+  "funding_stage": "acquired",
+  "traction_signals": [
+    "Leading care access platform",
+    "Acquired by RevSpring for payment journey integration",
+    "Serves health systems, medical groups, health plans",
+    "Provider data management and patient scheduling",
+    "Digital directory with EHR integration"
+  ],
+  "notes": "Strong US provider matching and scheduling platform. RevSpring acquisition extends to payment. Would need localization for Nordic markets but technology is transferable",
+  "discovery_round": 51,
+  "discovered_by": "sky",
+  "timestamp": "2026-03-11T23:24:00Z"
+}

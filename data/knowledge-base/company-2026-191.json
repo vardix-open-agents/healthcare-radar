@@ -1,0 +1,28 @@
+{
+  "company": "Nightingale Health (Finland)",
+  "country": "Finland",
+  "founded_year": 2015,
+  "category": "Digital Health Infrastructure",
+  "subsector": "AI-Powered Health Analytics",
+  "description": "Finnish health analytics company using AI to analyze blood samples and predict disease risk. Provides preventive health insights from standard lab tests. Works with healthcare providers and insurance companies.",
+  "business_model": "B2B - Analytics platform to healthcare providers and insurers",
+  "target_market": "Healthcare providers, insurance companies, employers",
+  "funding_stage": "Public (Helsinki: NGHL)",
+  "funding_amount_eur": 150000000,
+  "key_investors": "Public company",
+  "employees": "150+",
+  "customers": "Healthcare providers, insurers globally",
+  "revenue_eur": null,
+  "tech_stack": ["AI analytics", "Blood biomarker analysis", "Disease risk prediction", "Health insights platform"],
+  "integration_points": ["Lab systems", "EHRs", "Insurance platforms"],
+  "competitive_advantage": "Novel biomarker analysis, preventive focus, clinical validation",
+  "boring_software": true,
+  "varden_fit": {
+    "threat_level": "low",
+    "opportunity": "partner",
+    "rationale": "Health analytics - could integrate with occupational health lab tests"
+  },
+  "data_quality": "high",
+  "sources": ["nightingalehealth.com", "crunchbase.com"],
+  "last_updated": "2026-03-11"
+}

@@ -1,0 +1,14 @@
+{
+  "company": "Livi (Kry)",
+  "country": "GB",
+  "problem": "Patients lack convenient access to healthcare professionals, face long wait times for appointments, and cannot easily get digital-first care. Healthcare providers need efficient digital tools to manage patient populations.",
+  "solution": "Europe's largest digital-first healthcare provider offering video consultations with doctors, nurses, and psychologists. Platform supports patient triage, appointment booking, and end-to-end care management. Partners with health insurers, governments, and healthcare organizations across Europe including UK operations.",
+  "problem_type": "booking_scheduling",
+  "solution_type": "SaaS",
+  "buyer": "clinics",
+  "varden_fit": "medium",
+  "url": "https://www.livi.co.uk/",
+  "source": "web research",
+  "discovery_round": 64,
+  "discovered_by": "nova"
+}

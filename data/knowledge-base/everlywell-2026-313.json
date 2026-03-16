@@ -1,0 +1,22 @@
+{
+  "id": "everlywell-2026-313",
+  "title": "Everlywell - Consumer Lab Testing",
+  "company": "Everly Health (Everlywell)",
+  "country": "USA",
+  "segment": "consumer",
+  "problem": "Consumers cannot easily access lab tests without doctor visits; results not easily understood",
+  "solution": "DTC lab testing platform with at-home collection kits and digital results with interpretation",
+  "technology": "E-commerce, sample logistics, LIMS integration, result visualization",
+  "target_customer": "Consumers, employers, health plans",
+  "care_setting": "home",
+  "care_domain": "diagnostics",
+  "care_stage": "screening",
+  "automation_level": "partial",
+  "ai_type": null,
+  "traction_signals": ["Raised $325M", "1M+ tests processed", "Expanded to clinical trials"],
+  "funding": "Series D",
+  "regulatory_notes": "CLIA certified labs, physician oversight",
+  "source": "sky-round18-diagnostics",
+  "url": "https://www.everlywell.com",
+  "date_added": "2026-03-11"
+}

@@ -1,0 +1,14 @@
+{
+  "company": "AliveCor",
+  "country": "US",
+  "problem": "Patients and physicians lack access to convenient, affordable cardiac rhythm monitoring, delayed detection of atrial fibrillation and other arrhythmias, reliance on expensive and inaccessible ECG equipment",
+  "solution": "FDA-cleared personal EKG devices (KardiaMobile) that provide medical-grade ECG recordings via smartphone, enabling instant heart rhythm analysis and remote cardiac monitoring for patients and healthcare providers",
+  "problem_type": "remote_monitoring",
+  "solution_type": "SaaS",
+  "buyer": "providers",
+  "varden_fit": "medium",
+  "url": "https://alivecor.com",
+  "source": "web",
+  "discovery_round": 76,
+  "discovered_by": "sky"
+}

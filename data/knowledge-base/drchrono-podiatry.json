@@ -1,0 +1,14 @@
+{
+  "company": "DrChrono",
+  "country": "US",
+  "problem": "Podiatry practices need mobile-friendly EHR solutions that support foot-specific clinical workflows, digital imaging, and patient communication while maintaining compliance",
+  "solution": "DrChrono offers a cloud-based, iPad-native EHR platform with customizable podiatry templates, integrated medical billing, telehealth capabilities, and patient portal specifically designed for specialty practices including podiatry",
+  "problem_type": "podiatry",
+  "solution_type": "SaaS",
+  "buyer": "clinics",
+  "varden_fit": "medium",
+  "url": "https://www.drchrono.com/",
+  "source": "web",
+  "discovery_round": 111,
+  "discovered_by": "sky"
+}

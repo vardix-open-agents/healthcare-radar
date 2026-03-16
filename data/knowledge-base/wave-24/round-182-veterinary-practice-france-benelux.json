@@ -1,0 +1,154 @@
+{
+  "round": 182,
+  "theme": "Veterinary Practice (France/Benelux)",
+  "focus": [
+    "Veterinary practice management",
+    "Animal health records",
+    "Veterinary imaging",
+    "Pet hospital systems"
+  ],
+  "exclude": [
+    "Consumer pet apps",
+    "Pet food/products"
+  ],
+  "companies": [
+    {
+      "company_name": "Digivet",
+      "hq_location": "Paris, France",
+      "website_url": "https://digivet.fr",
+      "problem_solved": "Veterinary clinics struggle with inefficient practice management, client communication, and digital transformation. Traditional methods lead to lost time, poor client relationships, and suboptimal clinic performance.",
+      "who_buys_it": "Veterinary clinics and animal hospitals in France seeking digital solutions for practice management, client engagement, and operational efficiency.",
+      "key_features": [
+        "Next-generation veterinary practice management software",
+        "Digital display systems for clinic communication",
+        "Online appointment booking system",
+        "Client relationship management tools",
+        "Integrated digital solutions for clinic operations",
+        "Part of Santévet Group with 30+ years of veterinary expertise"
+      ],
+      "business_model": "SaaS subscription model for veterinary practice management software, with additional services for digital display and appointment booking systems. Part of larger insurance group (Santévet) providing diversified revenue streams.",
+      "why_varden_should_care": "French market leader in digital veterinary solutions with strong parent company backing. Positioned well for consolidation in European veterinary tech market as clinics increasingly digitize operations and seek integrated practice management platforms."
+    },
+    {
+      "company_name": "Veterinary Solutions BV (V-SOL)",
+      "hq_location": "Belgium",
+      "website_url": "https://v-sol.be",
+      "problem_solved": "Veterinary practices need high-quality diagnostic imaging solutions that are robust, easy to use, and well-supported. Existing imaging systems often lack integration, have poor image quality, or insufficient technical support.",
+      "who_buys_it": "Veterinary clinics and hospitals in Benelux and Europe requiring advanced diagnostic imaging equipment, particularly for equine and small animal practices.",
+      "key_features": [
+        "High-end digital radiography (DR) systems for veterinary use",
+        "Connect.Vet PACS software for image storage and management",
+        "Local and cloud-based PACS solutions",
+        "AI-powered image processing algorithms for better diagnosis",
+        "Portable and fixed X-ray generators",
+        "24/7 technical support with remote monitoring and updates",
+        "Developed by veterinarians with deep understanding of practice needs",
+        "Part of IMV Imaging group for expanded capabilities"
+      ],
+      "business_model": "Hardware sales (DR systems, X-ray generators) combined with software licensing (PACS, acquisition software). Recurring revenue through support contracts, software updates, and cloud PACS subscriptions.",
+      "why_varden_should_care": "Unique veterinary-specific imaging solution with proprietary software and strong support model. Part of larger imaging group providing scale and R&D resources. Well-positioned as veterinary imaging becomes increasingly sophisticated and integrated with practice management systems."
+    },
+    {
+      "company_name": "Animana (IDEXX Software)",
+      "hq_location": "Hoofddorp, Netherlands (European HQ)",
+      "website_url": "https://software.idexx.co.uk",
+      "problem_solved": "Veterinary practices face challenges managing patient records, appointments, inventory, billing, and client communication across multiple disconnected systems. Cloud-based solutions needed for modern practice operations.",
+      "who_buys_it": "Veterinary practices of all sizes across Europe seeking comprehensive cloud-based practice management solutions.",
+      "key_features": [
+        "Cloud-based practice management system",
+        "Centralized data management for patient records",
+        "Resource and staff scheduling",
+        "Appointment coordination tools",
+        "Comprehensive client communication toolbox",
+        "Integration with diagnostic systems (VetConnect PLUS)",
+        "SmartFlow workflow optimization for patient care",
+        "24/7 support from veterinary software experts"
+      ],
+      "business_model": "SaaS subscription model for cloud-based practice management software. Part of IDEXX's broader diagnostic and software ecosystem, creating cross-selling opportunities and integrated solutions.",
+      "why_varden_should_care": "Part of IDEXX (NASDAQ: IDXX), a $40B+ market cap leader in veterinary diagnostics and software. Strong European presence and continued investment in cloud-based solutions. Represents the consolidation trend in veterinary practice management software with deep integration into diagnostic workflows."
+    },
+    {
+      "company_name": "VETport",
+      "hq_location": "Rotterdam, Netherlands (European operations)",
+      "website_url": "https://www.vetport.com",
+      "problem_solved": "Veterinary practices need scalable, cloud-based practice management that works across different practice types and sizes. Traditional on-premise systems lack flexibility and require significant IT investment.",
+      "who_buys_it": "Veterinary practices globally, including general practices, mixed animal clinics, equine specialists, universities, mobile vets, specialty practices, and multi-location enterprises.",
+      "key_features": [
+        "World's first cloud veterinary software (since 2002)",
+        "Used by thousands of vets in 37 countries",
+        "Intuitive patient portal for client communication",
+        "Real-time inventory control and tracking",
+        "Formulary management for prescriptions",
+        "Customizable workflows for different practice types",
+        "Scalable from solo practice to multi-location enterprise",
+        "Data-driven analytics and insights",
+        "24/7 support with live workshops and training"
+      ],
+      "business_model": "SaaS subscription model with tiered pricing based on practice size and features. Migration services and training provided as value-add services.",
+      "why_varden_should_care": "Pioneer in cloud veterinary software with 22+ years of experience and global footprint. Platform-agnostic approach and strong migration support make it attractive for practices moving from legacy systems. Proven scalability across diverse practice types and geographies."
+    },
+    {
+      "company_name": "scil animal care",
+      "hq_location": "Viernheim, Germany (European HQ, serves Benelux)",
+      "website_url": "https://www.scilvet.com",
+      "problem_solved": "Veterinary practices need integrated diagnostic solutions combining laboratory analyzers, imaging equipment, and digital systems for comprehensive patient diagnostics.",
+      "who_buys_it": "Veterinary clinics and hospitals across Europe requiring diagnostic equipment, imaging systems, and integrated diagnostic workflows.",
+      "key_features": [
+        "Clinical chemistry analyzers (Element CM XT)",
+        "Digital radiography systems (Cuattro DR HD X-Ray)",
+        "Ultrasound equipment and training",
+        "Laboratory diagnostic solutions",
+        "Veterinary education and seminars",
+        "Consultation services from veterinary experts",
+        "Complete diagnostic solutions tailored to practice needs"
+      ],
+      "business_model": "Hardware sales for diagnostic equipment combined with service contracts, consumables (reagents, supplies), and educational services. Multi-year relationships through equipment lifecycle.",
+      "why_varden_should_care": "Leading European veterinary diagnostics company with comprehensive product portfolio. Strong position in growing veterinary diagnostics market with recurring revenue from consumables and services. Educational component creates sticky customer relationships and brand loyalty."
+    },
+    {
+      "company_name": "IMV imaging",
+      "hq_location": "Edenbridge, UK (with European operations including Benelux)",
+      "website_url": "https://www.imv-imaging.com",
+      "problem_solved": "Veterinary practices need high-quality imaging equipment that is reliable, innovative, and well-supported. Many imaging solutions are adapted from human medicine and don't meet specific veterinary needs.",
+      "who_buys_it": "Veterinary practices, hospitals, and mobile veterinarians across Europe requiring ultrasound, CT, and other imaging equipment designed for veterinary applications.",
+      "key_features": [
+        "Veterinary-specific imaging equipment (ultrasound, CT)",
+        "Wearable ultrasound technology with head-mounted displays",
+        "GE Logiq e veterinary ultrasound scanners",
+        "In-house engineering and manufacturing",
+        "Partnerships with leading imaging providers",
+        "CPD courses and veterinary education (e.g., CT training)",
+        "Dedicated support for practice startups",
+        "40+ years of veterinary imaging expertise"
+      ],
+      "business_model": "Equipment sales with financing options, service contracts, and ongoing support. Education and training services provide additional revenue stream. Long-term customer relationships through equipment lifecycle.",
+      "why_varden_should_care": "Innovative veterinary imaging company with proprietary technology and strong educational component. Well-positioned as imaging becomes increasingly important in veterinary diagnostics. Partnerships with major imaging companies (GE) provide access to cutting-edge technology while maintaining veterinary focus."
+    }
+  ],
+  "market_insights": {
+    "market_trends": [
+      "Consolidation of veterinary practice management software market",
+      "Increasing demand for cloud-based solutions and integrated platforms",
+      "Growing importance of diagnostic imaging in veterinary medicine",
+      "Rise of multi-location veterinary groups requiring scalable solutions",
+      "Integration of AI and machine learning in diagnostic imaging",
+      "Shift towards comprehensive digital ecosystems combining practice management, diagnostics, and client communication"
+    ],
+    "investment_thesis": "Veterinary practice technology market is undergoing digital transformation driven by cloud adoption, imaging sophistication, and practice consolidation. Companies with integrated platforms, strong European presence, and recurring revenue models are well-positioned. Focus on veterinary-specific solutions (vs. adapted human medical tech) creates differentiation and customer loyalty.",
+    "key_players": [
+      "IDEXX (dominant player in diagnostics and software)",
+      "Covetrus (practice management and distribution)",
+      "Specialized imaging and software providers serving specific regional markets"
+    ]
+  },
+  "research_notes": {
+    "research_date": "2026-03-14",
+    "search_challenges": "Web search results were largely irrelevant or returned unrelated content. Information gathered primarily through direct website access and prior knowledge of veterinary technology market.",
+    "geographic_focus": "Companies selected based on operations in France and Benelux, though some have broader European headquarters while maintaining strong regional presence.",
+    "data_sources": [
+      "Company websites",
+      "Industry knowledge",
+      "Product descriptions and feature lists"
+    ]
+  }
+}

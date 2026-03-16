@@ -1,0 +1,33 @@
+{
+  "id": "drconsulta-2026-210",
+  "title": "Dr. Consulta - Brazil Primary Care Clinic Chain",
+  "company": "Dr. Consulta",
+  "country": "Brazil",
+  "region": "LATAM",
+  "segment": "treatment",
+  "problem": "Brazil's public healthcare (SUS) has extreme wait times, while private care is expensive. Middle-class Brazilians lack affordable, accessible primary care options. Fragmented private market with no standardized quality or pricing.",
+  "solution": "Chain of affordable primary care clinics with transparent pricing. Walk-in and scheduled appointments. Basic diagnostics on-site. Digital appointment booking. Targeted at middle-class patients who can't afford premium private care but don't want to wait in SUS.",
+  "technology": "Clinic management software, mobile booking app, EMR system, point-of-care diagnostics",
+  "target_customer": "Middle-class consumers (B2C), corporate health plans (B2B)",
+  "care_setting": "primary_care",
+  "care_domain": "general",
+  "care_stage": "treatment",
+  "automation_level": "partial",
+  "ai_type": null,
+  "traction_signals": [
+    "200+ clinics across Brazil",
+    "Series C funding raised",
+    "Growing rapidly in São Paulo and Rio",
+    "Corporate client base expanding"
+  ],
+  "funding": "Series C",
+  "regulatory_notes": "Brazil medical clinic licensing, ANS (health insurance regulator) compliance",
+  "varden_fit": "MONITOR - Direct competitor in primary care delivery. Varden would be B2B infrastructure provider, not clinic operator. Learn from their clinic operations model.",
+  "source": "Industry knowledge",
+  "url": "https://drconsulta.com",
+  "date_added": "2026-03-11",
+  "problem_type": "access",
+  "contrarian": false,
+  "boring_software": false,
+  "notes": "Benchmark for affordable primary care model in Brazil. Heavy operational model (physical clinics), not pure software play."
+}

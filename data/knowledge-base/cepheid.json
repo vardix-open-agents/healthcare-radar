@@ -1,0 +1,14 @@
+{
+  "company": "Cepheid",
+  "country": "US",
+  "problem": "Healthcare facilities in diverse settings lack access to fast, accurate molecular diagnostic testing for infectious diseases",
+  "solution": "GeneXpert molecular diagnostic platform providing flexible, scalable point-of-care and laboratory testing with broad infectious disease test menu, enabling rapid results in any healthcare setting",
+  "problem_type": "infectious_disease",
+  "solution_type": "SaaS",
+  "buyer": "clinics",
+  "varden_fit": "medium",
+  "url": "https://www.cepheid.com",
+  "source": "web",
+  "discovery_round": 119,
+  "discovered_by": "nova"
+}

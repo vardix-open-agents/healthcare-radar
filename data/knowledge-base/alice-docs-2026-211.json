@@ -1,0 +1,33 @@
+{
+  "id": "alice-docs-2026-211",
+  "title": "Alice - Brazilian Digital Health Insurance",
+  "company": "Alice",
+  "country": "Brazil",
+  "region": "LATAM",
+  "segment": "admin",
+  "problem": "Traditional Brazilian health insurance is expensive, opaque, and has poor customer experience. Claims process is slow and bureaucratic. No preventive care focus. 75% of Brazilians lack private insurance due to cost.",
+  "solution": "Digital-first health insurance with transparent pricing, mobile app for all interactions, preventive care focus, integrated primary care. Uses technology to reduce administrative costs and pass savings to customers. Monthly subscription model.",
+  "technology": "Mobile app, AI-powered claims processing, telemedicine platform, preventive health tracking",
+  "target_customer": "Middle-class individuals and families, SMB employees",
+  "care_setting": "all",
+  "care_domain": "general",
+  "care_stage": "prevention",
+  "automation_level": "full",
+  "ai_type": "NLP for claims processing, risk assessment",
+  "traction_signals": [
+    "Raised significant venture funding",
+    "Rapidly growing subscriber base",
+    "NPS scores significantly higher than traditional insurers",
+    "Expanded to multiple Brazilian states"
+  ],
+  "funding": "Series B+",
+  "regulatory_notes": "ANS (Agência Nacional de Saúde Suplementar) regulations, insurance licensing",
+  "varden_fit": "COMPETITOR/MONITOR - They're building insurance infrastructure. Potential partnership opportunity for Varden's scheduling/booking capabilities.",
+  "source": "Industry knowledge",
+  "url": "https://alice.com.br",
+  "date_added": "2026-03-11",
+  "problem_type": "insurance",
+  "contrarian": false,
+  "boring_software": false,
+  "notes": "Oscar Health (US) model for Brazil. Digital insurance is hot space. Varden should focus on being infrastructure layer that insurers like Alice use."
+}

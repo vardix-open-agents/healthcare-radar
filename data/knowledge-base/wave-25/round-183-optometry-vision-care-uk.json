@@ -1,0 +1,111 @@
+[
+  {
+    "company_name": "Ocuco",
+    "hq_location": "Belfast, Northern Ireland, UK",
+    "website_url": "https://www.ocuco.com",
+    "problem_solved": "Optometry practices struggle with fragmented systems for patient records, appointment scheduling, inventory management, and NHS claims processing. Manual processes lead to inefficiencies, errors, and lost revenue.",
+    "who_buys_it": "Optometry practices, optical retail chains, hospital eye departments, and independent opticians across the UK and Ireland.",
+    "key_features": [
+      "Acuitas 3 practice management software - comprehensive optometry ERP",
+      "Patient electronic health records with clinical documentation",
+      "NHS GOS (General Ophthalmic Services) claim management",
+      "Inventory and stock management for frames, lenses, and contact lenses",
+      "Appointment scheduling and recall management",
+      "Optical retail POS integration",
+      "Reporting and analytics dashboard",
+      "Integration with diagnostic equipment"
+    ],
+    "business_model": "SaaS subscription with tiered pricing based on practice size and modules. Implementation and training fees. Annual support contracts.",
+    "why_varden_should_care": "Market leader in UK optometry software with established NHS integration. Strong recurring revenue model. Opportunity for AI-powered clinical decision support, automated recall optimization, and predictive inventory management."
+  },
+  {
+    "company_name": "Optix Software",
+    "hq_location": "Yorkshire, England, UK",
+    "website_url": "https://www.optix.co.uk",
+    "problem_solved": "Independent opticians and optical retail practices need integrated business management tools to handle appointments, patient records, stock control, and financial management without juggling multiple disconnected systems.",
+    "who_buys_it": "Independent opticians, small to medium optical retail chains, and optometry practices across the UK.",
+    "key_features": [
+      "Practice management system with appointment scheduling",
+      "Patient record management and clinical notes",
+      "Stock control and inventory management for optical products",
+      "Sales and dispensing management",
+      "Financial reporting and accounting integration",
+      "Contact lens subscription management",
+      "Recall and reminder system",
+      "Multi-location support"
+    ],
+    "business_model": "Perpetual licensing with annual maintenance fees, or subscription-based model. On-premise and cloud deployment options.",
+    "why_varden_should_care": "Established player in UK optical retail software. Focus on independent practices represents underserved market segment. Opportunity for cloud migration, mobile-first solutions, and AI-powered business intelligence."
+  },
+  {
+    "company_name": "Optomize",
+    "hq_location": "London, England, UK",
+    "website_url": "https://www.optomize.co.uk",
+    "problem_solved": "Medical and optometry professionals lack accessible, high-quality training tools that leverage modern technology like eye tracking to assess and improve clinical skills.",
+    "who_buys_it": "Medical schools, optometry training programs, hospitals, and continuing education providers for eye care professionals.",
+    "key_features": [
+      "Medical training software with eye tracking integration",
+      "Assessment tools for clinical competencies",
+      "Performance analytics and feedback",
+      "Web-based platform accessible from any device",
+      "Customizable training modules",
+      "Real-time eye movement tracking and analysis"
+    ],
+    "business_model": "B2B SaaS with institutional licensing. Subscription-based access for training programs. Custom development services.",
+    "why_varden_should_care": "Innovative application of eye tracking in medical education. Addresses training bottleneck in optometry workforce development. Opportunity to expand into VR/AR training, competency certification, and remote skills assessment."
+  },
+  {
+    "company_name": "Optos (Nikon Company)",
+    "hq_location": "Dunfermline, Scotland, UK",
+    "website_url": "https://www.optos.com",
+    "problem_solved": "Traditional retinal imaging captures only 30-45 degrees of the retina, missing peripheral pathology. Optometry and ophthalmology practices need wide-field imaging to detect diseases earlier without dilating drops.",
+    "who_buys_it": "Optometry practices, ophthalmology clinics, retinal specialists, hospital eye departments, and primary care eye care providers.",
+    "key_features": [
+      "Ultra-widefield (UWF) retinal imaging capturing 200° in single shot",
+      "optomap technology for non-invasive retinal examination",
+      "Color, red-free, and autofluorescence imaging modes",
+      "OCT integration for 3D retinal visualization",
+      "DICOM compatibility and EMR integration",
+      "AI-powered pathology detection assistance",
+      "Cloud-based image storage and review platform"
+    ],
+    "business_model": "Capital equipment sales with service contracts. Cloud subscription for image management. Consumables and accessories revenue.",
+    "why_varden_should_care": "Market leader in wide-field retinal imaging with strong IP portfolio. Acquisition by Nikon provides resources for continued innovation. AI-assisted diagnosis represents major growth opportunity. Installed base creates recurring revenue stream."
+  },
+  {
+    "company_name": "Eyeware",
+    "hq_location": "London, England, UK",
+    "website_url": "https://eyeware.tech",
+    "problem_solved": "Traditional eye tracking requires expensive specialized hardware. Consumer and professional applications need affordable, software-based eye tracking using standard webcams and 3D sensors.",
+    "who_buys_it": "PC OEMs, gaming companies, automotive manufacturers, accessibility solution providers, and research institutions.",
+    "key_features": [
+      "AI-powered head and eye tracking using standard webcams",
+      "Beam Eye Tracker for gaming applications",
+      "GazeSense SDK for custom application development",
+      "No specialized hardware required",
+      "Real-time gaze estimation and attention tracking",
+      "Cross-platform support (Windows, Linux)",
+      "White-label solutions for OEM integration"
+    ],
+    "business_model": "Consumer software sales (Beam). B2B SDK licensing. White-label OEM partnerships. Custom development services.",
+    "why_varden_should_care": "Democratizing eye tracking technology by eliminating hardware costs. AMD partnership validates technology. Gaming and accessibility markets are underserved. Opportunity to expand into optometry screening, driver monitoring, and healthcare applications."
+  },
+  {
+    "company_name": "Tobii",
+    "hq_location": "Stockholm, Sweden (UK office: London)",
+    "website_url": "https://www.tobii.com",
+    "problem_solved": "Understanding human attention and behavior requires objective, quantitative measurement. Eye tracking provides insights into cognitive processes, usability, and attention patterns that self-report cannot capture.",
+    "who_buys_it": "Researchers (academic and market research), gaming companies, PC OEMs, automotive manufacturers, healthcare providers, and assistive technology users.",
+    "key_features": [
+      "Hardware eye trackers (screen-based and wearable)",
+      "Software platform for data collection and analysis",
+      "Tobii Glasses X for real-world eye tracking",
+      "Driver Monitoring System (DMS) for automotive",
+      "Integration with VR/AR headsets",
+      "Research services and consulting",
+      "Assistive technology for AAC devices"
+    ],
+    "business_model": "Hardware sales with software licensing. Enterprise SaaS subscriptions. Automotive tier-1 supplier contracts. Research services revenue.",
+    "why_varden_should_care": "Global leader in eye tracking with 20+ years of experience. Diversified revenue across multiple verticals. Strong IP portfolio. Automotive DMS market is rapidly growing due to regulations. Healthcare applications in diagnosis and therapy are expanding."
+  }
+]

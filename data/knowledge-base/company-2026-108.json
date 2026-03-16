@@ -1,0 +1,27 @@
+{
+  "company": "Dimeta (Romania)",
+  "country": "Romania",
+  "founded_year": 2017,
+  "category": "Telemedicine",
+  "subsector": "Video Consultation Platform",
+  "description": "Romanian telemedicine startup providing video consultation platform connecting patients with doctors. One of the first licensed telemedicine providers in Romania following regulatory changes.",
+  "business_model": "B2C - Direct to patients; B2B for corporate health programs",
+  "target_market": "Romanian consumers and employers seeking convenient healthcare access",
+  "funding_stage": "Seed",
+  "funding_amount_eur": 1000000,
+  "key_investors": "Romanian angels, Early Game Ventures",
+  "employees": 25,
+  "customers": "100000+ registered users",
+  "revenue_eur": 800000,
+  "tech_stack": ["Web platform", "Mobile app", "Video conferencing", "E-prescription"],
+  "integration_points": ["Romanian health system", "Pharmacy networks", "Insurance platforms"],
+  "competitive_advantage": "Early mover in Romanian telemedicine, regulatory expertise, local market knowledge",
+  "varden_fit": {
+    "threat_level": "low",
+    "opportunity": "acquire",
+    "rationale": "Entry point into Romanian market - early-stage, affordable acquisition target"
+  },
+  "data_quality": "low",
+  "sources": ["dimeta.ro", "linkedin.com"],
+  "last_updated": "2026-03-11"
+}

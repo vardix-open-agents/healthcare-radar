@@ -1,0 +1,86 @@
+[
+  {
+    "company_name": "medavis",
+    "hq_location": "Deggendorf, Germany",
+    "website_url": "https://www.medavis.de/",
+    "problem_solved": "Radiology departments struggle with fragmented workflows and disconnected systems for managing imaging studies, reporting, and patient data. medavis provides a unified RIS and workflow platform that integrates scheduling, reporting, PACS, and patient communication into a single cohesive system.",
+    "target_buyers": "Hospitals, radiology practices, imaging centers, and healthcare networks",
+    "key_features": [
+      "Radiology Information System (RIS) for complete workflow management from scheduling to reporting",
+      "Browser-based PACS with diagnostic web viewer for flexible, location-independent image access",
+      "Teleradiology platform for distributed reading and centralized worklists across multiple sites"
+    ],
+    "business_model": "SaaS/on-premise software licensing with maintenance and support contracts",
+    "why_varden_should_care": "Proven model for consolidating fragmented radiology IT into unified platforms - highly replicable in other healthcare IT verticals where workflow integration drives value. Strong DACH market presence demonstrates regional healthcare IT demand."
+  },
+  {
+    "company_name": "contextflow",
+    "hq_location": "Vienna, Austria",
+    "website_url": "https://contextflow.com/",
+    "problem_solved": "Radiologists face increasing volumes of chest CT scans with complex findings across lung cancer, ILD, and COPD that require time-consuming manual analysis. contextflow provides AI-powered comprehensive chest CT analysis directly in existing PACS viewers, reducing report reading time by 31% while improving diagnostic quality.",
+    "target_buyers": "Hospitals, radiology departments, PACS vendors, and pharmaceutical companies",
+    "key_features": [
+      "ADVANCE Chest CT: AI-powered lung nodule detection, quantification, and tracking with lung tissue analysis for ILD/COPD",
+      "Integration with existing PACS viewers - no workflow disruption, results appear natively in radiologist's viewer",
+      "Quantitative profiling and 19 image pattern recognition for comprehensive disease characterization"
+    ],
+    "business_model": "SaaS subscription model with per-study or enterprise licensing; partnerships with PACS vendors for embedded distribution",
+    "why_varden_should_care": "AI that integrates into existing workflows (rather than requiring new tools) has higher adoption potential. Focus on comprehensive chest CT analysis rather than single-pathology AI demonstrates defensible market position through breadth. Vienna-based with strong academic roots (Medical University of Vienna spinoff)."
+  },
+  {
+    "company_name": "ImageBiopsy Lab",
+    "hq_location": "Vienna, Austria",
+    "website_url": "https://www.imagebiopsy.com/",
+    "problem_solved": "MSK imaging analysis is time-consuming, subjective, and lacks standardization across radiologists and orthopedists. ImageBiopsy Lab provides an AI-powered MSK imaging platform that automates, standardizes, and prioritizes musculoskeletal diagnostics for X-ray and CT imaging.",
+    "target_buyers": "Radiology practices, orthopedic clinics, hospitals, and imaging centers",
+    "key_features": [
+      "IB Lab ZOO: Modular MSK AI platform with automated analysis for knee osteoarthritis (KOALA), hip angles (HIPPO), leg geometry (LAMA), scoliosis (SQUIRREL), and vertebral fractures (FLAMINGO)",
+      "Seamless PACS/RIS integration with automated triggering and structured report generation",
+      "Objective, standardized measurements for longitudinal monitoring and therapeutic decision support"
+    ],
+    "business_model": "SaaS subscription with per-module licensing; enterprise agreements for hospital networks",
+    "why_varden_should_care": "MSK imaging represents a large, underserved market compared to neuro and thoracic AI. Modular platform approach allows customers to start small and expand, reducing adoption friction. Strong clinical validation and CE/FDA clearances demonstrate regulatory pathway expertise."
+  },
+  {
+    "company_name": "NEXUS/CHILI",
+    "hq_location": "Mannheim, Germany",
+    "website_url": "https://nexus-chili.com/",
+    "problem_solved": "Radiology departments need integrated digital solutions for PACS, teleradiology, and workflow management that can scale from single departments to cross-institutional networks. NEXUS/CHILI provides customizable radiology software solutions that grow with organizational needs.",
+    "target_buyers": "Hospitals, radiology departments, healthcare networks, and teleradiology providers",
+    "key_features": [
+      "PACS and image management solutions with diagnostic viewers for multiple modalities",
+      "Teleradiology platform for distributed reading and cross-site collaboration",
+      "Scalable architecture that adapts from departmental to network-wide deployments"
+    ],
+    "business_model": "On-premise and cloud-based software licensing with implementation and support services",
+    "why_varden_should_care": "Long-established German PACS/teleradiology vendor with proven enterprise sales model. Demonstrates value of regional customization and local support in healthcare IT. Integration partnerships with AI vendors (like deepc) show platform extensibility."
+  },
+  {
+    "company_name": "aycan Digitalsysteme",
+    "hq_location": "Würzburg, Germany",
+    "website_url": "https://www.aycan.de/",
+    "problem_solved": "Healthcare organizations need vendor-neutral PACS solutions that integrate with existing RIS, KIS, and PIS systems while providing flexible archiving, viewing, and teleradiology capabilities. aycan provides PACS, migration services, and multimodality workstations with a focus on personalized German-made service.",
+    "target_buyers": "Hospitals, radiology practices, imaging centers, and healthcare networks",
+    "key_features": [
+      "Vendor-neutral PACS with seamless integration into existing RIS/KIS/PIS infrastructure",
+      "PACS data migration services for secure, independent, and fast data transfer",
+      "Multimodality workstations, web viewers, teleradiology solutions, and patient portals for complete imaging workflow"
+    ],
+    "business_model": "On-premise software licensing with migration services, maintenance, and calibration services",
+    "why_varden_should_care": "Focus on vendor-neutral PACS and data migration addresses common pain point of vendor lock-in. 'Made in Germany' positioning emphasizes quality and local support - replicable differentiation strategy for other healthcare IT markets. Part of PARATUS network showing consolidation potential."
+  },
+  {
+    "company_name": "deepc",
+    "hq_location": "Munich, Germany",
+    "website_url": "https://www.deepc.ai/",
+    "problem_solved": "Hospitals want to adopt multiple AI radiology solutions but face complexity in procurement, IT integration, vendor management, and regulatory compliance. deepc provides an AI operating system (deepcOS) that enables healthcare organizations to access, evaluate, and deploy 50+ AI solutions from 30+ vendors through a single platform.",
+    "target_buyers": "Hospitals, health systems, radiology departments, and teleradiology providers",
+    "key_features": [
+      "deepcOS: AI operating system with on-premise gateway (deepcOS Gate) that seamlessly connects to hospital infrastructure and orchestrates AI processing",
+      "AI Marketplace with 50+ certified AI solutions from 30+ global vendors across multiple specialties - single procurement, integration, and contract",
+      "Clinical integrations including viewer integration, AI-enhanced worklist with priority flagging, and AI-driven reporting (deepcOS AIR)"
+    ],
+    "business_model": "Platform/SaaS model - likely revenue sharing with AI vendors plus enterprise platform fees; AI Evaluator for trial deployments",
+    "why_varden_should_care": "AI platform/aggregator model addresses fragmentation in healthcare AI market - strong replicability potential across other healthcare verticals. Single integration point, procurement simplification, and vendor-neutral positioning are compelling value props. Munich-based with strong European traction and partnerships with leading AI vendors (Gleamer, ImageBiopsy Lab). Demonstrates platform business model in healthcare AI infrastructure."
+  }
+]

@@ -1,0 +1,14 @@
+{
+  "company": "Bactiguard",
+  "country": "SE",
+  "problem": "Medical device-related infections cause significant morbidity, mortality, and healthcare costs due to microbial adhesion and biofilm formation on device surfaces",
+  "solution": "Patented noble metal alloy coating technology that prevents microbial adhesion and biofilm formation on medical devices, licensed to MedTech partners worldwide for infection prevention",
+  "problem_type": "infectious_disease",
+  "solution_type": "SaaS",
+  "buyer": "clinics",
+  "varden_fit": "medium",
+  "url": "https://www.bactiguard.com",
+  "source": "web",
+  "discovery_round": 119,
+  "discovered_by": "nova"
+}

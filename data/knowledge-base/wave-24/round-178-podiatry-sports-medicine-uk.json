@@ -1,0 +1,147 @@
+[
+  {
+    "company_name": "TrainAsONE",
+    "hq_location": "United Kingdom",
+    "website_url": "https://trainasone.com",
+    "problem_solved": "Running injuries affect ~70% of runners annually, causing pain, performance loss, and costly medical treatments. Traditional training plans lack real-time adaptation and injury prevention capabilities.",
+    "who_buys_it": "Individual runners (recreational to elite), running coaches, sports teams, physiotherapy clinics looking to prescribe intelligent training programs",
+    "key_features": [
+      "AI-powered training plan that continuously adapts based on performance data",
+      "Injury prevention algorithms that adjust training load to minimize injury risk",
+      "Multiple concurrent goal management (e.g., several races in a season)",
+      "Automatic adjustment for missed or off-plan workouts",
+      "Return-from-illness/injury guidance with gradual progression",
+      "Performance optimization while maintaining safety margins"
+    ],
+    "business_model": "B2C subscription model with tiered pricing (free trial, then monthly/annual subscriptions); potential B2B licensing to coaches, clinics, and sports teams",
+    "why_varden_should_care": "TrainAsONE represents a unique application of AI in sports medicine that directly addresses the injury prevention and return-to-play coordination challenge. Their focus on continuous adaptation based on user data could complement traditional physiotherapy and sports medicine practices, potentially reducing injury recurrence rates and healthcare costs while improving performance outcomes."
+  },
+  {
+    "company_name": "STATSports",
+    "hq_location": "Newry, Northern Ireland, United Kingdom",
+    "website_url": "https://statsports.com",
+    "problem_solved": "Elite sports teams lack comprehensive, real-time data on athlete workload, fatigue, and injury risk, leading to suboptimal performance and preventable injuries.",
+    "who_buys_it": "Professional sports teams (football/soccer, rugby, American football, baseball, GAA, hockey), elite athletes, sports academies, national sports federations",
+    "key_features": [
+      "GPS athlete tracking devices with real-time performance data",
+      "Sonra platform for comprehensive athlete monitoring and analytics",
+      "Injury risk assessment based on workload metrics",
+      "Return-to-play progression tracking and management",
+      "Team-wide performance dashboards and reporting",
+      "Individual athlete tracking for amateur/pro athletes (Academy product)"
+    ],
+    "business_model": "B2B enterprise software with hardware sales (GPS devices), subscription-based software platform; separate B2C offering for individual athletes through Academy program",
+    "why_varden_should_care": "STATSports is a leading UK-based athlete monitoring company with significant market penetration in professional sports globally. Their ISO27001 certification and focus on data security makes them enterprise-ready. Their dual approach (B2B teams and B2C individuals) positions them well across the sports medicine spectrum, from elite performance tracking to injury prevention and return-to-play management."
+  },
+  {
+    "company_name": "Physitrack",
+    "hq_location": "London, United Kingdom (Global operations)",
+    "website_url": "https://www.physitrack.com",
+    "problem_solved": "Physiotherapists and healthcare providers struggle with creating and monitoring personalized home exercise programs, leading to poor patient adherence, lack of outcome tracking, and inefficient care delivery.",
+    "who_buys_it": "Physiotherapists, occupational therapists, osteopaths, chiropractors, NHS trusts, private clinics, rehabilitation centers, sports medicine practitioners",
+    "key_features": [
+      "18,000+ video exercise library with AI-assisted program building",
+      "Patient adherence tracking and progress monitoring",
+      "Telehealth video consultation capabilities",
+      "Pain level reporting and outcome measurement (PROMs)",
+      "Direct in-app messaging between practitioners and patients",
+      "PDF/printable program options and multi-language support (45+ languages)",
+      "Integration with clinical management systems (SIF.health, Cliniko, etc.)"
+    ],
+    "business_model": "B2B SaaS subscription model with tiered pricing based on practice size; free trial available; cited in 100+ clinical studies demonstrating evidence-based approach",
+    "why_varden_should_care": "Physitrack is a market leader in exercise prescription with strong UK presence and NHS adoption. Their comprehensive platform addresses the full rehabilitation workflow from prescription to monitoring, making them a key player in the sports medicine and physiotherapy ecosystem. Their evidence-based approach (100+ clinical studies) and telehealth integration position them well for the digital health transformation."
+  },
+  {
+    "company_name": "Rehab My Patient",
+    "hq_location": "United Kingdom",
+    "website_url": "https://www.rehabmypatient.com",
+    "problem_solved": "Healthcare practitioners need efficient, affordable tools to prescribe customized exercise programs, track patient progress, and improve communication without the complexity and cost of enterprise solutions.",
+    "who_buys_it": "Physiotherapists, chiropractors, osteopaths, sports therapists, rehabilitation clinics, sports medicine practitioners, universities (student training)",
+    "key_features": [
+      "5,500+ exercise library with HD videos, pictures, and lineart",
+      "AI-powered exercise plan generator and auto-fill suggestions",
+      "Multi-channel delivery (Email, SMS, WhatsApp, PDF print)",
+      "Patient tracking app (Track Rehab) for monitoring pain, mobility, strength",
+      "PROM surveys for real-time data collection",
+      "Clinical notes with body charts",
+      "Safety netting and red flag alerts",
+      "45-language instant translation",
+      "Integration with clinic management software"
+    ],
+    "business_model": "B2B SaaS with affordable subscription pricing; 14-day free trial; designed by physiotherapists for practitioners; serves both private clinics and UK universities",
+    "why_varden_should_care": "Rehab My Patient offers an affordable, practitioner-focused alternative to enterprise solutions, making it accessible to smaller clinics and individual practitioners in the UK. Their AI features (plan generator, auto-fill) represent innovative applications of AI in exercise prescription, potentially improving efficiency and consistency of care. Strong UK university partnerships indicate commitment to education and future-proofing the profession."
+  },
+  {
+    "company_name": "Catapult",
+    "hq_location": "London, United Kingdom (Global HQ: Melbourne, Australia)",
+    "website_url": "https://www.catapult.com",
+    "problem_solved": "Elite sports teams and athletes need integrated technology solutions for athlete monitoring, performance tracking, video analysis, and injury prevention to gain competitive advantages.",
+    "who_buys_it": "Professional sports teams, national federations, elite athletes, sports institutes, college/university athletic programs across 40+ sports globally",
+    "key_features": [
+      "Athlete monitoring technology (wearables and video analytics)",
+      "Perch in-weight room analytics for 360° performance view",
+      "Workload and readiness tracking",
+      "Video analysis and replay systems",
+      "Recruiting and scouting analytics",
+      "Integration with nutrition and other performance data"
+    ],
+    "business_model": "B2B enterprise software and hardware sales; subscription-based analytics platforms; serves 5,000+ elite teams globally across 128+ countries",
+    "why_varden_should_care": "Catapult is a global leader in sports performance technology with significant UK operations and market presence. Their comprehensive platform spans athlete monitoring, video analysis, and recruiting, making them a one-stop solution for elite sports organizations. Their Perch acquisition adds strength and conditioning analytics, expanding their sports medicine and injury prevention capabilities."
+  },
+  {
+    "company_name": "ExaktHealth",
+    "hq_location": "Germany (serves UK market)",
+    "website_url": "https://www.exakthealth.com",
+    "problem_solved": "Runners struggle with injury management and lack access to structured, evidence-based rehabilitation programs, often leading to prolonged recovery times or recurring injuries.",
+    "who_buys_it": "Individual runners (recreational to competitive), running coaches, physiotherapy clinics, sports medicine practitioners seeking running-specific rehab tools",
+    "key_features": [
+      "15+ certified rehabilitation plans for common running injuries",
+      "600+ high-quality exercise videos",
+      "Mobility and strength training for runners",
+      "Injury prevention instructions integrated into training",
+      "Training plans from 5K to marathon with injury prevention focus",
+      "Adaptive training based on user feedback",
+      "Certified as a medical device"
+    ],
+    "business_model": "B2C mobile app subscription; potential B2B licensing to clinics and coaches; medical device certification enables healthcare provider recommendations",
+    "why_varden_should_care": "ExaktHealth's focus on running injuries and medical device certification positions them uniquely in the sports medicine landscape. Their combination of injury rehabilitation and performance training addresses the full athlete journey, from injury recovery to race preparation. The medical device certification provides regulatory credibility that could facilitate adoption by healthcare providers and insurance coverage."
+  },
+  {
+    "company_name": "Kaia Health",
+    "hq_location": "Munich, Germany (significant UK market presence)",
+    "website_url": "https://kaiahealth.com",
+    "problem_solved": "Musculoskeletal (MSK) pain affects millions, leading to reduced quality of life, lost productivity, and high healthcare costs. Traditional care often involves long wait times, multiple appointments, and inconsistent outcomes.",
+    "who_buys_it": "Employers ( Fortune 150+ companies), health insurance plans, healthcare systems, pension companies, individual patients with MSK pain",
+    "key_features": [
+      "Digital-first MSK care with multimodal treatment approach",
+      "AI-powered personalization and real-time feedback",
+      "Programs developed by Doctors of Physical Therapy (DPTs)",
+      "No appointments or devices required - accessible on demand",
+      "Clinical outcomes validated across 11+ trials",
+      "Cost savings with 3x ROI demonstrated in claims studies",
+      "Integration with major healthcare organizations globally"
+    ],
+    "business_model": "B2B2C model: sold to employers and health plans who offer it to members/employees; individual direct enrollment available; proven ROI model drives adoption",
+    "why_varden_should_care": "Kaia Health represents the leading edge of digital therapeutics for MSK conditions, with proven clinical outcomes and strong economic value proposition. Their multimodal approach (exercise, education, mindfulness) and DPT-developed programs align with sports medicine best practices. Their 3x ROI and integration with major healthcare organizations demonstrates scalability and market validation that could inform similar initiatives."
+  },
+  {
+    "company_name": "Sword Health",
+    "hq_location": "Porto, Portugal (global operations including UK)",
+    "website_url": "https://swordhealth.com",
+    "problem_solved": "MSK pain and chronic conditions lead to reduced productivity, costly surgeries, and opioid dependency. Traditional care is fragmented, expensive, and often fails to address the whole person.",
+    "who_buys_it": "Large employers, health plans, healthcare systems seeking to reduce MSK-related costs and improve member outcomes; individuals seeking AI-powered pain management",
+    "key_features": [
+      "Whole-person AI care combining clinical specialists with AI",
+      "Doctor of Physical Therapy (DPT) support alongside AI",
+      "Hyper-personalized treatment plans",
+      "3.2:1 independently validated gross savings ratio (industry's highest)",
+      "$3,177 annual member savings on MSK and related chronic conditions",
+      "50% reduction in rate of costly surgeries",
+      "67% of members become pain-free",
+      "64% reduction in depression, 68% improvement in productivity",
+      "83 Net Promoter Score"
+    ],
+    "business_model": "B2B enterprise contracts with employers and health plans; members access care through their benefits; whole-person approach addresses MSK pain, prevention, and related behavioral health",
+    "why_varden_should_care": "Sword Health demonstrates the potential of combining AI with human clinical expertise in MSK care, achieving industry-leading outcomes and cost savings. Their whole-person approach (addressing physical and behavioral health) aligns with modern sports medicine's biopsychosocial model. The high NPS and clinical outcomes show strong member engagement and effectiveness, making them a model for digital MSK care delivery."
+  }
+]

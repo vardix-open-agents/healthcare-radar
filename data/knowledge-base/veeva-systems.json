@@ -1,0 +1,14 @@
+{
+  "company": "Veeva Systems",
+  "country": "US",
+  "problem": "Life sciences companies lack unified cloud systems for clinical, regulatory, quality, safety, medical, and commercial operations, leading to data silos and inefficient processes.",
+  "solution": "Industry cloud for life sciences with Vault Clinical Platform for accelerating study timelines, RIM (regulatory information management), Quality Cloud, Safety Suite, and Commercial Solutions. End-to-end platform connecting clinical through commercial operations.",
+  "problem_type": "clinical_trials",
+  "solution_type": "SaaS",
+  "buyer": "research_orgs",
+  "varden_fit": "low",
+  "url": "https://www.veeva.com/",
+  "source": "web",
+  "discovery_round": 103,
+  "discovered_by": "sky"
+}

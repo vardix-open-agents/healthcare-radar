@@ -1,0 +1,30 @@
+{
+  "id": "babylonhealth-2026-015",
+  "title": "Babylon Health - AI-Powered Digital Primary Care",
+  "company": "Babylon Health",
+  "country": "UK",
+  "region": "EU",
+  "segment": "triage",
+  "problem": "Access to primary care is limited by geography, wait times, and cost. Traditional healthcare is reactive rather than preventive.",
+  "solution": "AI-powered symptom checker combined with virtual GP consultations. GP at Hand service offers NHS-backed digital-first primary care registration.",
+  "technology": "AI triage, video consultations, digital health records",
+  "target_customer": "Health systems, insurers, employers, direct-to-consumer",
+  "care_setting": "telehealth",
+  "care_domain": "general",
+  "care_stage": "triage",
+  "automation_level": "partial",
+  "ai_type": "NLP, knowledge-based reasoning",
+  "traction_signals": [
+    "Founded 2013, London-based",
+    "GP at Hand: 100,000+ NHS patients registered",
+    "Expanded to US, Canada, Rwanda",
+    "Public company (SPAC merger 2021)"
+  ],
+  "funding": "Public company",
+  "regulatory_notes": "CE marked, CQC registered in UK. FDA clearance in US.",
+  "varden_fit": "Moderate — while Babylon is a comprehensive platform, their AI triage and virtual care approach could inspire Varden features. Potential for partnership if Babylon enters Swedish market.",
+  "source": "Industry knowledge",
+  "url": "https://www.babylonhealth.com",
+  "date_added": "2026-03-11",
+  "notes": "Notable for GP at Hand model — patients can register with Babylon as their NHS GP. Caution: company faced financial challenges in 2023-2024."
+}

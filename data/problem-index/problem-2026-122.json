@@ -1,0 +1,16 @@
+{
+  "id": "problem-2026-122",
+  "problem": "Providers spend 30-45 minutes per claim checking status across multiple payer portals, with no unified real-time claims status infrastructure",
+  "problem_type": "claims_status",
+  "solution_type": "Unified claims status API, EDI 276/277 transaction automation, payer portal aggregation, real-time status dashboards",
+  "care_stage": "admin",
+  "automation_type": "workflow_automation",
+  "buyer": "clinic",
+  "care_setting": "primary_care",
+  "companies": ["Availity", "Waystar", "Change Healthcare", "Navicure", "Office Ally"],
+  "signals": ["30-45 min average per status check", "Multiple payer portals required", "276/277 transaction adoption growing", "Unified dashboard demand"],
+  "boring_software": true,
+  "contrarian": false,
+  "url": "https://www.availity.com",
+  "date_added": "2026-03-11"
+}

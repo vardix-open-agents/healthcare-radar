@@ -1,0 +1,14 @@
+{
+  "company": "Cohere Health",
+  "country": "US",
+  "problem": "Prior authorization processes are manual, time-consuming, and create administrative burden for healthcare providers and payers, leading to delayed patient care and increased costs",
+  "solution": "AI-powered clinical intelligence platform that automates prior authorization through clinically trained AI, achieving 90% automation rates, 47% admin cost savings, and 70% faster care access",
+  "problem_type": "prior_authorization",
+  "solution_type": "SaaS",
+  "buyer": "providers",
+  "varden_fit": "high",
+  "url": "https://www.coherehealth.com",
+  "source": "web",
+  "discovery_round": 86,
+  "discovered_by": "sky"
+}

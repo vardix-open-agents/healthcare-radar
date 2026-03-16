@@ -1,0 +1,82 @@
+[
+  {
+    "company_name": "Doccla",
+    "hq_location": "London, UK",
+    "website_url": "https://www.doccla.com",
+    "problem_solved": "Hospitals need to safely monitor and care for patients outside traditional hospital settings, reducing bed occupancy and enabling earlier discharge while maintaining clinical oversight",
+    "who_buys_it": "NHS trusts, European hospitals, healthcare systems seeking to implement virtual ward programs",
+    "key_features": "Virtual ward platform with remote patient monitoring, clinical dashboards, integration with medical devices, automated vital sign collection, deterioration alerts, care pathway management",
+    "business_model": "B2B SaaS platform licensing to healthcare providers with per-patient or per-bed subscription pricing",
+    "why_varden_should_care": "Leading European virtual ward platform with NHS contracts; positioned to benefit from post-pandemic acceleration of hospital-at-home programs across UK and EU markets"
+  },
+  {
+    "company_name": "Current Health (acquired by Best Buy Health)",
+    "hq_location": "Edinburgh, UK / Boston, USA",
+    "website_url": "https://www.currenthealth.com",
+    "problem_solved": "Hospitals need continuous remote monitoring of patients at home with medical-grade devices and clinical oversight to safely deliver hospital-level care outside traditional facilities",
+    "who_buys_it": "Health systems, hospitals, health insurers seeking to implement hospital-at-home programs and reduce costly inpatient stays",
+    "key_features": "FDA-cleared wearable monitoring device, continuous vital sign tracking (SpO2, pulse, temperature, respiration, movement), clinical command center, AI-powered deterioration detection, care team alerts, EHR integration",
+    "business_model": "B2B platform-as-a-service with hardware leasing and software subscription; now integrated into Best Buy Health's care delivery services",
+    "why_varden_should_care": "Pioneer in hospital-at-home technology with both US and EU footprint; acquisition by Best Buy validates market opportunity and provides scale for European expansion"
+  },
+  {
+    "company_name": "Huma",
+    "hq_location": "London, UK",
+    "website_url": "https://www.huma.com",
+    "problem_solved": "Healthcare systems need scalable digital infrastructure to deliver hospital-at-home care, clinical trials, and chronic disease management with remote patient monitoring",
+    "who_buys_it": "Health systems, pharmaceutical companies, research institutions, governments seeking digital health platforms for care delivery and decentralized clinical trials",
+    "key_features": "Modular digital health platform, remote patient monitoring apps, clinical dashboard, biomarker integration, decentralized clinical trial platform, hospital-at-home care pathways, multi-therapeutic area support",
+    "business_model": "B2B SaaS platform licensing to healthcare providers and pharma; project-based contracts for clinical trials; revenue sharing models",
+    "why_varden_should_care": "Leading European digital therapeutics and RPM platform with major pharma partnerships and NHS deployments; strong position in emerging decentralized care market"
+  },
+  {
+    "company_name": "Luscii",
+    "hq_location": "Amsterdam, Netherlands",
+    "website_url": "https://www.luscii.com",
+    "problem_solved": "Hospitals and healthcare providers need to scale virtual ward programs with user-friendly remote monitoring that reduces hospital admissions and supports home-based recovery",
+    "who_buys_it": "European hospitals, regional healthcare systems, disease management programs, home care organizations",
+    "key_features": "Virtual ward platform, patient-facing mobile app, clinical monitoring dashboard, video consultations, validated medical questionnaires, integration with hospital IT systems, multi-language support for European markets",
+    "business_model": "B2B SaaS subscription licensing to healthcare organizations with implementation services",
+    "why_varden_should_care": "Dutch market leader in virtual wards with expansion across European markets; strong focus on usability and clinical validation positions well for pan-European growth"
+  },
+  {
+    "company_name": "Isansys",
+    "hq_location": "Abingdon, UK",
+    "website_url": "https://www.isansys.com",
+    "problem_solved": "Hospitals need wireless, continuous patient monitoring that works across wards, critical care, and home settings to improve patient safety and enable early discharge",
+    "who_buys_it": "Hospitals, healthcare systems, home care providers seeking wireless patient monitoring infrastructure for general wards and virtual wards",
+    "key_features": "Patient Status Engine (FDA-cleared Class II device), wireless vital sign monitoring, cardiac monitoring, respiratory monitoring, early warning scores, AI-powered predictive analytics, newborn and adult monitoring, continuous data capture",
+    "business_model": "B2B hardware and software platform sales with recurring software subscription; device-as-a-service models",
+    "why_varden_should_care": "Unique FDA-cleared wireless monitoring platform enabling hospital-to-home continuity; proven reduction in ICU readmissions and nursing workload; positioned for virtual ward infrastructure build-out"
+  },
+  {
+    "company_name": "Livi (Kry)",
+    "hq_location": "Stockholm, Sweden",
+    "website_url": "https://www.livi.co.uk / https://www.kry.se",
+    "problem_solved": "European healthcare systems need integrated digital-first care delivery that spans primary care, specialist consultations, and care coordination for patients at home",
+    "who_buys_it": "Health insurers, regional healthcare systems, governments seeking digital care delivery and telehealth services at scale",
+    "key_features": "Europe's largest digital-first healthcare provider, 34+ physical clinics, 24/7 video consultations, chronic disease management, care coordination, prescription services, mental health support, multi-country platform",
+    "business_model": "B2B contracts with insurers and regional healthcare systems; capitated care models; direct-to-consumer services",
+    "why_varden_should_care": "Market-leading European digital care platform with integrated physical-digital care delivery; strong foundation for hospital-at-home care coordination services"
+  },
+  {
+    "company_name": "Medgate",
+    "hq_location": "Basel, Switzerland",
+    "website_url": "https://www.medgate.ch",
+    "problem_solved": "Swiss and European healthcare systems need 24/7 telemedicine and care coordination services to reduce emergency department burden and support patients at home",
+    "who_buys_it": "Swiss health insurers, regional healthcare systems, employers seeking telemedicine and digital health services",
+    "key_features": "24/7 telemedicine platform, Medgate app, emergency triage services, Kids Line for pediatric care, 34 clinics across Switzerland, care coordination, prescription services, specialist referral network, 3,800+ partner providers",
+    "business_model": "B2B contracts with health insurers; fee-for-service reimbursement via Swiss health insurance system; partnership models with pharmacies",
+    "why_varden_should_care": "Swiss market leader in telemedicine with proven model for integrating digital and physical care; demonstrates sustainable telemedicine economics in European health system"
+  },
+  {
+    "company_name": "Philips Hospital at Home",
+    "hq_location": "Amsterdam, Netherlands",
+    "website_url": "https://www.philips.com/healthcare/solutions/patient-monitoring",
+    "problem_solved": "Health systems need enterprise-grade hospital-at-home solutions integrated with existing monitoring infrastructure, clinical workflows, and IT systems for scalable care delivery",
+    "who_buys_it": "Large health systems, academic medical centers, integrated delivery networks seeking comprehensive hospital-at-home programs",
+    "key_features": "Integrated patient monitoring platform, connected medical devices, clinical decision support, care coordination tools, EHR integration, post-discharge monitoring, chronic disease management, enterprise-scale deployment",
+    "business_model": "B2B enterprise platform licensing with hardware, software, and services; long-term contracts with health systems",
+    "why_varden_should_care": "Global healthcare IT leader with established European hospital relationships; infrastructure for hospital-at-home integrated with existing Philips monitoring and IT deployments across EU"
+  }
+]

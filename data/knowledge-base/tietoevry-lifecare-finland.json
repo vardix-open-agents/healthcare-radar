@@ -1,0 +1,14 @@
+{
+  "company": "Tietoevry Lifecare",
+  "country": "FI",
+  "problem": "Healthcare systems face growing gaps between care needs and capacity due to aging populations, fragmented legacy systems, and increasing quality demands",
+  "solution": "Modern healthcare IT platform (Lifecare EHR) for primary and specialist care with open platform architecture, secure data access via WEADD Sync, and integrated solutions serving 22,000+ healthcare workers across hospitals, pharmacies, and psychiatric units",
+  "problem_type": "ehealth_infrastructure",
+  "solution_type": "SaaS",
+  "buyer": "providers",
+  "varden_fit": "high",
+  "url": "https://www.tietoevry.com/se/care/halsa-och-sjukvard/",
+  "source": "web research",
+  "discovery_round": 66,
+  "discovered_by": "nova"
+}

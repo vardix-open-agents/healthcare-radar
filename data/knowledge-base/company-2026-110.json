@@ -1,0 +1,27 @@
+{
+  "company": "WebEye (Czech Republic)",
+  "country": "Czech Republic",
+  "founded_year": 2015,
+  "category": "Telemedicine",
+  "subsector": "Ophthalmology Telehealth",
+  "description": "Czech startup providing AI-powered ophthalmology screening and telemedicine platform for eye care. Used by opticians, pharmacies, and healthcare providers across Czech Republic and expanding in CEE.",
+  "business_model": "B2B - SaaS to opticians, pharmacies, and healthcare providers",
+  "target_market": "Czech and CEE eye care providers, pharmacies, employers",
+  "funding_stage": "Series A",
+  "funding_amount_eur": 3000000,
+  "key_investors": "Czech VCs, European Innovation Council",
+  "employees": 35,
+  "customers": "500+ locations",
+  "revenue_eur": 2500000,
+  "tech_stack": ["AI screening algorithms", "Web platform", "Mobile app", "Integration APIs"],
+  "integration_points": ["Pharmacy systems", "Ophthalmology EHRs", "Employer health programs"],
+  "competitive_advantage": "AI-powered screening, regulatory approval, CEE market presence",
+  "varden_fit": {
+    "threat_level": "low",
+    "opportunity": "partner",
+    "rationale": "Specialized screening tool - could integrate eye screening into occupational health packages"
+  },
+  "data_quality": "medium",
+  "sources": ["webeye.eu", "linkedin.com"],
+  "last_updated": "2026-03-11"
+}

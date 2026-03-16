@@ -1,0 +1,27 @@
+{
+  "company": "Eucalyptus (Germany)",
+  "country": "Germany",
+  "founded_year": 2019,
+  "category": "Telemedicine",
+  "subsector": "Digital Health Clinic",
+  "description": "German digital health company operating multiple telemedicine brands including TeleClinic, Jungl.ck, and Vireq. Provides digital health services across Germany with focus on different patient segments and conditions.",
+  "business_model": "B2C - Digital health services to patients",
+  "target_market": "German healthcare consumers",
+  "funding_stage": "Series C",
+  "funding_amount_eur": 200000000,
+  "key_investors": "Target Global, Vorwerk Ventures, others",
+  "employees": "500+",
+  "customers": "German patients",
+  "revenue_eur": null,
+  "tech_stack": ["Telemedicine platform", "Digital clinics", "Prescription services", "EHR integration"],
+  "integration_points": ["German statutory health insurance", "Pharmacies", "Labs"],
+  "competitive_advantage": "Multiple brands, German market focus, DiGA-compliant",
+  "varden_fit": {
+    "threat_level": "low",
+    "opportunity": "monitor",
+    "rationale": "German digital health - demonstrates European market opportunity"
+  },
+  "data_quality": "high",
+  "sources": ["eucalyptus.com", "crunchbase.com"],
+  "last_updated": "2026-03-11"
+}

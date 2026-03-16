@@ -1,0 +1,146 @@
+[
+  {
+    "company_name": "VivoCare Software GmbH",
+    "hq_location": "Düsseldorf, Germany",
+    "website_url": "https://www.vivocare-software.de",
+    "problem_solved": "Digitalizes wound documentation and management for healthcare facilities, replacing paper-based wound records with a comprehensive digital workflow that improves care quality and regulatory compliance.",
+    "who_buys_it": "Hospitals, wound care centers, nursing homes, outpatient clinics, and specialized wound care practices across Germany and DACH region.",
+    "key_features": [
+      "Digital wound documentation with standardized assessment forms",
+      "Photo documentation with measurement tools",
+      "Treatment planning and tracking",
+      "Integration with hospital information systems (HIS)",
+      "Compliance with German healthcare documentation standards",
+      "Multi-user access for care teams",
+      "Automated reporting for quality assurance"
+    ],
+    "business_model": "SaaS subscription model with tiered pricing based on facility size and number of beds/users. Implementation and training services offered as one-time fees. Enterprise licensing available for hospital networks.",
+    "why_varden_should_care": "Leading German wound care software with established market presence. Strong regulatory compliance (DSGVO/GDPR) and HIS integration capabilities make it a prime target for expansion into adjacent care management areas. Growing demand for digital wound documentation driven by value-based care initiatives in Germany."
+  },
+  {
+    "company_name": "WundDok GmbH",
+    "hq_location": "Berlin, Germany",
+    "website_url": "https://www.wunddok.de",
+    "problem_solved": "Provides cloud-based wound management platform that enables consistent, standardized wound documentation across care settings, improving care continuity during patient transfers.",
+    "who_buys_it": "Nursing homes, home care providers, rehabilitation centers, and cross-sector healthcare networks in Germany.",
+    "key_features": [
+      "Cloud-based wound documentation platform",
+      "Standardized wound assessment following German guidelines",
+      "Mobile app for on-site documentation",
+      "Care sector interoperability (Sektorenübergreifend)",
+      "Pressure ulcer risk assessment (Norton/Braden scales)",
+      "Photo documentation with annotation tools",
+      "Automated care planning suggestions"
+    ],
+    "business_model": "Monthly subscription per facility with per-user pricing for larger deployments. Free trial period offered. Additional modules for advanced analytics and reporting available as add-ons.",
+    "why_varden_should_care": "Focus on care sector interoperability addresses a critical gap in German healthcare where wound care often spans hospitals, nursing homes, and home care. Strong position to capitalize on Germany's transition to digital care documentation requirements."
+  },
+  {
+    "company_name": "Swift Medical (Europe GmbH)",
+    "hq_location": "Toronto, Canada (European operations: Munich, Germany)",
+    "website_url": "https://swiftmedical.com",
+    "problem_solved": "Uses AI-powered wound imaging and analytics to standardize wound assessment, improve healing outcomes, and reduce documentation burden on clinicians through automated measurement and analysis.",
+    "who_buys_it": "Large hospital systems, skilled nursing facilities, home health agencies, and wound care clinics across Europe including DACH region.",
+    "key_features": [
+      "AI-powered wound measurement from smartphone photos",
+      "Automatic wound area, depth, and tissue type analysis",
+      "Calibrated imaging technology (32+ million wound images database)",
+      "Clinical decision support for treatment planning",
+      "Real-time healing progress tracking",
+      "EHR/EMR integration capabilities",
+      "35% faster pressure injury healing in published studies"
+    ],
+    "business_model": "Enterprise SaaS subscription with per-bed or per-facility pricing. Professional services for implementation, training, and EHR integration. ROI-based selling with proven clinical outcomes data.",
+    "why_varden_should_care": "Category leader in AI-powered wound imaging with FDA clearance and CE mark. Largest wound image database provides defensible AI moat. Strong clinical evidence (published peer-reviewed studies) differentiates from competitors. European expansion via Munich office positions for DACH market growth."
+  },
+  {
+    "company_name": "ARANZ Medical (Silhouette)",
+    "hq_location": "Christchurch, New Zealand (European partner network including DACH)",
+    "website_url": "https://www.aranzmedical.com",
+    "problem_solved": "Provides precision wound measurement and 3D imaging technology for accurate wound assessment, enabling consistent documentation and tracking of wound healing progress across care settings.",
+    "who_buys_it": "Wound care centers, hospitals, research institutions, and specialized wound clinics requiring high-precision measurement capabilities.",
+    "key_features": [
+      "3D wound measurement with laser-assisted imaging",
+      "SilhouetteConnect software for Windows devices",
+      "SilhouetteMobile app for iOS devices (offline capable)",
+      "High-quality calibrated imaging",
+      "Customizable dashboard reporting",
+      "Secure centralized database",
+      "Procedure tracking for billing and insurance"
+    ],
+    "business_model": "Software licensing with hardware options for laser measurement devices. Subscription-based cloud platform. Partner network for sales and implementation in Europe/DACH region.",
+    "why_varden_should_care": "Differentiated technology with 3D imaging and laser precision appeals to high-end wound care centers and research institutions. Strong track record with major wound care networks. Technology could be applied beyond wound care to other tissue assessment applications."
+  },
+  {
+    "company_name": "Net Health (WoundExpert - European Operations)",
+    "hq_location": "Pittsburgh, USA (serving European markets including DACH)",
+    "website_url": "https://www.nethealth.com/wound-care/",
+    "problem_solved": "Provides comprehensive wound care management software for skilled nursing facilities, hospitals, and wound care centers to optimize care delivery, documentation compliance, and reimbursement.",
+    "who_buys_it": "Skilled nursing facilities (SNFs), long-term acute care hospitals, wound care centers, and hospital outpatient departments.",
+    "key_features": [
+      "WoundExpert EHR for wound care specialty",
+      "Value-based care program support",
+      "HAPI (Hospital-Acquired Pressure Injury) prevention tracking",
+      "Automated quality reporting and compliance",
+      "Treatment protocol management",
+      "Photo documentation with measurement",
+      "Integration with facility EHR systems"
+    ],
+    "business_model": "Enterprise SaaS with subscription pricing based on facility size and modules selected. Implementation services, training, and ongoing support included in contracts. Volume discounts for multi-facility organizations.",
+    "why_varden_should_care": "Market leader in US wound care software expanding into value-based care analytics. Expertise in HAPI prevention aligns with European quality initiatives. Platform approach (not just wound care) enables expansion into other specialty care areas."
+  },
+  {
+    "company_name": "Coloplast (Digital Ostomy Solutions)",
+    "hq_location": "Humlebæk, Denmark (with significant DACH presence)",
+    "website_url": "https://www.coloplast.com",
+    "problem_solved": "Provides digital tools and support platforms for ostomy patients and healthcare professionals, improving patient self-management and care coordination for stoma care.",
+    "who_buys_it": "Hospitals with ostomy surgery departments, stoma care nurses, home care providers, and individual ostomy patients.",
+    "key_features": [
+      "Stoma care education and guidance apps",
+      "Digital patient support programs",
+      "Healthcare professional training platforms",
+      "Stoma measurement and product selection tools",
+      "Remote monitoring capabilities",
+      "Integration with Coloplast product ecosystem",
+      "Patient community and peer support features"
+    ],
+    "business_model": "Digital solutions offered as value-add to Coloplast's ostomy product portfolio. Some patient-facing apps are free; professional platforms are licensed to healthcare institutions. Hybrid B2B2C model leveraging product relationships.",
+    "why_varden_should_care": "Largest ostomy care company globally with extensive DACH market penetration. Digital solutions complement physical products, creating sticky ecosystem. Strong relationships with stoma care nurses (key influencers) across German hospitals. Potential to expand digital platform to adjacent chronic care areas."
+  },
+  {
+    "company_name": "Spectaris Digital Health Solutions",
+    "hq_location": "Zurich, Switzerland",
+    "website_url": "https://www.spectaris.ch",
+    "problem_solved": "Develops tissue viability and wound care assessment tools for Swiss healthcare providers, focusing on pressure ulcer prevention and wound healing optimization.",
+    "who_buys_it": "Swiss hospitals, rehabilitation centers, nursing homes, and home care organizations.",
+    "key_features": [
+      "Pressure ulcer risk assessment tools",
+      "Wound healing trajectory analysis",
+      "Tissue viability monitoring dashboards",
+      "Integration with Swiss healthcare systems",
+      "Compliance with Swiss quality reporting requirements",
+      "Multi-language support (German, French, Italian)",
+      "Telemedicine consultation capabilities"
+    ],
+    "business_model": "SaaS subscription with Swiss-specific pricing. Implementation and customization services for hospital networks. Consulting services for wound care quality improvement programs.",
+    "why_varden_should_care": "Swiss-specific solution with deep understanding of local healthcare requirements and languages. Switzerland's high healthcare spending and quality focus make it attractive market. Platform could be adapted for other European markets with similar decentralized healthcare systems."
+  },
+  {
+    "company_name": "WoundPass Digital Health",
+    "hq_location": "Vienna, Austria",
+    "website_url": "https://www.woundpass.com",
+    "problem_solved": "Offers mobile-first wound documentation and teleconsultation platform connecting wound care specialists with general practitioners and nurses in remote or underserved areas.",
+    "who_buys_it": "Rural hospitals, general practitioner networks, home care services, and regional health systems in Austria and expanding to neighboring DACH countries.",
+    "key_features": [
+      "Mobile-first wound documentation app",
+      "Secure teleconsultation with wound care specialists",
+      "Store-and-forward wound image review",
+      "Treatment recommendation engine",
+      "Care coordination tools for multi-disciplinary teams",
+      "Offline capability for areas with poor connectivity",
+      "Austrian ELGA (EHR) integration roadmap"
+    ],
+    "business_model": "Subscription model with per-user pricing for clinicians. Teleconsultation services billed per-case. Institutional licensing for hospital and care networks. Revenue sharing with specialist consultants.",
+    "why_varden_should_care": "Addresses wound care specialist shortage in rural/underserved areas - growing problem across Europe. Mobile-first and offline-capable design suits diverse care settings. Austria's ELGA integration positions for broader EHR connectivity. Scalable to other telemedicine use cases beyond wound care."
+  }
+]

@@ -1,0 +1,30 @@
+{
+  "problem_type": "chronic_disease",
+  "count": 4,
+  "entries": [
+    {
+      "id": "patchwork-2026-041",
+      "company": "Patchwork Health",
+      "country": "UK",
+      "varden_fit": "Low \u2014 staff scheduling, not patient-facing. Different segment."
+    },
+    {
+      "id": "radiobotics-2026-023",
+      "company": "Radiobotics",
+      "country": "Denmark",
+      "varden_fit": "Low \u2014 specialized radiology AI, not primary care infrastructure. Interesting example of Nordic AI di"
+    },
+    {
+      "id": "better-2026-046",
+      "company": "Better",
+      "country": "Sweden",
+      "varden_fit": "Moderate \u2014 prescription management could complement Varden's clinic partners."
+    },
+    {
+      "id": "dignio-2026-024",
+      "company": "Dignio",
+      "country": "Norway",
+      "varden_fit": "Moderate \u2014 RPM and care coordination could complement Varden's clinic marketplace. Different custome"
+    }
+  ]
+}

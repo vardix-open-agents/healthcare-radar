@@ -1,0 +1,29 @@
+{
+  "id": "usoncology-2026-146",
+  "title": "US Oncology Network",
+  "company": "US Oncology Network (McKesson)",
+  "country": "USA",
+  "region": "NA",
+  "segment": "oncology_network",
+  "problem": "Independent oncology practices struggle with economies of scale, access to resources, and negotiating power with payers.",
+  "solution": "Network model providing independent oncology practices with shared services, group purchasing, and clinical programs.",
+  "technology": "Network coordination platform, shared services infrastructure, practice management tools",
+  "target_customer": "Independent oncology practices",
+  "care_setting": "outpatient_oncology",
+  "care_domain": "oncology",
+  "care_stage": "care_delivery",
+  "automation_level": "partial",
+  "ai_type": null,
+  "traction_signals": [
+    "1000+ physicians in network",
+    "Major US oncology network",
+    "Part of McKesson"
+  ],
+  "funding": "Part of McKesson",
+  "regulatory_notes": "Network model, not technology product",
+  "varden_fit": "HIGH - Network model and practice coordination align with platform strategy. Model for specialty practice aggregation.",
+  "source": "Industry knowledge",
+  "url": "https://usoncology.com",
+  "date_added": "2026-03-11",
+  "notes": "Practice network model. Interesting analog for Varden's specialty coordination approach."
+}

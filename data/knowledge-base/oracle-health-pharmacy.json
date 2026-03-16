@@ -1,0 +1,14 @@
+{
+  "company": "Oracle Health Pharmacy (formerly Cerner)",
+  "country": "US",
+  "problem": "Healthcare organizations need integrated pharmacy management to prevent medication errors, manage drug interactions, and ensure safe medication therapy across inpatient and outpatient settings.",
+  "solution": "Comprehensive pharmacy solutions integrated with EHR including inpatient pharmacy with drug interaction checking via Multum Drug Database, outpatient pharmacy with e-prescribing, pharmacy inventory management, and clinical surveillance for medication misuse. Provides real-time alerts, automated workflows, and unified medication profiles.",
+  "problem_type": "medication_management",
+  "solution_type": "SaaS",
+  "buyer": "providers",
+  "varden_fit": "high",
+  "url": "https://www.oracle.com/health",
+  "source": "web",
+  "discovery_round": 101,
+  "discovered_by": "sky"
+}

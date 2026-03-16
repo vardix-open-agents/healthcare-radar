@@ -1,0 +1,16 @@
+{
+  "id": "problem-2026-090",
+  "problem": "Behavioral health workforce shortage leaves 60% of US counties without a psychiatrist, forcing PCPs to manage complex mental health",
+  "problem_type": "staffing_workforce",
+  "solution_type": "Collaborative care models, telepsychiatry networks, AI-assisted psychiatric screening",
+  "care_stage": "triage_navigation",
+  "automation_type": "decision_support",
+  "buyer": "health_system",
+  "care_setting": "mental_health",
+  "companies": ["Talkspace", "Ginger", "Lyra Health", "Brightside", "Bend Health"],
+  "signals": ["Mental health crisis", "Collaborative care model evidence", "Medicare telepsychiatry expansion"],
+  "boring_software": false,
+  "contrarian": true,
+  "url": "https://www.samhsa.gov",
+  "date_added": "2026-03-11"
+}

@@ -1,0 +1,28 @@
+{
+  "company": "Suki (USA)",
+  "country": "United States",
+  "founded_year": 2017,
+  "category": "Healthcare Infrastructure",
+  "subsector": "AI Medical Scribe",
+  "description": "AI-powered clinical voice assistant that generates clinical notes from patient encounters. Reduces documentation burden for physicians. Ambient clinical intelligence that listens to patient visits and creates structured clinical documentation.",
+  "business_model": "B2B - AI assistant to healthcare providers",
+  "target_market": "Physicians, health systems, ambulatory care",
+  "funding_stage": "Series C",
+  "funding_amount_usd": 165000000,
+  "key_investors": "March Capital, Venrock, Flare Capital, Breyer Capital",
+  "employees": "150+",
+  "customers": "100+ health systems",
+  "revenue_usd": null,
+  "tech_stack": ["Ambient AI", "Clinical NLP", "Voice recognition", "EHR integration", "Clinical documentation"],
+  "integration_points": ["Epic", "Cerner", "athenahealth", "other EHRs"],
+  "competitive_advantage": "75% documentation time reduction, EHR-embedded, specialty-specific models",
+  "boring_software": true,
+  "varden_fit": {
+    "threat_level": "low",
+    "opportunity": "monitor",
+    "rationale": "Clinical documentation automation - could integrate with occupational health encounters"
+  },
+  "data_quality": "high",
+  "sources": ["suki.ai", "crunchbase.com"],
+  "last_updated": "2026-03-11"
+}

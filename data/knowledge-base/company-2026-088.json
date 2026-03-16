@@ -1,0 +1,27 @@
+{
+  "company": "Zavamed (Legacy)",
+  "country": "United Kingdom",
+  "founded_year": 2014,
+  "category": "Digital Health Services",
+  "subsector": "Online Health Services Marketplace",
+  "description": "Formerly one of UK's largest digital health platforms connecting patients to doctors, pharmacies, and treatment providers. Acquired and integrated into larger group. Operated pharmacy and telemedicine.",
+  "business_model": "B2C - Commission from providers; some B2B",
+  "target_market": "UK consumers seeking healthcare services",
+  "funding_stage": "Acquired",
+  "funding_amount_gbp": 70000000,
+  "key_investors": "Acquired by healthcare group",
+  "employees": "Integrated",
+  "customers": "3M+ patients served historically",
+  "revenue_gbp": 30000000,
+  "tech_stack": ["Marketplace platform", "Pharmacy system", "Doctor network"],
+  "integration_points": ["Pharmacies", "Clinics", "Payment systems"],
+  "competitive_advantage": "Historical market presence, integrated care model",
+  "varden_fit": {
+    "threat_level": "low",
+    "opportunity": "learn",
+    "rationale": "Market reference - lessons learned from digital health marketplace model"
+  },
+  "data_quality": "low",
+  "sources": ["historical data", "crunchbase.com"],
+  "last_updated": "2026-03-11"
+}

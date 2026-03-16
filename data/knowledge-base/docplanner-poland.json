@@ -1,0 +1,14 @@
+{
+  "company": "Docplanner Group",
+  "country": "PL",
+  "problem": "Patients struggle to find and book appointments with doctors; clinics lack efficient patient management tools",
+  "solution": "SaaS platform for doctor booking, clinic management software, and telemedicine; operates ZnanyLekarz in Poland",
+  "problem_type": "practice_management",
+  "solution_type": "SaaS",
+  "buyer": "clinics",
+  "varden_fit": "medium",
+  "url": "https://www.docplanner.com",
+  "source": "web",
+  "discovery_round": 72,
+  "discovered_by": "sky"
+}

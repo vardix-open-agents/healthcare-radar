@@ -1,0 +1,14 @@
+{
+  "company": "Emotiv",
+  "country": "AU",
+  "problem": "Researchers and enterprises need wireless EEG solutions that work in real-world environments to capture brain data outside traditional laboratory settings",
+  "solution": "World's leading wireless EEG platform with motion-tolerant sensors, research hub for real-world neuroscience, and brain-computer interface solutions for enterprise and research",
+  "problem_type": "neurology",
+  "solution_type": "SaaS",
+  "buyer": "clinics",
+  "varden_fit": "medium",
+  "url": "https://www.emotiv.com",
+  "source": "web",
+  "discovery_round": 118,
+  "discovered_by": "sky"
+}

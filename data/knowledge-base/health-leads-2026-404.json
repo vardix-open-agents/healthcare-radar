@@ -1,0 +1,22 @@
+{
+  "company_name": "Health Leads",
+  "problem_solved": "Healthcare systems lack tools and frameworks to systematically address social determinants of health and advocate for health equity",
+  "solution_description": "Nonprofit organization providing SDOH screening tools, resource directories, and advocacy for health equity. Works with health systems to integrate social care into clinical workflows. Provides training, technical assistance, and policy advocacy for addressing root causes of health disparities",
+  "buyer_persona": "health_systems",
+  "care_stage": "screening",
+  "automation_level": "assistive",
+  "varden_fit": "low",
+  "region": "US",
+  "country": "United States",
+  "funding_stage": "nonprofit",
+  "traction_signals": [
+    "Pioneer in healthcare-based SDOH work",
+    "Published SDOH screening frameworks widely adopted",
+    "Partnerships with major health systems",
+    "National advocacy for health equity policies"
+  ],
+  "notes": "Mission-driven nonprofit, not a commercial platform. Pioneered SDOH work in healthcare settings. Provides thought leadership and frameworks but not scalable tech solution. Low Varden fit - nonprofit model, limited commercial opportunity",
+  "discovery_round": 50,
+  "discovered_by": "sky",
+  "timestamp": "2026-03-11T23:20:00Z"
+}

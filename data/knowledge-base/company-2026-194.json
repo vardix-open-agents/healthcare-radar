@@ -1,0 +1,28 @@
+{
+  "company": "Wellframe (USA)",
+  "country": "United States",
+  "founded_year": 2011,
+  "category": "Digital Health Infrastructure",
+  "subsector": "Care Management Platform",
+  "description": "US care management platform for health plans. Mobile app and clinician dashboard for care management, member engagement, and health coaching. Acquired by Health Catalyst (NASDAQ: HCAT).",
+  "business_model": "B2B - Care management to health plans",
+  "target_market": "Health plans, insurers",
+  "funding_stage": "Acquired",
+  "funding_amount_usd": 50000000,
+  "key_investors": "Acquired by Health Catalyst",
+  "employees": "100+",
+  "customers": "Health plans",
+  "revenue_usd": null,
+  "tech_stack": ["Care management", "Member engagement", "Health coaching", "Care workflows"],
+  "integration_points": ["Health plan systems", "Provider networks", "Claims systems"],
+  "competitive_advantage": "Health plan focus, engagement tools, clinical workflows",
+  "boring_software": true,
+  "varden_fit": {
+    "threat_level": "low",
+    "opportunity": "monitor",
+    "rationale": "Care management platform - relevant for occupational health case management"
+  },
+  "data_quality": "high",
+  "sources": ["wellframe.com", "crunchbase.com"],
+  "last_updated": "2026-03-11"
+}

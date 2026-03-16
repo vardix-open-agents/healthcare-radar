@@ -1,0 +1,28 @@
+{
+  "company": "Particle Health (USA)",
+  "country": "United States",
+  "founded_year": 2018,
+  "category": "Healthcare Infrastructure",
+  "subsector": "Health Data API Platform",
+  "description": "Healthcare data API platform providing unified access to patient medical records. Single API connects to major EHR systems and health data networks. Focus on developer experience and rapid integration for digital health applications.",
+  "business_model": "B2B - API platform to digital health companies",
+  "target_market": "Digital health startups, telemedicine platforms, care coordination apps",
+  "funding_stage": "Series B",
+  "funding_amount_usd": 40000000,
+  "key_investors": "Menlo Ventures, Company Ventures, others",
+  "employees": "50+",
+  "customers": "100+ digital health companies",
+  "revenue_usd": null,
+  "tech_stack": ["Health data API", "FHIR", "Patient data aggregation", "Smart on FHIR"],
+  "integration_points": ["Epic", "Cerner", "Allscripts", "Health information exchanges"],
+  "competitive_advantage": "Developer-first approach, rapid deployment, comprehensive EHR coverage",
+  "boring_software": true,
+  "varden_fit": {
+    "threat_level": "low",
+    "opportunity": "benchmark",
+    "rationale": "Infrastructure play - competes with Redox/Leyr in healthcare API space"
+  },
+  "data_quality": "high",
+  "sources": ["particlehealth.com", "crunchbase.com"],
+  "last_updated": "2026-03-11"
+}

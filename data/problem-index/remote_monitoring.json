@@ -1,0 +1,24 @@
+{
+  "problem_type": "remote_monitoring",
+  "count": 3,
+  "entries": [
+    {
+      "id": "peilivision-2026-018",
+      "company": "Peili Vision",
+      "country": "Finland",
+      "varden_fit": "Low \u2014 specialized neuro/vision rehabilitation, not primary care infrastructure. Interesting niche bu"
+    },
+    {
+      "id": "doccla-2026-019",
+      "company": "Doccla",
+      "country": "UK",
+      "varden_fit": "Moderate \u2014 RPM infrastructure complements primary care. Could integrate with Varden clinics for post"
+    },
+    {
+      "id": "kontigo-2026-007",
+      "company": "Kontigo Care",
+      "country": "Sweden",
+      "varden_fit": "LOW-MODERATE - Specialized clinical tool for addiction. Not infrastructure play. Could potentially i"
+    }
+  ]
+}

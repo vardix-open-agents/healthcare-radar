@@ -1,0 +1,16 @@
+{
+  "id": "problem-2026-084",
+  "problem": "Dental practices can't verify medical insurance for procedures requiring medical necessity, losing 20-30% of potential claims",
+  "problem_type": "eligibility_verification",
+  "solution_type": "Dental-medical crossover eligibility platforms, integrated medical-dental billing, shared patient records",
+  "care_stage": "treatment",
+  "automation_type": "workflow_automation",
+  "buyer": "practice",
+  "care_setting": "dental",
+  "companies": ["Delta Dental", "DentaQuest", "PracticeWorks", "Dentrix", "Eaglesoft"],
+  "signals": ["Medical-dental integration movement", "Oral-systemic health evidence", "Medicare dental benefit proposals"],
+  "boring_software": true,
+  "contrarian": false,
+  "url": "https://www.ada.org",
+  "date_added": "2026-03-11"
+}

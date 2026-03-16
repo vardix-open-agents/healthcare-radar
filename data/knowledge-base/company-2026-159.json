@@ -1,0 +1,27 @@
+{
+  "company": "Oscar Health (USA)",
+  "country": "United States",
+  "founded_year": 2012,
+  "category": "Health Insurance",
+  "subsector": "Technology-Enabled Health Insurance",
+  "description": "Technology-driven health insurance company. Built modern tech stack for claims processing, provider networks, and member experience. Operates in individual, small group, and Medicare Advantage markets.",
+  "business_model": "B2C/B2B - Health insurance to individuals and employers",
+  "target_market": "Individuals, small businesses, Medicare beneficiaries",
+  "funding_stage": "Public (NYSE: OSCR)",
+  "funding_amount_usd": 1600000000,
+  "key_investors": "Public company, early investors include Khosla, Founders Fund, Google Capital",
+  "employees": "2000+",
+  "customers": "500000+ members",
+  "revenue_usd": 5700000000,
+  "tech_stack": ["Claims platform", "Member app", "Telemedicine integration", "Provider network management", "Care coordination"],
+  "integration_points": ["Provider networks", "EHRs", "Telemedicine platforms", "Pharmacy benefits"],
+  "competitive_advantage": "Tech-first insurance, member experience focus, API-driven operations",
+  "varden_fit": {
+    "threat_level": "low",
+    "opportunity": "benchmark",
+    "rationale": "Tech-enabled payer - demonstrates modern insurance infrastructure"
+  },
+  "data_quality": "high",
+  "sources": ["oscar.com", "crunchbase.com", "sec.gov"],
+  "last_updated": "2026-03-11"
+}

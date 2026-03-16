@@ -1,0 +1,32 @@
+{
+  "id": "company-2026-200",
+  "title": "Medsi - Healthcare Platform Russia/CIS",
+  "company": "Medsi",
+  "country": "Russia",
+  "region": "CEE/Europe",
+  "segment": "infrastructure",
+  "problem": "Russian patients need better access to healthcare information and appointment booking. Fragmented system across vast geography.",
+  "solution": "Healthcare platform for Russia and CIS: clinic search, appointment booking, telemedicine, health records. One of largest in Russia.",
+  "technology": "Marketplace, scheduling, telemedicine, EHR",
+  "target_customer": "Russian and CIS patients, clinics, doctors",
+  "care_setting": "primary_care",
+  "care_domain": "general",
+  "care_stage": "diagnosis",
+  "automation_level": "partial",
+  "ai_type": null,
+  "traction_signals": [
+    "One of Russia's largest healthcare platforms",
+    "Millions of patients",
+    "Clinic network across Russia"
+  ],
+  "funding": "Private, profitable",
+  "regulatory_notes": "Russian healthcare regulations, telemedicine laws",
+  "varden_fit": "LOW - Russian market, regulatory and geopolitical complexity. But shows infrastructure need in large market.",
+  "source": "scout-round7",
+  "url": "https://www.medsi.ru",
+  "date_added": "2026-03-11",
+  "notes": "boring_software=false, contrarian=false. CEE/Russia representation. Large market but complex environment.",
+  "problem_type": "care_navigation",
+  "boring_software": false,
+  "contrarian": false
+}

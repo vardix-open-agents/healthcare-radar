@@ -1,0 +1,14 @@
+{
+  "company": "Fathom",
+  "country": "US",
+  "problem": "Manual medical coding is time-consuming, error-prone, and creates revenue cycle bottlenecks for healthcare providers, leading to delayed payments and increased denials",
+  "solution": "AI-powered autonomous medical coding platform that automates over 90% of claims with 95%+ accuracy using deep learning and NLP to analyze clinical documentation and assign correct CPT, ICD-10, and HCPCS codes",
+  "problem_type": "medical_coding",
+  "solution_type": "SaaS",
+  "buyer": "providers",
+  "varden_fit": "high",
+  "url": "https://fathomhealth.com",
+  "source": "web",
+  "discovery_round": 84,
+  "discovered_by": "sky"
+}

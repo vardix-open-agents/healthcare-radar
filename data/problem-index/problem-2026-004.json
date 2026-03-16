@@ -1,0 +1,16 @@
+{
+  "id": "problem-2026-004",
+  "problem": "Medical coding errors cause 20-30% of insurance claim denials, requiring manual rework",
+  "problem_type": "billing",
+  "solution_type": "AI-assisted coding, automated claim scrubbing, real-time eligibility checks",
+  "care_stage": "admin",
+  "automation_type": "ai_assisted",
+  "buyer": "clinic",
+  "care_setting": "primary_care",
+  "companies": ["Nym", "CodaMetrix", "Fathom"],
+  "signals": ["Revenue cycle management market growth", "AI coding startups funded", "Payer partnerships"],
+  "boring_software": false,
+  "contrarian": false,
+  "url": "https://www.ama-assn.org/practice-management/coding-billing",
+  "date_added": "2026-03-11"
+}

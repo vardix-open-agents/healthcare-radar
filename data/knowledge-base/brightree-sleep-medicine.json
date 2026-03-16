@@ -1,0 +1,14 @@
+{
+  "company": "Brightree",
+  "country": "US",
+  "problem": "Sleep clinics and HME/DME providers struggle with workflow management, billing, and patient engagement for CPAP therapy",
+  "solution": "Comprehensive HME/DME practice management software including sleep clinic workflow automation, CPAP resupply management, and billing integration for sleep medicine providers",
+  "problem_type": "sleep_medicine",
+  "solution_type": "SaaS",
+  "buyer": "clinics",
+  "varden_fit": "high",
+  "url": "https://www.brightree.com",
+  "source": "web",
+  "discovery_round": 104,
+  "discovered_by": "nova"
+}

@@ -1,0 +1,14 @@
+{
+  "company": "ezyVet",
+  "country": "NZ",
+  "problem": "Veterinary practices need to manage complex workflows across appointments, patient records, billing, inventory, and client communication with legacy on-premise systems that limit accessibility and require server maintenance",
+  "solution": "Cloud-based veterinary practice management software that automates manual processes, provides anywhere access from any device, offers extensive partner integrations, and delivers top-rated functionality for streamlining clinic operations",
+  "problem_type": "veterinary",
+  "solution_type": "SaaS",
+  "buyer": "vet_clinics",
+  "varden_fit": "low",
+  "url": "https://www.ezyvet.com",
+  "source": "web",
+  "discovery_round": 102,
+  "discovered_by": "nova"
+}

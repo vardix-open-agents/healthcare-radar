@@ -1,0 +1,33 @@
+{
+  "id": "tebra-2026-079",
+  "title": "Tebra - All-in-One EHR+ Platform with Real-Time Eligibility",
+  "company": "Tebra (formerly Kareo + PatientPop)",
+  "country": "US",
+  "region": "US",
+  "segment": "admin",
+  "problem": "Private practices need integrated EHR, billing, scheduling, and marketing tools. Disconnected systems create inefficiencies and revenue leakage.",
+  "solution": "EHR+ platform combining clinical, billing, scheduling, and marketing. Real-time insurance eligibility verification, claims management, AI Note Assist for clinical documentation. One platform for entire practice.",
+  "technology": "Cloud-based EHR, AI Note Assist, real-time eligibility APIs, claims processing",
+  "target_customer": "Private practices, independent providers",
+  "care_setting": "primary_care",
+  "care_domain": "general",
+  "care_stage": "admin",
+  "automation_level": "partial",
+  "ai_type": "AI for clinical notes, eligibility automation",
+  "traction_signals": [
+    "Combined Kareo + PatientPop",
+    "Real-time eligibility built into workflow",
+    "Strong customer testimonials",
+    "Integrated billing and claims"
+  ],
+  "funding": "Private company",
+  "regulatory_notes": "HIPAA compliant, cloud-based",
+  "varden_fit": "HIGH — Tebra proves integrated EHR + eligibility + billing works for private practices. European clinics need similar integrated tools.",
+  "source": "Web research",
+  "url": "https://www.tebra.com",
+  "date_added": "2026-03-11",
+  "problem_type": "eligibility",
+  "contrarian": true,
+  "boring_software": true,
+  "notes": "CONTRARIAN: Practice management software is crowded but essential. Real-time eligibility embedded in workflow is the key differentiator."
+}

@@ -1,0 +1,27 @@
+{
+  "company": "Eczane (Turkish Pharmacy Platform)",
+  "country": "Turkey",
+  "founded_year": 2018,
+  "category": "Pharmacy Tech",
+  "subsector": "Pharmacy Management & E-prescription",
+  "description": "Turkish startup providing digital pharmacy management and e-prescription platform. Connects pharmacies with patients and healthcare providers across Turkey.",
+  "business_model": "B2B - SaaS to pharmacies; marketplace for patients",
+  "target_market": "Turkish pharmacies and patients",
+  "funding_stage": "Seed",
+  "funding_amount_usd": 2000000,
+  "key_investors": "Turkish VCs, Earlybird Digital East Fund",
+  "employees": 35,
+  "customers": "2000+ pharmacies",
+  "revenue_usd": 1500000,
+  "tech_stack": ["Web platform", "Mobile app", "E-prescription integration"],
+  "integration_points": ["Turkish SGK (social security)", "Hospital systems", "Doctor platforms"],
+  "competitive_advantage": "Early mover in Turkish e-prescription, growing pharmacy network",
+  "varden_fit": {
+    "threat_level": "low",
+    "opportunity": "monitor",
+    "rationale": "Pharmacy infrastructure in Turkey - potential integration point if expanding to Turkey"
+  },
+  "data_quality": "low",
+  "sources": ["linkedin.com", "startup databases"],
+  "last_updated": "2026-03-11"
+}

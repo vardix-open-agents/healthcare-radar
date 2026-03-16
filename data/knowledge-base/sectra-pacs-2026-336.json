@@ -1,0 +1,22 @@
+{
+  "id": "sectra-pacs-2026-336",
+  "title": "Sectra - Medical Imaging IT",
+  "company": "Sectra",
+  "country": "Sweden",
+  "segment": "infrastructure",
+  "problem": "European health systems need scalable, secure enterprise imaging platforms",
+  "solution": "Sectra PACS and enterprise imaging platform with strong security and efficiency",
+  "technology": "Enterprise PACS, VNA, radiology workflow, multi-modality support",
+  "target_customer": "European health systems, NHS, academic centers",
+  "care_setting": "hospital",
+  "care_domain": "diagnostics",
+  "care_stage": "diagnosis",
+  "automation_level": "partial",
+  "ai_type": null,
+  "traction_signals": ["Strong EU presence", "NHS contracts", "Growing US market"],
+  "funding": "Public (STO: SECT-B)",
+  "regulatory_notes": "FDA 510(k), CE marked, ISO 27001",
+  "source": "sky-round18-diagnostics",
+  "url": "https://www.sectra.com",
+  "date_added": "2026-03-11"
+}

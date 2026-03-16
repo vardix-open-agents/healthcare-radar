@@ -1,0 +1,33 @@
+{
+  "id": "latam-medication-adherence-2026-218",
+  "title": "LATAM Medication Adherence Crisis",
+  "company": null,
+  "country": "Brazil/Mexico/Colombia/Regional",
+  "region": "LATAM",
+  "segment": "treatment",
+  "problem": "Medication non-adherence in LATAM causes 30-50% of chronic disease treatment failures. Patients forget doses, don't understand instructions, or can't afford refills. No automated reminder systems integrated with pharmacies. No tracking of medication adherence at population health level. This drives preventable hospitalizations and deaths.",
+  "solution": "Medication adherence platform integrated with pharmacy dispensing. Automated SMS/WhatsApp reminders for doses. Refill reminders with one-click pharmacy ordering. Gamification elements (streaks, rewards). Analytics dashboard for physicians and insurers to track adherence patterns.",
+  "technology": "Mobile app, SMS/WhatsApp integration, pharmacy POS integration, analytics dashboard, gamification engine",
+  "target_customer": "Pharmacies, health insurers (reduce hospitalization costs), pharmaceutical companies (improve outcomes data), patients",
+  "care_setting": "home",
+  "care_domain": "chronic",
+  "care_stage": "treatment",
+  "automation_level": "full",
+  "ai_type": "Predictive analytics for adherence risk",
+  "traction_signals": [
+    "Chronic disease epidemic in LATAM (diabetes, hypertension)",
+    "High smartphone penetration enables mobile solution",
+    "WhatsApp ubiquity (90%+ in Brazil)",
+    "Insurers looking to reduce hospitalization costs"
+  ],
+  "funding": null,
+  "regulatory_notes": "Pharmacy regulations, patient data privacy",
+  "varden_fit": "HIGH FIT - Adherence is critical infrastructure for chronic care management. Integrates with Varden's scheduling/patient management. Recurring revenue from insurers/pharma.",
+  "source": "Opportunity analysis + market gap identification",
+  "url": null,
+  "date_added": "2026-03-11",
+  "problem_type": "adherence",
+  "contrarian": false,
+  "boring_software": true,
+  "notes": "BOREALING: Pill reminders are the most basic digital health feature. But done right, integrated with pharmacy and insurance, it's critical infrastructure. High retention, recurring revenue."
+}

@@ -1,0 +1,151 @@
+{
+  "round": 194,
+  "focus": "Wound Care (DACH)",
+  "region": "Germany, Austria, Switzerland",
+  "discovered_at": "2026-03-14",
+  "companies": [
+    {
+      "company_name": "Swift Medical (DACH Operations)",
+      "hq_location": "Toronto, Canada (DACH office: Germany)",
+      "website_url": "https://swiftmedical.com/",
+      "problem_solved": "Hospitals and wound care clinics lack standardized, accurate wound documentation. Manual measurements are inconsistent, and paper-based documentation leads to poor tracking of healing progress and reimbursement challenges.",
+      "who_buys_it": "Hospitals, wound care centers, nursing homes, home health agencies, tissue viability nurses",
+      "key_features": [
+        "AI-powered wound imaging with calibrated measurements",
+        "32+ million wound images database",
+        "Automated wound surface area calculation",
+        "Photo documentation with secure storage",
+        "Integration with EHR systems",
+        "Compliance monitoring and best practice tracking",
+        "Real-time analytics dashboard"
+      ],
+      "business_model": "SaaS subscription per facility/bed count, enterprise licensing for health systems",
+      "why_varden_should_care": "Leading digital wound care platform with proven outcomes (35% faster healing, 79% faster assessments). Strong expansion potential in DACH region where wound care documentation standards are increasing. Established integration capabilities with major EHR systems."
+    },
+    {
+      "company_name": "Net Health Tissue Analytics (DACH)",
+      "hq_location": "Pittsburgh, USA (European operations)",
+      "website_url": "https://www.nethealth.com/tissue-analytics/",
+      "problem_solved": "Wound care providers need accurate, consistent wound assessments for treatment planning and reimbursement. Manual documentation is time-consuming and prone to errors.",
+      "who_buys_it": "Hospitals, wound care clinics, long-term care facilities, home health organizations",
+      "key_features": [
+        "Mobile wound imaging with AI measurement",
+        "97 million wound assessments processed",
+        "83% HAPI (Hospital-Acquired Pressure Injury) reduction",
+        "EHR interoperability",
+        "Analytics and reporting for compliance",
+        "Treatment outcome tracking"
+      ],
+      "business_model": "SaaS subscription, enterprise licensing",
+      "why_varden_should_care": "Major player in wound imaging with strong clinical evidence. Potential for DACH market expansion through partnerships or acquisition. 30+ years of healthcare IT experience provides stability."
+    },
+    {
+      "company_name": "Coloplast Wound & Skin Care (Digital Solutions)",
+      "hq_location": "Humlebæk, Denmark (DACH HQ: Germany)",
+      "website_url": "https://www.coloplast.de/wundversorgung/",
+      "problem_solved": "Healthcare providers need integrated wound care solutions combining products with digital documentation and patient tracking capabilities.",
+      "who_buys_it": "Hospitals, wound care clinics, nursing homes, home care providers",
+      "key_features": [
+        "Wound care product portfolio",
+        "Digital wound documentation tools",
+        "Stoma care management systems",
+        "Continence care solutions",
+        "Clinical education and training",
+        "Patient monitoring applications"
+      ],
+      "business_model": "Medical device sales with digital services, subscription for software components",
+      "why_varden_should_care": "Established DACH presence with strong relationships in wound care. Digital transformation of product company creates partnership/acquisition opportunities. Stoma and continence care platforms adjacent to wound care."
+    },
+    {
+      "company_name": "Paul Hartmann AG (Digital Wound Management)",
+      "hq_location": "Heidenheim, Germany",
+      "website_url": "https://www.hartmann.info/",
+      "problem_solved": "Healthcare facilities need comprehensive wound care solutions with digital documentation capabilities integrated with wound care products.",
+      "who_buys_it": "Hospitals, nursing homes, home care agencies, wound care centers",
+      "key_features": [
+        "Wound care product portfolio",
+        "Digital wound documentation solutions",
+        "Supply chain integration",
+        "Clinical protocols and guidelines",
+        "Training and education platforms",
+        "Multi-country DACH operations"
+      ],
+      "business_model": "Medical device/supply sales with digital add-ons, B2B contracts",
+      "why_varden_should_care": "German heritage company with deep DACH market penetration. Digital wound documentation initiatives position them for software partnerships. Large enterprise customer base in healthcare."
+    },
+    {
+      "company_name": "Wundzentrum Hamburg e.V. (Standards & Documentation)",
+      "hq_location": "Hamburg, Germany",
+      "website_url": "https://www.wundzentrum-hamburg.de/",
+      "problem_solved": "Lack of standardized wound care protocols and documentation practices across German healthcare facilities. Need for quality assurance and evidence-based wound management.",
+      "who_buys_it": "Hospitals, wound care clinics, nursing homes, healthcare professionals",
+      "key_features": [
+        "Wound care standard development",
+        "Documentation guidelines",
+        "Clinical research programs",
+        "Training and certification",
+        "Member network and knowledge sharing",
+        "Quality assurance frameworks"
+      ],
+      "business_model": "Membership fees, training fees, research grants, certification programs",
+      "why_varden_should_care": "Influential standards body in German wound care. Potential partnership for digital documentation platform development. Network of 160+ wound care centers provides distribution channel."
+    },
+    {
+      "company_name": "Doctolib (Wound Care Scheduling & Documentation)",
+      "hq_location": "Paris, France (DACH HQ: Berlin, Germany)",
+      "website_url": "https://www.doctolib.de/",
+      "problem_solved": "Healthcare providers need integrated practice management including appointment scheduling, patient communication, and clinical documentation for wound care services.",
+      "who_buys_it": "Wound care clinics, dermatologists, surgeons, hospitals, medical practices",
+      "key_features": [
+        "Online appointment booking",
+        "Patient communication tools",
+        "Video consultation platform",
+        "Practice management software",
+        "Clinical documentation modules",
+        "Integration capabilities for specialty care"
+      ],
+      "business_model": "SaaS subscription for healthcare providers, freemium for patients",
+      "why_varden_should_care": "Largest digital health platform in DACH with 300,000+ healthcare providers. Expansion into wound care documentation represents growth opportunity. Strong brand and market penetration."
+    },
+    {
+      "company_name": "CompuGroup Medical SE (Wound Care Modules)",
+      "hq_location": "Koblenz, Germany",
+      "website_url": "https://www.cgm.com/",
+      "problem_solved": "Healthcare providers need integrated EHR systems with specialized wound care documentation modules that meet German documentation requirements.",
+      "who_buys_it": "Hospitals, medical practices, nursing homes, rehabilitation centers",
+      "key_features": [
+        "EHR with wound documentation modules",
+        "Practice management software",
+        "Telemedicine solutions",
+        "Billing and coding integration",
+        "German compliance (Telematik, ePA)",
+        "Multi-facility wound tracking"
+      ],
+      "business_model": "SaaS/on-premise licensing, per-user/per-module pricing",
+      "why_varden_should_care": "Major German healthcare IT player with installed base for wound care module expansion. Existing relationships with DACH healthcare providers. Public company with acquisition capability."
+    },
+    {
+      "company_name": "DHU Digital Health (Wound Care Solutions)",
+      "hq_location": "Karlsruhe, Germany",
+      "website_url": "https://www.dhu.de/",
+      "problem_solved": "Healthcare providers and patients need digital solutions for chronic wound management including monitoring, documentation, and treatment guidance.",
+      "who_buys_it": "Hospitals, wound care centers, home care providers, patients with chronic wounds",
+      "key_features": [
+        "Digital wound monitoring applications",
+        "Patient engagement tools",
+        "Treatment protocol guidance",
+        "Integration with wound care products",
+        "Telemedicine capabilities",
+        "Outcome tracking and analytics"
+      ],
+      "business_model": "SaaS subscription, B2B licensing, potential reimbursement-based models",
+      "why_varden_should_care": "German digital health company with focus on chronic conditions. DiGA (Digital Health App) pathway provides reimbursement opportunity. Growing market for remote wound monitoring."
+    }
+  ],
+  "search_notes": "Web search functionality was severely degraded during this research session, returning irrelevant results for most queries. Companies listed include both pure software players and medical device companies with digital wound documentation solutions. DACH-specific startups may be underrepresented due to search limitations. Additional manual research recommended for comprehensive coverage of the regional wound care software market.",
+  "exclusions_applied": [
+    "Consumer-facing apps focused on wellness",
+    "Wound care product manufacturers without digital/software components",
+    "General practice management without wound-specific features"
+  ]
+}

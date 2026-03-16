@@ -1,0 +1,28 @@
+{
+  "company": "Commure (USA)",
+  "country": "United States",
+  "founded_year": 2017,
+  "category": "Healthcare Infrastructure",
+  "subsector": "Healthcare Integration Platform",
+  "description": "Healthcare integration platform connecting healthcare IT systems. Provides FHIR-based APIs and integration tools to connect EHRs, practice management, and other health IT systems. Focus on data interoperability.",
+  "business_model": "B2B - Integration platform to healthcare organizations and vendors",
+  "target_market": "Health systems, healthcare IT vendors",
+  "funding_stage": "Series B",
+  "funding_amount_usd": 200000000,
+  "key_investors": "General Catalyst, Thrive Capital, others",
+  "employees": "100+",
+  "customers": "Health systems, healthcare IT vendors",
+  "revenue_usd": null,
+  "tech_stack": ["FHIR APIs", "Integration engine", "Data transformation", "Analytics", "Developer tools"],
+  "integration_points": ["All major EHRs", "Practice management", "Payer systems"],
+  "competitive_advantage": "General Catalyst backed, strong technical team, FHIR-native",
+  "boring_software": true,
+  "varden_fit": {
+    "threat_level": "low",
+    "opportunity": "benchmark",
+    "rationale": "Integration infrastructure - similar to Leyr, validates healthcare API market"
+  },
+  "data_quality": "high",
+  "sources": ["commure.com", "crunchbase.com"],
+  "last_updated": "2026-03-11"
+}

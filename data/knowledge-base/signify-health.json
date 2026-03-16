@@ -1,0 +1,14 @@
+{
+  "company": "Signify Health",
+  "country": "US",
+  "problem": "Health plans and providers struggle to identify and close gaps in care for members, particularly those who don't regularly visit healthcare facilities, leading to undiagnosed conditions and poor health outcomes",
+  "solution": "In-home health evaluation platform with 11,000+ licensed clinicians providing comprehensive health assessments, diagnostic testing, and care coordination pathways to connect patients with appropriate care and close quality care gaps",
+  "problem_type": "care_coordination",
+  "solution_type": "SaaS",
+  "buyer": "providers",
+  "varden_fit": "high",
+  "url": "https://www.signifyhealth.com",
+  "source": "web",
+  "discovery_round": 81,
+  "discovered_by": "sky"
+}

@@ -1,0 +1,14 @@
+{
+  "company": "Medtronic",
+  "country": "US",
+  "problem": "Cardiac device patients require frequent in-person follow-ups, delayed detection of device issues and cardiac events, burden on cardiology clinics for routine monitoring",
+  "solution": "CareLink remote monitoring network for pacemakers and ICDs, enabling wireless transmission of cardiac device data and continuous remote cardiac telemetry to reduce clinic visits and improve early detection of clinical events",
+  "problem_type": "remote_monitoring",
+  "solution_type": "SaaS",
+  "buyer": "providers",
+  "varden_fit": "low",
+  "url": "https://www.medtronic.com",
+  "source": "web",
+  "discovery_round": 76,
+  "discovered_by": "sky"
+}

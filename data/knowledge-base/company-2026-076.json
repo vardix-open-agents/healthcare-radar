@@ -1,0 +1,27 @@
+{
+  "company": "Kaia Health",
+  "country": "Germany",
+  "founded_year": 2016,
+  "category": "Digital Therapeutics",
+  "subsector": "MSK Pain Management",
+  "description": "Prescription digital therapeutic for musculoskeletal pain using computer vision AI for exercise coaching. FDA-cleared, available in US, UK, and Germany. Covered by major insurers.",
+  "business_model": "B2B2C - Sold to insurers and employers who offer to members/employees",
+  "target_market": "US, UK, Germany - health insurers, employers, and healthcare systems",
+  "funding_stage": "Series C",
+  "funding_amount_usd": 125000000,
+  "key_investors": "Optum Ventures, Balderton Capital, IDInvest, 3VC",
+  "employees": 200,
+  "customers": "60+ payer contracts, 500000+ users",
+  "revenue_usd": 25000000,
+  "tech_stack": ["Mobile app", "Computer vision AI", "Motion tracking", "Clinical content"],
+  "integration_points": ["Insurer platforms", "Employer benefits", "EMR systems"],
+  "competitive_advantage": "FDA clearance, clinical evidence, computer vision technology, payer partnerships",
+  "varden_fit": {
+    "threat_level": "low",
+    "opportunity": "partner",
+    "rationale": "Complementary to occupational health - MSK is major cause of sick leave"
+  },
+  "data_quality": "high",
+  "sources": ["kaiahealth.com", "crunchbase.com"],
+  "last_updated": "2026-03-11"
+}

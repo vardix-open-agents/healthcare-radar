@@ -1,0 +1,14 @@
+{
+  "company": "Chartis",
+  "country": "US",
+  "problem": "Health systems face complex challenges in clinical, financial, digital, and strategic transformation, requiring expert guidance and analytics to improve healthcare delivery and operational performance.",
+  "solution": "Chartis provides healthcare advisory services and analytics, serving 1,900+ organizations annually with solutions spanning clinical transformation, financial optimization, EHR optimization, payer strategy, and digital transformation, delivering measurable outcomes like reduced diagnosis times and $100M+ savings in integration initiatives.",
+  "problem_type": "analytics",
+  "solution_type": "SaaS",
+  "buyer": "providers",
+  "varden_fit": "medium",
+  "url": "https://chartis.com",
+  "source": "web",
+  "discovery_round": 97,
+  "discovered_by": "sky"
+}

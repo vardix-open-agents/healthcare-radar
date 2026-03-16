@@ -1,0 +1,32 @@
+{
+  "id": "soharhealth-2026-086",
+  "title": "Sohar Health - Insurance Eligibility Verification API",
+  "company": "Sohar Health",
+  "country": "US",
+  "region": "US",
+  "segment": "admin",
+  "problem": "Healthcare providers and digital health companies need reliable, real-time insurance eligibility verification through APIs.",
+  "solution": "API-first insurance eligibility verification platform. Real-time coverage checks, benefits verification, and payer connectivity. Developer-friendly APIs for integration into digital health applications.",
+  "technology": "API platform, X12 270/271 transactions, real-time payer connectivity",
+  "target_customer": "Digital health companies, telehealth platforms, healthcare providers",
+  "care_setting": "all",
+  "care_domain": "general",
+  "care_stage": "admin",
+  "automation_level": "full",
+  "ai_type": null,
+  "traction_signals": [
+    "API-first approach for digital health",
+    "Real-time eligibility verification",
+    "Multiple payer connections"
+  ],
+  "funding": "Early stage startup",
+  "regulatory_notes": "HIPAA compliant",
+  "varden_fit": "HIGH — Sohar Health's API-first approach is exactly what European digital health companies need for eligibility verification.",
+  "source": "Web research",
+  "url": "https://www.soharhealth.com",
+  "date_added": "2026-03-11",
+  "problem_type": "eligibility",
+  "contrarian": true,
+  "boring_software": true,
+  "notes": "CONTRARIAN: API-first eligibility verification is the modern approach. European digital health platforms lack reliable eligibility APIs."
+}

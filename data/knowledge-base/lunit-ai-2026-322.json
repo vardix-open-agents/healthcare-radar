@@ -1,0 +1,22 @@
+{
+  "id": "lunit-ai-2026-322",
+  "title": "Lunit - Cancer Detection AI",
+  "company": "Lunit",
+  "country": "South Korea",
+  "segment": "diagnostics",
+  "problem": "Early cancer detection limited by radiologist workload and human error",
+  "solution": "AI algorithms for detecting lung cancer, breast cancer, and other malignancies in imaging",
+  "technology": "Deep learning, object detection, clinical decision support",
+  "target_customer": "Hospitals, cancer centers, screening programs",
+  "care_setting": "hospital",
+  "care_domain": "diagnostics",
+  "care_stage": "screening",
+  "automation_level": "full",
+  "ai_type": "computer vision",
+  "traction_signals": ["FDA cleared", "Deployed in 40+ countries", "Strong clinical data"],
+  "funding": "Series D (pre-IPO)",
+  "regulatory_notes": "FDA 510(k), CE marked",
+  "source": "sky-round18-diagnostics",
+  "url": "https://www.lunit.io",
+  "date_added": "2026-03-11"
+}

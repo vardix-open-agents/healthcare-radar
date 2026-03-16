@@ -1,0 +1,30 @@
+{
+  "id": "brainplus-2026-025",
+  "title": "Brain+ - Digital Cognitive Therapy Platform",
+  "company": "Brain+",
+  "country": "Denmark",
+  "region": "Nordics",
+  "segment": "treatment",
+  "problem": "Cognitive rehabilitation for dementia and brain injury is limited, expensive, and requires in-person therapy sessions that many patients cannot access.",
+  "solution": "Digital cognitive training platform using gamified exercises and AI personalization. Includes Ayla assistant for cognitive stimulation therapy.",
+  "technology": "Gamification, AI personalization, speech recognition",
+  "target_customer": "Dementia care providers, rehabilitation clinics, home care",
+  "care_setting": "home",
+  "care_domain": "neurology, dementia care",
+  "care_stage": "treatment",
+  "automation_level": "partial",
+  "ai_type": "NLP, personalization",
+  "traction_signals": [
+    "Founded 2012, Copenhagen-based",
+    "Ayla CST Assistant launched 2024",
+    "Deployed in Denmark and UK",
+    "Listed on Spotlight Stock Market"
+  ],
+  "funding": "Public (Spotlight Stock Market)",
+  "regulatory_notes": "Medical device classification for therapeutic claims.",
+  "varden_fit": "Low — specialized cognitive therapy, not primary care infrastructure. Interesting DTx example.",
+  "source": "Nordic health tech report",
+  "url": "https://www.brain-plus.com",
+  "date_added": "2026-03-11",
+  "notes": "Danish DTx for cognitive health. Public company."
+}

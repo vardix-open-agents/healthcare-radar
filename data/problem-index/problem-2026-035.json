@@ -1,0 +1,16 @@
+{
+  "id": "problem-2026-035",
+  "problem": "Taiwanese patients with chronic conditions visit 5+ specialists with no care coordination",
+  "problem_type": "coordination",
+  "solution_type": "Care coordination platforms, shared care plans, multidisciplinary team tools",
+  "care_stage": "treatment",
+  "automation_type": "workflow_automation",
+  "buyer": "health_system",
+  "care_setting": "specialty",
+  "companies": ["NHI Administration", "Hospital alliances", "Care management startups"],
+  "signals": ["Taiwan NHI cost pressures", "Integrated delivery systems", "Value-based care pilots"],
+  "boring_software": true,
+  "contrarian": false,
+  "url": "https://www.nhi.gov.tw",
+  "date_added": "2026-03-11"
+}

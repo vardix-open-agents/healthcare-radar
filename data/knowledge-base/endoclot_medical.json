@@ -1,0 +1,14 @@
+{
+  "company": "EndoClot Medical",
+  "country": "DE",
+  "problem": "During GI endoscopic procedures, managing bleeding and achieving hemostasis is critical. Clinicians need efficient tools and software to track procedural outcomes and manage complex GI interventions.",
+  "solution": "EndoClot provides hemostasis products and procedural management solutions for gastroenterology. Their portfolio includes devices for GI bleeding management and software tools for tracking endoscopic procedure outcomes, colonoscopy surveillance, and quality metrics in GI endoscopy units.",
+  "problem_type": "gastroenterology",
+  "solution_type": "SaaS",
+  "buyer": "clinics",
+  "varden_fit": "low",
+  "url": "https://www.endoclot.com",
+  "source": "web",
+  "discovery_round": 113,
+  "discovered_by": "sky"
+}

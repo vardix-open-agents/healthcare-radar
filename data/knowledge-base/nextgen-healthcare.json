@@ -1,0 +1,14 @@
+{
+  "company": "NextGen Healthcare",
+  "country": "US",
+  "problem": "Specialty practices need EHR systems with specialty-specific workflows, AI-powered documentation, and integrated practice management",
+  "solution": "Cloud-based EHR and practice management platform with AI-powered ambient listening for SOAP notes, specialty clinical content for 26 specialties, patient engagement, and analytics",
+  "problem_type": "primary_care",
+  "solution_type": "SaaS",
+  "buyer": "health_system",
+  "varden_fit": "high",
+  "url": "https://www.nextgen.com",
+  "source": "web",
+  "discovery_round": 125,
+  "discovered_by": "sky"
+}

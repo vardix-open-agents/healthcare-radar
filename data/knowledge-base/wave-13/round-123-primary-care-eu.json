@@ -1,0 +1,114 @@
+[
+  {
+    "company_name": "EMIS Health (Optum)",
+    "hq_location": "Leeds, United Kingdom",
+    "website": "https://www.emishealth.com/",
+    "problem_solved": "Provides comprehensive GP practice management and clinical IT systems for primary care. Enables integrated care across the NHS through electronic health records and data analytics.",
+    "who_buys": "GP practices, primary care networks (PCNs), community pharmacies, hospitals, and NHS trusts",
+    "key_features": [
+      "EMIS Web - cloud-based clinical system with EHR, appointments, and prescribing",
+      "Population health management and analytics for proactive care",
+      "Interoperability across primary, community, and secondary care settings"
+    ],
+    "business_model": "SaaS subscription model with per-practice/per-user licensing; acquired by Optum (UnitedHealth) in 2023",
+    "why_varden_should_care": "Deep NHS integration creates high switching costs. Model of combining clinical workflows with analytics is replicable in fragmented markets. Proven path from practice management to population health platform."
+  },
+  {
+    "company_name": "TPP (SystmOne)",
+    "hq_location": "Leeds, United Kingdom",
+    "website": "https://tpp-uk.com/",
+    "problem_solved": "Provides a unified clinical system (SystmOne) that makes electronic health records securely available across the NHS. Connects care across 25+ settings from GP practices to hospitals.",
+    "who_buys": "GP practices, NHS organizations, community care providers, hospitals, and specialist clinics",
+    "key_features": [
+      "SystmOne - single database EHR with 61 million patient records",
+      "Shared care records accessible across 7,800+ NHS organizations",
+      "Patient-facing app for appointment booking and health records access"
+    ],
+    "business_model": "SaaS/subscription model with centralized database architecture; per-organization licensing",
+    "why_varden_should_care": "Single-database architecture demonstrates scalability and data consistency advantages. Proves that 'boring' EHR infrastructure can capture massive market share through simplicity and integration."
+  },
+  {
+    "company_name": "Kry",
+    "hq_location": "Stockholm, Sweden",
+    "website": "https://www.kry.se/",
+    "problem_solved": "Provides digital-first primary care through video consultations, chat, and physical clinics. Reduces barriers to accessing GP care and decreases pressure on emergency services.",
+    "who_buys": "Individual patients (B2C via regional healthcare subsidies), regional health authorities, employers (B2B occupational health)",
+    "key_features": [
+      "24/7 digital consultations via app with doctors, psychologists, and nurses",
+      "Hybrid model with 34+ physical clinics across Sweden",
+      "Integrated care from digital triage to in-person visits and specialist referrals"
+    ],
+    "business_model": "Hybrid B2C (patient fees subsidized by regional healthcare) and B2B (employer contracts); SaaS platform for care delivery",
+    "why_varden_should_care": "Digital-first approach to primary care reduces overhead and increases accessibility. Hybrid model proves telemedicine alone isn't enough - physical presence matters. Strong replicability in regions with healthcare access challenges."
+  },
+  {
+    "company_name": "Cegedim",
+    "hq_location": "Boulogne-Billancourt, France",
+    "website": "https://www.cegedim.com/",
+    "problem_solved": "Provides healthcare IT solutions, practice management software, and data services for healthcare professionals, insurers, and life sciences companies across Europe.",
+    "who_buys": "Pharmacies, GP practices, specialists, health insurance companies, pharmaceutical companies, and healthcare administrators",
+    "key_features": [
+      "Practice management and dispensing software for pharmacies and clinics",
+      "Healthcare data and analytics platform for life sciences and insurers",
+      "Claims processing and dematerialized exchange services"
+    ],
+    "business_model": "SaaS and transaction-based model; software licensing, data services, and BPO for healthcare payers and providers",
+    "why_varden_should_care": "Multi-stakeholder approach creates network effects across providers, payers, and pharma. Proves that healthcare data platforms can serve multiple customer segments. 50+ years of experience shows sustainability of boring infrastructure plays."
+  },
+  {
+    "company_name": "CompuGroup Medical (CGM)",
+    "hq_location": "Koblenz, Germany (with major operations in Stockholm, Sweden)",
+    "website": "https://www.cgm.com/",
+    "problem_solved": "Provides comprehensive medical practice management systems and e-health solutions for healthcare providers across Europe. Enables secure, connected care through digital health records.",
+    "who_buys": "GP practices, specialist clinics, corporate health services, pediatric care, laboratories, schools, and home healthcare providers",
+    "key_features": [
+      "CGM J4 - comprehensive journal/EHR system with 85,000+ users in Sweden",
+      "Telemedicine and video consultation platform (CGM Video)",
+      "Integration with regional and national health information exchanges"
+    ],
+    "business_model": "SaaS subscription model with per-organization licensing; 40+ years experience in healthcare IT",
+    "why_varden_should_care": "Demonstrates successful cross-border expansion (German HQ, Swedish stronghold). Shows that long-term relationships with healthcare systems create defensible positions. Focus on making 'health information available when needed' is core infrastructure thesis."
+  },
+  {
+    "company_name": "Medgate",
+    "hq_location": "Basel, Switzerland",
+    "website": "https://www.medgate.ch/",
+    "problem_solved": "Provides 24/7 telemedicine services and digital health platform for Swiss residents. Reduces unnecessary emergency visits and improves healthcare accessibility through digital-first triage and treatment.",
+    "who_buys": "Health insurance companies (white-label solutions), individual patients (covered by mandatory Swiss health insurance), employers (occupational health)",
+    "key_features": [
+      "24/7 telemedicine consultations via phone, video, and chat with 160+ physicians",
+      "Symptom checker and digital triage in mobile app",
+      "Integration with 3,800+ specialist network for referrals and physical care"
+    ],
+    "business_model": "B2B2C through insurance partnerships and direct patient billing via Swiss health insurance; per-consultation fees covered by basic insurance",
+    "why_varden_should_care": "Insurance-integrated model creates sustainable revenue and reduces patient cost barriers. Proves telemedicine can handle emergencies (Kids Line) and reduce ED burden. High patient satisfaction (95%) shows quality doesn't require physical presence."
+  },
+  {
+    "company_name": "Docplanner Group",
+    "hq_location": "Warsaw, Poland",
+    "website": "https://www.docplanner.com/",
+    "problem_solved": "Provides patient acquisition and practice management software for healthcare providers. Connects patients with doctors and helps clinics manage appointments, reduce no-shows, and build online reputation.",
+    "who_buys": "Individual doctors, multi-specialty clinics, and healthcare systems across 13 countries",
+    "key_features": [
+      "Patient booking platform with 25M+ monthly appointments across 13 countries",
+      "Practice management software with scheduling, patient CRM, and analytics",
+      "Doctor review and reputation management system"
+    ],
+    "business_model": "Marketplace model (freemium for doctors) + SaaS subscription for practice management tools; operates country-specific brands (Znanylekarz.pl, Doctoralia, MioDottore, etc.)",
+    "why_varden_should_care": "Platform approach combines patient acquisition (marketplace) with retention tools (practice management). Multi-brand, multi-country strategy shows how to scale across fragmented European markets. 300K active doctors demonstrates network effect potential."
+  },
+  {
+    "company_name": "Push Doctor (Square Health)",
+    "hq_location": "Manchester, United Kingdom",
+    "website": "https://www.pushdoctor.co.uk/",
+    "problem_solved": "Provides video consultation platform connecting patients with UK-registered GPs. Enables quick access to primary care consultations and prescriptions without visiting a physical practice.",
+    "who_buys": "NHS patients (through GP practice partnerships), private patients (self-pay), and employers (occupational health services)",
+    "key_features": [
+      "Video consultations with UK GPs via smartphone app",
+      "Digital prescription services and referrals",
+      "Integration with NHS GP practices for registered patients"
+    ],
+    "business_model": "B2B2C (NHS partnerships) and B2C (private pay) model; acquired by Square Health for corporate health services",
+    "why_varden_should_care": "Early mover in UK telemedicine shows both opportunities and challenges of digital-first GP models. NHS integration demonstrates path to scale in public healthcare systems. Pivot to corporate/B2B shows business model evolution in response to market dynamics."
+  }
+]

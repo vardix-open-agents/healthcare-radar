@@ -1,0 +1,29 @@
+{
+  "id": "valley-2026-026",
+  "title": "Valley - Digital Health Practice Management for Specialists",
+  "company": "Valley",
+  "country": "Sweden",
+  "region": "Nordics",
+  "segment": "admin",
+  "problem": "Specialist clinics struggle with fragmented practice management tools. Scheduling, patient communication, and clinical documentation are siloed.",
+  "solution": "Integrated practice management platform for specialist clinics including scheduling, patient portal, video consultations, and EHR integrations.",
+  "technology": "SaaS platform, video conferencing, EHR integrations",
+  "target_customer": "Specialist clinics, private healthcare providers",
+  "care_setting": "specialist",
+  "care_domain": "general",
+  "care_stage": "admin",
+  "automation_level": "partial",
+  "ai_type": null,
+  "traction_signals": [
+    "Swedish-based practice management",
+    "Focus on specialist clinics",
+    "EHR integration capabilities"
+  ],
+  "funding": null,
+  "regulatory_notes": "GDPR compliance, healthcare data security standards.",
+  "varden_fit": "High — practice management for clinics is core to Varden's ecosystem. Potential competitor or partnership opportunity.",
+  "source": "Swedish health tech knowledge",
+  "url": "https://www.valley.se",
+  "date_added": "2026-03-11",
+  "notes": "Swedish practice management. Direct overlap with Varden's value proposition."
+}

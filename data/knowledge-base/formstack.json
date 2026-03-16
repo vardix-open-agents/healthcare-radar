@@ -1,0 +1,14 @@
+{
+  "company": "Formstack",
+  "country": "US",
+  "problem": "Healthcare organizations struggle with paper-based patient onboarding workflows, manual data entry, compliance concerns, and disconnected document processes that frustrate patients and slow operations.",
+  "solution": "Digital form and document platform with healthcare-specific solutions for patient onboarding, HIPAA-compliant data collection, electronic signatures, workflow automation, and seamless patient experience across the registration process.",
+  "problem_type": "patient_intake",
+  "solution_type": "SaaS",
+  "buyer": "providers",
+  "varden_fit": "high",
+  "url": "https://www.formstack.com/solutions/patient-onboarding",
+  "source": "web",
+  "discovery_round": 88,
+  "discovered_by": "sky"
+}
