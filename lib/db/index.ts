@@ -1,5 +1,6 @@
-import { Kysely, SqliteDialect } from 'kysely';
+import { Kysely, SqliteDialect, PostgresDialect } from 'kysely';
 import BetterSqlite3 from 'better-sqlite3';
+import { Pool } from 'pg';
 import type { Database } from './schema';
 import path from 'path';
 import fs from 'fs';
@@ -12,16 +13,48 @@ if (!fs.existsSync(dbDir)) {
 
 const dbPath = process.env.DATABASE_URL || path.join(dbDir, 'radar.db');
 
-const sqliteDb = new BetterSqlite3(dbPath);
-sqliteDb.pragma('journal_mode = WAL');
+// Check if we should use PostgreSQL
+const usePostgres = !!process.env.POSTGRES_URL;
 
-export const db = new Kysely<Database>({
-  dialect: new SqliteDialect({
-    database: sqliteDb,
-  }),
-});
+let sqliteDb: BetterSqlite3.Database | null = null;
+let db: Kysely<Database>;
 
-export { sqliteDb };
+if (usePostgres) {
+  // Use PostgreSQL (Supabase)
+  let connectionString = process.env.POSTGRES_URL!;
+  
+  // Use port 6543 (transaction pooler) which works from containerized environments
+  const url = new URL(connectionString);
+  if (url.port === '6432' || !url.port) {
+    url.port = '6543';
+    connectionString = url.toString();
+  }
+  
+  db = new Kysely<Database>({
+    dialect: new PostgresDialect({
+      pool: new Pool({
+        connectionString,
+        ssl: { rejectUnauthorized: false }
+      })
+    })
+  });
+  
+  console.log('Using PostgreSQL database');
+} else {
+  // Use SQLite (local development)
+  sqliteDb = new BetterSqlite3(dbPath);
+  sqliteDb.pragma('journal_mode = WAL');
+  
+  db = new Kysely<Database>({
+    dialect: new SqliteDialect({
+      database: sqliteDb,
+    }),
+  });
+  
+  console.log('Using SQLite database');
+}
+
+export { db, sqliteDb };
 
 // Helper to close database connection
 export async function closeDb() {
