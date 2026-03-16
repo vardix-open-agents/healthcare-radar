@@ -4,7 +4,13 @@ import { db, sqliteDb } from './lib/db/index';
 async function verifyMigration() {
   console.log('🔍 Migration Verification Report\n');
   console.log('='.repeat(60));
-  
+
+  // SQLite-only verification
+  if (!sqliteDb) {
+    console.log('⚠️  SQLite database not available. Skipping verification (PostgreSQL mode).');
+    return;
+  }
+
   try {
     // 1. Basic counts
     const entriesCount = sqliteDb.prepare('SELECT COUNT(*) as count FROM entries').get() as { count: number };
