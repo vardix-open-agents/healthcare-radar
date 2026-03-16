@@ -91,11 +91,12 @@ async function migrate() {
     console.log('⚠️  SQLite database not available. Skipping migration (PostgreSQL mode).');
     return;
   }
+  const db_local = sqliteDb; // TypeScript narrowing
 
   try {
     // Step 1: Get current state
     console.log('📊 Analyzing current database...');
-    const entriesBefore = sqliteDb.prepare('SELECT COUNT(*) as count FROM entries').get() as { count: number };
+    const entriesBefore = db_local.prepare('SELECT COUNT(*) as count FROM entries').get() as { count: number };
     stats.entriesBefore = entriesBefore.count;
     console.log(`   Found ${stats.entriesBefore} entries to migrate\n`);
 
@@ -108,14 +109,14 @@ async function migrate() {
     console.log('🏗️  Creating new tables...');
 
     // Drop existing tables to ensure clean slate (they might have wrong schema)
-    sqliteDb.pragma('foreign_keys = OFF');
-    sqliteDb.exec('DROP TABLE IF EXISTS company_tags');
-    sqliteDb.exec('DROP TABLE IF EXISTS company_aliases');
-    sqliteDb.exec('DROP TABLE IF EXISTS canonical_companies');
-    sqliteDb.pragma('foreign_keys = ON');
+    db_local.pragma('foreign_keys = OFF');
+    db_local.exec('DROP TABLE IF EXISTS company_tags');
+    db_local.exec('DROP TABLE IF EXISTS company_aliases');
+    db_local.exec('DROP TABLE IF EXISTS canonical_companies');
+    db_local.pragma('foreign_keys = ON');
 
     // Canonical companies table
-    sqliteDb.exec(`
+    db_local.exec(`
       CREATE TABLE canonical_companies (
         id TEXT PRIMARY KEY,
         canonical_name TEXT NOT NULL UNIQUE,
@@ -150,7 +151,7 @@ async function migrate() {
     console.log('   ✅ canonical_companies table');
 
     // Company aliases table
-    sqliteDb.exec(`
+    db_local.exec(`
       CREATE TABLE company_aliases (
         id TEXT PRIMARY KEY,
         company_id TEXT NOT NULL,
@@ -164,7 +165,7 @@ async function migrate() {
     console.log('   ✅ company_aliases table');
 
     // Company tags table
-    sqliteDb.exec(`
+    db_local.exec(`
       CREATE TABLE company_tags (
         id TEXT PRIMARY KEY,
         company_id TEXT NOT NULL,
@@ -207,12 +208,12 @@ async function migrate() {
     ];
 
     // Get existing columns
-    const existingColumns = sqliteDb.pragma('table_info(entries)') as { name: string }[];
+    const existingColumns = db_local.pragma('table_info(entries)') as { name: string }[];
     const existingColNames = existingColumns.map(c => c.name);
 
     for (const col of newColumns) {
       if (!existingColNames.includes(col.name)) {
-        sqliteDb.exec(`ALTER TABLE entries ADD COLUMN ${col.name} ${col.def}`);
+        db_local.exec(`ALTER TABLE entries ADD COLUMN ${col.name} ${col.def}`);
       }
     }
     console.log('   ✅ Added new columns to entries table');
@@ -227,14 +228,14 @@ async function migrate() {
     ];
 
     for (const indexSql of indexes) {
-      sqliteDb.exec(indexSql);
+      db_local.exec(indexSql);
     }
     console.log('   ✅ Created indexes\n');
 
     // Step 3: Extract unique companies from entries
     console.log('🏢 Extracting unique companies...');
 
-    const entries = sqliteDb.prepare(`
+    const entries = db_local.prepare(`
       SELECT id, company, country, problem_type, care_setting, buyer, url, varden_fit, boring_software, contrarian
       FROM entries
     `).all() as Array<{
@@ -298,7 +299,7 @@ async function migrate() {
     // Step 4: Create canonical companies using prepared statements
     console.log('📝 Creating canonical companies...');
 
-    const insertCompany = sqliteDb.prepare(`
+    const insertCompany = db_local.prepare(`
       INSERT INTO canonical_companies (
         id, canonical_name, primary_domain, hq_country, countries_active,
         primary_category, secondary_categories, care_setting, buyer_type,
@@ -306,12 +307,12 @@ async function migrate() {
       ) VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?)
     `);
 
-    const insertAlias = sqliteDb.prepare(`
+    const insertAlias = db_local.prepare(`
       INSERT OR IGNORE INTO company_aliases (id, company_id, alias_name, alias_type, source, created_at)
       VALUES (?, ?, ?, ?, ?, ?)
     `);
 
-    const updateEntry = sqliteDb.prepare(`
+    const updateEntry = db_local.prepare(`
       UPDATE entries SET
         company_id = ?,
         status = ?,
@@ -324,13 +325,13 @@ async function migrate() {
       WHERE id = ?
     `);
 
-    const insertTag = sqliteDb.prepare(`
+    const insertTag = db_local.prepare(`
       INSERT INTO company_tags (id, company_id, tag_name, tag_category, created_at)
       VALUES (?, ?, ?, ?, ?)
     `);
 
     // Run everything in a transaction
-    const insertCompanies = sqliteDb.transaction((companies: typeof companyMap) => {
+    const insertCompanies = db_local.transaction((companies: typeof companyMap) => {
       for (const [normalizedName, data] of companies) {
         const companyId = generateId();
         
@@ -436,7 +437,7 @@ async function migrate() {
     // Step 5: Calculate composite scores for entries with scores
     console.log('📊 Calculating composite scores...');
     
-    const entriesWithScores = sqliteDb.prepare(`
+    const entriesWithScores = db_local.prepare(`
       SELECT id, strategic_fit_score, confidence_score
       FROM entries
       WHERE strategic_fit_score IS NOT NULL OR confidence_score IS NOT NULL
@@ -446,11 +447,11 @@ async function migrate() {
       confidence_score: number | null;
     }>;
 
-    const updateComposite = sqliteDb.prepare(`
+    const updateComposite = db_local.prepare(`
       UPDATE entries SET composite_build_score = ? WHERE id = ?
     `);
 
-    const updateComposites = sqliteDb.transaction((entries: typeof entriesWithScores) => {
+    const updateComposites = db_local.transaction((entries: typeof entriesWithScores) => {
       for (const entry of entries) {
         const composite = calculateCompositeScore({
           strategic_fit: entry.strategic_fit_score,
@@ -469,9 +470,9 @@ async function migrate() {
     // Step 6: Calculate aggregate scores for companies
     console.log('📈 Calculating company aggregate scores...');
 
-    const companies = sqliteDb.prepare('SELECT id FROM canonical_companies').all() as { id: string }[];
+    const companies = db_local.prepare('SELECT id FROM canonical_companies').all() as { id: string }[];
 
-    const updateCompanyScores = sqliteDb.prepare(`
+    const updateCompanyScores = db_local.prepare(`
       UPDATE canonical_companies SET
         avg_strategic_fit_score = ?,
         avg_confidence_score = ?,
@@ -482,9 +483,9 @@ async function migrate() {
 
     const avg = (arr: number[]) => arr.length > 0 ? arr.reduce((a, b) => a + b, 0) / arr.length : null;
 
-    const updateCompanies = sqliteDb.transaction((companyList: typeof companies) => {
+    const updateCompanies = db_local.transaction((companyList: typeof companies) => {
       for (const company of companyList) {
-        const companyEntries = sqliteDb.prepare(`
+        const companyEntries = db_local.prepare(`
           SELECT strategic_fit_score, confidence_score, composite_build_score
           FROM entries
           WHERE company_id = ?
@@ -531,11 +532,11 @@ async function migrate() {
     }
 
     // Verify final state
-    const finalCompanies = sqliteDb.prepare('SELECT COUNT(*) as count FROM canonical_companies').get() as { count: number };
-    const finalEntries = sqliteDb.prepare('SELECT COUNT(*) as count FROM entries').get() as { count: number };
-    const linkedEntries = sqliteDb.prepare("SELECT COUNT(*) as count FROM entries WHERE company_id IS NOT NULL").get() as { count: number };
-    const aliasesCount = sqliteDb.prepare('SELECT COUNT(*) as count FROM company_aliases').get() as { count: number };
-    const tagsCount = sqliteDb.prepare('SELECT COUNT(*) as count FROM company_tags').get() as { count: number };
+    const finalCompanies = db_local.prepare('SELECT COUNT(*) as count FROM canonical_companies').get() as { count: number };
+    const finalEntries = db_local.prepare('SELECT COUNT(*) as count FROM entries').get() as { count: number };
+    const linkedEntries = db_local.prepare("SELECT COUNT(*) as count FROM entries WHERE company_id IS NOT NULL").get() as { count: number };
+    const aliasesCount = db_local.prepare('SELECT COUNT(*) as count FROM company_aliases').get() as { count: number };
+    const tagsCount = db_local.prepare('SELECT COUNT(*) as count FROM company_tags').get() as { count: number };
 
     console.log('\n📊 Final database state:');
     console.log(`   Canonical companies: ${finalCompanies.count}`);
